@@ -1,0 +1,533 @@
+[
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2022-10-06T16:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60001,
+        "StartAt": "2022-09-22T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60003,
+        "EndAt": "2022-11-06T04:59:59+09:00",
+        "HomeButtonResourceId": 60003,
+        "Id": 60003,
+        "StartAt": "2022-10-06T05:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60004,
+        "EndAt": "2022-11-01T16:59:59+09:00",
+        "HomeButtonResourceId": 60004,
+        "Id": 60004,
+        "StartAt": "2022-10-27T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2022-11-13T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60005,
+        "StartAt": "2022-10-31T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2022-12-25T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60006,
+        "StartAt": "2022-12-11T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2023-01-26T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60007,
+        "StartAt": "2023-01-12T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60008,
+        "EndAt": "2023-02-19T23:59:59+09:00",
+        "HomeButtonResourceId": 60008,
+        "Id": 60008,
+        "StartAt": "2023-02-01T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60009,
+        "EndAt": "2023-02-09T16:59:59+09:00",
+        "HomeButtonResourceId": 60009,
+        "Id": 60009,
+        "StartAt": "2023-02-02T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60009,
+        "EndAt": "2023-02-22T16:59:59+09:00",
+        "HomeButtonResourceId": 60009,
+        "Id": 60010,
+        "StartAt": "2023-02-09T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60009,
+        "EndAt": "2023-02-28T23:59:59+09:00",
+        "HomeButtonResourceId": 60009,
+        "Id": 60011,
+        "StartAt": "2023-02-22T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2023-03-28T16:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60012,
+        "StartAt": "2023-03-14T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60013,
+        "EndAt": "2023-04-15T23:59:59+09:00",
+        "HomeButtonResourceId": 60013,
+        "Id": 60013,
+        "StartAt": "2023-04-13T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60014,
+        "EndAt": "2023-05-03T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60014,
+        "StartAt": "2023-04-27T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60015,
+        "EndAt": "2023-05-19T23:59:59+09:00",
+        "HomeButtonResourceId": 60013,
+        "Id": 60015,
+        "StartAt": "2023-05-15T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2023-05-31T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60016,
+        "StartAt": "2023-05-25T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2023-07-21T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60018,
+        "StartAt": "2023-07-13T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60019,
+        "EndAt": "2023-08-12T04:59:59+09:00",
+        "HomeButtonResourceId": 60019,
+        "Id": 60019,
+        "StartAt": "2023-07-20T05:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 1
+    },
+    {
+        "BannerResourceId": 60020,
+        "EndAt": "2023-08-16T23:59:59+09:00",
+        "HomeButtonResourceId": 60020,
+        "Id": 60020,
+        "StartAt": "2023-08-01T00:00:00+09:00",
+        "TransitionId": 248047,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2023-09-05T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60021,
+        "StartAt": "2023-08-28T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60022,
+        "EndAt": "2023-09-28T23:59:59+09:00",
+        "HomeButtonResourceId": 60013,
+        "Id": 60022,
+        "StartAt": "2023-09-21T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60023,
+        "EndAt": "2023-10-31T23:59:59+09:00",
+        "HomeButtonResourceId": 60013,
+        "Id": 60023,
+        "StartAt": "2023-10-12T05:00:00+09:00",
+        "TransitionId": 240071,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60025,
+        "EndAt": "2024-01-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60013,
+        "Id": 60025,
+        "StartAt": "2023-12-21T17:00:00+09:00",
+        "TransitionId": 240076,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60026,
+        "EndAt": "2024-02-11T23:59:59+09:00",
+        "HomeButtonResourceId": 60026,
+        "Id": 60026,
+        "StartAt": "2024-02-01T00:00:00+09:00",
+        "TransitionId": 240078,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-02-27T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60027,
+        "StartAt": "2024-02-19T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60028,
+        "EndAt": "2024-03-11T23:59:59+09:00",
+        "HomeButtonResourceId": 60026,
+        "Id": 60028,
+        "StartAt": "2024-03-01T00:00:00+09:00",
+        "TransitionId": 240082,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-03-31T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60029,
+        "StartAt": "2024-03-23T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60030,
+        "EndAt": "2024-05-09T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60030,
+        "StartAt": "2024-04-25T00:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-06-30T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60031,
+        "StartAt": "2024-06-20T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60032,
+        "EndAt": "2024-07-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60032,
+        "Id": 60032,
+        "StartAt": "2024-07-01T00:00:00+09:00",
+        "TransitionId": 248089,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60033,
+        "EndAt": "2024-08-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60032,
+        "Id": 60033,
+        "StartAt": "2024-08-01T00:00:00+09:00",
+        "TransitionId": 240090,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60034,
+        "EndAt": "2024-08-21T23:59:59+09:00",
+        "HomeButtonResourceId": 60032,
+        "Id": 60034,
+        "StartAt": "2024-08-12T00:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60035,
+        "EndAt": "2024-09-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60032,
+        "Id": 60035,
+        "StartAt": "2024-09-01T00:00:00+09:00",
+        "TransitionId": 240092,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-09-30T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60036,
+        "StartAt": "2024-09-19T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-10-27T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60037,
+        "StartAt": "2024-10-17T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60038,
+        "EndAt": "2024-11-30T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60038,
+        "StartAt": "2024-11-22T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2024-12-22T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60039,
+        "StartAt": "2024-12-12T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60040,
+        "EndAt": "2025-02-12T23:59:59+09:00",
+        "HomeButtonResourceId": 60040,
+        "Id": 60040,
+        "StartAt": "2025-02-01T00:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60041,
+        "EndAt": "2025-03-11T23:59:59+09:00",
+        "HomeButtonResourceId": 60040,
+        "Id": 60041,
+        "StartAt": "2025-03-01T00:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60042,
+        "EndAt": "2025-04-17T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60042,
+        "StartAt": "2025-04-03T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60043,
+        "EndAt": "2025-05-08T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60043,
+        "StartAt": "2025-04-24T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60044,
+        "EndAt": "2025-05-28T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60044,
+        "StartAt": "2025-05-15T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60045,
+        "EndAt": "2025-06-18T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60045,
+        "StartAt": "2025-06-02T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60046,
+        "EndAt": "2025-06-26T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60046,
+        "StartAt": "2025-06-20T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60047,
+        "EndAt": "2025-07-10T16:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60047,
+        "StartAt": "2025-06-27T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2025-07-28T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60048,
+        "StartAt": "2025-07-18T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60049,
+        "EndAt": "2025-07-18T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60049,
+        "StartAt": "2025-07-10T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60050,
+        "EndAt": "2025-08-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60050,
+        "Id": 60050,
+        "StartAt": "2025-08-01T17:00:00+09:00",
+        "TransitionId": 248121,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60051,
+        "EndAt": "2025-08-21T23:59:59+09:00",
+        "HomeButtonResourceId": 60050,
+        "Id": 60051,
+        "StartAt": "2025-08-12T00:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2025-10-05T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60052,
+        "StartAt": "2025-09-25T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60053,
+        "EndAt": "2025-09-25T16:59:59+09:00",
+        "HomeButtonResourceId": 60050,
+        "Id": 60053,
+        "StartAt": "2025-09-18T00:00:00+09:00",
+        "TransitionId": 240110,
+        "TransitionType": 2
+    },
+    {
+        "BannerResourceId": 60054,
+        "EndAt": "2025-12-15T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60054,
+        "StartAt": "2025-12-01T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60055,
+        "EndAt": "2026-01-11T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60055,
+        "StartAt": "2025-12-26T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60056,
+        "EndAt": "2026-01-31T23:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60056,
+        "StartAt": "2026-01-22T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60057,
+        "EndAt": "2026-02-28T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60057,
+        "StartAt": "2026-02-12T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60058,
+        "EndAt": "2026-04-13T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60058,
+        "StartAt": "2026-03-30T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60059,
+        "EndAt": "2026-03-23T23:59:59+09:00",
+        "HomeButtonResourceId": 60059,
+        "Id": 60059,
+        "StartAt": "2026-03-12T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60001,
+        "EndAt": "2026-04-22T23:59:59+09:00",
+        "HomeButtonResourceId": 60001,
+        "Id": 60060,
+        "StartAt": "2026-04-16T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60061,
+        "EndAt": "2026-05-08T04:59:59+09:00",
+        "HomeButtonResourceId": 60014,
+        "Id": 60061,
+        "StartAt": "2026-04-23T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    },
+    {
+        "BannerResourceId": 60062,
+        "EndAt": "2026-06-10T23:59:59+09:00",
+        "HomeButtonResourceId": 60062,
+        "Id": 60062,
+        "StartAt": "2026-05-21T17:00:00+09:00",
+        "TransitionId": 0,
+        "TransitionType": 0
+    }
+]

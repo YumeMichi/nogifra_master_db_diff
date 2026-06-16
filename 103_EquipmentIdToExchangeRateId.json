@@ -1,0 +1,7142 @@
+[
+    {
+        "EquipmentId": 100110340,
+        "ExchangeRateId": 10010,
+        "Id": 100101
+    },
+    {
+        "EquipmentId": 100110640,
+        "ExchangeRateId": 10010,
+        "Id": 100102
+    },
+    {
+        "EquipmentId": 100110940,
+        "ExchangeRateId": 10010,
+        "Id": 100103
+    },
+    {
+        "EquipmentId": 100111240,
+        "ExchangeRateId": 10010,
+        "Id": 100104
+    },
+    {
+        "EquipmentId": 100111350,
+        "ExchangeRateId": 10010,
+        "Id": 100105
+    },
+    {
+        "EquipmentId": 100111460,
+        "ExchangeRateId": 10010,
+        "Id": 100106
+    },
+    {
+        "EquipmentId": 100210340,
+        "ExchangeRateId": 10020,
+        "Id": 100201
+    },
+    {
+        "EquipmentId": 100210640,
+        "ExchangeRateId": 10020,
+        "Id": 100202
+    },
+    {
+        "EquipmentId": 100210940,
+        "ExchangeRateId": 10020,
+        "Id": 100203
+    },
+    {
+        "EquipmentId": 100211240,
+        "ExchangeRateId": 10020,
+        "Id": 100204
+    },
+    {
+        "EquipmentId": 100211350,
+        "ExchangeRateId": 10020,
+        "Id": 100205
+    },
+    {
+        "EquipmentId": 100211460,
+        "ExchangeRateId": 10020,
+        "Id": 100206
+    },
+    {
+        "EquipmentId": 100310340,
+        "ExchangeRateId": 10030,
+        "Id": 100301
+    },
+    {
+        "EquipmentId": 100310640,
+        "ExchangeRateId": 10030,
+        "Id": 100302
+    },
+    {
+        "EquipmentId": 100310940,
+        "ExchangeRateId": 10030,
+        "Id": 100303
+    },
+    {
+        "EquipmentId": 100311240,
+        "ExchangeRateId": 10030,
+        "Id": 100304
+    },
+    {
+        "EquipmentId": 100311350,
+        "ExchangeRateId": 10030,
+        "Id": 100305
+    },
+    {
+        "EquipmentId": 100311460,
+        "ExchangeRateId": 10030,
+        "Id": 100306
+    },
+    {
+        "EquipmentId": 101110340,
+        "ExchangeRateId": 10110,
+        "Id": 101101
+    },
+    {
+        "EquipmentId": 101110640,
+        "ExchangeRateId": 10110,
+        "Id": 101102
+    },
+    {
+        "EquipmentId": 101110940,
+        "ExchangeRateId": 10110,
+        "Id": 101103
+    },
+    {
+        "EquipmentId": 101111240,
+        "ExchangeRateId": 10110,
+        "Id": 101104
+    },
+    {
+        "EquipmentId": 101111350,
+        "ExchangeRateId": 10110,
+        "Id": 101105
+    },
+    {
+        "EquipmentId": 101111460,
+        "ExchangeRateId": 10110,
+        "Id": 101106
+    },
+    {
+        "EquipmentId": 101210340,
+        "ExchangeRateId": 10120,
+        "Id": 101201
+    },
+    {
+        "EquipmentId": 101210640,
+        "ExchangeRateId": 10120,
+        "Id": 101202
+    },
+    {
+        "EquipmentId": 101210940,
+        "ExchangeRateId": 10120,
+        "Id": 101203
+    },
+    {
+        "EquipmentId": 101211240,
+        "ExchangeRateId": 10120,
+        "Id": 101204
+    },
+    {
+        "EquipmentId": 101211350,
+        "ExchangeRateId": 10120,
+        "Id": 101205
+    },
+    {
+        "EquipmentId": 101211460,
+        "ExchangeRateId": 10120,
+        "Id": 101206
+    },
+    {
+        "EquipmentId": 101310340,
+        "ExchangeRateId": 10130,
+        "Id": 101301
+    },
+    {
+        "EquipmentId": 101310640,
+        "ExchangeRateId": 10130,
+        "Id": 101302
+    },
+    {
+        "EquipmentId": 101310940,
+        "ExchangeRateId": 10130,
+        "Id": 101303
+    },
+    {
+        "EquipmentId": 101311240,
+        "ExchangeRateId": 10130,
+        "Id": 101304
+    },
+    {
+        "EquipmentId": 101311350,
+        "ExchangeRateId": 10130,
+        "Id": 101305
+    },
+    {
+        "EquipmentId": 101311460,
+        "ExchangeRateId": 10130,
+        "Id": 101306
+    },
+    {
+        "EquipmentId": 102110340,
+        "ExchangeRateId": 10210,
+        "Id": 102101
+    },
+    {
+        "EquipmentId": 102110640,
+        "ExchangeRateId": 10210,
+        "Id": 102102
+    },
+    {
+        "EquipmentId": 102110940,
+        "ExchangeRateId": 10210,
+        "Id": 102103
+    },
+    {
+        "EquipmentId": 102111240,
+        "ExchangeRateId": 10210,
+        "Id": 102104
+    },
+    {
+        "EquipmentId": 102111350,
+        "ExchangeRateId": 10210,
+        "Id": 102105
+    },
+    {
+        "EquipmentId": 102111460,
+        "ExchangeRateId": 10210,
+        "Id": 102106
+    },
+    {
+        "EquipmentId": 102310340,
+        "ExchangeRateId": 10230,
+        "Id": 102301
+    },
+    {
+        "EquipmentId": 102310640,
+        "ExchangeRateId": 10230,
+        "Id": 102302
+    },
+    {
+        "EquipmentId": 102310940,
+        "ExchangeRateId": 10230,
+        "Id": 102303
+    },
+    {
+        "EquipmentId": 102311240,
+        "ExchangeRateId": 10230,
+        "Id": 102304
+    },
+    {
+        "EquipmentId": 102311350,
+        "ExchangeRateId": 10230,
+        "Id": 102305
+    },
+    {
+        "EquipmentId": 102311460,
+        "ExchangeRateId": 10230,
+        "Id": 102306
+    },
+    {
+        "EquipmentId": 106110340,
+        "ExchangeRateId": 10610,
+        "Id": 106101
+    },
+    {
+        "EquipmentId": 106110640,
+        "ExchangeRateId": 10610,
+        "Id": 106102
+    },
+    {
+        "EquipmentId": 106110940,
+        "ExchangeRateId": 10610,
+        "Id": 106103
+    },
+    {
+        "EquipmentId": 106111240,
+        "ExchangeRateId": 10610,
+        "Id": 106104
+    },
+    {
+        "EquipmentId": 106111350,
+        "ExchangeRateId": 10610,
+        "Id": 106105
+    },
+    {
+        "EquipmentId": 106111460,
+        "ExchangeRateId": 10610,
+        "Id": 106106
+    },
+    {
+        "EquipmentId": 106210340,
+        "ExchangeRateId": 10620,
+        "Id": 106201
+    },
+    {
+        "EquipmentId": 106210640,
+        "ExchangeRateId": 10620,
+        "Id": 106202
+    },
+    {
+        "EquipmentId": 106210940,
+        "ExchangeRateId": 10620,
+        "Id": 106203
+    },
+    {
+        "EquipmentId": 106211240,
+        "ExchangeRateId": 10620,
+        "Id": 106204
+    },
+    {
+        "EquipmentId": 106211350,
+        "ExchangeRateId": 10620,
+        "Id": 106205
+    },
+    {
+        "EquipmentId": 106211460,
+        "ExchangeRateId": 10620,
+        "Id": 106206
+    },
+    {
+        "EquipmentId": 106310340,
+        "ExchangeRateId": 10630,
+        "Id": 106301
+    },
+    {
+        "EquipmentId": 106310640,
+        "ExchangeRateId": 10630,
+        "Id": 106302
+    },
+    {
+        "EquipmentId": 106310940,
+        "ExchangeRateId": 10630,
+        "Id": 106303
+    },
+    {
+        "EquipmentId": 106311240,
+        "ExchangeRateId": 10630,
+        "Id": 106304
+    },
+    {
+        "EquipmentId": 106311350,
+        "ExchangeRateId": 10630,
+        "Id": 106305
+    },
+    {
+        "EquipmentId": 106311460,
+        "ExchangeRateId": 10630,
+        "Id": 106306
+    },
+    {
+        "EquipmentId": 110110340,
+        "ExchangeRateId": 11010,
+        "Id": 110101
+    },
+    {
+        "EquipmentId": 110110640,
+        "ExchangeRateId": 11010,
+        "Id": 110102
+    },
+    {
+        "EquipmentId": 110110940,
+        "ExchangeRateId": 11010,
+        "Id": 110103
+    },
+    {
+        "EquipmentId": 110111240,
+        "ExchangeRateId": 11010,
+        "Id": 110104
+    },
+    {
+        "EquipmentId": 110111350,
+        "ExchangeRateId": 11010,
+        "Id": 110105
+    },
+    {
+        "EquipmentId": 110111460,
+        "ExchangeRateId": 11010,
+        "Id": 110106
+    },
+    {
+        "EquipmentId": 110310340,
+        "ExchangeRateId": 11030,
+        "Id": 110301
+    },
+    {
+        "EquipmentId": 110310640,
+        "ExchangeRateId": 11030,
+        "Id": 110302
+    },
+    {
+        "EquipmentId": 110310940,
+        "ExchangeRateId": 11030,
+        "Id": 110303
+    },
+    {
+        "EquipmentId": 110311240,
+        "ExchangeRateId": 11030,
+        "Id": 110304
+    },
+    {
+        "EquipmentId": 110311350,
+        "ExchangeRateId": 11030,
+        "Id": 110305
+    },
+    {
+        "EquipmentId": 110311460,
+        "ExchangeRateId": 11030,
+        "Id": 110306
+    },
+    {
+        "EquipmentId": 112110340,
+        "ExchangeRateId": 11210,
+        "Id": 112101
+    },
+    {
+        "EquipmentId": 112110640,
+        "ExchangeRateId": 11210,
+        "Id": 112102
+    },
+    {
+        "EquipmentId": 112110940,
+        "ExchangeRateId": 11210,
+        "Id": 112103
+    },
+    {
+        "EquipmentId": 112111240,
+        "ExchangeRateId": 11210,
+        "Id": 112104
+    },
+    {
+        "EquipmentId": 112111350,
+        "ExchangeRateId": 11210,
+        "Id": 112105
+    },
+    {
+        "EquipmentId": 112111460,
+        "ExchangeRateId": 11210,
+        "Id": 112106
+    },
+    {
+        "EquipmentId": 112210340,
+        "ExchangeRateId": 11220,
+        "Id": 112201
+    },
+    {
+        "EquipmentId": 112210640,
+        "ExchangeRateId": 11220,
+        "Id": 112202
+    },
+    {
+        "EquipmentId": 112210940,
+        "ExchangeRateId": 11220,
+        "Id": 112203
+    },
+    {
+        "EquipmentId": 112211240,
+        "ExchangeRateId": 11220,
+        "Id": 112204
+    },
+    {
+        "EquipmentId": 112211350,
+        "ExchangeRateId": 11220,
+        "Id": 112205
+    },
+    {
+        "EquipmentId": 112211460,
+        "ExchangeRateId": 11220,
+        "Id": 112206
+    },
+    {
+        "EquipmentId": 112310340,
+        "ExchangeRateId": 11230,
+        "Id": 112301
+    },
+    {
+        "EquipmentId": 112310640,
+        "ExchangeRateId": 11230,
+        "Id": 112302
+    },
+    {
+        "EquipmentId": 112310940,
+        "ExchangeRateId": 11230,
+        "Id": 112303
+    },
+    {
+        "EquipmentId": 112311240,
+        "ExchangeRateId": 11230,
+        "Id": 112304
+    },
+    {
+        "EquipmentId": 112311350,
+        "ExchangeRateId": 11230,
+        "Id": 112305
+    },
+    {
+        "EquipmentId": 112311460,
+        "ExchangeRateId": 11230,
+        "Id": 112306
+    },
+    {
+        "EquipmentId": 113210340,
+        "ExchangeRateId": 11320,
+        "Id": 113201
+    },
+    {
+        "EquipmentId": 113210640,
+        "ExchangeRateId": 11320,
+        "Id": 113202
+    },
+    {
+        "EquipmentId": 113210940,
+        "ExchangeRateId": 11320,
+        "Id": 113203
+    },
+    {
+        "EquipmentId": 113211240,
+        "ExchangeRateId": 11320,
+        "Id": 113204
+    },
+    {
+        "EquipmentId": 113211350,
+        "ExchangeRateId": 11320,
+        "Id": 113205
+    },
+    {
+        "EquipmentId": 113211460,
+        "ExchangeRateId": 11320,
+        "Id": 113206
+    },
+    {
+        "EquipmentId": 113310340,
+        "ExchangeRateId": 11330,
+        "Id": 113301
+    },
+    {
+        "EquipmentId": 113310640,
+        "ExchangeRateId": 11330,
+        "Id": 113302
+    },
+    {
+        "EquipmentId": 113310940,
+        "ExchangeRateId": 11330,
+        "Id": 113303
+    },
+    {
+        "EquipmentId": 113311240,
+        "ExchangeRateId": 11330,
+        "Id": 113304
+    },
+    {
+        "EquipmentId": 113311350,
+        "ExchangeRateId": 11330,
+        "Id": 113305
+    },
+    {
+        "EquipmentId": 113311460,
+        "ExchangeRateId": 11330,
+        "Id": 113306
+    },
+    {
+        "EquipmentId": 114210340,
+        "ExchangeRateId": 11420,
+        "Id": 114201
+    },
+    {
+        "EquipmentId": 114210640,
+        "ExchangeRateId": 11420,
+        "Id": 114202
+    },
+    {
+        "EquipmentId": 114210940,
+        "ExchangeRateId": 11420,
+        "Id": 114203
+    },
+    {
+        "EquipmentId": 114211240,
+        "ExchangeRateId": 11420,
+        "Id": 114204
+    },
+    {
+        "EquipmentId": 114211350,
+        "ExchangeRateId": 11420,
+        "Id": 114205
+    },
+    {
+        "EquipmentId": 114211460,
+        "ExchangeRateId": 11420,
+        "Id": 114206
+    },
+    {
+        "EquipmentId": 115110340,
+        "ExchangeRateId": 11510,
+        "Id": 115101
+    },
+    {
+        "EquipmentId": 115110640,
+        "ExchangeRateId": 11510,
+        "Id": 115102
+    },
+    {
+        "EquipmentId": 115110940,
+        "ExchangeRateId": 11510,
+        "Id": 115103
+    },
+    {
+        "EquipmentId": 115111240,
+        "ExchangeRateId": 11510,
+        "Id": 115104
+    },
+    {
+        "EquipmentId": 115111350,
+        "ExchangeRateId": 11510,
+        "Id": 115105
+    },
+    {
+        "EquipmentId": 115111460,
+        "ExchangeRateId": 11510,
+        "Id": 115106
+    },
+    {
+        "EquipmentId": 115210340,
+        "ExchangeRateId": 11520,
+        "Id": 115201
+    },
+    {
+        "EquipmentId": 115210640,
+        "ExchangeRateId": 11520,
+        "Id": 115202
+    },
+    {
+        "EquipmentId": 115210940,
+        "ExchangeRateId": 11520,
+        "Id": 115203
+    },
+    {
+        "EquipmentId": 115211240,
+        "ExchangeRateId": 11520,
+        "Id": 115204
+    },
+    {
+        "EquipmentId": 115211350,
+        "ExchangeRateId": 11520,
+        "Id": 115205
+    },
+    {
+        "EquipmentId": 115211460,
+        "ExchangeRateId": 11520,
+        "Id": 115206
+    },
+    {
+        "EquipmentId": 115310340,
+        "ExchangeRateId": 11530,
+        "Id": 115301
+    },
+    {
+        "EquipmentId": 115310640,
+        "ExchangeRateId": 11530,
+        "Id": 115302
+    },
+    {
+        "EquipmentId": 115310940,
+        "ExchangeRateId": 11530,
+        "Id": 115303
+    },
+    {
+        "EquipmentId": 115311240,
+        "ExchangeRateId": 11530,
+        "Id": 115304
+    },
+    {
+        "EquipmentId": 115311350,
+        "ExchangeRateId": 11530,
+        "Id": 115305
+    },
+    {
+        "EquipmentId": 115311460,
+        "ExchangeRateId": 11530,
+        "Id": 115306
+    },
+    {
+        "EquipmentId": 117110340,
+        "ExchangeRateId": 11710,
+        "Id": 117101
+    },
+    {
+        "EquipmentId": 117110640,
+        "ExchangeRateId": 11710,
+        "Id": 117102
+    },
+    {
+        "EquipmentId": 117110940,
+        "ExchangeRateId": 11710,
+        "Id": 117103
+    },
+    {
+        "EquipmentId": 117111240,
+        "ExchangeRateId": 11710,
+        "Id": 117104
+    },
+    {
+        "EquipmentId": 117111350,
+        "ExchangeRateId": 11710,
+        "Id": 117105
+    },
+    {
+        "EquipmentId": 117111460,
+        "ExchangeRateId": 11710,
+        "Id": 117106
+    },
+    {
+        "EquipmentId": 118110340,
+        "ExchangeRateId": 11810,
+        "Id": 118101
+    },
+    {
+        "EquipmentId": 118110640,
+        "ExchangeRateId": 11810,
+        "Id": 118102
+    },
+    {
+        "EquipmentId": 118110940,
+        "ExchangeRateId": 11810,
+        "Id": 118103
+    },
+    {
+        "EquipmentId": 118111240,
+        "ExchangeRateId": 11810,
+        "Id": 118104
+    },
+    {
+        "EquipmentId": 118111350,
+        "ExchangeRateId": 11810,
+        "Id": 118105
+    },
+    {
+        "EquipmentId": 118111460,
+        "ExchangeRateId": 11810,
+        "Id": 118106
+    },
+    {
+        "EquipmentId": 118310340,
+        "ExchangeRateId": 11830,
+        "Id": 118301
+    },
+    {
+        "EquipmentId": 118310640,
+        "ExchangeRateId": 11830,
+        "Id": 118302
+    },
+    {
+        "EquipmentId": 118310940,
+        "ExchangeRateId": 11830,
+        "Id": 118303
+    },
+    {
+        "EquipmentId": 118311240,
+        "ExchangeRateId": 11830,
+        "Id": 118304
+    },
+    {
+        "EquipmentId": 118311350,
+        "ExchangeRateId": 11830,
+        "Id": 118305
+    },
+    {
+        "EquipmentId": 118311460,
+        "ExchangeRateId": 11830,
+        "Id": 118306
+    },
+    {
+        "EquipmentId": 120210340,
+        "ExchangeRateId": 12020,
+        "Id": 120201
+    },
+    {
+        "EquipmentId": 120210640,
+        "ExchangeRateId": 12020,
+        "Id": 120202
+    },
+    {
+        "EquipmentId": 120210940,
+        "ExchangeRateId": 12020,
+        "Id": 120203
+    },
+    {
+        "EquipmentId": 120211240,
+        "ExchangeRateId": 12020,
+        "Id": 120204
+    },
+    {
+        "EquipmentId": 120211350,
+        "ExchangeRateId": 12020,
+        "Id": 120205
+    },
+    {
+        "EquipmentId": 120211460,
+        "ExchangeRateId": 12020,
+        "Id": 120206
+    },
+    {
+        "EquipmentId": 120310340,
+        "ExchangeRateId": 12030,
+        "Id": 120301
+    },
+    {
+        "EquipmentId": 120310640,
+        "ExchangeRateId": 12030,
+        "Id": 120302
+    },
+    {
+        "EquipmentId": 120310940,
+        "ExchangeRateId": 12030,
+        "Id": 120303
+    },
+    {
+        "EquipmentId": 120311240,
+        "ExchangeRateId": 12030,
+        "Id": 120304
+    },
+    {
+        "EquipmentId": 120311350,
+        "ExchangeRateId": 12030,
+        "Id": 120305
+    },
+    {
+        "EquipmentId": 120311460,
+        "ExchangeRateId": 12030,
+        "Id": 120306
+    },
+    {
+        "EquipmentId": 121110340,
+        "ExchangeRateId": 12110,
+        "Id": 121101
+    },
+    {
+        "EquipmentId": 121110640,
+        "ExchangeRateId": 12110,
+        "Id": 121102
+    },
+    {
+        "EquipmentId": 121110940,
+        "ExchangeRateId": 12110,
+        "Id": 121103
+    },
+    {
+        "EquipmentId": 121111240,
+        "ExchangeRateId": 12110,
+        "Id": 121104
+    },
+    {
+        "EquipmentId": 121111350,
+        "ExchangeRateId": 12110,
+        "Id": 121105
+    },
+    {
+        "EquipmentId": 121111460,
+        "ExchangeRateId": 12110,
+        "Id": 121106
+    },
+    {
+        "EquipmentId": 121210340,
+        "ExchangeRateId": 12120,
+        "Id": 121201
+    },
+    {
+        "EquipmentId": 121210640,
+        "ExchangeRateId": 12120,
+        "Id": 121202
+    },
+    {
+        "EquipmentId": 121210940,
+        "ExchangeRateId": 12120,
+        "Id": 121203
+    },
+    {
+        "EquipmentId": 121211240,
+        "ExchangeRateId": 12120,
+        "Id": 121204
+    },
+    {
+        "EquipmentId": 121211350,
+        "ExchangeRateId": 12120,
+        "Id": 121205
+    },
+    {
+        "EquipmentId": 121211460,
+        "ExchangeRateId": 12120,
+        "Id": 121206
+    },
+    {
+        "EquipmentId": 121310340,
+        "ExchangeRateId": 12130,
+        "Id": 121301
+    },
+    {
+        "EquipmentId": 121310640,
+        "ExchangeRateId": 12130,
+        "Id": 121302
+    },
+    {
+        "EquipmentId": 121310940,
+        "ExchangeRateId": 12130,
+        "Id": 121303
+    },
+    {
+        "EquipmentId": 121311240,
+        "ExchangeRateId": 12130,
+        "Id": 121304
+    },
+    {
+        "EquipmentId": 121311350,
+        "ExchangeRateId": 12130,
+        "Id": 121305
+    },
+    {
+        "EquipmentId": 121311460,
+        "ExchangeRateId": 12130,
+        "Id": 121306
+    },
+    {
+        "EquipmentId": 122110340,
+        "ExchangeRateId": 12210,
+        "Id": 122101
+    },
+    {
+        "EquipmentId": 122110640,
+        "ExchangeRateId": 12210,
+        "Id": 122102
+    },
+    {
+        "EquipmentId": 122110940,
+        "ExchangeRateId": 12210,
+        "Id": 122103
+    },
+    {
+        "EquipmentId": 122111240,
+        "ExchangeRateId": 12210,
+        "Id": 122104
+    },
+    {
+        "EquipmentId": 122111350,
+        "ExchangeRateId": 12210,
+        "Id": 122105
+    },
+    {
+        "EquipmentId": 122111460,
+        "ExchangeRateId": 12210,
+        "Id": 122106
+    },
+    {
+        "EquipmentId": 122210340,
+        "ExchangeRateId": 12220,
+        "Id": 122201
+    },
+    {
+        "EquipmentId": 122210640,
+        "ExchangeRateId": 12220,
+        "Id": 122202
+    },
+    {
+        "EquipmentId": 122210940,
+        "ExchangeRateId": 12220,
+        "Id": 122203
+    },
+    {
+        "EquipmentId": 122211240,
+        "ExchangeRateId": 12220,
+        "Id": 122204
+    },
+    {
+        "EquipmentId": 122211350,
+        "ExchangeRateId": 12220,
+        "Id": 122205
+    },
+    {
+        "EquipmentId": 122211460,
+        "ExchangeRateId": 12220,
+        "Id": 122206
+    },
+    {
+        "EquipmentId": 124110340,
+        "ExchangeRateId": 12410,
+        "Id": 124101
+    },
+    {
+        "EquipmentId": 124110640,
+        "ExchangeRateId": 12410,
+        "Id": 124102
+    },
+    {
+        "EquipmentId": 124110940,
+        "ExchangeRateId": 12410,
+        "Id": 124103
+    },
+    {
+        "EquipmentId": 124111240,
+        "ExchangeRateId": 12410,
+        "Id": 124104
+    },
+    {
+        "EquipmentId": 124111350,
+        "ExchangeRateId": 12410,
+        "Id": 124105
+    },
+    {
+        "EquipmentId": 124111460,
+        "ExchangeRateId": 12410,
+        "Id": 124106
+    },
+    {
+        "EquipmentId": 124210340,
+        "ExchangeRateId": 12420,
+        "Id": 124201
+    },
+    {
+        "EquipmentId": 124210640,
+        "ExchangeRateId": 12420,
+        "Id": 124202
+    },
+    {
+        "EquipmentId": 124210940,
+        "ExchangeRateId": 12420,
+        "Id": 124203
+    },
+    {
+        "EquipmentId": 124211240,
+        "ExchangeRateId": 12420,
+        "Id": 124204
+    },
+    {
+        "EquipmentId": 124211350,
+        "ExchangeRateId": 12420,
+        "Id": 124205
+    },
+    {
+        "EquipmentId": 124211460,
+        "ExchangeRateId": 12420,
+        "Id": 124206
+    },
+    {
+        "EquipmentId": 124310340,
+        "ExchangeRateId": 12430,
+        "Id": 124301
+    },
+    {
+        "EquipmentId": 124310640,
+        "ExchangeRateId": 12430,
+        "Id": 124302
+    },
+    {
+        "EquipmentId": 124310940,
+        "ExchangeRateId": 12430,
+        "Id": 124303
+    },
+    {
+        "EquipmentId": 124311240,
+        "ExchangeRateId": 12430,
+        "Id": 124304
+    },
+    {
+        "EquipmentId": 124311350,
+        "ExchangeRateId": 12430,
+        "Id": 124305
+    },
+    {
+        "EquipmentId": 124311460,
+        "ExchangeRateId": 12430,
+        "Id": 124306
+    },
+    {
+        "EquipmentId": 125110340,
+        "ExchangeRateId": 12510,
+        "Id": 125101
+    },
+    {
+        "EquipmentId": 125110640,
+        "ExchangeRateId": 12510,
+        "Id": 125102
+    },
+    {
+        "EquipmentId": 125110940,
+        "ExchangeRateId": 12510,
+        "Id": 125103
+    },
+    {
+        "EquipmentId": 125111240,
+        "ExchangeRateId": 12510,
+        "Id": 125104
+    },
+    {
+        "EquipmentId": 125111350,
+        "ExchangeRateId": 12510,
+        "Id": 125105
+    },
+    {
+        "EquipmentId": 125111460,
+        "ExchangeRateId": 12510,
+        "Id": 125106
+    },
+    {
+        "EquipmentId": 126110340,
+        "ExchangeRateId": 12610,
+        "Id": 126101
+    },
+    {
+        "EquipmentId": 126110640,
+        "ExchangeRateId": 12610,
+        "Id": 126102
+    },
+    {
+        "EquipmentId": 126110940,
+        "ExchangeRateId": 12610,
+        "Id": 126103
+    },
+    {
+        "EquipmentId": 126111240,
+        "ExchangeRateId": 12610,
+        "Id": 126104
+    },
+    {
+        "EquipmentId": 126111350,
+        "ExchangeRateId": 12610,
+        "Id": 126105
+    },
+    {
+        "EquipmentId": 126111460,
+        "ExchangeRateId": 12610,
+        "Id": 126106
+    },
+    {
+        "EquipmentId": 126111461,
+        "ExchangeRateId": 12611,
+        "Id": 126107
+    },
+    {
+        "EquipmentId": 126110341,
+        "ExchangeRateId": 12611,
+        "Id": 126111
+    },
+    {
+        "EquipmentId": 126110641,
+        "ExchangeRateId": 12611,
+        "Id": 126112
+    },
+    {
+        "EquipmentId": 126110941,
+        "ExchangeRateId": 12611,
+        "Id": 126113
+    },
+    {
+        "EquipmentId": 126111241,
+        "ExchangeRateId": 12611,
+        "Id": 126114
+    },
+    {
+        "EquipmentId": 126111351,
+        "ExchangeRateId": 12611,
+        "Id": 126115
+    },
+    {
+        "EquipmentId": 126210340,
+        "ExchangeRateId": 12620,
+        "Id": 126201
+    },
+    {
+        "EquipmentId": 126210640,
+        "ExchangeRateId": 12620,
+        "Id": 126202
+    },
+    {
+        "EquipmentId": 126210940,
+        "ExchangeRateId": 12620,
+        "Id": 126203
+    },
+    {
+        "EquipmentId": 126211240,
+        "ExchangeRateId": 12620,
+        "Id": 126204
+    },
+    {
+        "EquipmentId": 126211350,
+        "ExchangeRateId": 12620,
+        "Id": 126205
+    },
+    {
+        "EquipmentId": 126211460,
+        "ExchangeRateId": 12620,
+        "Id": 126206
+    },
+    {
+        "EquipmentId": 126310340,
+        "ExchangeRateId": 12630,
+        "Id": 126301
+    },
+    {
+        "EquipmentId": 126310640,
+        "ExchangeRateId": 12630,
+        "Id": 126302
+    },
+    {
+        "EquipmentId": 126310940,
+        "ExchangeRateId": 12630,
+        "Id": 126303
+    },
+    {
+        "EquipmentId": 126311240,
+        "ExchangeRateId": 12630,
+        "Id": 126304
+    },
+    {
+        "EquipmentId": 126311350,
+        "ExchangeRateId": 12630,
+        "Id": 126305
+    },
+    {
+        "EquipmentId": 126311460,
+        "ExchangeRateId": 12630,
+        "Id": 126306
+    },
+    {
+        "EquipmentId": 126311461,
+        "ExchangeRateId": 12631,
+        "Id": 126307
+    },
+    {
+        "EquipmentId": 126310341,
+        "ExchangeRateId": 12631,
+        "Id": 126311
+    },
+    {
+        "EquipmentId": 126310641,
+        "ExchangeRateId": 12631,
+        "Id": 126312
+    },
+    {
+        "EquipmentId": 126310941,
+        "ExchangeRateId": 12631,
+        "Id": 126313
+    },
+    {
+        "EquipmentId": 126311241,
+        "ExchangeRateId": 12631,
+        "Id": 126314
+    },
+    {
+        "EquipmentId": 126311351,
+        "ExchangeRateId": 12631,
+        "Id": 126315
+    },
+    {
+        "EquipmentId": 127110340,
+        "ExchangeRateId": 12710,
+        "Id": 127101
+    },
+    {
+        "EquipmentId": 127110640,
+        "ExchangeRateId": 12710,
+        "Id": 127102
+    },
+    {
+        "EquipmentId": 127110940,
+        "ExchangeRateId": 12710,
+        "Id": 127103
+    },
+    {
+        "EquipmentId": 127111240,
+        "ExchangeRateId": 12710,
+        "Id": 127104
+    },
+    {
+        "EquipmentId": 127111350,
+        "ExchangeRateId": 12710,
+        "Id": 127105
+    },
+    {
+        "EquipmentId": 127111460,
+        "ExchangeRateId": 12710,
+        "Id": 127106
+    },
+    {
+        "EquipmentId": 127210340,
+        "ExchangeRateId": 12720,
+        "Id": 127201
+    },
+    {
+        "EquipmentId": 127210640,
+        "ExchangeRateId": 12720,
+        "Id": 127202
+    },
+    {
+        "EquipmentId": 127210940,
+        "ExchangeRateId": 12720,
+        "Id": 127203
+    },
+    {
+        "EquipmentId": 127211240,
+        "ExchangeRateId": 12720,
+        "Id": 127204
+    },
+    {
+        "EquipmentId": 127211350,
+        "ExchangeRateId": 12720,
+        "Id": 127205
+    },
+    {
+        "EquipmentId": 127211460,
+        "ExchangeRateId": 12720,
+        "Id": 127206
+    },
+    {
+        "EquipmentId": 127310340,
+        "ExchangeRateId": 12730,
+        "Id": 127301
+    },
+    {
+        "EquipmentId": 127310640,
+        "ExchangeRateId": 12730,
+        "Id": 127302
+    },
+    {
+        "EquipmentId": 127310940,
+        "ExchangeRateId": 12730,
+        "Id": 127303
+    },
+    {
+        "EquipmentId": 127311240,
+        "ExchangeRateId": 12730,
+        "Id": 127304
+    },
+    {
+        "EquipmentId": 127311350,
+        "ExchangeRateId": 12730,
+        "Id": 127305
+    },
+    {
+        "EquipmentId": 127311460,
+        "ExchangeRateId": 12730,
+        "Id": 127306
+    },
+    {
+        "EquipmentId": 127311461,
+        "ExchangeRateId": 12731,
+        "Id": 127307
+    },
+    {
+        "EquipmentId": 127311462,
+        "ExchangeRateId": 12732,
+        "Id": 127308
+    },
+    {
+        "EquipmentId": 127310341,
+        "ExchangeRateId": 12731,
+        "Id": 127311
+    },
+    {
+        "EquipmentId": 127310641,
+        "ExchangeRateId": 12731,
+        "Id": 127312
+    },
+    {
+        "EquipmentId": 127310941,
+        "ExchangeRateId": 12731,
+        "Id": 127313
+    },
+    {
+        "EquipmentId": 127311241,
+        "ExchangeRateId": 12731,
+        "Id": 127314
+    },
+    {
+        "EquipmentId": 127311351,
+        "ExchangeRateId": 12731,
+        "Id": 127315
+    },
+    {
+        "EquipmentId": 127310342,
+        "ExchangeRateId": 12732,
+        "Id": 127321
+    },
+    {
+        "EquipmentId": 127310642,
+        "ExchangeRateId": 12732,
+        "Id": 127322
+    },
+    {
+        "EquipmentId": 127310942,
+        "ExchangeRateId": 12732,
+        "Id": 127323
+    },
+    {
+        "EquipmentId": 127311242,
+        "ExchangeRateId": 12732,
+        "Id": 127324
+    },
+    {
+        "EquipmentId": 127311352,
+        "ExchangeRateId": 12732,
+        "Id": 127325
+    },
+    {
+        "EquipmentId": 128110340,
+        "ExchangeRateId": 12810,
+        "Id": 128101
+    },
+    {
+        "EquipmentId": 128110640,
+        "ExchangeRateId": 12810,
+        "Id": 128102
+    },
+    {
+        "EquipmentId": 128110940,
+        "ExchangeRateId": 12810,
+        "Id": 128103
+    },
+    {
+        "EquipmentId": 128111240,
+        "ExchangeRateId": 12810,
+        "Id": 128104
+    },
+    {
+        "EquipmentId": 128111350,
+        "ExchangeRateId": 12810,
+        "Id": 128105
+    },
+    {
+        "EquipmentId": 128111460,
+        "ExchangeRateId": 12810,
+        "Id": 128106
+    },
+    {
+        "EquipmentId": 128210340,
+        "ExchangeRateId": 12820,
+        "Id": 128201
+    },
+    {
+        "EquipmentId": 128210640,
+        "ExchangeRateId": 12820,
+        "Id": 128202
+    },
+    {
+        "EquipmentId": 128210940,
+        "ExchangeRateId": 12820,
+        "Id": 128203
+    },
+    {
+        "EquipmentId": 128211240,
+        "ExchangeRateId": 12820,
+        "Id": 128204
+    },
+    {
+        "EquipmentId": 128211350,
+        "ExchangeRateId": 12820,
+        "Id": 128205
+    },
+    {
+        "EquipmentId": 128211460,
+        "ExchangeRateId": 12820,
+        "Id": 128206
+    },
+    {
+        "EquipmentId": 128211461,
+        "ExchangeRateId": 12821,
+        "Id": 128207
+    },
+    {
+        "EquipmentId": 128210341,
+        "ExchangeRateId": 12821,
+        "Id": 128211
+    },
+    {
+        "EquipmentId": 128210641,
+        "ExchangeRateId": 12821,
+        "Id": 128212
+    },
+    {
+        "EquipmentId": 128210941,
+        "ExchangeRateId": 12821,
+        "Id": 128213
+    },
+    {
+        "EquipmentId": 128211241,
+        "ExchangeRateId": 12821,
+        "Id": 128214
+    },
+    {
+        "EquipmentId": 128211351,
+        "ExchangeRateId": 12821,
+        "Id": 128215
+    },
+    {
+        "EquipmentId": 128310340,
+        "ExchangeRateId": 12830,
+        "Id": 128301
+    },
+    {
+        "EquipmentId": 128310640,
+        "ExchangeRateId": 12830,
+        "Id": 128302
+    },
+    {
+        "EquipmentId": 128310940,
+        "ExchangeRateId": 12830,
+        "Id": 128303
+    },
+    {
+        "EquipmentId": 128311240,
+        "ExchangeRateId": 12830,
+        "Id": 128304
+    },
+    {
+        "EquipmentId": 128311350,
+        "ExchangeRateId": 12830,
+        "Id": 128305
+    },
+    {
+        "EquipmentId": 128311460,
+        "ExchangeRateId": 12830,
+        "Id": 128306
+    },
+    {
+        "EquipmentId": 128311461,
+        "ExchangeRateId": 12831,
+        "Id": 128307
+    },
+    {
+        "EquipmentId": 128310341,
+        "ExchangeRateId": 12831,
+        "Id": 128311
+    },
+    {
+        "EquipmentId": 128310641,
+        "ExchangeRateId": 12831,
+        "Id": 128312
+    },
+    {
+        "EquipmentId": 128310941,
+        "ExchangeRateId": 12831,
+        "Id": 128313
+    },
+    {
+        "EquipmentId": 128311241,
+        "ExchangeRateId": 12831,
+        "Id": 128314
+    },
+    {
+        "EquipmentId": 128311351,
+        "ExchangeRateId": 12831,
+        "Id": 128315
+    },
+    {
+        "EquipmentId": 129310340,
+        "ExchangeRateId": 12930,
+        "Id": 129301
+    },
+    {
+        "EquipmentId": 129310640,
+        "ExchangeRateId": 12930,
+        "Id": 129302
+    },
+    {
+        "EquipmentId": 129310940,
+        "ExchangeRateId": 12930,
+        "Id": 129303
+    },
+    {
+        "EquipmentId": 129311240,
+        "ExchangeRateId": 12930,
+        "Id": 129304
+    },
+    {
+        "EquipmentId": 129311350,
+        "ExchangeRateId": 12930,
+        "Id": 129305
+    },
+    {
+        "EquipmentId": 129311460,
+        "ExchangeRateId": 12930,
+        "Id": 129306
+    },
+    {
+        "EquipmentId": 130110340,
+        "ExchangeRateId": 13010,
+        "Id": 130101
+    },
+    {
+        "EquipmentId": 130110640,
+        "ExchangeRateId": 13010,
+        "Id": 130102
+    },
+    {
+        "EquipmentId": 130110940,
+        "ExchangeRateId": 13010,
+        "Id": 130103
+    },
+    {
+        "EquipmentId": 130111240,
+        "ExchangeRateId": 13010,
+        "Id": 130104
+    },
+    {
+        "EquipmentId": 130111350,
+        "ExchangeRateId": 13010,
+        "Id": 130105
+    },
+    {
+        "EquipmentId": 130111460,
+        "ExchangeRateId": 13010,
+        "Id": 130106
+    },
+    {
+        "EquipmentId": 130111461,
+        "ExchangeRateId": 13011,
+        "Id": 130107
+    },
+    {
+        "EquipmentId": 130110341,
+        "ExchangeRateId": 13011,
+        "Id": 130111
+    },
+    {
+        "EquipmentId": 130110641,
+        "ExchangeRateId": 13011,
+        "Id": 130112
+    },
+    {
+        "EquipmentId": 130110941,
+        "ExchangeRateId": 13011,
+        "Id": 130113
+    },
+    {
+        "EquipmentId": 130111241,
+        "ExchangeRateId": 13011,
+        "Id": 130114
+    },
+    {
+        "EquipmentId": 130111351,
+        "ExchangeRateId": 13011,
+        "Id": 130115
+    },
+    {
+        "EquipmentId": 130210340,
+        "ExchangeRateId": 13020,
+        "Id": 130201
+    },
+    {
+        "EquipmentId": 130210640,
+        "ExchangeRateId": 13020,
+        "Id": 130202
+    },
+    {
+        "EquipmentId": 130210940,
+        "ExchangeRateId": 13020,
+        "Id": 130203
+    },
+    {
+        "EquipmentId": 130211240,
+        "ExchangeRateId": 13020,
+        "Id": 130204
+    },
+    {
+        "EquipmentId": 130211350,
+        "ExchangeRateId": 13020,
+        "Id": 130205
+    },
+    {
+        "EquipmentId": 130211460,
+        "ExchangeRateId": 13020,
+        "Id": 130206
+    },
+    {
+        "EquipmentId": 130310340,
+        "ExchangeRateId": 13030,
+        "Id": 130301
+    },
+    {
+        "EquipmentId": 130310640,
+        "ExchangeRateId": 13030,
+        "Id": 130302
+    },
+    {
+        "EquipmentId": 130310940,
+        "ExchangeRateId": 13030,
+        "Id": 130303
+    },
+    {
+        "EquipmentId": 130311240,
+        "ExchangeRateId": 13030,
+        "Id": 130304
+    },
+    {
+        "EquipmentId": 130311350,
+        "ExchangeRateId": 13030,
+        "Id": 130305
+    },
+    {
+        "EquipmentId": 130311460,
+        "ExchangeRateId": 13030,
+        "Id": 130306
+    },
+    {
+        "EquipmentId": 130311461,
+        "ExchangeRateId": 13031,
+        "Id": 130307
+    },
+    {
+        "EquipmentId": 130310341,
+        "ExchangeRateId": 13031,
+        "Id": 130311
+    },
+    {
+        "EquipmentId": 130310641,
+        "ExchangeRateId": 13031,
+        "Id": 130312
+    },
+    {
+        "EquipmentId": 130310941,
+        "ExchangeRateId": 13031,
+        "Id": 130313
+    },
+    {
+        "EquipmentId": 130311241,
+        "ExchangeRateId": 13031,
+        "Id": 130314
+    },
+    {
+        "EquipmentId": 130311351,
+        "ExchangeRateId": 13031,
+        "Id": 130315
+    },
+    {
+        "EquipmentId": 131110340,
+        "ExchangeRateId": 13110,
+        "Id": 131101
+    },
+    {
+        "EquipmentId": 131110640,
+        "ExchangeRateId": 13110,
+        "Id": 131102
+    },
+    {
+        "EquipmentId": 131110940,
+        "ExchangeRateId": 13110,
+        "Id": 131103
+    },
+    {
+        "EquipmentId": 131111240,
+        "ExchangeRateId": 13110,
+        "Id": 131104
+    },
+    {
+        "EquipmentId": 131111350,
+        "ExchangeRateId": 13110,
+        "Id": 131105
+    },
+    {
+        "EquipmentId": 131111460,
+        "ExchangeRateId": 13110,
+        "Id": 131106
+    },
+    {
+        "EquipmentId": 131210340,
+        "ExchangeRateId": 13120,
+        "Id": 131201
+    },
+    {
+        "EquipmentId": 131210640,
+        "ExchangeRateId": 13120,
+        "Id": 131202
+    },
+    {
+        "EquipmentId": 131210940,
+        "ExchangeRateId": 13120,
+        "Id": 131203
+    },
+    {
+        "EquipmentId": 131211240,
+        "ExchangeRateId": 13120,
+        "Id": 131204
+    },
+    {
+        "EquipmentId": 131211350,
+        "ExchangeRateId": 13120,
+        "Id": 131205
+    },
+    {
+        "EquipmentId": 131211460,
+        "ExchangeRateId": 13120,
+        "Id": 131206
+    },
+    {
+        "EquipmentId": 131211461,
+        "ExchangeRateId": 13121,
+        "Id": 131207
+    },
+    {
+        "EquipmentId": 131210341,
+        "ExchangeRateId": 13121,
+        "Id": 131211
+    },
+    {
+        "EquipmentId": 131210641,
+        "ExchangeRateId": 13121,
+        "Id": 131212
+    },
+    {
+        "EquipmentId": 131210941,
+        "ExchangeRateId": 13121,
+        "Id": 131213
+    },
+    {
+        "EquipmentId": 131211241,
+        "ExchangeRateId": 13121,
+        "Id": 131214
+    },
+    {
+        "EquipmentId": 131211351,
+        "ExchangeRateId": 13121,
+        "Id": 131215
+    },
+    {
+        "EquipmentId": 131310340,
+        "ExchangeRateId": 13130,
+        "Id": 131301
+    },
+    {
+        "EquipmentId": 131310640,
+        "ExchangeRateId": 13130,
+        "Id": 131302
+    },
+    {
+        "EquipmentId": 131310940,
+        "ExchangeRateId": 13130,
+        "Id": 131303
+    },
+    {
+        "EquipmentId": 131311240,
+        "ExchangeRateId": 13130,
+        "Id": 131304
+    },
+    {
+        "EquipmentId": 131311350,
+        "ExchangeRateId": 13130,
+        "Id": 131305
+    },
+    {
+        "EquipmentId": 131311460,
+        "ExchangeRateId": 13130,
+        "Id": 131306
+    },
+    {
+        "EquipmentId": 132110340,
+        "ExchangeRateId": 13210,
+        "Id": 132101
+    },
+    {
+        "EquipmentId": 132110640,
+        "ExchangeRateId": 13210,
+        "Id": 132102
+    },
+    {
+        "EquipmentId": 132110940,
+        "ExchangeRateId": 13210,
+        "Id": 132103
+    },
+    {
+        "EquipmentId": 132111240,
+        "ExchangeRateId": 13210,
+        "Id": 132104
+    },
+    {
+        "EquipmentId": 132111350,
+        "ExchangeRateId": 13210,
+        "Id": 132105
+    },
+    {
+        "EquipmentId": 132111460,
+        "ExchangeRateId": 13210,
+        "Id": 132106
+    },
+    {
+        "EquipmentId": 132210340,
+        "ExchangeRateId": 13220,
+        "Id": 132201
+    },
+    {
+        "EquipmentId": 132210640,
+        "ExchangeRateId": 13220,
+        "Id": 132202
+    },
+    {
+        "EquipmentId": 132210940,
+        "ExchangeRateId": 13220,
+        "Id": 132203
+    },
+    {
+        "EquipmentId": 132211240,
+        "ExchangeRateId": 13220,
+        "Id": 132204
+    },
+    {
+        "EquipmentId": 132211350,
+        "ExchangeRateId": 13220,
+        "Id": 132205
+    },
+    {
+        "EquipmentId": 132211460,
+        "ExchangeRateId": 13220,
+        "Id": 132206
+    },
+    {
+        "EquipmentId": 132211461,
+        "ExchangeRateId": 13221,
+        "Id": 132207
+    },
+    {
+        "EquipmentId": 132210341,
+        "ExchangeRateId": 13221,
+        "Id": 132211
+    },
+    {
+        "EquipmentId": 132210641,
+        "ExchangeRateId": 13221,
+        "Id": 132212
+    },
+    {
+        "EquipmentId": 132210941,
+        "ExchangeRateId": 13221,
+        "Id": 132213
+    },
+    {
+        "EquipmentId": 132211241,
+        "ExchangeRateId": 13221,
+        "Id": 132214
+    },
+    {
+        "EquipmentId": 132211351,
+        "ExchangeRateId": 13221,
+        "Id": 132215
+    },
+    {
+        "EquipmentId": 132310340,
+        "ExchangeRateId": 13230,
+        "Id": 132301
+    },
+    {
+        "EquipmentId": 132310640,
+        "ExchangeRateId": 13230,
+        "Id": 132302
+    },
+    {
+        "EquipmentId": 132310940,
+        "ExchangeRateId": 13230,
+        "Id": 132303
+    },
+    {
+        "EquipmentId": 132311240,
+        "ExchangeRateId": 13230,
+        "Id": 132304
+    },
+    {
+        "EquipmentId": 132311350,
+        "ExchangeRateId": 13230,
+        "Id": 132305
+    },
+    {
+        "EquipmentId": 132311460,
+        "ExchangeRateId": 13230,
+        "Id": 132306
+    },
+    {
+        "EquipmentId": 133110340,
+        "ExchangeRateId": 13310,
+        "Id": 133101
+    },
+    {
+        "EquipmentId": 133110640,
+        "ExchangeRateId": 13310,
+        "Id": 133102
+    },
+    {
+        "EquipmentId": 133110940,
+        "ExchangeRateId": 13310,
+        "Id": 133103
+    },
+    {
+        "EquipmentId": 133111240,
+        "ExchangeRateId": 13310,
+        "Id": 133104
+    },
+    {
+        "EquipmentId": 133111350,
+        "ExchangeRateId": 13310,
+        "Id": 133105
+    },
+    {
+        "EquipmentId": 133111460,
+        "ExchangeRateId": 13310,
+        "Id": 133106
+    },
+    {
+        "EquipmentId": 133111461,
+        "ExchangeRateId": 13311,
+        "Id": 133107
+    },
+    {
+        "EquipmentId": 133110341,
+        "ExchangeRateId": 13311,
+        "Id": 133111
+    },
+    {
+        "EquipmentId": 133110641,
+        "ExchangeRateId": 13311,
+        "Id": 133112
+    },
+    {
+        "EquipmentId": 133110941,
+        "ExchangeRateId": 13311,
+        "Id": 133113
+    },
+    {
+        "EquipmentId": 133111241,
+        "ExchangeRateId": 13311,
+        "Id": 133114
+    },
+    {
+        "EquipmentId": 133111351,
+        "ExchangeRateId": 13311,
+        "Id": 133115
+    },
+    {
+        "EquipmentId": 133210340,
+        "ExchangeRateId": 13320,
+        "Id": 133201
+    },
+    {
+        "EquipmentId": 133210640,
+        "ExchangeRateId": 13320,
+        "Id": 133202
+    },
+    {
+        "EquipmentId": 133210940,
+        "ExchangeRateId": 13320,
+        "Id": 133203
+    },
+    {
+        "EquipmentId": 133211240,
+        "ExchangeRateId": 13320,
+        "Id": 133204
+    },
+    {
+        "EquipmentId": 133211350,
+        "ExchangeRateId": 13320,
+        "Id": 133205
+    },
+    {
+        "EquipmentId": 133211460,
+        "ExchangeRateId": 13320,
+        "Id": 133206
+    },
+    {
+        "EquipmentId": 133310340,
+        "ExchangeRateId": 13330,
+        "Id": 133301
+    },
+    {
+        "EquipmentId": 133310640,
+        "ExchangeRateId": 13330,
+        "Id": 133302
+    },
+    {
+        "EquipmentId": 133310940,
+        "ExchangeRateId": 13330,
+        "Id": 133303
+    },
+    {
+        "EquipmentId": 133311240,
+        "ExchangeRateId": 13330,
+        "Id": 133304
+    },
+    {
+        "EquipmentId": 133311350,
+        "ExchangeRateId": 13330,
+        "Id": 133305
+    },
+    {
+        "EquipmentId": 133311460,
+        "ExchangeRateId": 13330,
+        "Id": 133306
+    },
+    {
+        "EquipmentId": 134110340,
+        "ExchangeRateId": 13410,
+        "Id": 134101
+    },
+    {
+        "EquipmentId": 134110640,
+        "ExchangeRateId": 13410,
+        "Id": 134102
+    },
+    {
+        "EquipmentId": 134110940,
+        "ExchangeRateId": 13410,
+        "Id": 134103
+    },
+    {
+        "EquipmentId": 134111240,
+        "ExchangeRateId": 13410,
+        "Id": 134104
+    },
+    {
+        "EquipmentId": 134111350,
+        "ExchangeRateId": 13410,
+        "Id": 134105
+    },
+    {
+        "EquipmentId": 134111460,
+        "ExchangeRateId": 13410,
+        "Id": 134106
+    },
+    {
+        "EquipmentId": 134210340,
+        "ExchangeRateId": 13420,
+        "Id": 134201
+    },
+    {
+        "EquipmentId": 134210640,
+        "ExchangeRateId": 13420,
+        "Id": 134202
+    },
+    {
+        "EquipmentId": 134210940,
+        "ExchangeRateId": 13420,
+        "Id": 134203
+    },
+    {
+        "EquipmentId": 134211240,
+        "ExchangeRateId": 13420,
+        "Id": 134204
+    },
+    {
+        "EquipmentId": 134211350,
+        "ExchangeRateId": 13420,
+        "Id": 134205
+    },
+    {
+        "EquipmentId": 134211460,
+        "ExchangeRateId": 13420,
+        "Id": 134206
+    },
+    {
+        "EquipmentId": 134310340,
+        "ExchangeRateId": 13430,
+        "Id": 134301
+    },
+    {
+        "EquipmentId": 134310640,
+        "ExchangeRateId": 13430,
+        "Id": 134302
+    },
+    {
+        "EquipmentId": 134310940,
+        "ExchangeRateId": 13430,
+        "Id": 134303
+    },
+    {
+        "EquipmentId": 134311240,
+        "ExchangeRateId": 13430,
+        "Id": 134304
+    },
+    {
+        "EquipmentId": 134311350,
+        "ExchangeRateId": 13430,
+        "Id": 134305
+    },
+    {
+        "EquipmentId": 134311460,
+        "ExchangeRateId": 13430,
+        "Id": 134306
+    },
+    {
+        "EquipmentId": 134311461,
+        "ExchangeRateId": 13431,
+        "Id": 134307
+    },
+    {
+        "EquipmentId": 134310341,
+        "ExchangeRateId": 13431,
+        "Id": 134311
+    },
+    {
+        "EquipmentId": 134310641,
+        "ExchangeRateId": 13431,
+        "Id": 134312
+    },
+    {
+        "EquipmentId": 134310941,
+        "ExchangeRateId": 13431,
+        "Id": 134313
+    },
+    {
+        "EquipmentId": 134311241,
+        "ExchangeRateId": 13431,
+        "Id": 134314
+    },
+    {
+        "EquipmentId": 134311351,
+        "ExchangeRateId": 13431,
+        "Id": 134315
+    },
+    {
+        "EquipmentId": 135110340,
+        "ExchangeRateId": 13510,
+        "Id": 135101
+    },
+    {
+        "EquipmentId": 135110640,
+        "ExchangeRateId": 13510,
+        "Id": 135102
+    },
+    {
+        "EquipmentId": 135110940,
+        "ExchangeRateId": 13510,
+        "Id": 135103
+    },
+    {
+        "EquipmentId": 135111240,
+        "ExchangeRateId": 13510,
+        "Id": 135104
+    },
+    {
+        "EquipmentId": 135111350,
+        "ExchangeRateId": 13510,
+        "Id": 135105
+    },
+    {
+        "EquipmentId": 135111460,
+        "ExchangeRateId": 13510,
+        "Id": 135106
+    },
+    {
+        "EquipmentId": 135210340,
+        "ExchangeRateId": 13520,
+        "Id": 135201
+    },
+    {
+        "EquipmentId": 135210640,
+        "ExchangeRateId": 13520,
+        "Id": 135202
+    },
+    {
+        "EquipmentId": 135210940,
+        "ExchangeRateId": 13520,
+        "Id": 135203
+    },
+    {
+        "EquipmentId": 135211240,
+        "ExchangeRateId": 13520,
+        "Id": 135204
+    },
+    {
+        "EquipmentId": 135211350,
+        "ExchangeRateId": 13520,
+        "Id": 135205
+    },
+    {
+        "EquipmentId": 135211460,
+        "ExchangeRateId": 13520,
+        "Id": 135206
+    },
+    {
+        "EquipmentId": 135211461,
+        "ExchangeRateId": 13521,
+        "Id": 135207
+    },
+    {
+        "EquipmentId": 135210341,
+        "ExchangeRateId": 13521,
+        "Id": 135211
+    },
+    {
+        "EquipmentId": 135210641,
+        "ExchangeRateId": 13521,
+        "Id": 135212
+    },
+    {
+        "EquipmentId": 135210941,
+        "ExchangeRateId": 13521,
+        "Id": 135213
+    },
+    {
+        "EquipmentId": 135211241,
+        "ExchangeRateId": 13521,
+        "Id": 135214
+    },
+    {
+        "EquipmentId": 135211351,
+        "ExchangeRateId": 13521,
+        "Id": 135215
+    },
+    {
+        "EquipmentId": 135310340,
+        "ExchangeRateId": 13530,
+        "Id": 135301
+    },
+    {
+        "EquipmentId": 135310640,
+        "ExchangeRateId": 13530,
+        "Id": 135302
+    },
+    {
+        "EquipmentId": 135310940,
+        "ExchangeRateId": 13530,
+        "Id": 135303
+    },
+    {
+        "EquipmentId": 135311240,
+        "ExchangeRateId": 13530,
+        "Id": 135304
+    },
+    {
+        "EquipmentId": 135311350,
+        "ExchangeRateId": 13530,
+        "Id": 135305
+    },
+    {
+        "EquipmentId": 135311460,
+        "ExchangeRateId": 13530,
+        "Id": 135306
+    },
+    {
+        "EquipmentId": 136110340,
+        "ExchangeRateId": 13610,
+        "Id": 136101
+    },
+    {
+        "EquipmentId": 136110640,
+        "ExchangeRateId": 13610,
+        "Id": 136102
+    },
+    {
+        "EquipmentId": 136110940,
+        "ExchangeRateId": 13610,
+        "Id": 136103
+    },
+    {
+        "EquipmentId": 136111240,
+        "ExchangeRateId": 13610,
+        "Id": 136104
+    },
+    {
+        "EquipmentId": 136111350,
+        "ExchangeRateId": 13610,
+        "Id": 136105
+    },
+    {
+        "EquipmentId": 136111460,
+        "ExchangeRateId": 13610,
+        "Id": 136106
+    },
+    {
+        "EquipmentId": 136111461,
+        "ExchangeRateId": 13611,
+        "Id": 136107
+    },
+    {
+        "EquipmentId": 136110341,
+        "ExchangeRateId": 13611,
+        "Id": 136111
+    },
+    {
+        "EquipmentId": 136110641,
+        "ExchangeRateId": 13611,
+        "Id": 136112
+    },
+    {
+        "EquipmentId": 136110941,
+        "ExchangeRateId": 13611,
+        "Id": 136113
+    },
+    {
+        "EquipmentId": 136111241,
+        "ExchangeRateId": 13611,
+        "Id": 136114
+    },
+    {
+        "EquipmentId": 136111351,
+        "ExchangeRateId": 13611,
+        "Id": 136115
+    },
+    {
+        "EquipmentId": 136210340,
+        "ExchangeRateId": 13620,
+        "Id": 136201
+    },
+    {
+        "EquipmentId": 136210640,
+        "ExchangeRateId": 13620,
+        "Id": 136202
+    },
+    {
+        "EquipmentId": 136210940,
+        "ExchangeRateId": 13620,
+        "Id": 136203
+    },
+    {
+        "EquipmentId": 136211240,
+        "ExchangeRateId": 13620,
+        "Id": 136204
+    },
+    {
+        "EquipmentId": 136211350,
+        "ExchangeRateId": 13620,
+        "Id": 136205
+    },
+    {
+        "EquipmentId": 136211460,
+        "ExchangeRateId": 13620,
+        "Id": 136206
+    },
+    {
+        "EquipmentId": 136211461,
+        "ExchangeRateId": 13621,
+        "Id": 136207
+    },
+    {
+        "EquipmentId": 136210341,
+        "ExchangeRateId": 13621,
+        "Id": 136211
+    },
+    {
+        "EquipmentId": 136210641,
+        "ExchangeRateId": 13621,
+        "Id": 136212
+    },
+    {
+        "EquipmentId": 136210941,
+        "ExchangeRateId": 13621,
+        "Id": 136213
+    },
+    {
+        "EquipmentId": 136211241,
+        "ExchangeRateId": 13621,
+        "Id": 136214
+    },
+    {
+        "EquipmentId": 136211351,
+        "ExchangeRateId": 13621,
+        "Id": 136215
+    },
+    {
+        "EquipmentId": 136310340,
+        "ExchangeRateId": 13630,
+        "Id": 136301
+    },
+    {
+        "EquipmentId": 136310640,
+        "ExchangeRateId": 13630,
+        "Id": 136302
+    },
+    {
+        "EquipmentId": 136310940,
+        "ExchangeRateId": 13630,
+        "Id": 136303
+    },
+    {
+        "EquipmentId": 136311240,
+        "ExchangeRateId": 13630,
+        "Id": 136304
+    },
+    {
+        "EquipmentId": 136311350,
+        "ExchangeRateId": 13630,
+        "Id": 136305
+    },
+    {
+        "EquipmentId": 136311460,
+        "ExchangeRateId": 13630,
+        "Id": 136306
+    },
+    {
+        "EquipmentId": 137110340,
+        "ExchangeRateId": 13710,
+        "Id": 137101
+    },
+    {
+        "EquipmentId": 137110640,
+        "ExchangeRateId": 13710,
+        "Id": 137102
+    },
+    {
+        "EquipmentId": 137110940,
+        "ExchangeRateId": 13710,
+        "Id": 137103
+    },
+    {
+        "EquipmentId": 137111240,
+        "ExchangeRateId": 13710,
+        "Id": 137104
+    },
+    {
+        "EquipmentId": 137111350,
+        "ExchangeRateId": 13710,
+        "Id": 137105
+    },
+    {
+        "EquipmentId": 137111460,
+        "ExchangeRateId": 13710,
+        "Id": 137106
+    },
+    {
+        "EquipmentId": 137111461,
+        "ExchangeRateId": 13711,
+        "Id": 137107
+    },
+    {
+        "EquipmentId": 137110341,
+        "ExchangeRateId": 13711,
+        "Id": 137111
+    },
+    {
+        "EquipmentId": 137110641,
+        "ExchangeRateId": 13711,
+        "Id": 137112
+    },
+    {
+        "EquipmentId": 137110941,
+        "ExchangeRateId": 13711,
+        "Id": 137113
+    },
+    {
+        "EquipmentId": 137111241,
+        "ExchangeRateId": 13711,
+        "Id": 137114
+    },
+    {
+        "EquipmentId": 137111351,
+        "ExchangeRateId": 13711,
+        "Id": 137115
+    },
+    {
+        "EquipmentId": 137210340,
+        "ExchangeRateId": 13720,
+        "Id": 137201
+    },
+    {
+        "EquipmentId": 137210640,
+        "ExchangeRateId": 13720,
+        "Id": 137202
+    },
+    {
+        "EquipmentId": 137210940,
+        "ExchangeRateId": 13720,
+        "Id": 137203
+    },
+    {
+        "EquipmentId": 137211240,
+        "ExchangeRateId": 13720,
+        "Id": 137204
+    },
+    {
+        "EquipmentId": 137211350,
+        "ExchangeRateId": 13720,
+        "Id": 137205
+    },
+    {
+        "EquipmentId": 137211460,
+        "ExchangeRateId": 13720,
+        "Id": 137206
+    },
+    {
+        "EquipmentId": 137310340,
+        "ExchangeRateId": 13730,
+        "Id": 137301
+    },
+    {
+        "EquipmentId": 137310640,
+        "ExchangeRateId": 13730,
+        "Id": 137302
+    },
+    {
+        "EquipmentId": 137310940,
+        "ExchangeRateId": 13730,
+        "Id": 137303
+    },
+    {
+        "EquipmentId": 137311240,
+        "ExchangeRateId": 13730,
+        "Id": 137304
+    },
+    {
+        "EquipmentId": 137311350,
+        "ExchangeRateId": 13730,
+        "Id": 137305
+    },
+    {
+        "EquipmentId": 137311460,
+        "ExchangeRateId": 13730,
+        "Id": 137306
+    },
+    {
+        "EquipmentId": 138110340,
+        "ExchangeRateId": 13810,
+        "Id": 138101
+    },
+    {
+        "EquipmentId": 138110640,
+        "ExchangeRateId": 13810,
+        "Id": 138102
+    },
+    {
+        "EquipmentId": 138110940,
+        "ExchangeRateId": 13810,
+        "Id": 138103
+    },
+    {
+        "EquipmentId": 138111240,
+        "ExchangeRateId": 13810,
+        "Id": 138104
+    },
+    {
+        "EquipmentId": 138111350,
+        "ExchangeRateId": 13810,
+        "Id": 138105
+    },
+    {
+        "EquipmentId": 138111460,
+        "ExchangeRateId": 13810,
+        "Id": 138106
+    },
+    {
+        "EquipmentId": 138111461,
+        "ExchangeRateId": 13811,
+        "Id": 138107
+    },
+    {
+        "EquipmentId": 138110341,
+        "ExchangeRateId": 13811,
+        "Id": 138111
+    },
+    {
+        "EquipmentId": 138110641,
+        "ExchangeRateId": 13811,
+        "Id": 138112
+    },
+    {
+        "EquipmentId": 138110941,
+        "ExchangeRateId": 13811,
+        "Id": 138113
+    },
+    {
+        "EquipmentId": 138111241,
+        "ExchangeRateId": 13811,
+        "Id": 138114
+    },
+    {
+        "EquipmentId": 138111351,
+        "ExchangeRateId": 13811,
+        "Id": 138115
+    },
+    {
+        "EquipmentId": 138210340,
+        "ExchangeRateId": 13820,
+        "Id": 138201
+    },
+    {
+        "EquipmentId": 138210640,
+        "ExchangeRateId": 13820,
+        "Id": 138202
+    },
+    {
+        "EquipmentId": 138210940,
+        "ExchangeRateId": 13820,
+        "Id": 138203
+    },
+    {
+        "EquipmentId": 138211240,
+        "ExchangeRateId": 13820,
+        "Id": 138204
+    },
+    {
+        "EquipmentId": 138211350,
+        "ExchangeRateId": 13820,
+        "Id": 138205
+    },
+    {
+        "EquipmentId": 138211460,
+        "ExchangeRateId": 13820,
+        "Id": 138206
+    },
+    {
+        "EquipmentId": 138310340,
+        "ExchangeRateId": 13830,
+        "Id": 138301
+    },
+    {
+        "EquipmentId": 138310640,
+        "ExchangeRateId": 13830,
+        "Id": 138302
+    },
+    {
+        "EquipmentId": 138310940,
+        "ExchangeRateId": 13830,
+        "Id": 138303
+    },
+    {
+        "EquipmentId": 138311240,
+        "ExchangeRateId": 13830,
+        "Id": 138304
+    },
+    {
+        "EquipmentId": 138311350,
+        "ExchangeRateId": 13830,
+        "Id": 138305
+    },
+    {
+        "EquipmentId": 138311460,
+        "ExchangeRateId": 13830,
+        "Id": 138306
+    },
+    {
+        "EquipmentId": 138311461,
+        "ExchangeRateId": 13831,
+        "Id": 138307
+    },
+    {
+        "EquipmentId": 138310341,
+        "ExchangeRateId": 13831,
+        "Id": 138311
+    },
+    {
+        "EquipmentId": 138310641,
+        "ExchangeRateId": 13831,
+        "Id": 138312
+    },
+    {
+        "EquipmentId": 138310941,
+        "ExchangeRateId": 13831,
+        "Id": 138313
+    },
+    {
+        "EquipmentId": 138311241,
+        "ExchangeRateId": 13831,
+        "Id": 138314
+    },
+    {
+        "EquipmentId": 138311351,
+        "ExchangeRateId": 13831,
+        "Id": 138315
+    },
+    {
+        "EquipmentId": 139110340,
+        "ExchangeRateId": 13910,
+        "Id": 139101
+    },
+    {
+        "EquipmentId": 139110640,
+        "ExchangeRateId": 13910,
+        "Id": 139102
+    },
+    {
+        "EquipmentId": 139110940,
+        "ExchangeRateId": 13910,
+        "Id": 139103
+    },
+    {
+        "EquipmentId": 139111240,
+        "ExchangeRateId": 13910,
+        "Id": 139104
+    },
+    {
+        "EquipmentId": 139111350,
+        "ExchangeRateId": 13910,
+        "Id": 139105
+    },
+    {
+        "EquipmentId": 139111460,
+        "ExchangeRateId": 13910,
+        "Id": 139106
+    },
+    {
+        "EquipmentId": 139210340,
+        "ExchangeRateId": 13920,
+        "Id": 139201
+    },
+    {
+        "EquipmentId": 139210640,
+        "ExchangeRateId": 13920,
+        "Id": 139202
+    },
+    {
+        "EquipmentId": 139210940,
+        "ExchangeRateId": 13920,
+        "Id": 139203
+    },
+    {
+        "EquipmentId": 139211240,
+        "ExchangeRateId": 13920,
+        "Id": 139204
+    },
+    {
+        "EquipmentId": 139211350,
+        "ExchangeRateId": 13920,
+        "Id": 139205
+    },
+    {
+        "EquipmentId": 139211460,
+        "ExchangeRateId": 13920,
+        "Id": 139206
+    },
+    {
+        "EquipmentId": 139211461,
+        "ExchangeRateId": 13921,
+        "Id": 139207
+    },
+    {
+        "EquipmentId": 139210341,
+        "ExchangeRateId": 13921,
+        "Id": 139211
+    },
+    {
+        "EquipmentId": 139210641,
+        "ExchangeRateId": 13921,
+        "Id": 139212
+    },
+    {
+        "EquipmentId": 139210941,
+        "ExchangeRateId": 13921,
+        "Id": 139213
+    },
+    {
+        "EquipmentId": 139211241,
+        "ExchangeRateId": 13921,
+        "Id": 139214
+    },
+    {
+        "EquipmentId": 139211351,
+        "ExchangeRateId": 13921,
+        "Id": 139215
+    },
+    {
+        "EquipmentId": 139310340,
+        "ExchangeRateId": 13930,
+        "Id": 139301
+    },
+    {
+        "EquipmentId": 139310640,
+        "ExchangeRateId": 13930,
+        "Id": 139302
+    },
+    {
+        "EquipmentId": 139310940,
+        "ExchangeRateId": 13930,
+        "Id": 139303
+    },
+    {
+        "EquipmentId": 139311240,
+        "ExchangeRateId": 13930,
+        "Id": 139304
+    },
+    {
+        "EquipmentId": 139311350,
+        "ExchangeRateId": 13930,
+        "Id": 139305
+    },
+    {
+        "EquipmentId": 139311460,
+        "ExchangeRateId": 13930,
+        "Id": 139306
+    },
+    {
+        "EquipmentId": 139311461,
+        "ExchangeRateId": 13931,
+        "Id": 139307
+    },
+    {
+        "EquipmentId": 139310341,
+        "ExchangeRateId": 13931,
+        "Id": 139311
+    },
+    {
+        "EquipmentId": 139310641,
+        "ExchangeRateId": 13931,
+        "Id": 139312
+    },
+    {
+        "EquipmentId": 139310941,
+        "ExchangeRateId": 13931,
+        "Id": 139313
+    },
+    {
+        "EquipmentId": 139311241,
+        "ExchangeRateId": 13931,
+        "Id": 139314
+    },
+    {
+        "EquipmentId": 139311351,
+        "ExchangeRateId": 13931,
+        "Id": 139315
+    },
+    {
+        "EquipmentId": 140110340,
+        "ExchangeRateId": 14010,
+        "Id": 140101
+    },
+    {
+        "EquipmentId": 140110640,
+        "ExchangeRateId": 14010,
+        "Id": 140102
+    },
+    {
+        "EquipmentId": 140110940,
+        "ExchangeRateId": 14010,
+        "Id": 140103
+    },
+    {
+        "EquipmentId": 140111240,
+        "ExchangeRateId": 14010,
+        "Id": 140104
+    },
+    {
+        "EquipmentId": 140111350,
+        "ExchangeRateId": 14010,
+        "Id": 140105
+    },
+    {
+        "EquipmentId": 140111460,
+        "ExchangeRateId": 14010,
+        "Id": 140106
+    },
+    {
+        "EquipmentId": 140210340,
+        "ExchangeRateId": 14020,
+        "Id": 140201
+    },
+    {
+        "EquipmentId": 140210640,
+        "ExchangeRateId": 14020,
+        "Id": 140202
+    },
+    {
+        "EquipmentId": 140210940,
+        "ExchangeRateId": 14020,
+        "Id": 140203
+    },
+    {
+        "EquipmentId": 140211240,
+        "ExchangeRateId": 14020,
+        "Id": 140204
+    },
+    {
+        "EquipmentId": 140211350,
+        "ExchangeRateId": 14020,
+        "Id": 140205
+    },
+    {
+        "EquipmentId": 140211460,
+        "ExchangeRateId": 14020,
+        "Id": 140206
+    },
+    {
+        "EquipmentId": 140310340,
+        "ExchangeRateId": 14030,
+        "Id": 140301
+    },
+    {
+        "EquipmentId": 140310640,
+        "ExchangeRateId": 14030,
+        "Id": 140302
+    },
+    {
+        "EquipmentId": 140310940,
+        "ExchangeRateId": 14030,
+        "Id": 140303
+    },
+    {
+        "EquipmentId": 140311240,
+        "ExchangeRateId": 14030,
+        "Id": 140304
+    },
+    {
+        "EquipmentId": 140311350,
+        "ExchangeRateId": 14030,
+        "Id": 140305
+    },
+    {
+        "EquipmentId": 140311460,
+        "ExchangeRateId": 14030,
+        "Id": 140306
+    },
+    {
+        "EquipmentId": 141110340,
+        "ExchangeRateId": 14110,
+        "Id": 141101
+    },
+    {
+        "EquipmentId": 141110640,
+        "ExchangeRateId": 14110,
+        "Id": 141102
+    },
+    {
+        "EquipmentId": 141110940,
+        "ExchangeRateId": 14110,
+        "Id": 141103
+    },
+    {
+        "EquipmentId": 141111240,
+        "ExchangeRateId": 14110,
+        "Id": 141104
+    },
+    {
+        "EquipmentId": 141111350,
+        "ExchangeRateId": 14110,
+        "Id": 141105
+    },
+    {
+        "EquipmentId": 141111460,
+        "ExchangeRateId": 14110,
+        "Id": 141106
+    },
+    {
+        "EquipmentId": 141210340,
+        "ExchangeRateId": 14120,
+        "Id": 141201
+    },
+    {
+        "EquipmentId": 141210640,
+        "ExchangeRateId": 14120,
+        "Id": 141202
+    },
+    {
+        "EquipmentId": 141210940,
+        "ExchangeRateId": 14120,
+        "Id": 141203
+    },
+    {
+        "EquipmentId": 141211240,
+        "ExchangeRateId": 14120,
+        "Id": 141204
+    },
+    {
+        "EquipmentId": 141211350,
+        "ExchangeRateId": 14120,
+        "Id": 141205
+    },
+    {
+        "EquipmentId": 141211460,
+        "ExchangeRateId": 14120,
+        "Id": 141206
+    },
+    {
+        "EquipmentId": 141211461,
+        "ExchangeRateId": 14121,
+        "Id": 141207
+    },
+    {
+        "EquipmentId": 141210341,
+        "ExchangeRateId": 14121,
+        "Id": 141211
+    },
+    {
+        "EquipmentId": 141210641,
+        "ExchangeRateId": 14121,
+        "Id": 141212
+    },
+    {
+        "EquipmentId": 141210941,
+        "ExchangeRateId": 14121,
+        "Id": 141213
+    },
+    {
+        "EquipmentId": 141211241,
+        "ExchangeRateId": 14121,
+        "Id": 141214
+    },
+    {
+        "EquipmentId": 141211351,
+        "ExchangeRateId": 14121,
+        "Id": 141215
+    },
+    {
+        "EquipmentId": 141310340,
+        "ExchangeRateId": 14130,
+        "Id": 141301
+    },
+    {
+        "EquipmentId": 141310640,
+        "ExchangeRateId": 14130,
+        "Id": 141302
+    },
+    {
+        "EquipmentId": 141310940,
+        "ExchangeRateId": 14130,
+        "Id": 141303
+    },
+    {
+        "EquipmentId": 141311240,
+        "ExchangeRateId": 14130,
+        "Id": 141304
+    },
+    {
+        "EquipmentId": 141311350,
+        "ExchangeRateId": 14130,
+        "Id": 141305
+    },
+    {
+        "EquipmentId": 141311460,
+        "ExchangeRateId": 14130,
+        "Id": 141306
+    },
+    {
+        "EquipmentId": 141311461,
+        "ExchangeRateId": 14131,
+        "Id": 141307
+    },
+    {
+        "EquipmentId": 141310341,
+        "ExchangeRateId": 14131,
+        "Id": 141311
+    },
+    {
+        "EquipmentId": 141310641,
+        "ExchangeRateId": 14131,
+        "Id": 141312
+    },
+    {
+        "EquipmentId": 141310941,
+        "ExchangeRateId": 14131,
+        "Id": 141313
+    },
+    {
+        "EquipmentId": 141311241,
+        "ExchangeRateId": 14131,
+        "Id": 141314
+    },
+    {
+        "EquipmentId": 141311351,
+        "ExchangeRateId": 14131,
+        "Id": 141315
+    },
+    {
+        "EquipmentId": 142110340,
+        "ExchangeRateId": 14210,
+        "Id": 142101
+    },
+    {
+        "EquipmentId": 142110640,
+        "ExchangeRateId": 14210,
+        "Id": 142102
+    },
+    {
+        "EquipmentId": 142110940,
+        "ExchangeRateId": 14210,
+        "Id": 142103
+    },
+    {
+        "EquipmentId": 142111240,
+        "ExchangeRateId": 14210,
+        "Id": 142104
+    },
+    {
+        "EquipmentId": 142111350,
+        "ExchangeRateId": 14210,
+        "Id": 142105
+    },
+    {
+        "EquipmentId": 142111460,
+        "ExchangeRateId": 14210,
+        "Id": 142106
+    },
+    {
+        "EquipmentId": 142210340,
+        "ExchangeRateId": 14220,
+        "Id": 142201
+    },
+    {
+        "EquipmentId": 142210640,
+        "ExchangeRateId": 14220,
+        "Id": 142202
+    },
+    {
+        "EquipmentId": 142210940,
+        "ExchangeRateId": 14220,
+        "Id": 142203
+    },
+    {
+        "EquipmentId": 142211240,
+        "ExchangeRateId": 14220,
+        "Id": 142204
+    },
+    {
+        "EquipmentId": 142211350,
+        "ExchangeRateId": 14220,
+        "Id": 142205
+    },
+    {
+        "EquipmentId": 142211460,
+        "ExchangeRateId": 14220,
+        "Id": 142206
+    },
+    {
+        "EquipmentId": 142310340,
+        "ExchangeRateId": 14230,
+        "Id": 142301
+    },
+    {
+        "EquipmentId": 142310640,
+        "ExchangeRateId": 14230,
+        "Id": 142302
+    },
+    {
+        "EquipmentId": 142310940,
+        "ExchangeRateId": 14230,
+        "Id": 142303
+    },
+    {
+        "EquipmentId": 142311240,
+        "ExchangeRateId": 14230,
+        "Id": 142304
+    },
+    {
+        "EquipmentId": 142311350,
+        "ExchangeRateId": 14230,
+        "Id": 142305
+    },
+    {
+        "EquipmentId": 142311460,
+        "ExchangeRateId": 14230,
+        "Id": 142306
+    },
+    {
+        "EquipmentId": 143110340,
+        "ExchangeRateId": 14310,
+        "Id": 143101
+    },
+    {
+        "EquipmentId": 143110640,
+        "ExchangeRateId": 14310,
+        "Id": 143102
+    },
+    {
+        "EquipmentId": 143110940,
+        "ExchangeRateId": 14310,
+        "Id": 143103
+    },
+    {
+        "EquipmentId": 143111240,
+        "ExchangeRateId": 14310,
+        "Id": 143104
+    },
+    {
+        "EquipmentId": 143111350,
+        "ExchangeRateId": 14310,
+        "Id": 143105
+    },
+    {
+        "EquipmentId": 143111460,
+        "ExchangeRateId": 14310,
+        "Id": 143106
+    },
+    {
+        "EquipmentId": 143111461,
+        "ExchangeRateId": 14311,
+        "Id": 143107
+    },
+    {
+        "EquipmentId": 143110341,
+        "ExchangeRateId": 14311,
+        "Id": 143111
+    },
+    {
+        "EquipmentId": 143110641,
+        "ExchangeRateId": 14311,
+        "Id": 143112
+    },
+    {
+        "EquipmentId": 143110941,
+        "ExchangeRateId": 14311,
+        "Id": 143113
+    },
+    {
+        "EquipmentId": 143111241,
+        "ExchangeRateId": 14311,
+        "Id": 143114
+    },
+    {
+        "EquipmentId": 143111351,
+        "ExchangeRateId": 14311,
+        "Id": 143115
+    },
+    {
+        "EquipmentId": 143210340,
+        "ExchangeRateId": 14320,
+        "Id": 143201
+    },
+    {
+        "EquipmentId": 143210640,
+        "ExchangeRateId": 14320,
+        "Id": 143202
+    },
+    {
+        "EquipmentId": 143210940,
+        "ExchangeRateId": 14320,
+        "Id": 143203
+    },
+    {
+        "EquipmentId": 143211240,
+        "ExchangeRateId": 14320,
+        "Id": 143204
+    },
+    {
+        "EquipmentId": 143211350,
+        "ExchangeRateId": 14320,
+        "Id": 143205
+    },
+    {
+        "EquipmentId": 143211460,
+        "ExchangeRateId": 14320,
+        "Id": 143206
+    },
+    {
+        "EquipmentId": 143211461,
+        "ExchangeRateId": 14321,
+        "Id": 143207
+    },
+    {
+        "EquipmentId": 143210341,
+        "ExchangeRateId": 14321,
+        "Id": 143211
+    },
+    {
+        "EquipmentId": 143210641,
+        "ExchangeRateId": 14321,
+        "Id": 143212
+    },
+    {
+        "EquipmentId": 143210941,
+        "ExchangeRateId": 14321,
+        "Id": 143213
+    },
+    {
+        "EquipmentId": 143211241,
+        "ExchangeRateId": 14321,
+        "Id": 143214
+    },
+    {
+        "EquipmentId": 143211351,
+        "ExchangeRateId": 14321,
+        "Id": 143215
+    },
+    {
+        "EquipmentId": 143310340,
+        "ExchangeRateId": 14330,
+        "Id": 143301
+    },
+    {
+        "EquipmentId": 143310640,
+        "ExchangeRateId": 14330,
+        "Id": 143302
+    },
+    {
+        "EquipmentId": 143310940,
+        "ExchangeRateId": 14330,
+        "Id": 143303
+    },
+    {
+        "EquipmentId": 143311240,
+        "ExchangeRateId": 14330,
+        "Id": 143304
+    },
+    {
+        "EquipmentId": 143311350,
+        "ExchangeRateId": 14330,
+        "Id": 143305
+    },
+    {
+        "EquipmentId": 143311460,
+        "ExchangeRateId": 14330,
+        "Id": 143306
+    },
+    {
+        "EquipmentId": 144110340,
+        "ExchangeRateId": 14410,
+        "Id": 144101
+    },
+    {
+        "EquipmentId": 144110640,
+        "ExchangeRateId": 14410,
+        "Id": 144102
+    },
+    {
+        "EquipmentId": 144110940,
+        "ExchangeRateId": 14410,
+        "Id": 144103
+    },
+    {
+        "EquipmentId": 144111240,
+        "ExchangeRateId": 14410,
+        "Id": 144104
+    },
+    {
+        "EquipmentId": 144111350,
+        "ExchangeRateId": 14410,
+        "Id": 144105
+    },
+    {
+        "EquipmentId": 144111460,
+        "ExchangeRateId": 14410,
+        "Id": 144106
+    },
+    {
+        "EquipmentId": 144210340,
+        "ExchangeRateId": 14420,
+        "Id": 144201
+    },
+    {
+        "EquipmentId": 144210640,
+        "ExchangeRateId": 14420,
+        "Id": 144202
+    },
+    {
+        "EquipmentId": 144210940,
+        "ExchangeRateId": 14420,
+        "Id": 144203
+    },
+    {
+        "EquipmentId": 144211240,
+        "ExchangeRateId": 14420,
+        "Id": 144204
+    },
+    {
+        "EquipmentId": 144211350,
+        "ExchangeRateId": 14420,
+        "Id": 144205
+    },
+    {
+        "EquipmentId": 144211460,
+        "ExchangeRateId": 14420,
+        "Id": 144206
+    },
+    {
+        "EquipmentId": 144211461,
+        "ExchangeRateId": 14421,
+        "Id": 144207
+    },
+    {
+        "EquipmentId": 144210341,
+        "ExchangeRateId": 14421,
+        "Id": 144211
+    },
+    {
+        "EquipmentId": 144210641,
+        "ExchangeRateId": 14421,
+        "Id": 144212
+    },
+    {
+        "EquipmentId": 144210941,
+        "ExchangeRateId": 14421,
+        "Id": 144213
+    },
+    {
+        "EquipmentId": 144211241,
+        "ExchangeRateId": 14421,
+        "Id": 144214
+    },
+    {
+        "EquipmentId": 144211351,
+        "ExchangeRateId": 14421,
+        "Id": 144215
+    },
+    {
+        "EquipmentId": 144310340,
+        "ExchangeRateId": 14430,
+        "Id": 144301
+    },
+    {
+        "EquipmentId": 144310640,
+        "ExchangeRateId": 14430,
+        "Id": 144302
+    },
+    {
+        "EquipmentId": 144310940,
+        "ExchangeRateId": 14430,
+        "Id": 144303
+    },
+    {
+        "EquipmentId": 144311240,
+        "ExchangeRateId": 14430,
+        "Id": 144304
+    },
+    {
+        "EquipmentId": 144311350,
+        "ExchangeRateId": 14430,
+        "Id": 144305
+    },
+    {
+        "EquipmentId": 144311460,
+        "ExchangeRateId": 14430,
+        "Id": 144306
+    },
+    {
+        "EquipmentId": 145110340,
+        "ExchangeRateId": 14510,
+        "Id": 145101
+    },
+    {
+        "EquipmentId": 145110640,
+        "ExchangeRateId": 14510,
+        "Id": 145102
+    },
+    {
+        "EquipmentId": 145110940,
+        "ExchangeRateId": 14510,
+        "Id": 145103
+    },
+    {
+        "EquipmentId": 145111240,
+        "ExchangeRateId": 14510,
+        "Id": 145104
+    },
+    {
+        "EquipmentId": 145111350,
+        "ExchangeRateId": 14510,
+        "Id": 145105
+    },
+    {
+        "EquipmentId": 145111460,
+        "ExchangeRateId": 14510,
+        "Id": 145106
+    },
+    {
+        "EquipmentId": 145111461,
+        "ExchangeRateId": 14511,
+        "Id": 145107
+    },
+    {
+        "EquipmentId": 145111462,
+        "ExchangeRateId": 14512,
+        "Id": 145108
+    },
+    {
+        "EquipmentId": 145110341,
+        "ExchangeRateId": 14511,
+        "Id": 145111
+    },
+    {
+        "EquipmentId": 145110641,
+        "ExchangeRateId": 14511,
+        "Id": 145112
+    },
+    {
+        "EquipmentId": 145110941,
+        "ExchangeRateId": 14511,
+        "Id": 145113
+    },
+    {
+        "EquipmentId": 145111241,
+        "ExchangeRateId": 14511,
+        "Id": 145114
+    },
+    {
+        "EquipmentId": 145111351,
+        "ExchangeRateId": 14511,
+        "Id": 145115
+    },
+    {
+        "EquipmentId": 145110342,
+        "ExchangeRateId": 14512,
+        "Id": 145121
+    },
+    {
+        "EquipmentId": 145110642,
+        "ExchangeRateId": 14512,
+        "Id": 145122
+    },
+    {
+        "EquipmentId": 145110942,
+        "ExchangeRateId": 14512,
+        "Id": 145123
+    },
+    {
+        "EquipmentId": 145111242,
+        "ExchangeRateId": 14512,
+        "Id": 145124
+    },
+    {
+        "EquipmentId": 145111352,
+        "ExchangeRateId": 14512,
+        "Id": 145125
+    },
+    {
+        "EquipmentId": 145210340,
+        "ExchangeRateId": 14520,
+        "Id": 145201
+    },
+    {
+        "EquipmentId": 145210640,
+        "ExchangeRateId": 14520,
+        "Id": 145202
+    },
+    {
+        "EquipmentId": 145210940,
+        "ExchangeRateId": 14520,
+        "Id": 145203
+    },
+    {
+        "EquipmentId": 145211240,
+        "ExchangeRateId": 14520,
+        "Id": 145204
+    },
+    {
+        "EquipmentId": 145211350,
+        "ExchangeRateId": 14520,
+        "Id": 145205
+    },
+    {
+        "EquipmentId": 145211460,
+        "ExchangeRateId": 14520,
+        "Id": 145206
+    },
+    {
+        "EquipmentId": 145310340,
+        "ExchangeRateId": 14530,
+        "Id": 145301
+    },
+    {
+        "EquipmentId": 145310640,
+        "ExchangeRateId": 14530,
+        "Id": 145302
+    },
+    {
+        "EquipmentId": 145310940,
+        "ExchangeRateId": 14530,
+        "Id": 145303
+    },
+    {
+        "EquipmentId": 145311240,
+        "ExchangeRateId": 14530,
+        "Id": 145304
+    },
+    {
+        "EquipmentId": 145311350,
+        "ExchangeRateId": 14530,
+        "Id": 145305
+    },
+    {
+        "EquipmentId": 145311460,
+        "ExchangeRateId": 14530,
+        "Id": 145306
+    },
+    {
+        "EquipmentId": 146110340,
+        "ExchangeRateId": 14610,
+        "Id": 146101
+    },
+    {
+        "EquipmentId": 146110640,
+        "ExchangeRateId": 14610,
+        "Id": 146102
+    },
+    {
+        "EquipmentId": 146110940,
+        "ExchangeRateId": 14610,
+        "Id": 146103
+    },
+    {
+        "EquipmentId": 146111240,
+        "ExchangeRateId": 14610,
+        "Id": 146104
+    },
+    {
+        "EquipmentId": 146111350,
+        "ExchangeRateId": 14610,
+        "Id": 146105
+    },
+    {
+        "EquipmentId": 146111460,
+        "ExchangeRateId": 14610,
+        "Id": 146106
+    },
+    {
+        "EquipmentId": 146111461,
+        "ExchangeRateId": 14611,
+        "Id": 146107
+    },
+    {
+        "EquipmentId": 146111462,
+        "ExchangeRateId": 14612,
+        "Id": 146108
+    },
+    {
+        "EquipmentId": 146110341,
+        "ExchangeRateId": 14611,
+        "Id": 146111
+    },
+    {
+        "EquipmentId": 146110641,
+        "ExchangeRateId": 14611,
+        "Id": 146112
+    },
+    {
+        "EquipmentId": 146110941,
+        "ExchangeRateId": 14611,
+        "Id": 146113
+    },
+    {
+        "EquipmentId": 146111241,
+        "ExchangeRateId": 14611,
+        "Id": 146114
+    },
+    {
+        "EquipmentId": 146111351,
+        "ExchangeRateId": 14611,
+        "Id": 146115
+    },
+    {
+        "EquipmentId": 146110342,
+        "ExchangeRateId": 14612,
+        "Id": 146121
+    },
+    {
+        "EquipmentId": 146110642,
+        "ExchangeRateId": 14612,
+        "Id": 146122
+    },
+    {
+        "EquipmentId": 146110942,
+        "ExchangeRateId": 14612,
+        "Id": 146123
+    },
+    {
+        "EquipmentId": 146111242,
+        "ExchangeRateId": 14612,
+        "Id": 146124
+    },
+    {
+        "EquipmentId": 146111352,
+        "ExchangeRateId": 14612,
+        "Id": 146125
+    },
+    {
+        "EquipmentId": 146210340,
+        "ExchangeRateId": 14620,
+        "Id": 146201
+    },
+    {
+        "EquipmentId": 146210640,
+        "ExchangeRateId": 14620,
+        "Id": 146202
+    },
+    {
+        "EquipmentId": 146210940,
+        "ExchangeRateId": 14620,
+        "Id": 146203
+    },
+    {
+        "EquipmentId": 146211240,
+        "ExchangeRateId": 14620,
+        "Id": 146204
+    },
+    {
+        "EquipmentId": 146211350,
+        "ExchangeRateId": 14620,
+        "Id": 146205
+    },
+    {
+        "EquipmentId": 146211460,
+        "ExchangeRateId": 14620,
+        "Id": 146206
+    },
+    {
+        "EquipmentId": 146310340,
+        "ExchangeRateId": 14630,
+        "Id": 146301
+    },
+    {
+        "EquipmentId": 146310640,
+        "ExchangeRateId": 14630,
+        "Id": 146302
+    },
+    {
+        "EquipmentId": 146310940,
+        "ExchangeRateId": 14630,
+        "Id": 146303
+    },
+    {
+        "EquipmentId": 146311240,
+        "ExchangeRateId": 14630,
+        "Id": 146304
+    },
+    {
+        "EquipmentId": 146311350,
+        "ExchangeRateId": 14630,
+        "Id": 146305
+    },
+    {
+        "EquipmentId": 146311460,
+        "ExchangeRateId": 14630,
+        "Id": 146306
+    },
+    {
+        "EquipmentId": 147110340,
+        "ExchangeRateId": 14710,
+        "Id": 147101
+    },
+    {
+        "EquipmentId": 147110640,
+        "ExchangeRateId": 14710,
+        "Id": 147102
+    },
+    {
+        "EquipmentId": 147110940,
+        "ExchangeRateId": 14710,
+        "Id": 147103
+    },
+    {
+        "EquipmentId": 147111240,
+        "ExchangeRateId": 14710,
+        "Id": 147104
+    },
+    {
+        "EquipmentId": 147111350,
+        "ExchangeRateId": 14710,
+        "Id": 147105
+    },
+    {
+        "EquipmentId": 147111460,
+        "ExchangeRateId": 14710,
+        "Id": 147106
+    },
+    {
+        "EquipmentId": 147210340,
+        "ExchangeRateId": 14720,
+        "Id": 147201
+    },
+    {
+        "EquipmentId": 147210640,
+        "ExchangeRateId": 14720,
+        "Id": 147202
+    },
+    {
+        "EquipmentId": 147210940,
+        "ExchangeRateId": 14720,
+        "Id": 147203
+    },
+    {
+        "EquipmentId": 147211240,
+        "ExchangeRateId": 14720,
+        "Id": 147204
+    },
+    {
+        "EquipmentId": 147211350,
+        "ExchangeRateId": 14720,
+        "Id": 147205
+    },
+    {
+        "EquipmentId": 147211460,
+        "ExchangeRateId": 14720,
+        "Id": 147206
+    },
+    {
+        "EquipmentId": 147310340,
+        "ExchangeRateId": 14730,
+        "Id": 147301
+    },
+    {
+        "EquipmentId": 147310640,
+        "ExchangeRateId": 14730,
+        "Id": 147302
+    },
+    {
+        "EquipmentId": 147310940,
+        "ExchangeRateId": 14730,
+        "Id": 147303
+    },
+    {
+        "EquipmentId": 147311240,
+        "ExchangeRateId": 14730,
+        "Id": 147304
+    },
+    {
+        "EquipmentId": 147311350,
+        "ExchangeRateId": 14730,
+        "Id": 147305
+    },
+    {
+        "EquipmentId": 147311460,
+        "ExchangeRateId": 14730,
+        "Id": 147306
+    },
+    {
+        "EquipmentId": 148110340,
+        "ExchangeRateId": 14810,
+        "Id": 148101
+    },
+    {
+        "EquipmentId": 148110640,
+        "ExchangeRateId": 14810,
+        "Id": 148102
+    },
+    {
+        "EquipmentId": 148110940,
+        "ExchangeRateId": 14810,
+        "Id": 148103
+    },
+    {
+        "EquipmentId": 148111240,
+        "ExchangeRateId": 14810,
+        "Id": 148104
+    },
+    {
+        "EquipmentId": 148111350,
+        "ExchangeRateId": 14810,
+        "Id": 148105
+    },
+    {
+        "EquipmentId": 148111460,
+        "ExchangeRateId": 14810,
+        "Id": 148106
+    },
+    {
+        "EquipmentId": 148210340,
+        "ExchangeRateId": 14820,
+        "Id": 148201
+    },
+    {
+        "EquipmentId": 148210640,
+        "ExchangeRateId": 14820,
+        "Id": 148202
+    },
+    {
+        "EquipmentId": 148210940,
+        "ExchangeRateId": 14820,
+        "Id": 148203
+    },
+    {
+        "EquipmentId": 148211240,
+        "ExchangeRateId": 14820,
+        "Id": 148204
+    },
+    {
+        "EquipmentId": 148211350,
+        "ExchangeRateId": 14820,
+        "Id": 148205
+    },
+    {
+        "EquipmentId": 148211460,
+        "ExchangeRateId": 14820,
+        "Id": 148206
+    },
+    {
+        "EquipmentId": 148211461,
+        "ExchangeRateId": 14821,
+        "Id": 148207
+    },
+    {
+        "EquipmentId": 148210341,
+        "ExchangeRateId": 14821,
+        "Id": 148211
+    },
+    {
+        "EquipmentId": 148210641,
+        "ExchangeRateId": 14821,
+        "Id": 148212
+    },
+    {
+        "EquipmentId": 148210941,
+        "ExchangeRateId": 14821,
+        "Id": 148213
+    },
+    {
+        "EquipmentId": 148211241,
+        "ExchangeRateId": 14821,
+        "Id": 148214
+    },
+    {
+        "EquipmentId": 148211351,
+        "ExchangeRateId": 14821,
+        "Id": 148215
+    },
+    {
+        "EquipmentId": 148310340,
+        "ExchangeRateId": 14830,
+        "Id": 148301
+    },
+    {
+        "EquipmentId": 148310640,
+        "ExchangeRateId": 14830,
+        "Id": 148302
+    },
+    {
+        "EquipmentId": 148310940,
+        "ExchangeRateId": 14830,
+        "Id": 148303
+    },
+    {
+        "EquipmentId": 148311240,
+        "ExchangeRateId": 14830,
+        "Id": 148304
+    },
+    {
+        "EquipmentId": 148311350,
+        "ExchangeRateId": 14830,
+        "Id": 148305
+    },
+    {
+        "EquipmentId": 148311460,
+        "ExchangeRateId": 14830,
+        "Id": 148306
+    },
+    {
+        "EquipmentId": 148311461,
+        "ExchangeRateId": 14831,
+        "Id": 148307
+    },
+    {
+        "EquipmentId": 148310341,
+        "ExchangeRateId": 14831,
+        "Id": 148311
+    },
+    {
+        "EquipmentId": 148310641,
+        "ExchangeRateId": 14831,
+        "Id": 148312
+    },
+    {
+        "EquipmentId": 148310941,
+        "ExchangeRateId": 14831,
+        "Id": 148313
+    },
+    {
+        "EquipmentId": 148311241,
+        "ExchangeRateId": 14831,
+        "Id": 148314
+    },
+    {
+        "EquipmentId": 148311351,
+        "ExchangeRateId": 14831,
+        "Id": 148315
+    },
+    {
+        "EquipmentId": 149110340,
+        "ExchangeRateId": 14910,
+        "Id": 149101
+    },
+    {
+        "EquipmentId": 149110640,
+        "ExchangeRateId": 14910,
+        "Id": 149102
+    },
+    {
+        "EquipmentId": 149110940,
+        "ExchangeRateId": 14910,
+        "Id": 149103
+    },
+    {
+        "EquipmentId": 149111240,
+        "ExchangeRateId": 14910,
+        "Id": 149104
+    },
+    {
+        "EquipmentId": 149111350,
+        "ExchangeRateId": 14910,
+        "Id": 149105
+    },
+    {
+        "EquipmentId": 149111460,
+        "ExchangeRateId": 14910,
+        "Id": 149106
+    },
+    {
+        "EquipmentId": 149210340,
+        "ExchangeRateId": 14920,
+        "Id": 149201
+    },
+    {
+        "EquipmentId": 149210640,
+        "ExchangeRateId": 14920,
+        "Id": 149202
+    },
+    {
+        "EquipmentId": 149210940,
+        "ExchangeRateId": 14920,
+        "Id": 149203
+    },
+    {
+        "EquipmentId": 149211240,
+        "ExchangeRateId": 14920,
+        "Id": 149204
+    },
+    {
+        "EquipmentId": 149211350,
+        "ExchangeRateId": 14920,
+        "Id": 149205
+    },
+    {
+        "EquipmentId": 149211460,
+        "ExchangeRateId": 14920,
+        "Id": 149206
+    },
+    {
+        "EquipmentId": 149211461,
+        "ExchangeRateId": 14921,
+        "Id": 149207
+    },
+    {
+        "EquipmentId": 149210341,
+        "ExchangeRateId": 14921,
+        "Id": 149211
+    },
+    {
+        "EquipmentId": 149210641,
+        "ExchangeRateId": 14921,
+        "Id": 149212
+    },
+    {
+        "EquipmentId": 149210941,
+        "ExchangeRateId": 14921,
+        "Id": 149213
+    },
+    {
+        "EquipmentId": 149211241,
+        "ExchangeRateId": 14921,
+        "Id": 149214
+    },
+    {
+        "EquipmentId": 149211351,
+        "ExchangeRateId": 14921,
+        "Id": 149215
+    },
+    {
+        "EquipmentId": 149310340,
+        "ExchangeRateId": 14930,
+        "Id": 149301
+    },
+    {
+        "EquipmentId": 149310640,
+        "ExchangeRateId": 14930,
+        "Id": 149302
+    },
+    {
+        "EquipmentId": 149310940,
+        "ExchangeRateId": 14930,
+        "Id": 149303
+    },
+    {
+        "EquipmentId": 149311240,
+        "ExchangeRateId": 14930,
+        "Id": 149304
+    },
+    {
+        "EquipmentId": 149311350,
+        "ExchangeRateId": 14930,
+        "Id": 149305
+    },
+    {
+        "EquipmentId": 149311460,
+        "ExchangeRateId": 14930,
+        "Id": 149306
+    },
+    {
+        "EquipmentId": 149311461,
+        "ExchangeRateId": 14931,
+        "Id": 149307
+    },
+    {
+        "EquipmentId": 149310341,
+        "ExchangeRateId": 14931,
+        "Id": 149311
+    },
+    {
+        "EquipmentId": 149310641,
+        "ExchangeRateId": 14931,
+        "Id": 149312
+    },
+    {
+        "EquipmentId": 149310941,
+        "ExchangeRateId": 14931,
+        "Id": 149313
+    },
+    {
+        "EquipmentId": 149311241,
+        "ExchangeRateId": 14931,
+        "Id": 149314
+    },
+    {
+        "EquipmentId": 149311351,
+        "ExchangeRateId": 14931,
+        "Id": 149315
+    },
+    {
+        "EquipmentId": 150110340,
+        "ExchangeRateId": 15010,
+        "Id": 150101
+    },
+    {
+        "EquipmentId": 150110640,
+        "ExchangeRateId": 15010,
+        "Id": 150102
+    },
+    {
+        "EquipmentId": 150110940,
+        "ExchangeRateId": 15010,
+        "Id": 150103
+    },
+    {
+        "EquipmentId": 150111240,
+        "ExchangeRateId": 15010,
+        "Id": 150104
+    },
+    {
+        "EquipmentId": 150111350,
+        "ExchangeRateId": 15010,
+        "Id": 150105
+    },
+    {
+        "EquipmentId": 150111460,
+        "ExchangeRateId": 15010,
+        "Id": 150106
+    },
+    {
+        "EquipmentId": 150111461,
+        "ExchangeRateId": 15011,
+        "Id": 150107
+    },
+    {
+        "EquipmentId": 150110341,
+        "ExchangeRateId": 15011,
+        "Id": 150111
+    },
+    {
+        "EquipmentId": 150110641,
+        "ExchangeRateId": 15011,
+        "Id": 150112
+    },
+    {
+        "EquipmentId": 150110941,
+        "ExchangeRateId": 15011,
+        "Id": 150113
+    },
+    {
+        "EquipmentId": 150111241,
+        "ExchangeRateId": 15011,
+        "Id": 150114
+    },
+    {
+        "EquipmentId": 150111351,
+        "ExchangeRateId": 15011,
+        "Id": 150115
+    },
+    {
+        "EquipmentId": 150210340,
+        "ExchangeRateId": 15020,
+        "Id": 150201
+    },
+    {
+        "EquipmentId": 150210640,
+        "ExchangeRateId": 15020,
+        "Id": 150202
+    },
+    {
+        "EquipmentId": 150210940,
+        "ExchangeRateId": 15020,
+        "Id": 150203
+    },
+    {
+        "EquipmentId": 150211240,
+        "ExchangeRateId": 15020,
+        "Id": 150204
+    },
+    {
+        "EquipmentId": 150211350,
+        "ExchangeRateId": 15020,
+        "Id": 150205
+    },
+    {
+        "EquipmentId": 150211460,
+        "ExchangeRateId": 15020,
+        "Id": 150206
+    },
+    {
+        "EquipmentId": 150211461,
+        "ExchangeRateId": 15021,
+        "Id": 150207
+    },
+    {
+        "EquipmentId": 150210341,
+        "ExchangeRateId": 15021,
+        "Id": 150211
+    },
+    {
+        "EquipmentId": 150210641,
+        "ExchangeRateId": 15021,
+        "Id": 150212
+    },
+    {
+        "EquipmentId": 150210941,
+        "ExchangeRateId": 15021,
+        "Id": 150213
+    },
+    {
+        "EquipmentId": 150211241,
+        "ExchangeRateId": 15021,
+        "Id": 150214
+    },
+    {
+        "EquipmentId": 150211351,
+        "ExchangeRateId": 15021,
+        "Id": 150215
+    },
+    {
+        "EquipmentId": 150310340,
+        "ExchangeRateId": 15030,
+        "Id": 150301
+    },
+    {
+        "EquipmentId": 150310640,
+        "ExchangeRateId": 15030,
+        "Id": 150302
+    },
+    {
+        "EquipmentId": 150310940,
+        "ExchangeRateId": 15030,
+        "Id": 150303
+    },
+    {
+        "EquipmentId": 150311240,
+        "ExchangeRateId": 15030,
+        "Id": 150304
+    },
+    {
+        "EquipmentId": 150311350,
+        "ExchangeRateId": 15030,
+        "Id": 150305
+    },
+    {
+        "EquipmentId": 150311460,
+        "ExchangeRateId": 15030,
+        "Id": 150306
+    },
+    {
+        "EquipmentId": 151110340,
+        "ExchangeRateId": 15110,
+        "Id": 151101
+    },
+    {
+        "EquipmentId": 151110640,
+        "ExchangeRateId": 15110,
+        "Id": 151102
+    },
+    {
+        "EquipmentId": 151110940,
+        "ExchangeRateId": 15110,
+        "Id": 151103
+    },
+    {
+        "EquipmentId": 151111240,
+        "ExchangeRateId": 15110,
+        "Id": 151104
+    },
+    {
+        "EquipmentId": 151111350,
+        "ExchangeRateId": 15110,
+        "Id": 151105
+    },
+    {
+        "EquipmentId": 151111460,
+        "ExchangeRateId": 15110,
+        "Id": 151106
+    },
+    {
+        "EquipmentId": 151111461,
+        "ExchangeRateId": 15111,
+        "Id": 151107
+    },
+    {
+        "EquipmentId": 151110341,
+        "ExchangeRateId": 15111,
+        "Id": 151111
+    },
+    {
+        "EquipmentId": 151110641,
+        "ExchangeRateId": 15111,
+        "Id": 151112
+    },
+    {
+        "EquipmentId": 151110941,
+        "ExchangeRateId": 15111,
+        "Id": 151113
+    },
+    {
+        "EquipmentId": 151111241,
+        "ExchangeRateId": 15111,
+        "Id": 151114
+    },
+    {
+        "EquipmentId": 151111351,
+        "ExchangeRateId": 15111,
+        "Id": 151115
+    },
+    {
+        "EquipmentId": 151210340,
+        "ExchangeRateId": 15120,
+        "Id": 151201
+    },
+    {
+        "EquipmentId": 151210640,
+        "ExchangeRateId": 15120,
+        "Id": 151202
+    },
+    {
+        "EquipmentId": 151210940,
+        "ExchangeRateId": 15120,
+        "Id": 151203
+    },
+    {
+        "EquipmentId": 151211240,
+        "ExchangeRateId": 15120,
+        "Id": 151204
+    },
+    {
+        "EquipmentId": 151211350,
+        "ExchangeRateId": 15120,
+        "Id": 151205
+    },
+    {
+        "EquipmentId": 151211460,
+        "ExchangeRateId": 15120,
+        "Id": 151206
+    },
+    {
+        "EquipmentId": 151310340,
+        "ExchangeRateId": 15130,
+        "Id": 151301
+    },
+    {
+        "EquipmentId": 151310640,
+        "ExchangeRateId": 15130,
+        "Id": 151302
+    },
+    {
+        "EquipmentId": 151310940,
+        "ExchangeRateId": 15130,
+        "Id": 151303
+    },
+    {
+        "EquipmentId": 151311240,
+        "ExchangeRateId": 15130,
+        "Id": 151304
+    },
+    {
+        "EquipmentId": 151311350,
+        "ExchangeRateId": 15130,
+        "Id": 151305
+    },
+    {
+        "EquipmentId": 151311460,
+        "ExchangeRateId": 15130,
+        "Id": 151306
+    },
+    {
+        "EquipmentId": 151311461,
+        "ExchangeRateId": 15131,
+        "Id": 151307
+    },
+    {
+        "EquipmentId": 151310341,
+        "ExchangeRateId": 15131,
+        "Id": 151311
+    },
+    {
+        "EquipmentId": 151310641,
+        "ExchangeRateId": 15131,
+        "Id": 151312
+    },
+    {
+        "EquipmentId": 151310941,
+        "ExchangeRateId": 15131,
+        "Id": 151313
+    },
+    {
+        "EquipmentId": 151311241,
+        "ExchangeRateId": 15131,
+        "Id": 151314
+    },
+    {
+        "EquipmentId": 151311351,
+        "ExchangeRateId": 15131,
+        "Id": 151315
+    },
+    {
+        "EquipmentId": 152110340,
+        "ExchangeRateId": 15210,
+        "Id": 152101
+    },
+    {
+        "EquipmentId": 152110640,
+        "ExchangeRateId": 15210,
+        "Id": 152102
+    },
+    {
+        "EquipmentId": 152110940,
+        "ExchangeRateId": 15210,
+        "Id": 152103
+    },
+    {
+        "EquipmentId": 152111240,
+        "ExchangeRateId": 15210,
+        "Id": 152104
+    },
+    {
+        "EquipmentId": 152111350,
+        "ExchangeRateId": 15210,
+        "Id": 152105
+    },
+    {
+        "EquipmentId": 152111460,
+        "ExchangeRateId": 15210,
+        "Id": 152106
+    },
+    {
+        "EquipmentId": 152111461,
+        "ExchangeRateId": 15211,
+        "Id": 152107
+    },
+    {
+        "EquipmentId": 152111462,
+        "ExchangeRateId": 15212,
+        "Id": 152108
+    },
+    {
+        "EquipmentId": 152110341,
+        "ExchangeRateId": 15211,
+        "Id": 152111
+    },
+    {
+        "EquipmentId": 152110641,
+        "ExchangeRateId": 15211,
+        "Id": 152112
+    },
+    {
+        "EquipmentId": 152110941,
+        "ExchangeRateId": 15211,
+        "Id": 152113
+    },
+    {
+        "EquipmentId": 152111241,
+        "ExchangeRateId": 15211,
+        "Id": 152114
+    },
+    {
+        "EquipmentId": 152111351,
+        "ExchangeRateId": 15211,
+        "Id": 152115
+    },
+    {
+        "EquipmentId": 152110342,
+        "ExchangeRateId": 15212,
+        "Id": 152121
+    },
+    {
+        "EquipmentId": 152110642,
+        "ExchangeRateId": 15212,
+        "Id": 152122
+    },
+    {
+        "EquipmentId": 152110942,
+        "ExchangeRateId": 15212,
+        "Id": 152123
+    },
+    {
+        "EquipmentId": 152111242,
+        "ExchangeRateId": 15212,
+        "Id": 152124
+    },
+    {
+        "EquipmentId": 152111352,
+        "ExchangeRateId": 15212,
+        "Id": 152125
+    },
+    {
+        "EquipmentId": 152210340,
+        "ExchangeRateId": 15220,
+        "Id": 152201
+    },
+    {
+        "EquipmentId": 152210640,
+        "ExchangeRateId": 15220,
+        "Id": 152202
+    },
+    {
+        "EquipmentId": 152210940,
+        "ExchangeRateId": 15220,
+        "Id": 152203
+    },
+    {
+        "EquipmentId": 152211240,
+        "ExchangeRateId": 15220,
+        "Id": 152204
+    },
+    {
+        "EquipmentId": 152211350,
+        "ExchangeRateId": 15220,
+        "Id": 152205
+    },
+    {
+        "EquipmentId": 152211460,
+        "ExchangeRateId": 15220,
+        "Id": 152206
+    },
+    {
+        "EquipmentId": 152310340,
+        "ExchangeRateId": 15230,
+        "Id": 152301
+    },
+    {
+        "EquipmentId": 152310640,
+        "ExchangeRateId": 15230,
+        "Id": 152302
+    },
+    {
+        "EquipmentId": 152310940,
+        "ExchangeRateId": 15230,
+        "Id": 152303
+    },
+    {
+        "EquipmentId": 152311240,
+        "ExchangeRateId": 15230,
+        "Id": 152304
+    },
+    {
+        "EquipmentId": 152311350,
+        "ExchangeRateId": 15230,
+        "Id": 152305
+    },
+    {
+        "EquipmentId": 152311460,
+        "ExchangeRateId": 15230,
+        "Id": 152306
+    },
+    {
+        "EquipmentId": 153110340,
+        "ExchangeRateId": 15310,
+        "Id": 153101
+    },
+    {
+        "EquipmentId": 153110640,
+        "ExchangeRateId": 15310,
+        "Id": 153102
+    },
+    {
+        "EquipmentId": 153110940,
+        "ExchangeRateId": 15310,
+        "Id": 153103
+    },
+    {
+        "EquipmentId": 153111240,
+        "ExchangeRateId": 15310,
+        "Id": 153104
+    },
+    {
+        "EquipmentId": 153111350,
+        "ExchangeRateId": 15310,
+        "Id": 153105
+    },
+    {
+        "EquipmentId": 153111460,
+        "ExchangeRateId": 15310,
+        "Id": 153106
+    },
+    {
+        "EquipmentId": 153210340,
+        "ExchangeRateId": 15320,
+        "Id": 153201
+    },
+    {
+        "EquipmentId": 153210640,
+        "ExchangeRateId": 15320,
+        "Id": 153202
+    },
+    {
+        "EquipmentId": 153210940,
+        "ExchangeRateId": 15320,
+        "Id": 153203
+    },
+    {
+        "EquipmentId": 153211240,
+        "ExchangeRateId": 15320,
+        "Id": 153204
+    },
+    {
+        "EquipmentId": 153211350,
+        "ExchangeRateId": 15320,
+        "Id": 153205
+    },
+    {
+        "EquipmentId": 153211460,
+        "ExchangeRateId": 15320,
+        "Id": 153206
+    },
+    {
+        "EquipmentId": 153310340,
+        "ExchangeRateId": 15330,
+        "Id": 153301
+    },
+    {
+        "EquipmentId": 153310640,
+        "ExchangeRateId": 15330,
+        "Id": 153302
+    },
+    {
+        "EquipmentId": 153310940,
+        "ExchangeRateId": 15330,
+        "Id": 153303
+    },
+    {
+        "EquipmentId": 153311240,
+        "ExchangeRateId": 15330,
+        "Id": 153304
+    },
+    {
+        "EquipmentId": 153311350,
+        "ExchangeRateId": 15330,
+        "Id": 153305
+    },
+    {
+        "EquipmentId": 153311460,
+        "ExchangeRateId": 15330,
+        "Id": 153306
+    },
+    {
+        "EquipmentId": 153311461,
+        "ExchangeRateId": 15331,
+        "Id": 153307
+    },
+    {
+        "EquipmentId": 153311462,
+        "ExchangeRateId": 15332,
+        "Id": 153308
+    },
+    {
+        "EquipmentId": 153310341,
+        "ExchangeRateId": 15331,
+        "Id": 153311
+    },
+    {
+        "EquipmentId": 153310641,
+        "ExchangeRateId": 15331,
+        "Id": 153312
+    },
+    {
+        "EquipmentId": 153310941,
+        "ExchangeRateId": 15331,
+        "Id": 153313
+    },
+    {
+        "EquipmentId": 153311241,
+        "ExchangeRateId": 15331,
+        "Id": 153314
+    },
+    {
+        "EquipmentId": 153311351,
+        "ExchangeRateId": 15331,
+        "Id": 153315
+    },
+    {
+        "EquipmentId": 153310342,
+        "ExchangeRateId": 15332,
+        "Id": 153321
+    },
+    {
+        "EquipmentId": 153310642,
+        "ExchangeRateId": 15332,
+        "Id": 153322
+    },
+    {
+        "EquipmentId": 153310942,
+        "ExchangeRateId": 15332,
+        "Id": 153323
+    },
+    {
+        "EquipmentId": 153311242,
+        "ExchangeRateId": 15332,
+        "Id": 153324
+    },
+    {
+        "EquipmentId": 153311352,
+        "ExchangeRateId": 15332,
+        "Id": 153325
+    },
+    {
+        "EquipmentId": 154110340,
+        "ExchangeRateId": 15410,
+        "Id": 154101
+    },
+    {
+        "EquipmentId": 154110640,
+        "ExchangeRateId": 15410,
+        "Id": 154102
+    },
+    {
+        "EquipmentId": 154110940,
+        "ExchangeRateId": 15410,
+        "Id": 154103
+    },
+    {
+        "EquipmentId": 154111240,
+        "ExchangeRateId": 15410,
+        "Id": 154104
+    },
+    {
+        "EquipmentId": 154111350,
+        "ExchangeRateId": 15410,
+        "Id": 154105
+    },
+    {
+        "EquipmentId": 154111460,
+        "ExchangeRateId": 15410,
+        "Id": 154106
+    },
+    {
+        "EquipmentId": 154111461,
+        "ExchangeRateId": 15411,
+        "Id": 154107
+    },
+    {
+        "EquipmentId": 154110341,
+        "ExchangeRateId": 15411,
+        "Id": 154111
+    },
+    {
+        "EquipmentId": 154110641,
+        "ExchangeRateId": 15411,
+        "Id": 154112
+    },
+    {
+        "EquipmentId": 154110941,
+        "ExchangeRateId": 15411,
+        "Id": 154113
+    },
+    {
+        "EquipmentId": 154111241,
+        "ExchangeRateId": 15411,
+        "Id": 154114
+    },
+    {
+        "EquipmentId": 154111351,
+        "ExchangeRateId": 15411,
+        "Id": 154115
+    },
+    {
+        "EquipmentId": 154210340,
+        "ExchangeRateId": 15420,
+        "Id": 154201
+    },
+    {
+        "EquipmentId": 154210640,
+        "ExchangeRateId": 15420,
+        "Id": 154202
+    },
+    {
+        "EquipmentId": 154210940,
+        "ExchangeRateId": 15420,
+        "Id": 154203
+    },
+    {
+        "EquipmentId": 154211240,
+        "ExchangeRateId": 15420,
+        "Id": 154204
+    },
+    {
+        "EquipmentId": 154211350,
+        "ExchangeRateId": 15420,
+        "Id": 154205
+    },
+    {
+        "EquipmentId": 154211460,
+        "ExchangeRateId": 15420,
+        "Id": 154206
+    },
+    {
+        "EquipmentId": 154310340,
+        "ExchangeRateId": 15430,
+        "Id": 154301
+    },
+    {
+        "EquipmentId": 154310640,
+        "ExchangeRateId": 15430,
+        "Id": 154302
+    },
+    {
+        "EquipmentId": 154310940,
+        "ExchangeRateId": 15430,
+        "Id": 154303
+    },
+    {
+        "EquipmentId": 154311240,
+        "ExchangeRateId": 15430,
+        "Id": 154304
+    },
+    {
+        "EquipmentId": 154311350,
+        "ExchangeRateId": 15430,
+        "Id": 154305
+    },
+    {
+        "EquipmentId": 154311460,
+        "ExchangeRateId": 15430,
+        "Id": 154306
+    },
+    {
+        "EquipmentId": 154311461,
+        "ExchangeRateId": 15431,
+        "Id": 154307
+    },
+    {
+        "EquipmentId": 154310341,
+        "ExchangeRateId": 15431,
+        "Id": 154311
+    },
+    {
+        "EquipmentId": 154310641,
+        "ExchangeRateId": 15431,
+        "Id": 154312
+    },
+    {
+        "EquipmentId": 154310941,
+        "ExchangeRateId": 15431,
+        "Id": 154313
+    },
+    {
+        "EquipmentId": 154311241,
+        "ExchangeRateId": 15431,
+        "Id": 154314
+    },
+    {
+        "EquipmentId": 154311351,
+        "ExchangeRateId": 15431,
+        "Id": 154315
+    },
+    {
+        "EquipmentId": 155110340,
+        "ExchangeRateId": 15510,
+        "Id": 155101
+    },
+    {
+        "EquipmentId": 155110640,
+        "ExchangeRateId": 15510,
+        "Id": 155102
+    },
+    {
+        "EquipmentId": 155110940,
+        "ExchangeRateId": 15510,
+        "Id": 155103
+    },
+    {
+        "EquipmentId": 155111240,
+        "ExchangeRateId": 15510,
+        "Id": 155104
+    },
+    {
+        "EquipmentId": 155111350,
+        "ExchangeRateId": 15510,
+        "Id": 155105
+    },
+    {
+        "EquipmentId": 155111460,
+        "ExchangeRateId": 15510,
+        "Id": 155106
+    },
+    {
+        "EquipmentId": 155210340,
+        "ExchangeRateId": 15520,
+        "Id": 155201
+    },
+    {
+        "EquipmentId": 155210640,
+        "ExchangeRateId": 15520,
+        "Id": 155202
+    },
+    {
+        "EquipmentId": 155210940,
+        "ExchangeRateId": 15520,
+        "Id": 155203
+    },
+    {
+        "EquipmentId": 155211240,
+        "ExchangeRateId": 15520,
+        "Id": 155204
+    },
+    {
+        "EquipmentId": 155211350,
+        "ExchangeRateId": 15520,
+        "Id": 155205
+    },
+    {
+        "EquipmentId": 155211460,
+        "ExchangeRateId": 15520,
+        "Id": 155206
+    },
+    {
+        "EquipmentId": 155211461,
+        "ExchangeRateId": 15521,
+        "Id": 155207
+    },
+    {
+        "EquipmentId": 155210341,
+        "ExchangeRateId": 15521,
+        "Id": 155211
+    },
+    {
+        "EquipmentId": 155210641,
+        "ExchangeRateId": 15521,
+        "Id": 155212
+    },
+    {
+        "EquipmentId": 155210941,
+        "ExchangeRateId": 15521,
+        "Id": 155213
+    },
+    {
+        "EquipmentId": 155211241,
+        "ExchangeRateId": 15521,
+        "Id": 155214
+    },
+    {
+        "EquipmentId": 155211341,
+        "ExchangeRateId": 15521,
+        "Id": 155215
+    },
+    {
+        "EquipmentId": 155310340,
+        "ExchangeRateId": 15530,
+        "Id": 155301
+    },
+    {
+        "EquipmentId": 155310640,
+        "ExchangeRateId": 15530,
+        "Id": 155302
+    },
+    {
+        "EquipmentId": 155310940,
+        "ExchangeRateId": 15530,
+        "Id": 155303
+    },
+    {
+        "EquipmentId": 155311240,
+        "ExchangeRateId": 15530,
+        "Id": 155304
+    },
+    {
+        "EquipmentId": 155311350,
+        "ExchangeRateId": 15530,
+        "Id": 155305
+    },
+    {
+        "EquipmentId": 155311460,
+        "ExchangeRateId": 15530,
+        "Id": 155306
+    },
+    {
+        "EquipmentId": 155311461,
+        "ExchangeRateId": 15531,
+        "Id": 155307
+    },
+    {
+        "EquipmentId": 155310341,
+        "ExchangeRateId": 15531,
+        "Id": 155311
+    },
+    {
+        "EquipmentId": 155310641,
+        "ExchangeRateId": 15531,
+        "Id": 155312
+    },
+    {
+        "EquipmentId": 155310941,
+        "ExchangeRateId": 15531,
+        "Id": 155313
+    },
+    {
+        "EquipmentId": 155311241,
+        "ExchangeRateId": 15531,
+        "Id": 155314
+    },
+    {
+        "EquipmentId": 155311351,
+        "ExchangeRateId": 15531,
+        "Id": 155315
+    },
+    {
+        "EquipmentId": 156110340,
+        "ExchangeRateId": 15610,
+        "Id": 156101
+    },
+    {
+        "EquipmentId": 156110640,
+        "ExchangeRateId": 15610,
+        "Id": 156102
+    },
+    {
+        "EquipmentId": 156110940,
+        "ExchangeRateId": 15610,
+        "Id": 156103
+    },
+    {
+        "EquipmentId": 156111240,
+        "ExchangeRateId": 15610,
+        "Id": 156104
+    },
+    {
+        "EquipmentId": 156111350,
+        "ExchangeRateId": 15610,
+        "Id": 156105
+    },
+    {
+        "EquipmentId": 156111460,
+        "ExchangeRateId": 15610,
+        "Id": 156106
+    },
+    {
+        "EquipmentId": 156210340,
+        "ExchangeRateId": 15620,
+        "Id": 156201
+    },
+    {
+        "EquipmentId": 156210640,
+        "ExchangeRateId": 15620,
+        "Id": 156202
+    },
+    {
+        "EquipmentId": 156210940,
+        "ExchangeRateId": 15620,
+        "Id": 156203
+    },
+    {
+        "EquipmentId": 156211240,
+        "ExchangeRateId": 15620,
+        "Id": 156204
+    },
+    {
+        "EquipmentId": 156211350,
+        "ExchangeRateId": 15620,
+        "Id": 156205
+    },
+    {
+        "EquipmentId": 156211460,
+        "ExchangeRateId": 15620,
+        "Id": 156206
+    },
+    {
+        "EquipmentId": 156310340,
+        "ExchangeRateId": 15630,
+        "Id": 156301
+    },
+    {
+        "EquipmentId": 156310640,
+        "ExchangeRateId": 15630,
+        "Id": 156302
+    },
+    {
+        "EquipmentId": 156310940,
+        "ExchangeRateId": 15630,
+        "Id": 156303
+    },
+    {
+        "EquipmentId": 156311240,
+        "ExchangeRateId": 15630,
+        "Id": 156304
+    },
+    {
+        "EquipmentId": 156311350,
+        "ExchangeRateId": 15630,
+        "Id": 156305
+    },
+    {
+        "EquipmentId": 156311460,
+        "ExchangeRateId": 15630,
+        "Id": 156306
+    },
+    {
+        "EquipmentId": 156311461,
+        "ExchangeRateId": 15631,
+        "Id": 156307
+    },
+    {
+        "EquipmentId": 156311462,
+        "ExchangeRateId": 15632,
+        "Id": 156308
+    },
+    {
+        "EquipmentId": 156310341,
+        "ExchangeRateId": 15631,
+        "Id": 156311
+    },
+    {
+        "EquipmentId": 156310641,
+        "ExchangeRateId": 15631,
+        "Id": 156312
+    },
+    {
+        "EquipmentId": 156310941,
+        "ExchangeRateId": 15631,
+        "Id": 156313
+    },
+    {
+        "EquipmentId": 156311241,
+        "ExchangeRateId": 15631,
+        "Id": 156314
+    },
+    {
+        "EquipmentId": 156311341,
+        "ExchangeRateId": 15631,
+        "Id": 156315
+    },
+    {
+        "EquipmentId": 156310342,
+        "ExchangeRateId": 15632,
+        "Id": 156321
+    },
+    {
+        "EquipmentId": 156310642,
+        "ExchangeRateId": 15632,
+        "Id": 156322
+    },
+    {
+        "EquipmentId": 156310942,
+        "ExchangeRateId": 15632,
+        "Id": 156323
+    },
+    {
+        "EquipmentId": 156311242,
+        "ExchangeRateId": 15632,
+        "Id": 156324
+    },
+    {
+        "EquipmentId": 156311352,
+        "ExchangeRateId": 15632,
+        "Id": 156325
+    },
+    {
+        "EquipmentId": 157110340,
+        "ExchangeRateId": 15710,
+        "Id": 157101
+    },
+    {
+        "EquipmentId": 157110640,
+        "ExchangeRateId": 15710,
+        "Id": 157102
+    },
+    {
+        "EquipmentId": 157110940,
+        "ExchangeRateId": 15710,
+        "Id": 157103
+    },
+    {
+        "EquipmentId": 157111240,
+        "ExchangeRateId": 15710,
+        "Id": 157104
+    },
+    {
+        "EquipmentId": 157111350,
+        "ExchangeRateId": 15710,
+        "Id": 157105
+    },
+    {
+        "EquipmentId": 157111460,
+        "ExchangeRateId": 15710,
+        "Id": 157106
+    },
+    {
+        "EquipmentId": 157111461,
+        "ExchangeRateId": 15711,
+        "Id": 157107
+    },
+    {
+        "EquipmentId": 157110341,
+        "ExchangeRateId": 15711,
+        "Id": 157111
+    },
+    {
+        "EquipmentId": 157110641,
+        "ExchangeRateId": 15711,
+        "Id": 157112
+    },
+    {
+        "EquipmentId": 157110941,
+        "ExchangeRateId": 15711,
+        "Id": 157113
+    },
+    {
+        "EquipmentId": 157111241,
+        "ExchangeRateId": 15711,
+        "Id": 157114
+    },
+    {
+        "EquipmentId": 157111351,
+        "ExchangeRateId": 15711,
+        "Id": 157115
+    },
+    {
+        "EquipmentId": 157210340,
+        "ExchangeRateId": 15720,
+        "Id": 157201
+    },
+    {
+        "EquipmentId": 157210640,
+        "ExchangeRateId": 15720,
+        "Id": 157202
+    },
+    {
+        "EquipmentId": 157210940,
+        "ExchangeRateId": 15720,
+        "Id": 157203
+    },
+    {
+        "EquipmentId": 157211240,
+        "ExchangeRateId": 15720,
+        "Id": 157204
+    },
+    {
+        "EquipmentId": 157211350,
+        "ExchangeRateId": 15720,
+        "Id": 157205
+    },
+    {
+        "EquipmentId": 157211460,
+        "ExchangeRateId": 15720,
+        "Id": 157206
+    },
+    {
+        "EquipmentId": 157310340,
+        "ExchangeRateId": 15730,
+        "Id": 157301
+    },
+    {
+        "EquipmentId": 157310640,
+        "ExchangeRateId": 15730,
+        "Id": 157302
+    },
+    {
+        "EquipmentId": 157310940,
+        "ExchangeRateId": 15730,
+        "Id": 157303
+    },
+    {
+        "EquipmentId": 157311240,
+        "ExchangeRateId": 15730,
+        "Id": 157304
+    },
+    {
+        "EquipmentId": 157311350,
+        "ExchangeRateId": 15730,
+        "Id": 157305
+    },
+    {
+        "EquipmentId": 157311460,
+        "ExchangeRateId": 15730,
+        "Id": 157306
+    },
+    {
+        "EquipmentId": 157311461,
+        "ExchangeRateId": 15731,
+        "Id": 157307
+    },
+    {
+        "EquipmentId": 157310341,
+        "ExchangeRateId": 15731,
+        "Id": 157311
+    },
+    {
+        "EquipmentId": 157310641,
+        "ExchangeRateId": 15731,
+        "Id": 157312
+    },
+    {
+        "EquipmentId": 157310941,
+        "ExchangeRateId": 15731,
+        "Id": 157313
+    },
+    {
+        "EquipmentId": 157311241,
+        "ExchangeRateId": 15731,
+        "Id": 157314
+    },
+    {
+        "EquipmentId": 157311351,
+        "ExchangeRateId": 15731,
+        "Id": 157315
+    },
+    {
+        "EquipmentId": 158110340,
+        "ExchangeRateId": 15810,
+        "Id": 158101
+    },
+    {
+        "EquipmentId": 158110640,
+        "ExchangeRateId": 15810,
+        "Id": 158102
+    },
+    {
+        "EquipmentId": 158110940,
+        "ExchangeRateId": 15810,
+        "Id": 158103
+    },
+    {
+        "EquipmentId": 158111240,
+        "ExchangeRateId": 15810,
+        "Id": 158104
+    },
+    {
+        "EquipmentId": 158111350,
+        "ExchangeRateId": 15810,
+        "Id": 158105
+    },
+    {
+        "EquipmentId": 158111460,
+        "ExchangeRateId": 15810,
+        "Id": 158106
+    },
+    {
+        "EquipmentId": 158111461,
+        "ExchangeRateId": 15811,
+        "Id": 158107
+    },
+    {
+        "EquipmentId": 158110341,
+        "ExchangeRateId": 15811,
+        "Id": 158111
+    },
+    {
+        "EquipmentId": 158110641,
+        "ExchangeRateId": 15811,
+        "Id": 158112
+    },
+    {
+        "EquipmentId": 158110941,
+        "ExchangeRateId": 15811,
+        "Id": 158113
+    },
+    {
+        "EquipmentId": 158111241,
+        "ExchangeRateId": 15811,
+        "Id": 158114
+    },
+    {
+        "EquipmentId": 158111351,
+        "ExchangeRateId": 15811,
+        "Id": 158115
+    },
+    {
+        "EquipmentId": 158210340,
+        "ExchangeRateId": 15820,
+        "Id": 158201
+    },
+    {
+        "EquipmentId": 158210640,
+        "ExchangeRateId": 15820,
+        "Id": 158202
+    },
+    {
+        "EquipmentId": 158210940,
+        "ExchangeRateId": 15820,
+        "Id": 158203
+    },
+    {
+        "EquipmentId": 158211240,
+        "ExchangeRateId": 15820,
+        "Id": 158204
+    },
+    {
+        "EquipmentId": 158211350,
+        "ExchangeRateId": 15820,
+        "Id": 158205
+    },
+    {
+        "EquipmentId": 158211460,
+        "ExchangeRateId": 15820,
+        "Id": 158206
+    },
+    {
+        "EquipmentId": 158211461,
+        "ExchangeRateId": 15821,
+        "Id": 158207
+    },
+    {
+        "EquipmentId": 158210341,
+        "ExchangeRateId": 15821,
+        "Id": 158211
+    },
+    {
+        "EquipmentId": 158210641,
+        "ExchangeRateId": 15821,
+        "Id": 158212
+    },
+    {
+        "EquipmentId": 158210941,
+        "ExchangeRateId": 15821,
+        "Id": 158213
+    },
+    {
+        "EquipmentId": 158211241,
+        "ExchangeRateId": 15821,
+        "Id": 158214
+    },
+    {
+        "EquipmentId": 158211351,
+        "ExchangeRateId": 15821,
+        "Id": 158215
+    },
+    {
+        "EquipmentId": 158310340,
+        "ExchangeRateId": 15830,
+        "Id": 158301
+    },
+    {
+        "EquipmentId": 158310640,
+        "ExchangeRateId": 15830,
+        "Id": 158302
+    },
+    {
+        "EquipmentId": 158310940,
+        "ExchangeRateId": 15830,
+        "Id": 158303
+    },
+    {
+        "EquipmentId": 158311240,
+        "ExchangeRateId": 15830,
+        "Id": 158304
+    },
+    {
+        "EquipmentId": 158311350,
+        "ExchangeRateId": 15830,
+        "Id": 158305
+    },
+    {
+        "EquipmentId": 158311460,
+        "ExchangeRateId": 15830,
+        "Id": 158306
+    },
+    {
+        "EquipmentId": 159110340,
+        "ExchangeRateId": 15910,
+        "Id": 159101
+    },
+    {
+        "EquipmentId": 159110640,
+        "ExchangeRateId": 15910,
+        "Id": 159102
+    },
+    {
+        "EquipmentId": 159110940,
+        "ExchangeRateId": 15910,
+        "Id": 159103
+    },
+    {
+        "EquipmentId": 159111240,
+        "ExchangeRateId": 15910,
+        "Id": 159104
+    },
+    {
+        "EquipmentId": 159111350,
+        "ExchangeRateId": 15910,
+        "Id": 159105
+    },
+    {
+        "EquipmentId": 159111460,
+        "ExchangeRateId": 15910,
+        "Id": 159106
+    },
+    {
+        "EquipmentId": 159111461,
+        "ExchangeRateId": 15911,
+        "Id": 159107
+    },
+    {
+        "EquipmentId": 159110341,
+        "ExchangeRateId": 15911,
+        "Id": 159111
+    },
+    {
+        "EquipmentId": 159110641,
+        "ExchangeRateId": 15911,
+        "Id": 159112
+    },
+    {
+        "EquipmentId": 159110941,
+        "ExchangeRateId": 15911,
+        "Id": 159113
+    },
+    {
+        "EquipmentId": 159111241,
+        "ExchangeRateId": 15911,
+        "Id": 159114
+    },
+    {
+        "EquipmentId": 159111351,
+        "ExchangeRateId": 15911,
+        "Id": 159115
+    },
+    {
+        "EquipmentId": 159210340,
+        "ExchangeRateId": 15920,
+        "Id": 159201
+    },
+    {
+        "EquipmentId": 159210640,
+        "ExchangeRateId": 15920,
+        "Id": 159202
+    },
+    {
+        "EquipmentId": 159210940,
+        "ExchangeRateId": 15920,
+        "Id": 159203
+    },
+    {
+        "EquipmentId": 159211240,
+        "ExchangeRateId": 15920,
+        "Id": 159204
+    },
+    {
+        "EquipmentId": 159211350,
+        "ExchangeRateId": 15920,
+        "Id": 159205
+    },
+    {
+        "EquipmentId": 159211460,
+        "ExchangeRateId": 15920,
+        "Id": 159206
+    },
+    {
+        "EquipmentId": 159211461,
+        "ExchangeRateId": 15921,
+        "Id": 159207
+    },
+    {
+        "EquipmentId": 159210341,
+        "ExchangeRateId": 15921,
+        "Id": 159211
+    },
+    {
+        "EquipmentId": 159210641,
+        "ExchangeRateId": 15921,
+        "Id": 159212
+    },
+    {
+        "EquipmentId": 159210941,
+        "ExchangeRateId": 15921,
+        "Id": 159213
+    },
+    {
+        "EquipmentId": 159211241,
+        "ExchangeRateId": 15921,
+        "Id": 159214
+    },
+    {
+        "EquipmentId": 159211351,
+        "ExchangeRateId": 15921,
+        "Id": 159215
+    },
+    {
+        "EquipmentId": 159310340,
+        "ExchangeRateId": 15930,
+        "Id": 159301
+    },
+    {
+        "EquipmentId": 159310640,
+        "ExchangeRateId": 15930,
+        "Id": 159302
+    },
+    {
+        "EquipmentId": 159310940,
+        "ExchangeRateId": 15930,
+        "Id": 159303
+    },
+    {
+        "EquipmentId": 159311240,
+        "ExchangeRateId": 15930,
+        "Id": 159304
+    },
+    {
+        "EquipmentId": 159311350,
+        "ExchangeRateId": 15930,
+        "Id": 159305
+    },
+    {
+        "EquipmentId": 159311460,
+        "ExchangeRateId": 15930,
+        "Id": 159306
+    },
+    {
+        "EquipmentId": 160110340,
+        "ExchangeRateId": 16010,
+        "Id": 160101
+    },
+    {
+        "EquipmentId": 160110640,
+        "ExchangeRateId": 16010,
+        "Id": 160102
+    },
+    {
+        "EquipmentId": 160110940,
+        "ExchangeRateId": 16010,
+        "Id": 160103
+    },
+    {
+        "EquipmentId": 160111240,
+        "ExchangeRateId": 16010,
+        "Id": 160104
+    },
+    {
+        "EquipmentId": 160111350,
+        "ExchangeRateId": 16010,
+        "Id": 160105
+    },
+    {
+        "EquipmentId": 160111460,
+        "ExchangeRateId": 16010,
+        "Id": 160106
+    },
+    {
+        "EquipmentId": 160111461,
+        "ExchangeRateId": 16011,
+        "Id": 160107
+    },
+    {
+        "EquipmentId": 160110341,
+        "ExchangeRateId": 16011,
+        "Id": 160111
+    },
+    {
+        "EquipmentId": 160110641,
+        "ExchangeRateId": 16011,
+        "Id": 160112
+    },
+    {
+        "EquipmentId": 160110941,
+        "ExchangeRateId": 16011,
+        "Id": 160113
+    },
+    {
+        "EquipmentId": 160111241,
+        "ExchangeRateId": 16011,
+        "Id": 160114
+    },
+    {
+        "EquipmentId": 160111351,
+        "ExchangeRateId": 16011,
+        "Id": 160115
+    },
+    {
+        "EquipmentId": 160210340,
+        "ExchangeRateId": 16020,
+        "Id": 160201
+    },
+    {
+        "EquipmentId": 160210640,
+        "ExchangeRateId": 16020,
+        "Id": 160202
+    },
+    {
+        "EquipmentId": 160210940,
+        "ExchangeRateId": 16020,
+        "Id": 160203
+    },
+    {
+        "EquipmentId": 160211240,
+        "ExchangeRateId": 16020,
+        "Id": 160204
+    },
+    {
+        "EquipmentId": 160211350,
+        "ExchangeRateId": 16020,
+        "Id": 160205
+    },
+    {
+        "EquipmentId": 160211460,
+        "ExchangeRateId": 16020,
+        "Id": 160206
+    },
+    {
+        "EquipmentId": 160310340,
+        "ExchangeRateId": 16030,
+        "Id": 160301
+    },
+    {
+        "EquipmentId": 160310640,
+        "ExchangeRateId": 16030,
+        "Id": 160302
+    },
+    {
+        "EquipmentId": 160310940,
+        "ExchangeRateId": 16030,
+        "Id": 160303
+    },
+    {
+        "EquipmentId": 160311240,
+        "ExchangeRateId": 16030,
+        "Id": 160304
+    },
+    {
+        "EquipmentId": 160311350,
+        "ExchangeRateId": 16030,
+        "Id": 160305
+    },
+    {
+        "EquipmentId": 160311460,
+        "ExchangeRateId": 16030,
+        "Id": 160306
+    },
+    {
+        "EquipmentId": 160311461,
+        "ExchangeRateId": 16031,
+        "Id": 160307
+    },
+    {
+        "EquipmentId": 160310341,
+        "ExchangeRateId": 16031,
+        "Id": 160311
+    },
+    {
+        "EquipmentId": 160310641,
+        "ExchangeRateId": 16031,
+        "Id": 160312
+    },
+    {
+        "EquipmentId": 160310941,
+        "ExchangeRateId": 16031,
+        "Id": 160313
+    },
+    {
+        "EquipmentId": 160311241,
+        "ExchangeRateId": 16031,
+        "Id": 160314
+    },
+    {
+        "EquipmentId": 160311351,
+        "ExchangeRateId": 16031,
+        "Id": 160315
+    },
+    {
+        "EquipmentId": 161110340,
+        "ExchangeRateId": 16110,
+        "Id": 161101
+    },
+    {
+        "EquipmentId": 161110640,
+        "ExchangeRateId": 16110,
+        "Id": 161102
+    },
+    {
+        "EquipmentId": 161110940,
+        "ExchangeRateId": 16110,
+        "Id": 161103
+    },
+    {
+        "EquipmentId": 161111240,
+        "ExchangeRateId": 16110,
+        "Id": 161104
+    },
+    {
+        "EquipmentId": 161111350,
+        "ExchangeRateId": 16110,
+        "Id": 161105
+    },
+    {
+        "EquipmentId": 161111460,
+        "ExchangeRateId": 16110,
+        "Id": 161106
+    },
+    {
+        "EquipmentId": 161210340,
+        "ExchangeRateId": 16120,
+        "Id": 161201
+    },
+    {
+        "EquipmentId": 161210640,
+        "ExchangeRateId": 16120,
+        "Id": 161202
+    },
+    {
+        "EquipmentId": 161210940,
+        "ExchangeRateId": 16120,
+        "Id": 161203
+    },
+    {
+        "EquipmentId": 161211240,
+        "ExchangeRateId": 16120,
+        "Id": 161204
+    },
+    {
+        "EquipmentId": 161211350,
+        "ExchangeRateId": 16120,
+        "Id": 161205
+    },
+    {
+        "EquipmentId": 161211460,
+        "ExchangeRateId": 16120,
+        "Id": 161206
+    },
+    {
+        "EquipmentId": 161211461,
+        "ExchangeRateId": 16121,
+        "Id": 161207
+    },
+    {
+        "EquipmentId": 161211462,
+        "ExchangeRateId": 16122,
+        "Id": 161208
+    },
+    {
+        "EquipmentId": 161210341,
+        "ExchangeRateId": 16121,
+        "Id": 161211
+    },
+    {
+        "EquipmentId": 161210641,
+        "ExchangeRateId": 16121,
+        "Id": 161212
+    },
+    {
+        "EquipmentId": 161210941,
+        "ExchangeRateId": 16121,
+        "Id": 161213
+    },
+    {
+        "EquipmentId": 161211241,
+        "ExchangeRateId": 16121,
+        "Id": 161214
+    },
+    {
+        "EquipmentId": 161211351,
+        "ExchangeRateId": 16121,
+        "Id": 161215
+    },
+    {
+        "EquipmentId": 161210342,
+        "ExchangeRateId": 16122,
+        "Id": 161221
+    },
+    {
+        "EquipmentId": 161210642,
+        "ExchangeRateId": 16122,
+        "Id": 161222
+    },
+    {
+        "EquipmentId": 161210942,
+        "ExchangeRateId": 16122,
+        "Id": 161223
+    },
+    {
+        "EquipmentId": 161211242,
+        "ExchangeRateId": 16122,
+        "Id": 161224
+    },
+    {
+        "EquipmentId": 161211352,
+        "ExchangeRateId": 16122,
+        "Id": 161225
+    },
+    {
+        "EquipmentId": 161310340,
+        "ExchangeRateId": 16130,
+        "Id": 161301
+    },
+    {
+        "EquipmentId": 161310640,
+        "ExchangeRateId": 16130,
+        "Id": 161302
+    },
+    {
+        "EquipmentId": 161310940,
+        "ExchangeRateId": 16130,
+        "Id": 161303
+    },
+    {
+        "EquipmentId": 161311240,
+        "ExchangeRateId": 16130,
+        "Id": 161304
+    },
+    {
+        "EquipmentId": 161311350,
+        "ExchangeRateId": 16130,
+        "Id": 161305
+    },
+    {
+        "EquipmentId": 161311460,
+        "ExchangeRateId": 16130,
+        "Id": 161306
+    },
+    {
+        "EquipmentId": 162110340,
+        "ExchangeRateId": 16210,
+        "Id": 162101
+    },
+    {
+        "EquipmentId": 162110640,
+        "ExchangeRateId": 16210,
+        "Id": 162102
+    },
+    {
+        "EquipmentId": 162110940,
+        "ExchangeRateId": 16210,
+        "Id": 162103
+    },
+    {
+        "EquipmentId": 162111240,
+        "ExchangeRateId": 16210,
+        "Id": 162104
+    },
+    {
+        "EquipmentId": 162111350,
+        "ExchangeRateId": 16210,
+        "Id": 162105
+    },
+    {
+        "EquipmentId": 162111460,
+        "ExchangeRateId": 16210,
+        "Id": 162106
+    },
+    {
+        "EquipmentId": 162210340,
+        "ExchangeRateId": 16220,
+        "Id": 162201
+    },
+    {
+        "EquipmentId": 162210640,
+        "ExchangeRateId": 16220,
+        "Id": 162202
+    },
+    {
+        "EquipmentId": 162210940,
+        "ExchangeRateId": 16220,
+        "Id": 162203
+    },
+    {
+        "EquipmentId": 162211240,
+        "ExchangeRateId": 16220,
+        "Id": 162204
+    },
+    {
+        "EquipmentId": 162211350,
+        "ExchangeRateId": 16220,
+        "Id": 162205
+    },
+    {
+        "EquipmentId": 162211460,
+        "ExchangeRateId": 16220,
+        "Id": 162206
+    },
+    {
+        "EquipmentId": 162211461,
+        "ExchangeRateId": 16221,
+        "Id": 162207
+    },
+    {
+        "EquipmentId": 162211462,
+        "ExchangeRateId": 16222,
+        "Id": 162208
+    },
+    {
+        "EquipmentId": 162210341,
+        "ExchangeRateId": 16221,
+        "Id": 162211
+    },
+    {
+        "EquipmentId": 162210641,
+        "ExchangeRateId": 16221,
+        "Id": 162212
+    },
+    {
+        "EquipmentId": 162210941,
+        "ExchangeRateId": 16221,
+        "Id": 162213
+    },
+    {
+        "EquipmentId": 162211241,
+        "ExchangeRateId": 16221,
+        "Id": 162214
+    },
+    {
+        "EquipmentId": 162211341,
+        "ExchangeRateId": 16221,
+        "Id": 162215
+    },
+    {
+        "EquipmentId": 162210342,
+        "ExchangeRateId": 16222,
+        "Id": 162221
+    },
+    {
+        "EquipmentId": 162210642,
+        "ExchangeRateId": 16222,
+        "Id": 162222
+    },
+    {
+        "EquipmentId": 162210942,
+        "ExchangeRateId": 16222,
+        "Id": 162223
+    },
+    {
+        "EquipmentId": 162211242,
+        "ExchangeRateId": 16222,
+        "Id": 162224
+    },
+    {
+        "EquipmentId": 162211352,
+        "ExchangeRateId": 16222,
+        "Id": 162225
+    },
+    {
+        "EquipmentId": 162310340,
+        "ExchangeRateId": 16230,
+        "Id": 162301
+    },
+    {
+        "EquipmentId": 162310640,
+        "ExchangeRateId": 16230,
+        "Id": 162302
+    },
+    {
+        "EquipmentId": 162310940,
+        "ExchangeRateId": 16230,
+        "Id": 162303
+    },
+    {
+        "EquipmentId": 162311240,
+        "ExchangeRateId": 16230,
+        "Id": 162304
+    },
+    {
+        "EquipmentId": 162311350,
+        "ExchangeRateId": 16230,
+        "Id": 162305
+    },
+    {
+        "EquipmentId": 162311460,
+        "ExchangeRateId": 16230,
+        "Id": 162306
+    },
+    {
+        "EquipmentId": 163110340,
+        "ExchangeRateId": 16310,
+        "Id": 163101
+    },
+    {
+        "EquipmentId": 163110640,
+        "ExchangeRateId": 16310,
+        "Id": 163102
+    },
+    {
+        "EquipmentId": 163110940,
+        "ExchangeRateId": 16310,
+        "Id": 163103
+    },
+    {
+        "EquipmentId": 163111240,
+        "ExchangeRateId": 16310,
+        "Id": 163104
+    },
+    {
+        "EquipmentId": 163111350,
+        "ExchangeRateId": 16310,
+        "Id": 163105
+    },
+    {
+        "EquipmentId": 163111460,
+        "ExchangeRateId": 16310,
+        "Id": 163106
+    },
+    {
+        "EquipmentId": 163210340,
+        "ExchangeRateId": 16320,
+        "Id": 163201
+    },
+    {
+        "EquipmentId": 163210640,
+        "ExchangeRateId": 16320,
+        "Id": 163202
+    },
+    {
+        "EquipmentId": 163210940,
+        "ExchangeRateId": 16320,
+        "Id": 163203
+    },
+    {
+        "EquipmentId": 163211240,
+        "ExchangeRateId": 16320,
+        "Id": 163204
+    },
+    {
+        "EquipmentId": 163211350,
+        "ExchangeRateId": 16320,
+        "Id": 163205
+    },
+    {
+        "EquipmentId": 163211460,
+        "ExchangeRateId": 16320,
+        "Id": 163206
+    },
+    {
+        "EquipmentId": 163310340,
+        "ExchangeRateId": 16330,
+        "Id": 163301
+    },
+    {
+        "EquipmentId": 163310640,
+        "ExchangeRateId": 16330,
+        "Id": 163302
+    },
+    {
+        "EquipmentId": 163310940,
+        "ExchangeRateId": 16330,
+        "Id": 163303
+    },
+    {
+        "EquipmentId": 163311240,
+        "ExchangeRateId": 16330,
+        "Id": 163304
+    },
+    {
+        "EquipmentId": 163311350,
+        "ExchangeRateId": 16330,
+        "Id": 163305
+    },
+    {
+        "EquipmentId": 163311460,
+        "ExchangeRateId": 16330,
+        "Id": 163306
+    },
+    {
+        "EquipmentId": 163311461,
+        "ExchangeRateId": 16331,
+        "Id": 163307
+    },
+    {
+        "EquipmentId": 163311462,
+        "ExchangeRateId": 16332,
+        "Id": 163308
+    },
+    {
+        "EquipmentId": 163310341,
+        "ExchangeRateId": 16331,
+        "Id": 163311
+    },
+    {
+        "EquipmentId": 163310641,
+        "ExchangeRateId": 16331,
+        "Id": 163312
+    },
+    {
+        "EquipmentId": 163310941,
+        "ExchangeRateId": 16331,
+        "Id": 163313
+    },
+    {
+        "EquipmentId": 163311241,
+        "ExchangeRateId": 16331,
+        "Id": 163314
+    },
+    {
+        "EquipmentId": 163311351,
+        "ExchangeRateId": 16331,
+        "Id": 163315
+    },
+    {
+        "EquipmentId": 163310342,
+        "ExchangeRateId": 16332,
+        "Id": 163321
+    },
+    {
+        "EquipmentId": 163310642,
+        "ExchangeRateId": 16332,
+        "Id": 163322
+    },
+    {
+        "EquipmentId": 163310942,
+        "ExchangeRateId": 16332,
+        "Id": 163323
+    },
+    {
+        "EquipmentId": 163311242,
+        "ExchangeRateId": 16332,
+        "Id": 163324
+    },
+    {
+        "EquipmentId": 163311352,
+        "ExchangeRateId": 16332,
+        "Id": 163325
+    },
+    {
+        "EquipmentId": 164110340,
+        "ExchangeRateId": 16410,
+        "Id": 164101
+    },
+    {
+        "EquipmentId": 164110640,
+        "ExchangeRateId": 16410,
+        "Id": 164102
+    },
+    {
+        "EquipmentId": 164110940,
+        "ExchangeRateId": 16410,
+        "Id": 164103
+    },
+    {
+        "EquipmentId": 164111240,
+        "ExchangeRateId": 16410,
+        "Id": 164104
+    },
+    {
+        "EquipmentId": 164111350,
+        "ExchangeRateId": 16410,
+        "Id": 164105
+    },
+    {
+        "EquipmentId": 164111460,
+        "ExchangeRateId": 16410,
+        "Id": 164106
+    },
+    {
+        "EquipmentId": 164111461,
+        "ExchangeRateId": 16411,
+        "Id": 164107
+    },
+    {
+        "EquipmentId": 164110341,
+        "ExchangeRateId": 16411,
+        "Id": 164111
+    },
+    {
+        "EquipmentId": 164110641,
+        "ExchangeRateId": 16411,
+        "Id": 164112
+    },
+    {
+        "EquipmentId": 164110941,
+        "ExchangeRateId": 16411,
+        "Id": 164113
+    },
+    {
+        "EquipmentId": 164111241,
+        "ExchangeRateId": 16411,
+        "Id": 164114
+    },
+    {
+        "EquipmentId": 164111351,
+        "ExchangeRateId": 16411,
+        "Id": 164115
+    },
+    {
+        "EquipmentId": 164210340,
+        "ExchangeRateId": 16420,
+        "Id": 164201
+    },
+    {
+        "EquipmentId": 164210640,
+        "ExchangeRateId": 16420,
+        "Id": 164202
+    },
+    {
+        "EquipmentId": 164210940,
+        "ExchangeRateId": 16420,
+        "Id": 164203
+    },
+    {
+        "EquipmentId": 164211240,
+        "ExchangeRateId": 16420,
+        "Id": 164204
+    },
+    {
+        "EquipmentId": 164211350,
+        "ExchangeRateId": 16420,
+        "Id": 164205
+    },
+    {
+        "EquipmentId": 164211460,
+        "ExchangeRateId": 16420,
+        "Id": 164206
+    },
+    {
+        "EquipmentId": 164211461,
+        "ExchangeRateId": 16421,
+        "Id": 164207
+    },
+    {
+        "EquipmentId": 164210341,
+        "ExchangeRateId": 16421,
+        "Id": 164211
+    },
+    {
+        "EquipmentId": 164210641,
+        "ExchangeRateId": 16421,
+        "Id": 164212
+    },
+    {
+        "EquipmentId": 164210941,
+        "ExchangeRateId": 16421,
+        "Id": 164213
+    },
+    {
+        "EquipmentId": 164211241,
+        "ExchangeRateId": 16421,
+        "Id": 164214
+    },
+    {
+        "EquipmentId": 164211351,
+        "ExchangeRateId": 16421,
+        "Id": 164215
+    },
+    {
+        "EquipmentId": 164310340,
+        "ExchangeRateId": 16430,
+        "Id": 164301
+    },
+    {
+        "EquipmentId": 164310640,
+        "ExchangeRateId": 16430,
+        "Id": 164302
+    },
+    {
+        "EquipmentId": 164310940,
+        "ExchangeRateId": 16430,
+        "Id": 164303
+    },
+    {
+        "EquipmentId": 164311240,
+        "ExchangeRateId": 16430,
+        "Id": 164304
+    },
+    {
+        "EquipmentId": 164311350,
+        "ExchangeRateId": 16430,
+        "Id": 164305
+    },
+    {
+        "EquipmentId": 164311460,
+        "ExchangeRateId": 16430,
+        "Id": 164306
+    },
+    {
+        "EquipmentId": 165110340,
+        "ExchangeRateId": 16510,
+        "Id": 165101
+    },
+    {
+        "EquipmentId": 165110640,
+        "ExchangeRateId": 16510,
+        "Id": 165102
+    },
+    {
+        "EquipmentId": 165110940,
+        "ExchangeRateId": 16510,
+        "Id": 165103
+    },
+    {
+        "EquipmentId": 165111240,
+        "ExchangeRateId": 16510,
+        "Id": 165104
+    },
+    {
+        "EquipmentId": 165111350,
+        "ExchangeRateId": 16510,
+        "Id": 165105
+    },
+    {
+        "EquipmentId": 165111460,
+        "ExchangeRateId": 16510,
+        "Id": 165106
+    },
+    {
+        "EquipmentId": 165310340,
+        "ExchangeRateId": 16530,
+        "Id": 165301
+    },
+    {
+        "EquipmentId": 165310640,
+        "ExchangeRateId": 16530,
+        "Id": 165302
+    },
+    {
+        "EquipmentId": 165310940,
+        "ExchangeRateId": 16530,
+        "Id": 165303
+    },
+    {
+        "EquipmentId": 165311240,
+        "ExchangeRateId": 16530,
+        "Id": 165304
+    },
+    {
+        "EquipmentId": 165311350,
+        "ExchangeRateId": 16530,
+        "Id": 165305
+    },
+    {
+        "EquipmentId": 165311460,
+        "ExchangeRateId": 16530,
+        "Id": 165306
+    },
+    {
+        "EquipmentId": 166110340,
+        "ExchangeRateId": 16610,
+        "Id": 166101
+    },
+    {
+        "EquipmentId": 166110640,
+        "ExchangeRateId": 16610,
+        "Id": 166102
+    },
+    {
+        "EquipmentId": 166110940,
+        "ExchangeRateId": 16610,
+        "Id": 166103
+    },
+    {
+        "EquipmentId": 166111240,
+        "ExchangeRateId": 16610,
+        "Id": 166104
+    },
+    {
+        "EquipmentId": 166111350,
+        "ExchangeRateId": 16610,
+        "Id": 166105
+    },
+    {
+        "EquipmentId": 166111460,
+        "ExchangeRateId": 16610,
+        "Id": 166106
+    },
+    {
+        "EquipmentId": 166210340,
+        "ExchangeRateId": 16620,
+        "Id": 166201
+    },
+    {
+        "EquipmentId": 166210640,
+        "ExchangeRateId": 16620,
+        "Id": 166202
+    },
+    {
+        "EquipmentId": 166210940,
+        "ExchangeRateId": 16620,
+        "Id": 166203
+    },
+    {
+        "EquipmentId": 166211240,
+        "ExchangeRateId": 16620,
+        "Id": 166204
+    },
+    {
+        "EquipmentId": 166211350,
+        "ExchangeRateId": 16620,
+        "Id": 166205
+    },
+    {
+        "EquipmentId": 166211460,
+        "ExchangeRateId": 16620,
+        "Id": 166206
+    },
+    {
+        "EquipmentId": 168110340,
+        "ExchangeRateId": 16810,
+        "Id": 168101
+    },
+    {
+        "EquipmentId": 168110640,
+        "ExchangeRateId": 16810,
+        "Id": 168102
+    },
+    {
+        "EquipmentId": 168110940,
+        "ExchangeRateId": 16810,
+        "Id": 168103
+    },
+    {
+        "EquipmentId": 168111240,
+        "ExchangeRateId": 16810,
+        "Id": 168104
+    },
+    {
+        "EquipmentId": 168111350,
+        "ExchangeRateId": 16810,
+        "Id": 168105
+    },
+    {
+        "EquipmentId": 168111460,
+        "ExchangeRateId": 16810,
+        "Id": 168106
+    },
+    {
+        "EquipmentId": 168310340,
+        "ExchangeRateId": 16830,
+        "Id": 168301
+    },
+    {
+        "EquipmentId": 168310640,
+        "ExchangeRateId": 16830,
+        "Id": 168302
+    },
+    {
+        "EquipmentId": 168310940,
+        "ExchangeRateId": 16830,
+        "Id": 168303
+    },
+    {
+        "EquipmentId": 168311240,
+        "ExchangeRateId": 16830,
+        "Id": 168304
+    },
+    {
+        "EquipmentId": 168311350,
+        "ExchangeRateId": 16830,
+        "Id": 168305
+    },
+    {
+        "EquipmentId": 168311460,
+        "ExchangeRateId": 16830,
+        "Id": 168306
+    },
+    {
+        "EquipmentId": 169110340,
+        "ExchangeRateId": 16910,
+        "Id": 169101
+    },
+    {
+        "EquipmentId": 169110640,
+        "ExchangeRateId": 16910,
+        "Id": 169102
+    },
+    {
+        "EquipmentId": 169110940,
+        "ExchangeRateId": 16910,
+        "Id": 169103
+    },
+    {
+        "EquipmentId": 169111240,
+        "ExchangeRateId": 16910,
+        "Id": 169104
+    },
+    {
+        "EquipmentId": 169111350,
+        "ExchangeRateId": 16910,
+        "Id": 169105
+    },
+    {
+        "EquipmentId": 169111460,
+        "ExchangeRateId": 16910,
+        "Id": 169106
+    },
+    {
+        "EquipmentId": 169210340,
+        "ExchangeRateId": 16920,
+        "Id": 169201
+    },
+    {
+        "EquipmentId": 169210640,
+        "ExchangeRateId": 16920,
+        "Id": 169202
+    },
+    {
+        "EquipmentId": 169210940,
+        "ExchangeRateId": 16920,
+        "Id": 169203
+    },
+    {
+        "EquipmentId": 169211240,
+        "ExchangeRateId": 16920,
+        "Id": 169204
+    },
+    {
+        "EquipmentId": 169211350,
+        "ExchangeRateId": 16920,
+        "Id": 169205
+    },
+    {
+        "EquipmentId": 169211460,
+        "ExchangeRateId": 16920,
+        "Id": 169206
+    },
+    {
+        "EquipmentId": 170210340,
+        "ExchangeRateId": 17020,
+        "Id": 170201
+    },
+    {
+        "EquipmentId": 170210640,
+        "ExchangeRateId": 17020,
+        "Id": 170202
+    },
+    {
+        "EquipmentId": 170210940,
+        "ExchangeRateId": 17020,
+        "Id": 170203
+    },
+    {
+        "EquipmentId": 170211240,
+        "ExchangeRateId": 17020,
+        "Id": 170204
+    },
+    {
+        "EquipmentId": 170211350,
+        "ExchangeRateId": 17020,
+        "Id": 170205
+    },
+    {
+        "EquipmentId": 170211460,
+        "ExchangeRateId": 17020,
+        "Id": 170206
+    },
+    {
+        "EquipmentId": 170310340,
+        "ExchangeRateId": 17030,
+        "Id": 170301
+    },
+    {
+        "EquipmentId": 170310640,
+        "ExchangeRateId": 17030,
+        "Id": 170302
+    },
+    {
+        "EquipmentId": 170310940,
+        "ExchangeRateId": 17030,
+        "Id": 170303
+    },
+    {
+        "EquipmentId": 170311240,
+        "ExchangeRateId": 17030,
+        "Id": 170304
+    },
+    {
+        "EquipmentId": 170311350,
+        "ExchangeRateId": 17030,
+        "Id": 170305
+    },
+    {
+        "EquipmentId": 170311460,
+        "ExchangeRateId": 17030,
+        "Id": 170306
+    },
+    {
+        "EquipmentId": 171110340,
+        "ExchangeRateId": 17110,
+        "Id": 171101
+    },
+    {
+        "EquipmentId": 171110640,
+        "ExchangeRateId": 17110,
+        "Id": 171102
+    },
+    {
+        "EquipmentId": 171110940,
+        "ExchangeRateId": 17110,
+        "Id": 171103
+    },
+    {
+        "EquipmentId": 171111240,
+        "ExchangeRateId": 17110,
+        "Id": 171104
+    },
+    {
+        "EquipmentId": 171111350,
+        "ExchangeRateId": 17110,
+        "Id": 171105
+    },
+    {
+        "EquipmentId": 171111460,
+        "ExchangeRateId": 17110,
+        "Id": 171106
+    },
+    {
+        "EquipmentId": 171310340,
+        "ExchangeRateId": 17130,
+        "Id": 171301
+    },
+    {
+        "EquipmentId": 171310640,
+        "ExchangeRateId": 17130,
+        "Id": 171302
+    },
+    {
+        "EquipmentId": 171310940,
+        "ExchangeRateId": 17130,
+        "Id": 171303
+    },
+    {
+        "EquipmentId": 171311240,
+        "ExchangeRateId": 17130,
+        "Id": 171304
+    },
+    {
+        "EquipmentId": 171311350,
+        "ExchangeRateId": 17130,
+        "Id": 171305
+    },
+    {
+        "EquipmentId": 171311460,
+        "ExchangeRateId": 17130,
+        "Id": 171306
+    },
+    {
+        "EquipmentId": 172110340,
+        "ExchangeRateId": 17210,
+        "Id": 172101
+    },
+    {
+        "EquipmentId": 172110640,
+        "ExchangeRateId": 17210,
+        "Id": 172102
+    },
+    {
+        "EquipmentId": 172110940,
+        "ExchangeRateId": 17210,
+        "Id": 172103
+    },
+    {
+        "EquipmentId": 172111240,
+        "ExchangeRateId": 17210,
+        "Id": 172104
+    },
+    {
+        "EquipmentId": 172111350,
+        "ExchangeRateId": 17210,
+        "Id": 172105
+    },
+    {
+        "EquipmentId": 172111460,
+        "ExchangeRateId": 17210,
+        "Id": 172106
+    },
+    {
+        "EquipmentId": 172210340,
+        "ExchangeRateId": 17220,
+        "Id": 172201
+    },
+    {
+        "EquipmentId": 172210640,
+        "ExchangeRateId": 17220,
+        "Id": 172202
+    },
+    {
+        "EquipmentId": 172210940,
+        "ExchangeRateId": 17220,
+        "Id": 172203
+    },
+    {
+        "EquipmentId": 172211240,
+        "ExchangeRateId": 17220,
+        "Id": 172204
+    },
+    {
+        "EquipmentId": 172211350,
+        "ExchangeRateId": 17220,
+        "Id": 172205
+    },
+    {
+        "EquipmentId": 172211460,
+        "ExchangeRateId": 17220,
+        "Id": 172206
+    },
+    {
+        "EquipmentId": 173210340,
+        "ExchangeRateId": 17320,
+        "Id": 173201
+    },
+    {
+        "EquipmentId": 173210640,
+        "ExchangeRateId": 17320,
+        "Id": 173202
+    },
+    {
+        "EquipmentId": 173210940,
+        "ExchangeRateId": 17320,
+        "Id": 173203
+    },
+    {
+        "EquipmentId": 173211240,
+        "ExchangeRateId": 17320,
+        "Id": 173204
+    },
+    {
+        "EquipmentId": 173211350,
+        "ExchangeRateId": 17320,
+        "Id": 173205
+    },
+    {
+        "EquipmentId": 173211460,
+        "ExchangeRateId": 17320,
+        "Id": 173206
+    },
+    {
+        "EquipmentId": 173310340,
+        "ExchangeRateId": 17330,
+        "Id": 173301
+    },
+    {
+        "EquipmentId": 173310640,
+        "ExchangeRateId": 17330,
+        "Id": 173302
+    },
+    {
+        "EquipmentId": 173310940,
+        "ExchangeRateId": 17330,
+        "Id": 173303
+    },
+    {
+        "EquipmentId": 173311240,
+        "ExchangeRateId": 17330,
+        "Id": 173304
+    },
+    {
+        "EquipmentId": 173311350,
+        "ExchangeRateId": 17330,
+        "Id": 173305
+    },
+    {
+        "EquipmentId": 173311460,
+        "ExchangeRateId": 17330,
+        "Id": 173306
+    },
+    {
+        "EquipmentId": 174110340,
+        "ExchangeRateId": 17410,
+        "Id": 174101
+    },
+    {
+        "EquipmentId": 174110640,
+        "ExchangeRateId": 17410,
+        "Id": 174102
+    },
+    {
+        "EquipmentId": 174110940,
+        "ExchangeRateId": 17410,
+        "Id": 174103
+    },
+    {
+        "EquipmentId": 174111240,
+        "ExchangeRateId": 17410,
+        "Id": 174104
+    },
+    {
+        "EquipmentId": 174111350,
+        "ExchangeRateId": 17410,
+        "Id": 174105
+    },
+    {
+        "EquipmentId": 174111460,
+        "ExchangeRateId": 17410,
+        "Id": 174106
+    },
+    {
+        "EquipmentId": 174310340,
+        "ExchangeRateId": 17430,
+        "Id": 174301
+    },
+    {
+        "EquipmentId": 174310640,
+        "ExchangeRateId": 17430,
+        "Id": 174302
+    },
+    {
+        "EquipmentId": 174310940,
+        "ExchangeRateId": 17430,
+        "Id": 174303
+    },
+    {
+        "EquipmentId": 174311240,
+        "ExchangeRateId": 17430,
+        "Id": 174304
+    },
+    {
+        "EquipmentId": 174311350,
+        "ExchangeRateId": 17430,
+        "Id": 174305
+    },
+    {
+        "EquipmentId": 174311460,
+        "ExchangeRateId": 17430,
+        "Id": 174306
+    },
+    {
+        "EquipmentId": 175110340,
+        "ExchangeRateId": 17510,
+        "Id": 175101
+    },
+    {
+        "EquipmentId": 175110640,
+        "ExchangeRateId": 17510,
+        "Id": 175102
+    },
+    {
+        "EquipmentId": 175110940,
+        "ExchangeRateId": 17510,
+        "Id": 175103
+    },
+    {
+        "EquipmentId": 175111240,
+        "ExchangeRateId": 17510,
+        "Id": 175104
+    },
+    {
+        "EquipmentId": 175111350,
+        "ExchangeRateId": 17510,
+        "Id": 175105
+    },
+    {
+        "EquipmentId": 175111460,
+        "ExchangeRateId": 17510,
+        "Id": 175106
+    },
+    {
+        "EquipmentId": 175210340,
+        "ExchangeRateId": 17520,
+        "Id": 175201
+    },
+    {
+        "EquipmentId": 175210640,
+        "ExchangeRateId": 17520,
+        "Id": 175202
+    },
+    {
+        "EquipmentId": 175210940,
+        "ExchangeRateId": 17520,
+        "Id": 175203
+    },
+    {
+        "EquipmentId": 175211240,
+        "ExchangeRateId": 17520,
+        "Id": 175204
+    },
+    {
+        "EquipmentId": 175211350,
+        "ExchangeRateId": 17520,
+        "Id": 175205
+    },
+    {
+        "EquipmentId": 175211460,
+        "ExchangeRateId": 17520,
+        "Id": 175206
+    },
+    {
+        "EquipmentId": 501310340,
+        "ExchangeRateId": 50130,
+        "Id": 501301
+    },
+    {
+        "EquipmentId": 501310640,
+        "ExchangeRateId": 50130,
+        "Id": 501302
+    },
+    {
+        "EquipmentId": 501310940,
+        "ExchangeRateId": 50130,
+        "Id": 501303
+    },
+    {
+        "EquipmentId": 501311240,
+        "ExchangeRateId": 50130,
+        "Id": 501304
+    },
+    {
+        "EquipmentId": 501311350,
+        "ExchangeRateId": 50130,
+        "Id": 501305
+    },
+    {
+        "EquipmentId": 501311460,
+        "ExchangeRateId": 50130,
+        "Id": 501306
+    },
+    {
+        "EquipmentId": 502210340,
+        "ExchangeRateId": 50220,
+        "Id": 502201
+    },
+    {
+        "EquipmentId": 502210640,
+        "ExchangeRateId": 50220,
+        "Id": 502202
+    },
+    {
+        "EquipmentId": 502210940,
+        "ExchangeRateId": 50220,
+        "Id": 502203
+    },
+    {
+        "EquipmentId": 502211240,
+        "ExchangeRateId": 50220,
+        "Id": 502204
+    },
+    {
+        "EquipmentId": 502211350,
+        "ExchangeRateId": 50220,
+        "Id": 502205
+    },
+    {
+        "EquipmentId": 502211460,
+        "ExchangeRateId": 50220,
+        "Id": 502206
+    },
+    {
+        "EquipmentId": 503110340,
+        "ExchangeRateId": 50310,
+        "Id": 503101
+    },
+    {
+        "EquipmentId": 503110640,
+        "ExchangeRateId": 50310,
+        "Id": 503102
+    },
+    {
+        "EquipmentId": 503110940,
+        "ExchangeRateId": 50310,
+        "Id": 503103
+    },
+    {
+        "EquipmentId": 503111240,
+        "ExchangeRateId": 50310,
+        "Id": 503104
+    },
+    {
+        "EquipmentId": 503111350,
+        "ExchangeRateId": 50310,
+        "Id": 503105
+    },
+    {
+        "EquipmentId": 503111460,
+        "ExchangeRateId": 50310,
+        "Id": 503106
+    },
+    {
+        "EquipmentId": 504110340,
+        "ExchangeRateId": 50410,
+        "Id": 504101
+    },
+    {
+        "EquipmentId": 504110640,
+        "ExchangeRateId": 50410,
+        "Id": 504102
+    },
+    {
+        "EquipmentId": 504110940,
+        "ExchangeRateId": 50410,
+        "Id": 504103
+    },
+    {
+        "EquipmentId": 504111240,
+        "ExchangeRateId": 50410,
+        "Id": 504104
+    },
+    {
+        "EquipmentId": 504111350,
+        "ExchangeRateId": 50410,
+        "Id": 504105
+    },
+    {
+        "EquipmentId": 504111460,
+        "ExchangeRateId": 50410,
+        "Id": 504106
+    }
+]

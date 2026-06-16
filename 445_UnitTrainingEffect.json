@@ -1,0 +1,5252 @@
+[
+    {
+        "GrowGroupId": 1001,
+        "Id": 1,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 200
+    },
+    {
+        "GrowGroupId": 1002,
+        "Id": 2,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 1002,
+        "Id": 3,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 199
+    },
+    {
+        "GrowGroupId": 1003,
+        "Id": 4,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 1003,
+        "Id": 5,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 198
+    },
+    {
+        "GrowGroupId": 1004,
+        "Id": 6,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 1004,
+        "Id": 7,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 197
+    },
+    {
+        "GrowGroupId": 1005,
+        "Id": 8,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 1005,
+        "Id": 9,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 196
+    },
+    {
+        "GrowGroupId": 1006,
+        "Id": 10,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 1006,
+        "Id": 11,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 195
+    },
+    {
+        "GrowGroupId": 1007,
+        "Id": 12,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 1007,
+        "Id": 13,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 194
+    },
+    {
+        "GrowGroupId": 1008,
+        "Id": 14,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 1008,
+        "Id": 15,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 193
+    },
+    {
+        "GrowGroupId": 1009,
+        "Id": 16,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 1009,
+        "Id": 17,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 192
+    },
+    {
+        "GrowGroupId": 1010,
+        "Id": 18,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 1010,
+        "Id": 19,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 191
+    },
+    {
+        "GrowGroupId": 1011,
+        "Id": 20,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 1011,
+        "Id": 21,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 190
+    },
+    {
+        "GrowGroupId": 1012,
+        "Id": 22,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 1012,
+        "Id": 23,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 188
+    },
+    {
+        "GrowGroupId": 1013,
+        "Id": 24,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 1013,
+        "Id": 25,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 186
+    },
+    {
+        "GrowGroupId": 1014,
+        "Id": 26,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 1014,
+        "Id": 27,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 184
+    },
+    {
+        "GrowGroupId": 1015,
+        "Id": 28,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 1015,
+        "Id": 29,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 181
+    },
+    {
+        "GrowGroupId": 1016,
+        "Id": 30,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 22
+    },
+    {
+        "GrowGroupId": 1016,
+        "Id": 31,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 178
+    },
+    {
+        "GrowGroupId": 1017,
+        "Id": 32,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 1017,
+        "Id": 33,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 175
+    },
+    {
+        "GrowGroupId": 1018,
+        "Id": 34,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 1018,
+        "Id": 35,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 171
+    },
+    {
+        "GrowGroupId": 1019,
+        "Id": 36,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 1019,
+        "Id": 37,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 167
+    },
+    {
+        "GrowGroupId": 1020,
+        "Id": 38,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 1020,
+        "Id": 39,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 163
+    },
+    {
+        "GrowGroupId": 1021,
+        "Id": 40,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 42
+    },
+    {
+        "GrowGroupId": 1021,
+        "Id": 41,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 158
+    },
+    {
+        "GrowGroupId": 1022,
+        "Id": 42,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 47
+    },
+    {
+        "GrowGroupId": 1022,
+        "Id": 43,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 153
+    },
+    {
+        "GrowGroupId": 1023,
+        "Id": 44,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 52
+    },
+    {
+        "GrowGroupId": 1023,
+        "Id": 45,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 148
+    },
+    {
+        "GrowGroupId": 1024,
+        "Id": 46,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 1024,
+        "Id": 47,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 142
+    },
+    {
+        "GrowGroupId": 1025,
+        "Id": 48,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 1025,
+        "Id": 49,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 136
+    },
+    {
+        "GrowGroupId": 1026,
+        "Id": 50,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 1026,
+        "Id": 51,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 130
+    },
+    {
+        "GrowGroupId": 1027,
+        "Id": 52,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 1027,
+        "Id": 53,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 124
+    },
+    {
+        "GrowGroupId": 1028,
+        "Id": 54,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 82
+    },
+    {
+        "GrowGroupId": 1028,
+        "Id": 55,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 118
+    },
+    {
+        "GrowGroupId": 1029,
+        "Id": 56,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 87
+    },
+    {
+        "GrowGroupId": 1029,
+        "Id": 57,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 113
+    },
+    {
+        "GrowGroupId": 1030,
+        "Id": 58,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 92
+    },
+    {
+        "GrowGroupId": 1030,
+        "Id": 59,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 108
+    },
+    {
+        "GrowGroupId": 1031,
+        "Id": 60,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 97
+    },
+    {
+        "GrowGroupId": 1031,
+        "Id": 61,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 103
+    },
+    {
+        "GrowGroupId": 1032,
+        "Id": 62,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 102
+    },
+    {
+        "GrowGroupId": 1032,
+        "Id": 63,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 98
+    },
+    {
+        "GrowGroupId": 1033,
+        "Id": 64,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 107
+    },
+    {
+        "GrowGroupId": 1033,
+        "Id": 65,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 93
+    },
+    {
+        "GrowGroupId": 1034,
+        "Id": 66,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 111
+    },
+    {
+        "GrowGroupId": 1034,
+        "Id": 67,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 89
+    },
+    {
+        "GrowGroupId": 1035,
+        "Id": 68,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 115
+    },
+    {
+        "GrowGroupId": 1035,
+        "Id": 69,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 85
+    },
+    {
+        "GrowGroupId": 1036,
+        "Id": 70,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 119
+    },
+    {
+        "GrowGroupId": 1036,
+        "Id": 71,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 81
+    },
+    {
+        "GrowGroupId": 1037,
+        "Id": 72,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 123
+    },
+    {
+        "GrowGroupId": 1037,
+        "Id": 73,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 1038,
+        "Id": 74,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 127
+    },
+    {
+        "GrowGroupId": 1038,
+        "Id": 75,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 73
+    },
+    {
+        "GrowGroupId": 1039,
+        "Id": 76,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 130
+    },
+    {
+        "GrowGroupId": 1039,
+        "Id": 77,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 1040,
+        "Id": 78,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 133
+    },
+    {
+        "GrowGroupId": 1040,
+        "Id": 79,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 67
+    },
+    {
+        "GrowGroupId": 1041,
+        "Id": 80,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 136
+    },
+    {
+        "GrowGroupId": 1041,
+        "Id": 81,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 1042,
+        "Id": 82,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 139
+    },
+    {
+        "GrowGroupId": 1042,
+        "Id": 83,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 61
+    },
+    {
+        "GrowGroupId": 1043,
+        "Id": 84,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 142
+    },
+    {
+        "GrowGroupId": 1043,
+        "Id": 85,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 1044,
+        "Id": 86,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 144
+    },
+    {
+        "GrowGroupId": 1044,
+        "Id": 87,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 1045,
+        "Id": 88,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 146
+    },
+    {
+        "GrowGroupId": 1045,
+        "Id": 89,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 54
+    },
+    {
+        "GrowGroupId": 1046,
+        "Id": 90,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 148
+    },
+    {
+        "GrowGroupId": 1046,
+        "Id": 91,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 52
+    },
+    {
+        "GrowGroupId": 1047,
+        "Id": 92,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 150
+    },
+    {
+        "GrowGroupId": 1047,
+        "Id": 93,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 50
+    },
+    {
+        "GrowGroupId": 1048,
+        "Id": 94,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 152
+    },
+    {
+        "GrowGroupId": 1048,
+        "Id": 95,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 1049,
+        "Id": 96,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 153
+    },
+    {
+        "GrowGroupId": 1049,
+        "Id": 97,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 47
+    },
+    {
+        "GrowGroupId": 1050,
+        "Id": 98,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 154
+    },
+    {
+        "GrowGroupId": 1050,
+        "Id": 99,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 1051,
+        "Id": 100,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 155
+    },
+    {
+        "GrowGroupId": 1051,
+        "Id": 101,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 45
+    },
+    {
+        "GrowGroupId": 1052,
+        "Id": 102,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 156
+    },
+    {
+        "GrowGroupId": 1052,
+        "Id": 103,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 44
+    },
+    {
+        "GrowGroupId": 1053,
+        "Id": 104,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 157
+    },
+    {
+        "GrowGroupId": 1053,
+        "Id": 105,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 43
+    },
+    {
+        "GrowGroupId": 1054,
+        "Id": 106,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 158
+    },
+    {
+        "GrowGroupId": 1054,
+        "Id": 107,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 42
+    },
+    {
+        "GrowGroupId": 1055,
+        "Id": 108,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 159
+    },
+    {
+        "GrowGroupId": 1055,
+        "Id": 109,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 1056,
+        "Id": 110,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 160
+    },
+    {
+        "GrowGroupId": 1056,
+        "Id": 111,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 1057,
+        "Id": 112,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 161
+    },
+    {
+        "GrowGroupId": 1057,
+        "Id": 113,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 39
+    },
+    {
+        "GrowGroupId": 1058,
+        "Id": 114,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 162
+    },
+    {
+        "GrowGroupId": 1058,
+        "Id": 115,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 1059,
+        "Id": 116,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 163
+    },
+    {
+        "GrowGroupId": 1059,
+        "Id": 117,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 1060,
+        "Id": 118,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 164
+    },
+    {
+        "GrowGroupId": 1060,
+        "Id": 119,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 36
+    },
+    {
+        "GrowGroupId": 1061,
+        "Id": 120,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 165
+    },
+    {
+        "GrowGroupId": 1061,
+        "Id": 121,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 1062,
+        "Id": 122,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 166
+    },
+    {
+        "GrowGroupId": 1062,
+        "Id": 123,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 34
+    },
+    {
+        "GrowGroupId": 1063,
+        "Id": 124,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 167
+    },
+    {
+        "GrowGroupId": 1063,
+        "Id": 125,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 1064,
+        "Id": 126,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 168
+    },
+    {
+        "GrowGroupId": 1064,
+        "Id": 127,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 1065,
+        "Id": 128,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 169
+    },
+    {
+        "GrowGroupId": 1065,
+        "Id": 129,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 1066,
+        "Id": 130,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 170
+    },
+    {
+        "GrowGroupId": 1066,
+        "Id": 131,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 1067,
+        "Id": 132,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 171
+    },
+    {
+        "GrowGroupId": 1067,
+        "Id": 133,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 1068,
+        "Id": 134,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 172
+    },
+    {
+        "GrowGroupId": 1068,
+        "Id": 135,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 28
+    },
+    {
+        "GrowGroupId": 1069,
+        "Id": 136,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 173
+    },
+    {
+        "GrowGroupId": 1069,
+        "Id": 137,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 27
+    },
+    {
+        "GrowGroupId": 1070,
+        "Id": 138,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 174
+    },
+    {
+        "GrowGroupId": 1070,
+        "Id": 139,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 1071,
+        "Id": 140,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 175
+    },
+    {
+        "GrowGroupId": 1071,
+        "Id": 141,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 1072,
+        "Id": 142,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 176
+    },
+    {
+        "GrowGroupId": 1072,
+        "Id": 143,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 1073,
+        "Id": 144,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 177
+    },
+    {
+        "GrowGroupId": 1073,
+        "Id": 145,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 1074,
+        "Id": 146,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 178
+    },
+    {
+        "GrowGroupId": 1074,
+        "Id": 147,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 22
+    },
+    {
+        "GrowGroupId": 1075,
+        "Id": 148,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 179
+    },
+    {
+        "GrowGroupId": 1075,
+        "Id": 149,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 1076,
+        "Id": 150,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 180
+    },
+    {
+        "GrowGroupId": 1076,
+        "Id": 151,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 1077,
+        "Id": 152,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 181
+    },
+    {
+        "GrowGroupId": 1077,
+        "Id": 153,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 1078,
+        "Id": 154,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 182
+    },
+    {
+        "GrowGroupId": 1078,
+        "Id": 155,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 1079,
+        "Id": 156,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 183
+    },
+    {
+        "GrowGroupId": 1079,
+        "Id": 157,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 1080,
+        "Id": 158,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 184
+    },
+    {
+        "GrowGroupId": 1080,
+        "Id": 159,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 1081,
+        "Id": 160,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 185
+    },
+    {
+        "GrowGroupId": 1081,
+        "Id": 161,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 1082,
+        "Id": 162,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 186
+    },
+    {
+        "GrowGroupId": 1082,
+        "Id": 163,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 1083,
+        "Id": 164,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 187
+    },
+    {
+        "GrowGroupId": 1083,
+        "Id": 165,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 1084,
+        "Id": 166,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 188
+    },
+    {
+        "GrowGroupId": 1084,
+        "Id": 167,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 1085,
+        "Id": 168,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 189
+    },
+    {
+        "GrowGroupId": 1085,
+        "Id": 169,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 1086,
+        "Id": 170,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 190
+    },
+    {
+        "GrowGroupId": 1086,
+        "Id": 171,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 1087,
+        "Id": 172,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 191
+    },
+    {
+        "GrowGroupId": 1087,
+        "Id": 173,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 1088,
+        "Id": 174,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 192
+    },
+    {
+        "GrowGroupId": 1088,
+        "Id": 175,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 1089,
+        "Id": 176,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 193
+    },
+    {
+        "GrowGroupId": 1089,
+        "Id": 177,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 1090,
+        "Id": 178,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 194
+    },
+    {
+        "GrowGroupId": 1090,
+        "Id": 179,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 1091,
+        "Id": 180,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 195
+    },
+    {
+        "GrowGroupId": 1091,
+        "Id": 181,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 1092,
+        "Id": 182,
+        "MaxInt": -1,
+        "MinInt": -10,
+        "Weight": 195
+    },
+    {
+        "GrowGroupId": 1092,
+        "Id": 183,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2001,
+        "Id": 184,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 2001,
+        "Id": 185,
+        "MaxInt": 15,
+        "MinInt": 11,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 2001,
+        "Id": 186,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 140
+    },
+    {
+        "GrowGroupId": 2002,
+        "Id": 188,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 2002,
+        "Id": 189,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2002,
+        "Id": 190,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 167
+    },
+    {
+        "GrowGroupId": 2003,
+        "Id": 191,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 2003,
+        "Id": 192,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 2003,
+        "Id": 193,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2003,
+        "Id": 194,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 166
+    },
+    {
+        "GrowGroupId": 2004,
+        "Id": 195,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 2004,
+        "Id": 196,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2004,
+        "Id": 197,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2004,
+        "Id": 198,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 165
+    },
+    {
+        "GrowGroupId": 2005,
+        "Id": 199,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2005,
+        "Id": 200,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2005,
+        "Id": 201,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2005,
+        "Id": 202,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 164
+    },
+    {
+        "GrowGroupId": 2006,
+        "Id": 203,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2006,
+        "Id": 204,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2006,
+        "Id": 205,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2006,
+        "Id": 206,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 163
+    },
+    {
+        "GrowGroupId": 2007,
+        "Id": 207,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2007,
+        "Id": 208,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2007,
+        "Id": 209,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2007,
+        "Id": 210,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 162
+    },
+    {
+        "GrowGroupId": 2008,
+        "Id": 211,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2008,
+        "Id": 212,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2008,
+        "Id": 213,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2008,
+        "Id": 214,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 161
+    },
+    {
+        "GrowGroupId": 2009,
+        "Id": 215,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2009,
+        "Id": 216,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2009,
+        "Id": 217,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2009,
+        "Id": 218,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 160
+    },
+    {
+        "GrowGroupId": 2010,
+        "Id": 219,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2010,
+        "Id": 220,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2010,
+        "Id": 221,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2010,
+        "Id": 222,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 159
+    },
+    {
+        "GrowGroupId": 2011,
+        "Id": 223,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2011,
+        "Id": 224,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2011,
+        "Id": 225,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2011,
+        "Id": 226,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 158
+    },
+    {
+        "GrowGroupId": 2012,
+        "Id": 227,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2012,
+        "Id": 228,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2012,
+        "Id": 229,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 2012,
+        "Id": 230,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 157
+    },
+    {
+        "GrowGroupId": 2013,
+        "Id": 231,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2013,
+        "Id": 232,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2013,
+        "Id": 233,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 2013,
+        "Id": 234,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 155
+    },
+    {
+        "GrowGroupId": 2014,
+        "Id": 235,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2014,
+        "Id": 236,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2014,
+        "Id": 237,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 2014,
+        "Id": 238,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 154
+    },
+    {
+        "GrowGroupId": 2015,
+        "Id": 239,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 2015,
+        "Id": 240,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 2015,
+        "Id": 241,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 2015,
+        "Id": 242,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 151
+    },
+    {
+        "GrowGroupId": 2016,
+        "Id": 243,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2016,
+        "Id": 244,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2016,
+        "Id": 245,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2016,
+        "Id": 246,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 149
+    },
+    {
+        "GrowGroupId": 2017,
+        "Id": 247,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 2017,
+        "Id": 248,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 2017,
+        "Id": 249,
+        "MaxInt": 16,
+        "MinInt": 13,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2017,
+        "Id": 250,
+        "MaxInt": 21,
+        "MinInt": 17,
+        "Weight": 146
+    },
+    {
+        "GrowGroupId": 2018,
+        "Id": 251,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 2018,
+        "Id": 252,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 2018,
+        "Id": 253,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2018,
+        "Id": 254,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 142
+    },
+    {
+        "GrowGroupId": 2019,
+        "Id": 255,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 2019,
+        "Id": 256,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 2019,
+        "Id": 257,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 28
+    },
+    {
+        "GrowGroupId": 2019,
+        "Id": 258,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 139
+    },
+    {
+        "GrowGroupId": 2020,
+        "Id": 259,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 2020,
+        "Id": 260,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 2020,
+        "Id": 261,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 27
+    },
+    {
+        "GrowGroupId": 2020,
+        "Id": 262,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 136
+    },
+    {
+        "GrowGroupId": 2021,
+        "Id": 263,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 2021,
+        "Id": 264,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 2021,
+        "Id": 265,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 2021,
+        "Id": 266,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 132
+    },
+    {
+        "GrowGroupId": 2022,
+        "Id": 267,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 2022,
+        "Id": 268,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 2022,
+        "Id": 269,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 2022,
+        "Id": 270,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 128
+    },
+    {
+        "GrowGroupId": 2023,
+        "Id": 271,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 2023,
+        "Id": 272,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 2023,
+        "Id": 273,
+        "MaxInt": 15,
+        "MinInt": 12,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 2023,
+        "Id": 274,
+        "MaxInt": 21,
+        "MinInt": 16,
+        "Weight": 123
+    },
+    {
+        "GrowGroupId": 2024,
+        "Id": 275,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2024,
+        "Id": 276,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2024,
+        "Id": 277,
+        "MaxInt": 14,
+        "MinInt": 11,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 2024,
+        "Id": 278,
+        "MaxInt": 21,
+        "MinInt": 15,
+        "Weight": 118
+    },
+    {
+        "GrowGroupId": 2025,
+        "Id": 279,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2025,
+        "Id": 280,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2025,
+        "Id": 281,
+        "MaxInt": 14,
+        "MinInt": 11,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 2025,
+        "Id": 282,
+        "MaxInt": 21,
+        "MinInt": 15,
+        "Weight": 113
+    },
+    {
+        "GrowGroupId": 2026,
+        "Id": 283,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 2026,
+        "Id": 284,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 2026,
+        "Id": 285,
+        "MaxInt": 14,
+        "MinInt": 11,
+        "Weight": 22
+    },
+    {
+        "GrowGroupId": 2026,
+        "Id": 286,
+        "MaxInt": 21,
+        "MinInt": 15,
+        "Weight": 108
+    },
+    {
+        "GrowGroupId": 2027,
+        "Id": 287,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 2027,
+        "Id": 288,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 2027,
+        "Id": 289,
+        "MaxInt": 14,
+        "MinInt": 11,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 2027,
+        "Id": 290,
+        "MaxInt": 21,
+        "MinInt": 15,
+        "Weight": 104
+    },
+    {
+        "GrowGroupId": 2028,
+        "Id": 291,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 2028,
+        "Id": 292,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 2028,
+        "Id": 293,
+        "MaxInt": 13,
+        "MinInt": 10,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 2028,
+        "Id": 294,
+        "MaxInt": 21,
+        "MinInt": 14,
+        "Weight": 98
+    },
+    {
+        "GrowGroupId": 2029,
+        "Id": 295,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 43
+    },
+    {
+        "GrowGroupId": 2029,
+        "Id": 296,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 44
+    },
+    {
+        "GrowGroupId": 2029,
+        "Id": 297,
+        "MaxInt": 13,
+        "MinInt": 10,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 2029,
+        "Id": 298,
+        "MaxInt": 21,
+        "MinInt": 14,
+        "Weight": 94
+    },
+    {
+        "GrowGroupId": 2030,
+        "Id": 299,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 2030,
+        "Id": 300,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 2030,
+        "Id": 301,
+        "MaxInt": 13,
+        "MinInt": 10,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 2030,
+        "Id": 302,
+        "MaxInt": 21,
+        "MinInt": 14,
+        "Weight": 90
+    },
+    {
+        "GrowGroupId": 2031,
+        "Id": 303,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 2031,
+        "Id": 304,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 49
+    },
+    {
+        "GrowGroupId": 2031,
+        "Id": 305,
+        "MaxInt": 13,
+        "MinInt": 10,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 2031,
+        "Id": 306,
+        "MaxInt": 21,
+        "MinInt": 14,
+        "Weight": 86
+    },
+    {
+        "GrowGroupId": 2032,
+        "Id": 307,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 51
+    },
+    {
+        "GrowGroupId": 2032,
+        "Id": 308,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 51
+    },
+    {
+        "GrowGroupId": 2032,
+        "Id": 309,
+        "MaxInt": 13,
+        "MinInt": 10,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 2032,
+        "Id": 310,
+        "MaxInt": 21,
+        "MinInt": 14,
+        "Weight": 82
+    },
+    {
+        "GrowGroupId": 2033,
+        "Id": 311,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 53
+    },
+    {
+        "GrowGroupId": 2033,
+        "Id": 312,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 54
+    },
+    {
+        "GrowGroupId": 2033,
+        "Id": 313,
+        "MaxInt": 12,
+        "MinInt": 9,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 2033,
+        "Id": 314,
+        "MaxInt": 21,
+        "MinInt": 13,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2034,
+        "Id": 315,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 55
+    },
+    {
+        "GrowGroupId": 2034,
+        "Id": 316,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 2034,
+        "Id": 317,
+        "MaxInt": 12,
+        "MinInt": 9,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 2034,
+        "Id": 318,
+        "MaxInt": 21,
+        "MinInt": 13,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 2035,
+        "Id": 319,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 57
+    },
+    {
+        "GrowGroupId": 2035,
+        "Id": 320,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 2035,
+        "Id": 321,
+        "MaxInt": 12,
+        "MinInt": 9,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 2035,
+        "Id": 322,
+        "MaxInt": 21,
+        "MinInt": 13,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 2036,
+        "Id": 323,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 59
+    },
+    {
+        "GrowGroupId": 2036,
+        "Id": 324,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 60
+    },
+    {
+        "GrowGroupId": 2036,
+        "Id": 325,
+        "MaxInt": 12,
+        "MinInt": 9,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 2036,
+        "Id": 326,
+        "MaxInt": 21,
+        "MinInt": 13,
+        "Weight": 67
+    },
+    {
+        "GrowGroupId": 2037,
+        "Id": 327,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 61
+    },
+    {
+        "GrowGroupId": 2037,
+        "Id": 328,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 62
+    },
+    {
+        "GrowGroupId": 2037,
+        "Id": 329,
+        "MaxInt": 12,
+        "MinInt": 9,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 2037,
+        "Id": 330,
+        "MaxInt": 21,
+        "MinInt": 13,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 2038,
+        "Id": 331,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 63
+    },
+    {
+        "GrowGroupId": 2038,
+        "Id": 332,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 2038,
+        "Id": 333,
+        "MaxInt": 11,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 2038,
+        "Id": 334,
+        "MaxInt": 21,
+        "MinInt": 12,
+        "Weight": 61
+    },
+    {
+        "GrowGroupId": 2039,
+        "Id": 335,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 65
+    },
+    {
+        "GrowGroupId": 2039,
+        "Id": 336,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 65
+    },
+    {
+        "GrowGroupId": 2039,
+        "Id": 337,
+        "MaxInt": 11,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 2039,
+        "Id": 338,
+        "MaxInt": 21,
+        "MinInt": 12,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 2040,
+        "Id": 339,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 66
+    },
+    {
+        "GrowGroupId": 2040,
+        "Id": 340,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 67
+    },
+    {
+        "GrowGroupId": 2040,
+        "Id": 341,
+        "MaxInt": 11,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2040,
+        "Id": 342,
+        "MaxInt": 21,
+        "MinInt": 12,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 2041,
+        "Id": 343,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 68
+    },
+    {
+        "GrowGroupId": 2041,
+        "Id": 344,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 68
+    },
+    {
+        "GrowGroupId": 2041,
+        "Id": 345,
+        "MaxInt": 11,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2041,
+        "Id": 346,
+        "MaxInt": 21,
+        "MinInt": 12,
+        "Weight": 53
+    },
+    {
+        "GrowGroupId": 2042,
+        "Id": 347,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 69
+    },
+    {
+        "GrowGroupId": 2042,
+        "Id": 348,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 2042,
+        "Id": 349,
+        "MaxInt": 11,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2042,
+        "Id": 350,
+        "MaxInt": 21,
+        "MinInt": 12,
+        "Weight": 50
+    },
+    {
+        "GrowGroupId": 2043,
+        "Id": 351,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 71
+    },
+    {
+        "GrowGroupId": 2043,
+        "Id": 352,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 71
+    },
+    {
+        "GrowGroupId": 2043,
+        "Id": 353,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 2043,
+        "Id": 354,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 2044,
+        "Id": 355,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 72
+    },
+    {
+        "GrowGroupId": 2044,
+        "Id": 356,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 72
+    },
+    {
+        "GrowGroupId": 2044,
+        "Id": 357,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 2044,
+        "Id": 358,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 2045,
+        "Id": 359,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 73
+    },
+    {
+        "GrowGroupId": 2045,
+        "Id": 360,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 73
+    },
+    {
+        "GrowGroupId": 2045,
+        "Id": 361,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 2045,
+        "Id": 362,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 45
+    },
+    {
+        "GrowGroupId": 2046,
+        "Id": 363,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 2046,
+        "Id": 364,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 2046,
+        "Id": 365,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 2046,
+        "Id": 366,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 43
+    },
+    {
+        "GrowGroupId": 2047,
+        "Id": 367,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 75
+    },
+    {
+        "GrowGroupId": 2047,
+        "Id": 368,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 75
+    },
+    {
+        "GrowGroupId": 2047,
+        "Id": 369,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 2047,
+        "Id": 370,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 2048,
+        "Id": 371,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 2048,
+        "Id": 372,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 2048,
+        "Id": 373,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2048,
+        "Id": 374,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 2049,
+        "Id": 375,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 2049,
+        "Id": 376,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2049,
+        "Id": 377,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2049,
+        "Id": 378,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 39
+    },
+    {
+        "GrowGroupId": 2050,
+        "Id": 379,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2050,
+        "Id": 380,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2050,
+        "Id": 381,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2050,
+        "Id": 382,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 2051,
+        "Id": 383,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2051,
+        "Id": 384,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 2051,
+        "Id": 385,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 2051,
+        "Id": 386,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 2052,
+        "Id": 387,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 2052,
+        "Id": 388,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 2052,
+        "Id": 389,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2052,
+        "Id": 390,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 2053,
+        "Id": 391,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 80
+    },
+    {
+        "GrowGroupId": 2053,
+        "Id": 392,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 2053,
+        "Id": 393,
+        "MaxInt": 10,
+        "MinInt": 7,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2053,
+        "Id": 394,
+        "MaxInt": 21,
+        "MinInt": 11,
+        "Weight": 36
+    },
+    {
+        "GrowGroupId": 2054,
+        "Id": 395,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 83
+    },
+    {
+        "GrowGroupId": 2054,
+        "Id": 396,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 75
+    },
+    {
+        "GrowGroupId": 2054,
+        "Id": 397,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2054,
+        "Id": 398,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 2055,
+        "Id": 399,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 85
+    },
+    {
+        "GrowGroupId": 2055,
+        "Id": 400,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 2055,
+        "Id": 401,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2055,
+        "Id": 402,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 34
+    },
+    {
+        "GrowGroupId": 2056,
+        "Id": 403,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 88
+    },
+    {
+        "GrowGroupId": 2056,
+        "Id": 404,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 72
+    },
+    {
+        "GrowGroupId": 2056,
+        "Id": 405,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 2056,
+        "Id": 406,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 2057,
+        "Id": 407,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 90
+    },
+    {
+        "GrowGroupId": 2057,
+        "Id": 408,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 71
+    },
+    {
+        "GrowGroupId": 2057,
+        "Id": 409,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2057,
+        "Id": 410,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 2058,
+        "Id": 411,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 93
+    },
+    {
+        "GrowGroupId": 2058,
+        "Id": 412,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 69
+    },
+    {
+        "GrowGroupId": 2058,
+        "Id": 413,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2058,
+        "Id": 414,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2059,
+        "Id": 415,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 95
+    },
+    {
+        "GrowGroupId": 2059,
+        "Id": 416,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 68
+    },
+    {
+        "GrowGroupId": 2059,
+        "Id": 417,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2059,
+        "Id": 418,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 2060,
+        "Id": 419,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 98
+    },
+    {
+        "GrowGroupId": 2060,
+        "Id": 420,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 66
+    },
+    {
+        "GrowGroupId": 2060,
+        "Id": 421,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2060,
+        "Id": 422,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 2061,
+        "Id": 423,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 100
+    },
+    {
+        "GrowGroupId": 2061,
+        "Id": 424,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 65
+    },
+    {
+        "GrowGroupId": 2061,
+        "Id": 425,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 2061,
+        "Id": 426,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2062,
+        "Id": 427,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 103
+    },
+    {
+        "GrowGroupId": 2062,
+        "Id": 428,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 63
+    },
+    {
+        "GrowGroupId": 2062,
+        "Id": 429,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2062,
+        "Id": 430,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2063,
+        "Id": 431,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 105
+    },
+    {
+        "GrowGroupId": 2063,
+        "Id": 432,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 62
+    },
+    {
+        "GrowGroupId": 2063,
+        "Id": 433,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2063,
+        "Id": 434,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 28
+    },
+    {
+        "GrowGroupId": 2064,
+        "Id": 435,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 108
+    },
+    {
+        "GrowGroupId": 2064,
+        "Id": 436,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 60
+    },
+    {
+        "GrowGroupId": 2064,
+        "Id": 437,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2064,
+        "Id": 438,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 27
+    },
+    {
+        "GrowGroupId": 2065,
+        "Id": 439,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 110
+    },
+    {
+        "GrowGroupId": 2065,
+        "Id": 440,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 59
+    },
+    {
+        "GrowGroupId": 2065,
+        "Id": 441,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2065,
+        "Id": 442,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 2066,
+        "Id": 443,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 113
+    },
+    {
+        "GrowGroupId": 2066,
+        "Id": 444,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 57
+    },
+    {
+        "GrowGroupId": 2066,
+        "Id": 445,
+        "MaxInt": 9,
+        "MinInt": 6,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2066,
+        "Id": 446,
+        "MaxInt": 21,
+        "MinInt": 10,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 2067,
+        "Id": 447,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 115
+    },
+    {
+        "GrowGroupId": 2067,
+        "Id": 448,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 2067,
+        "Id": 449,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2067,
+        "Id": 450,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 2068,
+        "Id": 451,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 118
+    },
+    {
+        "GrowGroupId": 2068,
+        "Id": 452,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 54
+    },
+    {
+        "GrowGroupId": 2068,
+        "Id": 453,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2068,
+        "Id": 454,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 2069,
+        "Id": 455,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 120
+    },
+    {
+        "GrowGroupId": 2069,
+        "Id": 456,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 53
+    },
+    {
+        "GrowGroupId": 2069,
+        "Id": 457,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2069,
+        "Id": 458,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 22
+    },
+    {
+        "GrowGroupId": 2070,
+        "Id": 459,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 123
+    },
+    {
+        "GrowGroupId": 2070,
+        "Id": 460,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 51
+    },
+    {
+        "GrowGroupId": 2070,
+        "Id": 461,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2070,
+        "Id": 462,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 2071,
+        "Id": 463,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 125
+    },
+    {
+        "GrowGroupId": 2071,
+        "Id": 464,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 50
+    },
+    {
+        "GrowGroupId": 2071,
+        "Id": 465,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 2071,
+        "Id": 466,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 2072,
+        "Id": 467,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 128
+    },
+    {
+        "GrowGroupId": 2072,
+        "Id": 468,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 2072,
+        "Id": 469,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2072,
+        "Id": 470,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 2073,
+        "Id": 471,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 130
+    },
+    {
+        "GrowGroupId": 2073,
+        "Id": 472,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 47
+    },
+    {
+        "GrowGroupId": 2073,
+        "Id": 473,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2073,
+        "Id": 474,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 2074,
+        "Id": 475,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 133
+    },
+    {
+        "GrowGroupId": 2074,
+        "Id": 476,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 45
+    },
+    {
+        "GrowGroupId": 2074,
+        "Id": 477,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2074,
+        "Id": 478,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 2075,
+        "Id": 479,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 135
+    },
+    {
+        "GrowGroupId": 2075,
+        "Id": 480,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 44
+    },
+    {
+        "GrowGroupId": 2075,
+        "Id": 481,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2075,
+        "Id": 482,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 2076,
+        "Id": 483,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 138
+    },
+    {
+        "GrowGroupId": 2076,
+        "Id": 484,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 42
+    },
+    {
+        "GrowGroupId": 2076,
+        "Id": 485,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 2076,
+        "Id": 486,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 2077,
+        "Id": 487,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 140
+    },
+    {
+        "GrowGroupId": 2077,
+        "Id": 488,
+        "MaxInt": 4,
+        "MinInt": 1,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 2077,
+        "Id": 489,
+        "MaxInt": 8,
+        "MinInt": 5,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2077,
+        "Id": 490,
+        "MaxInt": 21,
+        "MinInt": 9,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 2078,
+        "Id": 491,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 143
+    },
+    {
+        "GrowGroupId": 2078,
+        "Id": 492,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 39
+    },
+    {
+        "GrowGroupId": 2078,
+        "Id": 493,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2078,
+        "Id": 494,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 2079,
+        "Id": 495,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 145
+    },
+    {
+        "GrowGroupId": 2079,
+        "Id": 496,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 2079,
+        "Id": 497,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2079,
+        "Id": 498,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 2080,
+        "Id": 499,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 148
+    },
+    {
+        "GrowGroupId": 2080,
+        "Id": 500,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 36
+    },
+    {
+        "GrowGroupId": 2080,
+        "Id": 501,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2080,
+        "Id": 502,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 2081,
+        "Id": 503,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 150
+    },
+    {
+        "GrowGroupId": 2081,
+        "Id": 504,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 2081,
+        "Id": 505,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 2081,
+        "Id": 506,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 2082,
+        "Id": 507,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 153
+    },
+    {
+        "GrowGroupId": 2082,
+        "Id": 508,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 2082,
+        "Id": 509,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2082,
+        "Id": 510,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 2083,
+        "Id": 511,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 155
+    },
+    {
+        "GrowGroupId": 2083,
+        "Id": 512,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 2083,
+        "Id": 513,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2083,
+        "Id": 514,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 2084,
+        "Id": 515,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 158
+    },
+    {
+        "GrowGroupId": 2084,
+        "Id": 516,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 2084,
+        "Id": 517,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2084,
+        "Id": 518,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 2085,
+        "Id": 519,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 160
+    },
+    {
+        "GrowGroupId": 2085,
+        "Id": 520,
+        "MaxInt": 3,
+        "MinInt": 1,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 2085,
+        "Id": 521,
+        "MaxInt": 7,
+        "MinInt": 4,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2085,
+        "Id": 522,
+        "MaxInt": 21,
+        "MinInt": 8,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 2086,
+        "Id": 523,
+        "MaxInt": -1,
+        "MinInt": -12,
+        "Weight": 163
+    },
+    {
+        "GrowGroupId": 2086,
+        "Id": 524,
+        "MaxInt": 2,
+        "MinInt": 1,
+        "Weight": 27
+    },
+    {
+        "GrowGroupId": 2086,
+        "Id": 525,
+        "MaxInt": 6,
+        "MinInt": 3,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 2086,
+        "Id": 526,
+        "MaxInt": 21,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3001,
+        "Id": 527,
+        "MaxInt": 12,
+        "MinInt": 4,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 3001,
+        "Id": 528,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 3001,
+        "Id": 529,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 140
+    },
+    {
+        "GrowGroupId": 3002,
+        "Id": 531,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 3002,
+        "Id": 532,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3002,
+        "Id": 533,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 167
+    },
+    {
+        "GrowGroupId": 3003,
+        "Id": 534,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 3003,
+        "Id": 535,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 3003,
+        "Id": 536,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3003,
+        "Id": 537,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 166
+    },
+    {
+        "GrowGroupId": 3004,
+        "Id": 538,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 1
+    },
+    {
+        "GrowGroupId": 3004,
+        "Id": 539,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 3004,
+        "Id": 540,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3004,
+        "Id": 541,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 165
+    },
+    {
+        "GrowGroupId": 3005,
+        "Id": 542,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 3005,
+        "Id": 543,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 3005,
+        "Id": 544,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3005,
+        "Id": 545,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 164
+    },
+    {
+        "GrowGroupId": 3006,
+        "Id": 546,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 2
+    },
+    {
+        "GrowGroupId": 3006,
+        "Id": 547,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 3006,
+        "Id": 548,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3006,
+        "Id": 549,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 163
+    },
+    {
+        "GrowGroupId": 3007,
+        "Id": 550,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 3007,
+        "Id": 551,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 3007,
+        "Id": 552,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3007,
+        "Id": 553,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 162
+    },
+    {
+        "GrowGroupId": 3008,
+        "Id": 554,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 3
+    },
+    {
+        "GrowGroupId": 3008,
+        "Id": 555,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 3008,
+        "Id": 556,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3008,
+        "Id": 557,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 161
+    },
+    {
+        "GrowGroupId": 3009,
+        "Id": 558,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 3009,
+        "Id": 559,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 3009,
+        "Id": 560,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3009,
+        "Id": 561,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 160
+    },
+    {
+        "GrowGroupId": 3010,
+        "Id": 562,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 4
+    },
+    {
+        "GrowGroupId": 3010,
+        "Id": 563,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 3010,
+        "Id": 564,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3010,
+        "Id": 565,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 159
+    },
+    {
+        "GrowGroupId": 3011,
+        "Id": 566,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 3011,
+        "Id": 567,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 5
+    },
+    {
+        "GrowGroupId": 3011,
+        "Id": 568,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3011,
+        "Id": 569,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 158
+    },
+    {
+        "GrowGroupId": 3012,
+        "Id": 570,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 3012,
+        "Id": 571,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 6
+    },
+    {
+        "GrowGroupId": 3012,
+        "Id": 572,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 3012,
+        "Id": 573,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 157
+    },
+    {
+        "GrowGroupId": 3013,
+        "Id": 574,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3013,
+        "Id": 575,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3013,
+        "Id": 576,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 31
+    },
+    {
+        "GrowGroupId": 3013,
+        "Id": 577,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 155
+    },
+    {
+        "GrowGroupId": 3014,
+        "Id": 578,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3014,
+        "Id": 579,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3014,
+        "Id": 580,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 3014,
+        "Id": 581,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 154
+    },
+    {
+        "GrowGroupId": 3015,
+        "Id": 582,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 3015,
+        "Id": 583,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 3015,
+        "Id": 584,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 30
+    },
+    {
+        "GrowGroupId": 3015,
+        "Id": 585,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 151
+    },
+    {
+        "GrowGroupId": 3016,
+        "Id": 586,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 3016,
+        "Id": 587,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 3016,
+        "Id": 588,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 3016,
+        "Id": 589,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 149
+    },
+    {
+        "GrowGroupId": 3017,
+        "Id": 590,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 3017,
+        "Id": 591,
+        "MaxInt": 12,
+        "MinInt": 1,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 3017,
+        "Id": 592,
+        "MaxInt": 22,
+        "MinInt": 13,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 3017,
+        "Id": 593,
+        "MaxInt": 30,
+        "MinInt": 23,
+        "Weight": 146
+    },
+    {
+        "GrowGroupId": 3018,
+        "Id": 594,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 3018,
+        "Id": 595,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 3018,
+        "Id": 596,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 3018,
+        "Id": 597,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 142
+    },
+    {
+        "GrowGroupId": 3019,
+        "Id": 598,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 3019,
+        "Id": 599,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 3019,
+        "Id": 600,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 28
+    },
+    {
+        "GrowGroupId": 3019,
+        "Id": 601,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 139
+    },
+    {
+        "GrowGroupId": 3020,
+        "Id": 602,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 3020,
+        "Id": 603,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 3020,
+        "Id": 604,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 27
+    },
+    {
+        "GrowGroupId": 3020,
+        "Id": 605,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 136
+    },
+    {
+        "GrowGroupId": 3021,
+        "Id": 606,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 3021,
+        "Id": 607,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 21
+    },
+    {
+        "GrowGroupId": 3021,
+        "Id": 608,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 3021,
+        "Id": 609,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 132
+    },
+    {
+        "GrowGroupId": 3022,
+        "Id": 610,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 3022,
+        "Id": 611,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 3022,
+        "Id": 612,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 3022,
+        "Id": 613,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 128
+    },
+    {
+        "GrowGroupId": 3023,
+        "Id": 614,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 3023,
+        "Id": 615,
+        "MaxInt": 11,
+        "MinInt": 1,
+        "Weight": 26
+    },
+    {
+        "GrowGroupId": 3023,
+        "Id": 616,
+        "MaxInt": 22,
+        "MinInt": 12,
+        "Weight": 25
+    },
+    {
+        "GrowGroupId": 3023,
+        "Id": 617,
+        "MaxInt": 30,
+        "MinInt": 22,
+        "Weight": 123
+    },
+    {
+        "GrowGroupId": 3024,
+        "Id": 618,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 3024,
+        "Id": 619,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 29
+    },
+    {
+        "GrowGroupId": 3024,
+        "Id": 620,
+        "MaxInt": 22,
+        "MinInt": 11,
+        "Weight": 24
+    },
+    {
+        "GrowGroupId": 3024,
+        "Id": 621,
+        "MaxInt": 30,
+        "MinInt": 21,
+        "Weight": 118
+    },
+    {
+        "GrowGroupId": 3025,
+        "Id": 622,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3025,
+        "Id": 623,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 32
+    },
+    {
+        "GrowGroupId": 3025,
+        "Id": 624,
+        "MaxInt": 22,
+        "MinInt": 11,
+        "Weight": 23
+    },
+    {
+        "GrowGroupId": 3025,
+        "Id": 625,
+        "MaxInt": 30,
+        "MinInt": 21,
+        "Weight": 113
+    },
+    {
+        "GrowGroupId": 3026,
+        "Id": 626,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 3026,
+        "Id": 627,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 3026,
+        "Id": 628,
+        "MaxInt": 22,
+        "MinInt": 11,
+        "Weight": 22
+    },
+    {
+        "GrowGroupId": 3026,
+        "Id": 629,
+        "MaxInt": 30,
+        "MinInt": 21,
+        "Weight": 108
+    },
+    {
+        "GrowGroupId": 3027,
+        "Id": 630,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 3027,
+        "Id": 631,
+        "MaxInt": 10,
+        "MinInt": 1,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 3027,
+        "Id": 632,
+        "MaxInt": 22,
+        "MinInt": 11,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 3027,
+        "Id": 633,
+        "MaxInt": 30,
+        "MinInt": 21,
+        "Weight": 104
+    },
+    {
+        "GrowGroupId": 3028,
+        "Id": 634,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 3028,
+        "Id": 635,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 3028,
+        "Id": 636,
+        "MaxInt": 22,
+        "MinInt": 10,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 3028,
+        "Id": 637,
+        "MaxInt": 30,
+        "MinInt": 20,
+        "Weight": 98
+    },
+    {
+        "GrowGroupId": 3029,
+        "Id": 638,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 43
+    },
+    {
+        "GrowGroupId": 3029,
+        "Id": 639,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 44
+    },
+    {
+        "GrowGroupId": 3029,
+        "Id": 640,
+        "MaxInt": 22,
+        "MinInt": 10,
+        "Weight": 19
+    },
+    {
+        "GrowGroupId": 3029,
+        "Id": 641,
+        "MaxInt": 30,
+        "MinInt": 20,
+        "Weight": 94
+    },
+    {
+        "GrowGroupId": 3030,
+        "Id": 642,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 3030,
+        "Id": 643,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 3030,
+        "Id": 644,
+        "MaxInt": 22,
+        "MinInt": 10,
+        "Weight": 18
+    },
+    {
+        "GrowGroupId": 3030,
+        "Id": 645,
+        "MaxInt": 30,
+        "MinInt": 20,
+        "Weight": 90
+    },
+    {
+        "GrowGroupId": 3031,
+        "Id": 646,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 3031,
+        "Id": 647,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 49
+    },
+    {
+        "GrowGroupId": 3031,
+        "Id": 648,
+        "MaxInt": 22,
+        "MinInt": 10,
+        "Weight": 17
+    },
+    {
+        "GrowGroupId": 3031,
+        "Id": 649,
+        "MaxInt": 30,
+        "MinInt": 20,
+        "Weight": 86
+    },
+    {
+        "GrowGroupId": 3032,
+        "Id": 650,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 51
+    },
+    {
+        "GrowGroupId": 3032,
+        "Id": 651,
+        "MaxInt": 9,
+        "MinInt": 1,
+        "Weight": 51
+    },
+    {
+        "GrowGroupId": 3032,
+        "Id": 652,
+        "MaxInt": 22,
+        "MinInt": 10,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 3032,
+        "Id": 653,
+        "MaxInt": 30,
+        "MinInt": 20,
+        "Weight": 82
+    },
+    {
+        "GrowGroupId": 3033,
+        "Id": 654,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 53
+    },
+    {
+        "GrowGroupId": 3033,
+        "Id": 655,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 54
+    },
+    {
+        "GrowGroupId": 3033,
+        "Id": 656,
+        "MaxInt": 22,
+        "MinInt": 9,
+        "Weight": 16
+    },
+    {
+        "GrowGroupId": 3033,
+        "Id": 657,
+        "MaxInt": 30,
+        "MinInt": 19,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 3034,
+        "Id": 658,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 55
+    },
+    {
+        "GrowGroupId": 3034,
+        "Id": 659,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 3034,
+        "Id": 660,
+        "MaxInt": 22,
+        "MinInt": 9,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 3034,
+        "Id": 661,
+        "MaxInt": 30,
+        "MinInt": 19,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 3035,
+        "Id": 662,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 57
+    },
+    {
+        "GrowGroupId": 3035,
+        "Id": 663,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 3035,
+        "Id": 664,
+        "MaxInt": 22,
+        "MinInt": 9,
+        "Weight": 15
+    },
+    {
+        "GrowGroupId": 3035,
+        "Id": 665,
+        "MaxInt": 30,
+        "MinInt": 19,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 3036,
+        "Id": 666,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 59
+    },
+    {
+        "GrowGroupId": 3036,
+        "Id": 667,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 60
+    },
+    {
+        "GrowGroupId": 3036,
+        "Id": 668,
+        "MaxInt": 22,
+        "MinInt": 9,
+        "Weight": 14
+    },
+    {
+        "GrowGroupId": 3036,
+        "Id": 669,
+        "MaxInt": 30,
+        "MinInt": 19,
+        "Weight": 67
+    },
+    {
+        "GrowGroupId": 3037,
+        "Id": 670,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 61
+    },
+    {
+        "GrowGroupId": 3037,
+        "Id": 671,
+        "MaxInt": 8,
+        "MinInt": 1,
+        "Weight": 62
+    },
+    {
+        "GrowGroupId": 3037,
+        "Id": 672,
+        "MaxInt": 22,
+        "MinInt": 9,
+        "Weight": 13
+    },
+    {
+        "GrowGroupId": 3037,
+        "Id": 673,
+        "MaxInt": 30,
+        "MinInt": 19,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 3038,
+        "Id": 674,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 63
+    },
+    {
+        "GrowGroupId": 3038,
+        "Id": 675,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 64
+    },
+    {
+        "GrowGroupId": 3038,
+        "Id": 676,
+        "MaxInt": 22,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 3038,
+        "Id": 677,
+        "MaxInt": 30,
+        "MinInt": 18,
+        "Weight": 61
+    },
+    {
+        "GrowGroupId": 3039,
+        "Id": 678,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 65
+    },
+    {
+        "GrowGroupId": 3039,
+        "Id": 679,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 65
+    },
+    {
+        "GrowGroupId": 3039,
+        "Id": 680,
+        "MaxInt": 22,
+        "MinInt": 8,
+        "Weight": 12
+    },
+    {
+        "GrowGroupId": 3039,
+        "Id": 681,
+        "MaxInt": 30,
+        "MinInt": 18,
+        "Weight": 58
+    },
+    {
+        "GrowGroupId": 3040,
+        "Id": 682,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 66
+    },
+    {
+        "GrowGroupId": 3040,
+        "Id": 683,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 67
+    },
+    {
+        "GrowGroupId": 3040,
+        "Id": 684,
+        "MaxInt": 22,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 3040,
+        "Id": 685,
+        "MaxInt": 30,
+        "MinInt": 18,
+        "Weight": 56
+    },
+    {
+        "GrowGroupId": 3041,
+        "Id": 686,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 68
+    },
+    {
+        "GrowGroupId": 3041,
+        "Id": 687,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 68
+    },
+    {
+        "GrowGroupId": 3041,
+        "Id": 688,
+        "MaxInt": 22,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 3041,
+        "Id": 689,
+        "MaxInt": 30,
+        "MinInt": 18,
+        "Weight": 53
+    },
+    {
+        "GrowGroupId": 3042,
+        "Id": 690,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 69
+    },
+    {
+        "GrowGroupId": 3042,
+        "Id": 691,
+        "MaxInt": 7,
+        "MinInt": 1,
+        "Weight": 70
+    },
+    {
+        "GrowGroupId": 3042,
+        "Id": 692,
+        "MaxInt": 22,
+        "MinInt": 8,
+        "Weight": 11
+    },
+    {
+        "GrowGroupId": 3042,
+        "Id": 693,
+        "MaxInt": 30,
+        "MinInt": 18,
+        "Weight": 50
+    },
+    {
+        "GrowGroupId": 3043,
+        "Id": 694,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 71
+    },
+    {
+        "GrowGroupId": 3043,
+        "Id": 695,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 71
+    },
+    {
+        "GrowGroupId": 3043,
+        "Id": 696,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 3043,
+        "Id": 697,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 48
+    },
+    {
+        "GrowGroupId": 3044,
+        "Id": 698,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 72
+    },
+    {
+        "GrowGroupId": 3044,
+        "Id": 699,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 72
+    },
+    {
+        "GrowGroupId": 3044,
+        "Id": 700,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 10
+    },
+    {
+        "GrowGroupId": 3044,
+        "Id": 701,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 46
+    },
+    {
+        "GrowGroupId": 3045,
+        "Id": 702,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 73
+    },
+    {
+        "GrowGroupId": 3045,
+        "Id": 703,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 73
+    },
+    {
+        "GrowGroupId": 3045,
+        "Id": 704,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 3045,
+        "Id": 705,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 45
+    },
+    {
+        "GrowGroupId": 3046,
+        "Id": 706,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 3046,
+        "Id": 707,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 74
+    },
+    {
+        "GrowGroupId": 3046,
+        "Id": 708,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 3046,
+        "Id": 709,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 43
+    },
+    {
+        "GrowGroupId": 3047,
+        "Id": 710,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 75
+    },
+    {
+        "GrowGroupId": 3047,
+        "Id": 711,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 75
+    },
+    {
+        "GrowGroupId": 3047,
+        "Id": 712,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 9
+    },
+    {
+        "GrowGroupId": 3047,
+        "Id": 713,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 41
+    },
+    {
+        "GrowGroupId": 3048,
+        "Id": 714,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 3048,
+        "Id": 715,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 3048,
+        "Id": 716,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3048,
+        "Id": 717,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 3049,
+        "Id": 718,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 76
+    },
+    {
+        "GrowGroupId": 3049,
+        "Id": 719,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 3049,
+        "Id": 720,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3049,
+        "Id": 721,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 39
+    },
+    {
+        "GrowGroupId": 3050,
+        "Id": 722,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 3050,
+        "Id": 723,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 3050,
+        "Id": 724,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3050,
+        "Id": 725,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 38
+    },
+    {
+        "GrowGroupId": 3051,
+        "Id": 726,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 77
+    },
+    {
+        "GrowGroupId": 3051,
+        "Id": 727,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 3051,
+        "Id": 728,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 8
+    },
+    {
+        "GrowGroupId": 3051,
+        "Id": 729,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 3052,
+        "Id": 730,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 3052,
+        "Id": 731,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 3052,
+        "Id": 732,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3052,
+        "Id": 733,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 37
+    },
+    {
+        "GrowGroupId": 3053,
+        "Id": 734,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 78
+    },
+    {
+        "GrowGroupId": 3053,
+        "Id": 735,
+        "MaxInt": 6,
+        "MinInt": 1,
+        "Weight": 79
+    },
+    {
+        "GrowGroupId": 3053,
+        "Id": 736,
+        "MaxInt": 22,
+        "MinInt": 7,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3053,
+        "Id": 737,
+        "MaxInt": 30,
+        "MinInt": 17,
+        "Weight": 36
+    },
+    {
+        "GrowGroupId": 3054,
+        "Id": 738,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 79
+    },
+    {
+        "GrowGroupId": 3054,
+        "Id": 739,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 79
+    },
+    {
+        "GrowGroupId": 3054,
+        "Id": 740,
+        "MaxInt": 22,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3054,
+        "Id": 741,
+        "MaxInt": 30,
+        "MinInt": 16,
+        "Weight": 35
+    },
+    {
+        "GrowGroupId": 3055,
+        "Id": 742,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 79
+    },
+    {
+        "GrowGroupId": 3055,
+        "Id": 743,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 80
+    },
+    {
+        "GrowGroupId": 3055,
+        "Id": 744,
+        "MaxInt": 22,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3055,
+        "Id": 745,
+        "MaxInt": 30,
+        "MinInt": 16,
+        "Weight": 34
+    },
+    {
+        "GrowGroupId": 3056,
+        "Id": 746,
+        "MaxInt": -1,
+        "MinInt": -15,
+        "Weight": 80
+    },
+    {
+        "GrowGroupId": 3056,
+        "Id": 747,
+        "MaxInt": 5,
+        "MinInt": 1,
+        "Weight": 80
+    },
+    {
+        "GrowGroupId": 3056,
+        "Id": 748,
+        "MaxInt": 22,
+        "MinInt": 6,
+        "Weight": 7
+    },
+    {
+        "GrowGroupId": 3056,
+        "Id": 749,
+        "MaxInt": 30,
+        "MinInt": 16,
+        "Weight": 33
+    },
+    {
+        "GrowGroupId": 4001,
+        "Id": 750,
+        "MaxInt": 20,
+        "MinInt": 16,
+        "Weight": 20
+    },
+    {
+        "GrowGroupId": 4001,
+        "Id": 751,
+        "MaxInt": 28,
+        "MinInt": 21,
+        "Weight": 40
+    },
+    {
+        "GrowGroupId": 4001,
+        "Id": 752,
+        "MaxInt": 45,
+        "MinInt": 29,
+        "Weight": 140
+    }
+]

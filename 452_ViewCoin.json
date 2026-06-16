@@ -1,0 +1,100 @@
+[
+    {
+        "Id": 101000001,
+        "ItemViewCoinType": 1,
+        "Name": "乃木石",
+        "ThumbnailId": "101000001",
+        "Tooltip": "円盤状の特別な石"
+    },
+    {
+        "Id": 101000002,
+        "ItemViewCoinType": 2,
+        "Name": "乃木石(有償)",
+        "ThumbnailId": "101000001",
+        "Tooltip": "円盤状の特別な石"
+    },
+    {
+        "Id": 101000003,
+        "ItemViewCoinType": 3,
+        "Name": "乃木石(無償)",
+        "ThumbnailId": "101000001",
+        "Tooltip": "円盤状の特別な石"
+    },
+    {
+        "Id": 101000004,
+        "ItemViewCoinType": 4,
+        "Name": "乃木石",
+        "ThumbnailId": "101000001",
+        "Tooltip": "円盤状の特別な石"
+    },
+    {
+        "Id": 101000005,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石A",
+        "ThumbnailId": "101000005",
+        "Tooltip": "乃木石A"
+    },
+    {
+        "Id": 101000006,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石B",
+        "ThumbnailId": "101000006",
+        "Tooltip": "乃木石B"
+    },
+    {
+        "Id": 101000007,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石C",
+        "ThumbnailId": "101000007",
+        "Tooltip": "乃木石C"
+    },
+    {
+        "Id": 101000008,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石740個",
+        "ThumbnailId": "101000008",
+        "Tooltip": "乃木石740個"
+    },
+    {
+        "Id": 101000009,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石1,470個",
+        "ThumbnailId": "101000009",
+        "Tooltip": "乃木石1,470個"
+    },
+    {
+        "Id": 101000010,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石2,450個",
+        "ThumbnailId": "101000010",
+        "Tooltip": "乃木石2,450個"
+    },
+    {
+        "Id": 101000011,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石5,000個",
+        "ThumbnailId": "101000011",
+        "Tooltip": "乃木石5,000個"
+    },
+    {
+        "Id": 101000012,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石D",
+        "ThumbnailId": "101000012",
+        "Tooltip": "乃木石D"
+    },
+    {
+        "Id": 101000013,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石E,F",
+        "ThumbnailId": "101000013",
+        "Tooltip": "乃木石E,F"
+    },
+    {
+        "Id": 101000014,
+        "ItemViewCoinType": 5,
+        "Name": "乃木石G",
+        "ThumbnailId": "101000014",
+        "Tooltip": "乃木石G"
+    }
+]

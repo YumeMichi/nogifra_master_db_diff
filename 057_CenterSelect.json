@@ -1,0 +1,386 @@
+[
+    {
+        "CharacterId": 101,
+        "Id": 1,
+        "Name": "秋元真夏",
+        "Token": "24amgy"
+    },
+    {
+        "CharacterId": 102,
+        "Id": 2,
+        "Name": "生田絵梨花",
+        "Token": "23e0ua"
+    },
+    {
+        "CharacterId": 106,
+        "Id": 3,
+        "Name": "齋藤飛鳥",
+        "Token": "t8lwqh"
+    },
+    {
+        "CharacterId": 110,
+        "Id": 4,
+        "Name": "高山一実",
+        "Token": "urezad"
+    },
+    {
+        "CharacterId": 112,
+        "Id": 5,
+        "Name": "樋口日奈",
+        "Token": "s0j6l4"
+    },
+    {
+        "CharacterId": 113,
+        "Id": 6,
+        "Name": "星野みなみ",
+        "Token": "mmfddj"
+    },
+    {
+        "CharacterId": 114,
+        "Id": 7,
+        "Name": "松村沙友理",
+        "Token": "e9m744"
+    },
+    {
+        "CharacterId": 115,
+        "Id": 8,
+        "Name": "和田まあや",
+        "Token": "tqfghj"
+    },
+    {
+        "CharacterId": 117,
+        "Id": 9,
+        "Name": "伊藤純奈",
+        "Token": "smlihh"
+    },
+    {
+        "CharacterId": 118,
+        "Id": 10,
+        "Name": "北野日奈子",
+        "Token": "pkk1t2"
+    },
+    {
+        "CharacterId": 120,
+        "Id": 11,
+        "Name": "新内眞衣",
+        "Token": "vpqnhn"
+    },
+    {
+        "CharacterId": 121,
+        "Id": 12,
+        "Name": "鈴木絢音",
+        "Token": "iokipw"
+    },
+    {
+        "CharacterId": 122,
+        "Id": 13,
+        "Name": "寺田蘭世",
+        "Token": "t326ic"
+    },
+    {
+        "CharacterId": 124,
+        "Id": 14,
+        "Name": "山崎怜奈",
+        "Token": "9sem1u"
+    },
+    {
+        "CharacterId": 125,
+        "Id": 15,
+        "Name": "渡辺みり愛",
+        "Token": "izl0r4"
+    },
+    {
+        "CharacterId": 126,
+        "Id": 16,
+        "Name": "伊藤理々杏",
+        "Token": "wvwu1k"
+    },
+    {
+        "CharacterId": 127,
+        "Id": 17,
+        "Name": "岩本蓮加",
+        "Token": "w2aiw9"
+    },
+    {
+        "CharacterId": 128,
+        "Id": 18,
+        "Name": "梅澤美波",
+        "Token": "cwgeze"
+    },
+    {
+        "CharacterId": 129,
+        "Id": 19,
+        "Name": "大園桃子",
+        "Token": "tmf4f7"
+    },
+    {
+        "CharacterId": 130,
+        "Id": 20,
+        "Name": "久保史緒里",
+        "Token": "ewsc3d"
+    },
+    {
+        "CharacterId": 131,
+        "Id": 21,
+        "Name": "阪口珠美",
+        "Token": "sc8sgk"
+    },
+    {
+        "CharacterId": 132,
+        "Id": 22,
+        "Name": "佐藤楓",
+        "Token": "h09eaw"
+    },
+    {
+        "CharacterId": 133,
+        "Id": 23,
+        "Name": "中村麗乃",
+        "Token": "9h9hc8"
+    },
+    {
+        "CharacterId": 134,
+        "Id": 24,
+        "Name": "向井葉月",
+        "Token": "we91x5"
+    },
+    {
+        "CharacterId": 135,
+        "Id": 25,
+        "Name": "山下美月",
+        "Token": "dxr0m3"
+    },
+    {
+        "CharacterId": 136,
+        "Id": 26,
+        "Name": "吉田綾乃クリスティー",
+        "Token": "pfqyel"
+    },
+    {
+        "CharacterId": 137,
+        "Id": 27,
+        "Name": "与田祐希",
+        "Token": "4fr2n8"
+    },
+    {
+        "CharacterId": 138,
+        "Id": 28,
+        "Name": "遠藤さくら",
+        "Token": "riv7ur"
+    },
+    {
+        "CharacterId": 139,
+        "Id": 29,
+        "Name": "賀喜遥香",
+        "Token": "tseo4t"
+    },
+    {
+        "CharacterId": 140,
+        "Id": 30,
+        "Name": "掛橋沙耶香",
+        "Token": "nnroym"
+    },
+    {
+        "CharacterId": 141,
+        "Id": 31,
+        "Name": "金川紗耶",
+        "Token": "rvndf8"
+    },
+    {
+        "CharacterId": 142,
+        "Id": 32,
+        "Name": "北川悠理",
+        "Token": "jzd1n8"
+    },
+    {
+        "CharacterId": 143,
+        "Id": 33,
+        "Name": "柴田柚菜",
+        "Token": "g2evf0"
+    },
+    {
+        "CharacterId": 144,
+        "Id": 34,
+        "Name": "清宮レイ",
+        "Token": "pf8e0e"
+    },
+    {
+        "CharacterId": 145,
+        "Id": 35,
+        "Name": "田村真佑",
+        "Token": "84xeal"
+    },
+    {
+        "CharacterId": 146,
+        "Id": 36,
+        "Name": "筒井あやめ",
+        "Token": "64cgft"
+    },
+    {
+        "CharacterId": 147,
+        "Id": 37,
+        "Name": "早川聖来",
+        "Token": "tqgvbs"
+    },
+    {
+        "CharacterId": 148,
+        "Id": 38,
+        "Name": "矢久保美緒",
+        "Token": "sk8ph3"
+    },
+    {
+        "CharacterId": 149,
+        "Id": 39,
+        "Name": "黒見明香",
+        "Token": "hicsfm"
+    },
+    {
+        "CharacterId": 150,
+        "Id": 40,
+        "Name": "佐藤璃果",
+        "Token": "aq4pb8"
+    },
+    {
+        "CharacterId": 151,
+        "Id": 41,
+        "Name": "林瑠奈",
+        "Token": "5nlbie"
+    },
+    {
+        "CharacterId": 152,
+        "Id": 42,
+        "Name": "松尾美佑",
+        "Token": "3bj87o"
+    },
+    {
+        "CharacterId": 153,
+        "Id": 43,
+        "Name": "弓木奈於",
+        "Token": "74semh"
+    },
+    {
+        "CharacterId": 154,
+        "Id": 44,
+        "Name": "五百城茉央",
+        "Token": "rvwnlk"
+    },
+    {
+        "CharacterId": 155,
+        "Id": 45,
+        "Name": "池田瑛紗",
+        "Token": "coqmvs"
+    },
+    {
+        "CharacterId": 156,
+        "Id": 46,
+        "Name": "一ノ瀬美空",
+        "Token": "nlk09j"
+    },
+    {
+        "CharacterId": 157,
+        "Id": 47,
+        "Name": "井上和",
+        "Token": "hzhqld"
+    },
+    {
+        "CharacterId": 158,
+        "Id": 48,
+        "Name": "岡本姫奈",
+        "Token": "3w20xl"
+    },
+    {
+        "CharacterId": 159,
+        "Id": 49,
+        "Name": "小川彩",
+        "Token": "vlygo1"
+    },
+    {
+        "CharacterId": 160,
+        "Id": 50,
+        "Name": "奥田いろは",
+        "Token": "n0zj1s"
+    },
+    {
+        "CharacterId": 161,
+        "Id": 51,
+        "Name": "川﨑桜",
+        "Token": "8rfb75"
+    },
+    {
+        "CharacterId": 162,
+        "Id": 52,
+        "Name": "菅原咲月",
+        "Token": "pt9ayw"
+    },
+    {
+        "CharacterId": 163,
+        "Id": 53,
+        "Name": "冨里奈央",
+        "Token": "1h1vi4"
+    },
+    {
+        "CharacterId": 164,
+        "Id": 54,
+        "Name": "中西アルノ",
+        "Token": "db6627"
+    },
+    {
+        "CharacterId": 165,
+        "Id": 55,
+        "Name": "愛宕心響",
+        "Token": "gx1vn6"
+    },
+    {
+        "CharacterId": 166,
+        "Id": 56,
+        "Name": "大越ひなの",
+        "Token": "3eonkp"
+    },
+    {
+        "CharacterId": 168,
+        "Id": 58,
+        "Name": "海邉朱莉",
+        "Token": "k5x7uh"
+    },
+    {
+        "CharacterId": 169,
+        "Id": 59,
+        "Name": "川端晃菜",
+        "Token": "qn4bmb"
+    },
+    {
+        "CharacterId": 170,
+        "Id": 60,
+        "Name": "鈴木佑捺",
+        "Token": "f43d0i"
+    },
+    {
+        "CharacterId": 171,
+        "Id": 61,
+        "Name": "瀬戸口心月",
+        "Token": "tnyso8"
+    },
+    {
+        "CharacterId": 172,
+        "Id": 62,
+        "Name": "長嶋凛桜",
+        "Token": "4pf402"
+    },
+    {
+        "CharacterId": 173,
+        "Id": 63,
+        "Name": "増田三莉音",
+        "Token": "5z7vuo"
+    },
+    {
+        "CharacterId": 174,
+        "Id": 64,
+        "Name": "森平麗心",
+        "Token": "u2expa"
+    },
+    {
+        "CharacterId": 175,
+        "Id": 65,
+        "Name": "矢田萌華",
+        "Token": "wnwodl"
+    }
+]

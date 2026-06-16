@@ -1,0 +1,12 @@
+[
+    {
+        "Id": 1,
+        "ResistancePenetrationParameterType": 1,
+        "ResistanceStateGroupId": 12001
+    },
+    {
+        "Id": 2,
+        "ResistancePenetrationParameterType": 2,
+        "ResistanceStateGroupId": 13001
+    }
+]

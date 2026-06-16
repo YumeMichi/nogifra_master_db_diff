@@ -1,0 +1,394 @@
+[
+    {
+        "EventRaidGroupId": 21001101,
+        "EventRaidId": 210011,
+        "Id": 210011,
+        "QuestGroupSetId": 21001101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21001101,
+        "EventRaidId": 210011,
+        "Id": 210012,
+        "QuestGroupSetId": 22001101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 21001201,
+        "EventRaidId": 210021,
+        "Id": 210021,
+        "QuestGroupSetId": 21002101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21003101,
+        "EventRaidId": 210031,
+        "Id": 210031,
+        "QuestGroupSetId": 21003101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21003101,
+        "EventRaidId": 210031,
+        "Id": 210032,
+        "QuestGroupSetId": 22003101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 21004101,
+        "EventRaidId": 210041,
+        "Id": 210041,
+        "QuestGroupSetId": 21004101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21005101,
+        "EventRaidId": 210051,
+        "Id": 210051,
+        "QuestGroupSetId": 21005101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21006101,
+        "EventRaidId": 210061,
+        "Id": 210061,
+        "QuestGroupSetId": 21006101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21007101,
+        "EventRaidId": 210071,
+        "Id": 210071,
+        "QuestGroupSetId": 21007101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21008101,
+        "EventRaidId": 210081,
+        "Id": 210081,
+        "QuestGroupSetId": 21008101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21009101,
+        "EventRaidId": 210091,
+        "Id": 210091,
+        "QuestGroupSetId": 21009101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21010101,
+        "EventRaidId": 210101,
+        "Id": 210101,
+        "QuestGroupSetId": 21010101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21011101,
+        "EventRaidId": 210111,
+        "Id": 210111,
+        "QuestGroupSetId": 21011101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21012101,
+        "EventRaidId": 210121,
+        "Id": 210121,
+        "QuestGroupSetId": 21012101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21013101,
+        "EventRaidId": 210131,
+        "Id": 210131,
+        "QuestGroupSetId": 21013101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21014101,
+        "EventRaidId": 210141,
+        "Id": 210141,
+        "QuestGroupSetId": 21014101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21015101,
+        "EventRaidId": 210151,
+        "Id": 210151,
+        "QuestGroupSetId": 21015101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21016101,
+        "EventRaidId": 210161,
+        "Id": 210161,
+        "QuestGroupSetId": 21016101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21017101,
+        "EventRaidId": 210171,
+        "Id": 210171,
+        "QuestGroupSetId": 21017101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21018101,
+        "EventRaidId": 210181,
+        "Id": 210181,
+        "QuestGroupSetId": 21018101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21019101,
+        "EventRaidId": 210191,
+        "Id": 210191,
+        "QuestGroupSetId": 21019101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21020101,
+        "EventRaidId": 210201,
+        "Id": 210201,
+        "QuestGroupSetId": 21020101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21021101,
+        "EventRaidId": 210211,
+        "Id": 210211,
+        "QuestGroupSetId": 21021101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21022101,
+        "EventRaidId": 210221,
+        "Id": 210221,
+        "QuestGroupSetId": 21022101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21023101,
+        "EventRaidId": 210231,
+        "Id": 210231,
+        "QuestGroupSetId": 21023101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21024101,
+        "EventRaidId": 210241,
+        "Id": 210241,
+        "QuestGroupSetId": 21024101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21025101,
+        "EventRaidId": 210251,
+        "Id": 210251,
+        "QuestGroupSetId": 21025101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21026101,
+        "EventRaidId": 210261,
+        "Id": 210261,
+        "QuestGroupSetId": 21026101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21027101,
+        "EventRaidId": 210271,
+        "Id": 210271,
+        "QuestGroupSetId": 21027101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21028101,
+        "EventRaidId": 210281,
+        "Id": 210281,
+        "QuestGroupSetId": 21028101,
+        "RaidMode": 2
+    },
+    {
+        "EventRaidGroupId": 21001201,
+        "EventRaidId": 210021,
+        "Id": 220021,
+        "QuestGroupSetId": 22002101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22004101,
+        "EventRaidId": 210041,
+        "Id": 220041,
+        "QuestGroupSetId": 22004101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22005101,
+        "EventRaidId": 210051,
+        "Id": 220051,
+        "QuestGroupSetId": 22005101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22006101,
+        "EventRaidId": 210061,
+        "Id": 220061,
+        "QuestGroupSetId": 22006101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22007101,
+        "EventRaidId": 210071,
+        "Id": 220071,
+        "QuestGroupSetId": 22007101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22008101,
+        "EventRaidId": 210081,
+        "Id": 220081,
+        "QuestGroupSetId": 22008101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22009101,
+        "EventRaidId": 210091,
+        "Id": 220091,
+        "QuestGroupSetId": 22009101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22010101,
+        "EventRaidId": 210101,
+        "Id": 220101,
+        "QuestGroupSetId": 22010101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22011101,
+        "EventRaidId": 210111,
+        "Id": 220111,
+        "QuestGroupSetId": 22011101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22012101,
+        "EventRaidId": 210121,
+        "Id": 220121,
+        "QuestGroupSetId": 22012101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22013101,
+        "EventRaidId": 210131,
+        "Id": 220131,
+        "QuestGroupSetId": 22013101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22014101,
+        "EventRaidId": 210141,
+        "Id": 220141,
+        "QuestGroupSetId": 22014101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22015101,
+        "EventRaidId": 210151,
+        "Id": 220151,
+        "QuestGroupSetId": 22015101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22016101,
+        "EventRaidId": 210161,
+        "Id": 220161,
+        "QuestGroupSetId": 22016101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22017101,
+        "EventRaidId": 210171,
+        "Id": 220171,
+        "QuestGroupSetId": 22017101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22018101,
+        "EventRaidId": 210181,
+        "Id": 220181,
+        "QuestGroupSetId": 22018101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22019101,
+        "EventRaidId": 210191,
+        "Id": 220191,
+        "QuestGroupSetId": 22019101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22020101,
+        "EventRaidId": 210201,
+        "Id": 220201,
+        "QuestGroupSetId": 22020101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22021101,
+        "EventRaidId": 210211,
+        "Id": 220211,
+        "QuestGroupSetId": 22021101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22022101,
+        "EventRaidId": 210221,
+        "Id": 220221,
+        "QuestGroupSetId": 22022101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22023101,
+        "EventRaidId": 210231,
+        "Id": 220231,
+        "QuestGroupSetId": 22023101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22024101,
+        "EventRaidId": 210241,
+        "Id": 220241,
+        "QuestGroupSetId": 22024101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22025101,
+        "EventRaidId": 210251,
+        "Id": 220251,
+        "QuestGroupSetId": 22025101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22026101,
+        "EventRaidId": 210261,
+        "Id": 220261,
+        "QuestGroupSetId": 22026101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22027101,
+        "EventRaidId": 210271,
+        "Id": 220271,
+        "QuestGroupSetId": 22027101,
+        "RaidMode": 1
+    },
+    {
+        "EventRaidGroupId": 22028101,
+        "EventRaidId": 210281,
+        "Id": 220281,
+        "QuestGroupSetId": 22028101,
+        "RaidMode": 1
+    }
+]

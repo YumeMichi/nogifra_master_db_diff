@@ -1,0 +1,298 @@
+[
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 1,
+        "Id": 280000101,
+        "ItemId": 111500356,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 2,
+        "Id": 280000102,
+        "ItemId": 111100004,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 3,
+        "Id": 280000103,
+        "ItemId": 111081003,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 3,
+        "Id": 280000104,
+        "ItemId": 111081004,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 3,
+        "Id": 280000105,
+        "ItemId": 111081005,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 3,
+        "Id": 280000106,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 4,
+        "Id": 280000107,
+        "ItemId": 111100004,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 5,
+        "Id": 280000108,
+        "ItemId": 111081003,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 5,
+        "Id": 280000109,
+        "ItemId": 111081004,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 5,
+        "Id": 280000110,
+        "ItemId": 111081005,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 5,
+        "Id": 280000111,
+        "ItemId": 111081006,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 6,
+        "Id": 280000112,
+        "ItemId": 111100009,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800001,
+        "Day": 7,
+        "Id": 280000113,
+        "ItemId": 111500359,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 1,
+        "Id": 280000201,
+        "ItemId": 111010004,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 1,
+        "Id": 280000202,
+        "ItemId": 111081003,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 1,
+        "Id": 280000203,
+        "ItemId": 111081004,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 2,
+        "Id": 280000204,
+        "ItemId": 111020001,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 2,
+        "Id": 280000205,
+        "ItemId": 0,
+        "ItemQuantity": 100000,
+        "ItemType": 102
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 2,
+        "Id": 280000206,
+        "ItemId": 111010005,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 2,
+        "Id": 280000207,
+        "ItemId": 111501726,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 3,
+        "Id": 280000208,
+        "ItemId": 111100004,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 3,
+        "Id": 280000209,
+        "ItemId": 111100009,
+        "ItemQuantity": 150,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 3,
+        "Id": 280000210,
+        "ItemId": 111030001,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 3,
+        "Id": 280000211,
+        "ItemId": 111030002,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 4,
+        "Id": 280000212,
+        "ItemId": 111100005,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 4,
+        "Id": 280000213,
+        "ItemId": 0,
+        "ItemQuantity": 100000,
+        "ItemType": 102
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 4,
+        "Id": 280000214,
+        "ItemId": 111081003,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 4,
+        "Id": 280000215,
+        "ItemId": 111081004,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 5,
+        "Id": 280000216,
+        "ItemId": 111081005,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 5,
+        "Id": 280000217,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 5,
+        "Id": 280000218,
+        "ItemId": 111081024,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 6,
+        "Id": 280000219,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 160
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 6,
+        "Id": 280000220,
+        "ItemId": 111060003,
+        "ItemQuantity": 5,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 6,
+        "Id": 280000221,
+        "ItemId": 4,
+        "ItemQuantity": 20,
+        "ItemType": 190
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 7,
+        "Id": 280000222,
+        "ItemId": 111081005,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 7,
+        "Id": 280000223,
+        "ItemId": 111081006,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "BeginnerLoginBonusId": 2800002,
+        "Day": 7,
+        "Id": 280000224,
+        "ItemId": 111081024,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    }
+]

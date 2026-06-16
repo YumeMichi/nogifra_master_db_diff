@@ -1,0 +1,4461 @@
+[
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 1000101,
+        "SeasonId": 1,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 1000102,
+        "SeasonId": 1,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 1000103,
+        "SeasonId": 1,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 2000101,
+        "SeasonId": 2,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 2000102,
+        "SeasonId": 2,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 118,
+        "Id": 2000103,
+        "SeasonId": 2,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 2000201,
+        "SeasonId": 2,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 113,
+        "Id": 2000202,
+        "SeasonId": 2,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 2000203,
+        "SeasonId": 2,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 2000301,
+        "SeasonId": 2,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 2000302,
+        "SeasonId": 2,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 2000303,
+        "SeasonId": 2,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 115,
+        "Id": 2000401,
+        "SeasonId": 2,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 2000402,
+        "SeasonId": 2,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 2000403,
+        "SeasonId": 2,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 3000101,
+        "SeasonId": 3,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 3000102,
+        "SeasonId": 3,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 3000103,
+        "SeasonId": 3,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 3000201,
+        "SeasonId": 3,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 3000202,
+        "SeasonId": 3,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 3000203,
+        "SeasonId": 3,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 3000301,
+        "SeasonId": 3,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 3000302,
+        "SeasonId": 3,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 3000303,
+        "SeasonId": 3,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 3000401,
+        "SeasonId": 3,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 3000402,
+        "SeasonId": 3,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 3000403,
+        "SeasonId": 3,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 3000501,
+        "SeasonId": 3,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 112,
+        "Id": 3000502,
+        "SeasonId": 3,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 124,
+        "Id": 3000503,
+        "SeasonId": 3,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 3000601,
+        "SeasonId": 3,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 3000602,
+        "SeasonId": 3,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 3000603,
+        "SeasonId": 3,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 4000101,
+        "SeasonId": 4,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 4000102,
+        "SeasonId": 4,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 4000103,
+        "SeasonId": 4,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 4000201,
+        "SeasonId": 4,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 118,
+        "Id": 4000202,
+        "SeasonId": 4,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 4000203,
+        "SeasonId": 4,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 4000301,
+        "SeasonId": 4,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 4000302,
+        "SeasonId": 4,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 4000303,
+        "SeasonId": 4,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 4000401,
+        "SeasonId": 4,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 115,
+        "Id": 4000402,
+        "SeasonId": 4,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 4000403,
+        "SeasonId": 4,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 4000501,
+        "SeasonId": 4,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 4000502,
+        "SeasonId": 4,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 4000503,
+        "SeasonId": 4,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 4000601,
+        "SeasonId": 4,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 4000602,
+        "SeasonId": 4,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 4000603,
+        "SeasonId": 4,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 5000101,
+        "SeasonId": 5,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 5000102,
+        "SeasonId": 5,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 5000103,
+        "SeasonId": 5,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 5000201,
+        "SeasonId": 5,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 5000202,
+        "SeasonId": 5,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 5000203,
+        "SeasonId": 5,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 5000301,
+        "SeasonId": 5,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 5000302,
+        "SeasonId": 5,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 5000303,
+        "SeasonId": 5,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 5000401,
+        "SeasonId": 5,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 5000402,
+        "SeasonId": 5,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 112,
+        "Id": 5000403,
+        "SeasonId": 5,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 124,
+        "Id": 5000501,
+        "SeasonId": 5,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 5000502,
+        "SeasonId": 5,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 5000503,
+        "SeasonId": 5,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 5000601,
+        "SeasonId": 5,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 5000602,
+        "SeasonId": 5,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 5000603,
+        "SeasonId": 5,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 5000701,
+        "SeasonId": 5,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 5000702,
+        "SeasonId": 5,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 5000703,
+        "SeasonId": 5,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 5000801,
+        "SeasonId": 5,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 5000802,
+        "SeasonId": 5,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 5000803,
+        "SeasonId": 5,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 5000901,
+        "SeasonId": 5,
+        "WeekNumber": 9
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 5000902,
+        "SeasonId": 5,
+        "WeekNumber": 9
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 115,
+        "Id": 5000903,
+        "SeasonId": 5,
+        "WeekNumber": 9
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 6000101,
+        "SeasonId": 6,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 6000102,
+        "SeasonId": 6,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 6000103,
+        "SeasonId": 6,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 6000201,
+        "SeasonId": 6,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 6000202,
+        "SeasonId": 6,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 6000203,
+        "SeasonId": 6,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 6000301,
+        "SeasonId": 6,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 6000302,
+        "SeasonId": 6,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 6000303,
+        "SeasonId": 6,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 6000401,
+        "SeasonId": 6,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 6000402,
+        "SeasonId": 6,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 6000403,
+        "SeasonId": 6,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 6000501,
+        "SeasonId": 6,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 6000502,
+        "SeasonId": 6,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 6000503,
+        "SeasonId": 6,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 6000601,
+        "SeasonId": 6,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 6000602,
+        "SeasonId": 6,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 6000603,
+        "SeasonId": 6,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 6000701,
+        "SeasonId": 6,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 6000702,
+        "SeasonId": 6,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 6000703,
+        "SeasonId": 6,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 112,
+        "Id": 6000801,
+        "SeasonId": 6,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 6000802,
+        "SeasonId": 6,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 6000803,
+        "SeasonId": 6,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 7000101,
+        "SeasonId": 7,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 7000102,
+        "SeasonId": 7,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 7000103,
+        "SeasonId": 7,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 7000201,
+        "SeasonId": 7,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 7000202,
+        "SeasonId": 7,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 7000203,
+        "SeasonId": 7,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 7000301,
+        "SeasonId": 7,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 7000302,
+        "SeasonId": 7,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 7000303,
+        "SeasonId": 7,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 7000401,
+        "SeasonId": 7,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 7000402,
+        "SeasonId": 7,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 7000403,
+        "SeasonId": 7,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 7000501,
+        "SeasonId": 7,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 7000502,
+        "SeasonId": 7,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 7000503,
+        "SeasonId": 7,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 7000601,
+        "SeasonId": 7,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 7000602,
+        "SeasonId": 7,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 7000603,
+        "SeasonId": 7,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 7000701,
+        "SeasonId": 7,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 7000702,
+        "SeasonId": 7,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 7000703,
+        "SeasonId": 7,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 8000101,
+        "SeasonId": 8,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 8000102,
+        "SeasonId": 8,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 8000103,
+        "SeasonId": 8,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 8000201,
+        "SeasonId": 8,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 8000202,
+        "SeasonId": 8,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 8000203,
+        "SeasonId": 8,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 8000301,
+        "SeasonId": 8,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 8000302,
+        "SeasonId": 8,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 8000303,
+        "SeasonId": 8,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 8000401,
+        "SeasonId": 8,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 8000402,
+        "SeasonId": 8,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 8000403,
+        "SeasonId": 8,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 8000501,
+        "SeasonId": 8,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 8000502,
+        "SeasonId": 8,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 8000503,
+        "SeasonId": 8,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 8000601,
+        "SeasonId": 8,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 8000602,
+        "SeasonId": 8,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 8000603,
+        "SeasonId": 8,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 8000701,
+        "SeasonId": 8,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 8000702,
+        "SeasonId": 8,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 8000703,
+        "SeasonId": 8,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 9000101,
+        "SeasonId": 9,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 9000102,
+        "SeasonId": 9,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 9000103,
+        "SeasonId": 9,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 9000201,
+        "SeasonId": 9,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 9000202,
+        "SeasonId": 9,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 9000203,
+        "SeasonId": 9,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 9000301,
+        "SeasonId": 9,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 9000302,
+        "SeasonId": 9,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 9000303,
+        "SeasonId": 9,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 121,
+        "Id": 9000401,
+        "SeasonId": 9,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 9000402,
+        "SeasonId": 9,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 9000403,
+        "SeasonId": 9,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 9000501,
+        "SeasonId": 9,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 9000502,
+        "SeasonId": 9,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 9000503,
+        "SeasonId": 9,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 501,
+        "Id": 9000504,
+        "SeasonId": 9,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 502,
+        "Id": 9000505,
+        "SeasonId": 9,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 9000601,
+        "SeasonId": 9,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 9000602,
+        "SeasonId": 9,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 142,
+        "Id": 9000603,
+        "SeasonId": 9,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 501,
+        "Id": 9000604,
+        "SeasonId": 9,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 502,
+        "Id": 9000605,
+        "SeasonId": 9,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 9000701,
+        "SeasonId": 9,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 9000702,
+        "SeasonId": 9,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 9000703,
+        "SeasonId": 9,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 503,
+        "Id": 10000101,
+        "SeasonId": 10,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 504,
+        "Id": 10000102,
+        "SeasonId": 10,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 102,
+        "Id": 10000103,
+        "SeasonId": 10,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 110,
+        "Id": 10000104,
+        "SeasonId": 10,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 114,
+        "Id": 10000105,
+        "SeasonId": 10,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 503,
+        "Id": 10000201,
+        "SeasonId": 10,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 504,
+        "Id": 10000202,
+        "SeasonId": 10,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 102,
+        "Id": 10000203,
+        "SeasonId": 10,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 110,
+        "Id": 10000204,
+        "SeasonId": 10,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 114,
+        "Id": 10000205,
+        "SeasonId": 10,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 503,
+        "Id": 10000301,
+        "SeasonId": 10,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 504,
+        "Id": 10000302,
+        "SeasonId": 10,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 102,
+        "Id": 10000303,
+        "SeasonId": 10,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 110,
+        "Id": 10000304,
+        "SeasonId": 10,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 114,
+        "Id": 10000305,
+        "SeasonId": 10,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 10000401,
+        "SeasonId": 10,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 106,
+        "Id": 10000402,
+        "SeasonId": 10,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 10000403,
+        "SeasonId": 10,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 10000501,
+        "SeasonId": 10,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 10000502,
+        "SeasonId": 10,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 10000503,
+        "SeasonId": 10,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 10000601,
+        "SeasonId": 10,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 10000602,
+        "SeasonId": 10,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 10000603,
+        "SeasonId": 10,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 10000701,
+        "SeasonId": 10,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 10000702,
+        "SeasonId": 10,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 101,
+        "Id": 10000703,
+        "SeasonId": 10,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 11000101,
+        "SeasonId": 11,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 11000102,
+        "SeasonId": 11,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 11000103,
+        "SeasonId": 11,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 11000201,
+        "SeasonId": 11,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 11000202,
+        "SeasonId": 11,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 11000203,
+        "SeasonId": 11,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 11000301,
+        "SeasonId": 11,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 11000302,
+        "SeasonId": 11,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 11000303,
+        "SeasonId": 11,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 11000401,
+        "SeasonId": 11,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 11000402,
+        "SeasonId": 11,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 11000403,
+        "SeasonId": 11,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 11000501,
+        "SeasonId": 11,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 11000502,
+        "SeasonId": 11,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 11000503,
+        "SeasonId": 11,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 11000601,
+        "SeasonId": 11,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 11000602,
+        "SeasonId": 11,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 11000603,
+        "SeasonId": 11,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 11000701,
+        "SeasonId": 11,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 11000702,
+        "SeasonId": 11,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 11000703,
+        "SeasonId": 11,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 12000101,
+        "SeasonId": 12,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 12000102,
+        "SeasonId": 12,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 12000103,
+        "SeasonId": 12,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 12000201,
+        "SeasonId": 12,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 12000202,
+        "SeasonId": 12,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 12000203,
+        "SeasonId": 12,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 12000301,
+        "SeasonId": 12,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 12000302,
+        "SeasonId": 12,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 12000303,
+        "SeasonId": 12,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 12000401,
+        "SeasonId": 12,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 147,
+        "Id": 12000402,
+        "SeasonId": 12,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 12000403,
+        "SeasonId": 12,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 12000501,
+        "SeasonId": 12,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 12000502,
+        "SeasonId": 12,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 12000503,
+        "SeasonId": 12,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 12000601,
+        "SeasonId": 12,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 12000602,
+        "SeasonId": 12,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 12000603,
+        "SeasonId": 12,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 12000701,
+        "SeasonId": 12,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 12000702,
+        "SeasonId": 12,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 12000703,
+        "SeasonId": 12,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 13000101,
+        "SeasonId": 13,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 13000102,
+        "SeasonId": 13,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 13000103,
+        "SeasonId": 13,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 13000201,
+        "SeasonId": 13,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 13000202,
+        "SeasonId": 13,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 13000203,
+        "SeasonId": 13,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 13000301,
+        "SeasonId": 13,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 13000302,
+        "SeasonId": 13,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 13000303,
+        "SeasonId": 13,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 13000401,
+        "SeasonId": 13,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 13000402,
+        "SeasonId": 13,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 13000403,
+        "SeasonId": 13,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 13000501,
+        "SeasonId": 13,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 13000502,
+        "SeasonId": 13,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 13000503,
+        "SeasonId": 13,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 13000601,
+        "SeasonId": 13,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 13000602,
+        "SeasonId": 13,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 13000603,
+        "SeasonId": 13,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 13000701,
+        "SeasonId": 13,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 13000702,
+        "SeasonId": 13,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 13000703,
+        "SeasonId": 13,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 14000101,
+        "SeasonId": 14,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 14000102,
+        "SeasonId": 14,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 14000103,
+        "SeasonId": 14,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 14000201,
+        "SeasonId": 14,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 14000202,
+        "SeasonId": 14,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 14000203,
+        "SeasonId": 14,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 14000301,
+        "SeasonId": 14,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 14000302,
+        "SeasonId": 14,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 14000303,
+        "SeasonId": 14,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 14000401,
+        "SeasonId": 14,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 14000402,
+        "SeasonId": 14,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 14000403,
+        "SeasonId": 14,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 14000501,
+        "SeasonId": 14,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 14000502,
+        "SeasonId": 14,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 14000503,
+        "SeasonId": 14,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 14000601,
+        "SeasonId": 14,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 14000602,
+        "SeasonId": 14,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 14000603,
+        "SeasonId": 14,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 14000701,
+        "SeasonId": 14,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 14000702,
+        "SeasonId": 14,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 14000703,
+        "SeasonId": 14,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 14000801,
+        "SeasonId": 14,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 14000802,
+        "SeasonId": 14,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 14000803,
+        "SeasonId": 14,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 15000101,
+        "SeasonId": 15,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 15000102,
+        "SeasonId": 15,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 15000103,
+        "SeasonId": 15,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 15000201,
+        "SeasonId": 15,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 15000202,
+        "SeasonId": 15,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 15000203,
+        "SeasonId": 15,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 15000301,
+        "SeasonId": 15,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 15000302,
+        "SeasonId": 15,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 15000303,
+        "SeasonId": 15,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 15000401,
+        "SeasonId": 15,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 15000402,
+        "SeasonId": 15,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 15000403,
+        "SeasonId": 15,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 15000501,
+        "SeasonId": 15,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 15000502,
+        "SeasonId": 15,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 15000503,
+        "SeasonId": 15,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 15000601,
+        "SeasonId": 15,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 15000602,
+        "SeasonId": 15,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 15000603,
+        "SeasonId": 15,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 15000701,
+        "SeasonId": 15,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 15000702,
+        "SeasonId": 15,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 15000703,
+        "SeasonId": 15,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 16000101,
+        "SeasonId": 16,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 16000102,
+        "SeasonId": 16,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 16000103,
+        "SeasonId": 16,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 16000201,
+        "SeasonId": 16,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 16000202,
+        "SeasonId": 16,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 16000203,
+        "SeasonId": 16,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 16000301,
+        "SeasonId": 16,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 16000302,
+        "SeasonId": 16,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 16000303,
+        "SeasonId": 16,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 16000401,
+        "SeasonId": 16,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 16000402,
+        "SeasonId": 16,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 16000403,
+        "SeasonId": 16,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 16000501,
+        "SeasonId": 16,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 16000502,
+        "SeasonId": 16,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 16000503,
+        "SeasonId": 16,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 16000601,
+        "SeasonId": 16,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 16000602,
+        "SeasonId": 16,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 16000603,
+        "SeasonId": 16,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 16000701,
+        "SeasonId": 16,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 16000702,
+        "SeasonId": 16,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 16000703,
+        "SeasonId": 16,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 17000101,
+        "SeasonId": 17,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 17000102,
+        "SeasonId": 17,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 17000103,
+        "SeasonId": 17,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 17000201,
+        "SeasonId": 17,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 17000202,
+        "SeasonId": 17,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 17000203,
+        "SeasonId": 17,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 17000301,
+        "SeasonId": 17,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 17000302,
+        "SeasonId": 17,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 17000303,
+        "SeasonId": 17,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 17000401,
+        "SeasonId": 17,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 17000402,
+        "SeasonId": 17,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 17000403,
+        "SeasonId": 17,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 17000501,
+        "SeasonId": 17,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 17000502,
+        "SeasonId": 17,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 17000503,
+        "SeasonId": 17,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 17000601,
+        "SeasonId": 17,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 17000602,
+        "SeasonId": 17,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 17000603,
+        "SeasonId": 17,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 17000701,
+        "SeasonId": 17,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 17000702,
+        "SeasonId": 17,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 17000703,
+        "SeasonId": 17,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 18000101,
+        "SeasonId": 18,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 18000102,
+        "SeasonId": 18,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 18000103,
+        "SeasonId": 18,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 18000201,
+        "SeasonId": 18,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 18000202,
+        "SeasonId": 18,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 18000203,
+        "SeasonId": 18,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 18000301,
+        "SeasonId": 18,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 18000302,
+        "SeasonId": 18,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 18000303,
+        "SeasonId": 18,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 18000401,
+        "SeasonId": 18,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 18000402,
+        "SeasonId": 18,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 18000403,
+        "SeasonId": 18,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 18000501,
+        "SeasonId": 18,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 18000502,
+        "SeasonId": 18,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 18000503,
+        "SeasonId": 18,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 18000601,
+        "SeasonId": 18,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 18000602,
+        "SeasonId": 18,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 18000603,
+        "SeasonId": 18,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 18000701,
+        "SeasonId": 18,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 18000702,
+        "SeasonId": 18,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 18000703,
+        "SeasonId": 18,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 19000101,
+        "SeasonId": 19,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 19000102,
+        "SeasonId": 19,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 19000103,
+        "SeasonId": 19,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 19000201,
+        "SeasonId": 19,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 19000202,
+        "SeasonId": 19,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 19000203,
+        "SeasonId": 19,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 19000301,
+        "SeasonId": 19,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 19000302,
+        "SeasonId": 19,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 19000303,
+        "SeasonId": 19,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 19000401,
+        "SeasonId": 19,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 19000402,
+        "SeasonId": 19,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 19000403,
+        "SeasonId": 19,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 19000501,
+        "SeasonId": 19,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 19000502,
+        "SeasonId": 19,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 19000503,
+        "SeasonId": 19,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 19000601,
+        "SeasonId": 19,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 19000602,
+        "SeasonId": 19,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 144,
+        "Id": 19000603,
+        "SeasonId": 19,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 19000701,
+        "SeasonId": 19,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 19000702,
+        "SeasonId": 19,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 19000703,
+        "SeasonId": 19,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 140,
+        "Id": 19000801,
+        "SeasonId": 19,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 135,
+        "Id": 19000802,
+        "SeasonId": 19,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 131,
+        "Id": 19000803,
+        "SeasonId": 19,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 20000101,
+        "SeasonId": 20,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 20000102,
+        "SeasonId": 20,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 20000103,
+        "SeasonId": 20,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 20000201,
+        "SeasonId": 20,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 20000202,
+        "SeasonId": 20,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 20000203,
+        "SeasonId": 20,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 20000301,
+        "SeasonId": 20,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 20000302,
+        "SeasonId": 20,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 20000303,
+        "SeasonId": 20,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 20000401,
+        "SeasonId": 20,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 20000402,
+        "SeasonId": 20,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 20000403,
+        "SeasonId": 20,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 20000501,
+        "SeasonId": 20,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 20000502,
+        "SeasonId": 20,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 20000503,
+        "SeasonId": 20,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 20000601,
+        "SeasonId": 20,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 20000602,
+        "SeasonId": 20,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 20000603,
+        "SeasonId": 20,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 20000701,
+        "SeasonId": 20,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 20000702,
+        "SeasonId": 20,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 20000703,
+        "SeasonId": 20,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 21000101,
+        "SeasonId": 21,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 21000102,
+        "SeasonId": 21,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 21000103,
+        "SeasonId": 21,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 21000201,
+        "SeasonId": 21,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 21000202,
+        "SeasonId": 21,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 21000203,
+        "SeasonId": 21,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 21000301,
+        "SeasonId": 21,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 21000302,
+        "SeasonId": 21,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 21000303,
+        "SeasonId": 21,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 21000401,
+        "SeasonId": 21,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 21000402,
+        "SeasonId": 21,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 21000403,
+        "SeasonId": 21,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 21000501,
+        "SeasonId": 21,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 21000502,
+        "SeasonId": 21,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 21000503,
+        "SeasonId": 21,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 21000601,
+        "SeasonId": 21,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 21000602,
+        "SeasonId": 21,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 21000603,
+        "SeasonId": 21,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 21000701,
+        "SeasonId": 21,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 21000702,
+        "SeasonId": 21,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 21000703,
+        "SeasonId": 21,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 21000801,
+        "SeasonId": 21,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 21000802,
+        "SeasonId": 21,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 21000803,
+        "SeasonId": 21,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 22000101,
+        "SeasonId": 22,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 22000102,
+        "SeasonId": 22,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 22000103,
+        "SeasonId": 22,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 22000201,
+        "SeasonId": 22,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 22000202,
+        "SeasonId": 22,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 22000203,
+        "SeasonId": 22,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 22000301,
+        "SeasonId": 22,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 22000302,
+        "SeasonId": 22,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 22000303,
+        "SeasonId": 22,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 22000401,
+        "SeasonId": 22,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 22000402,
+        "SeasonId": 22,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 22000403,
+        "SeasonId": 22,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 22000501,
+        "SeasonId": 22,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 22000502,
+        "SeasonId": 22,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 22000503,
+        "SeasonId": 22,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 22000601,
+        "SeasonId": 22,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 22000602,
+        "SeasonId": 22,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 22000603,
+        "SeasonId": 22,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 22000701,
+        "SeasonId": 22,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 22000702,
+        "SeasonId": 22,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 22000703,
+        "SeasonId": 22,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 23000101,
+        "SeasonId": 23,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 23000102,
+        "SeasonId": 23,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 23000103,
+        "SeasonId": 23,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 23000201,
+        "SeasonId": 23,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 23000202,
+        "SeasonId": 23,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 23000203,
+        "SeasonId": 23,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 23000301,
+        "SeasonId": 23,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 23000302,
+        "SeasonId": 23,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 23000303,
+        "SeasonId": 23,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 23000401,
+        "SeasonId": 23,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 23000402,
+        "SeasonId": 23,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 23000403,
+        "SeasonId": 23,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 134,
+        "Id": 23000501,
+        "SeasonId": 23,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 23000502,
+        "SeasonId": 23,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 23000503,
+        "SeasonId": 23,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 23000601,
+        "SeasonId": 23,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 23000602,
+        "SeasonId": 23,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 23000603,
+        "SeasonId": 23,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 23000701,
+        "SeasonId": 23,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 23000702,
+        "SeasonId": 23,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 23000703,
+        "SeasonId": 23,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 24000101,
+        "SeasonId": 24,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 24000102,
+        "SeasonId": 24,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 24000103,
+        "SeasonId": 24,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 24000201,
+        "SeasonId": 24,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 24000202,
+        "SeasonId": 24,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 24000203,
+        "SeasonId": 24,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 24000301,
+        "SeasonId": 24,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 24000302,
+        "SeasonId": 24,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 24000303,
+        "SeasonId": 24,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 24000401,
+        "SeasonId": 24,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 133,
+        "Id": 24000402,
+        "SeasonId": 24,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 24000403,
+        "SeasonId": 24,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 24000501,
+        "SeasonId": 24,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 24000502,
+        "SeasonId": 24,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 24000503,
+        "SeasonId": 24,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 24000601,
+        "SeasonId": 24,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 24000602,
+        "SeasonId": 24,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 24000603,
+        "SeasonId": 24,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 24000701,
+        "SeasonId": 24,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 24000702,
+        "SeasonId": 24,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 24000703,
+        "SeasonId": 24,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 25000101,
+        "SeasonId": 25,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 25000102,
+        "SeasonId": 25,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 25000103,
+        "SeasonId": 25,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 132,
+        "Id": 25000201,
+        "SeasonId": 25,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 25000202,
+        "SeasonId": 25,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 25000203,
+        "SeasonId": 25,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 137,
+        "Id": 25000301,
+        "SeasonId": 25,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 25000302,
+        "SeasonId": 25,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 25000303,
+        "SeasonId": 25,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 25000401,
+        "SeasonId": 25,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 25000402,
+        "SeasonId": 25,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 25000403,
+        "SeasonId": 25,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 25000501,
+        "SeasonId": 25,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 25000502,
+        "SeasonId": 25,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 25000503,
+        "SeasonId": 25,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 25000601,
+        "SeasonId": 25,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 25000602,
+        "SeasonId": 25,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 25000603,
+        "SeasonId": 25,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 25000701,
+        "SeasonId": 25,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 25000702,
+        "SeasonId": 25,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 25000703,
+        "SeasonId": 25,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 25000801,
+        "SeasonId": 25,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 25000802,
+        "SeasonId": 25,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 25000803,
+        "SeasonId": 25,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 26000101,
+        "SeasonId": 26,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 26000102,
+        "SeasonId": 26,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 26000103,
+        "SeasonId": 26,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 26000201,
+        "SeasonId": 26,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 26000202,
+        "SeasonId": 26,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 26000203,
+        "SeasonId": 26,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 26000301,
+        "SeasonId": 26,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 26000302,
+        "SeasonId": 26,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 26000303,
+        "SeasonId": 26,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 26000401,
+        "SeasonId": 26,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 26000402,
+        "SeasonId": 26,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 26000403,
+        "SeasonId": 26,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 26000501,
+        "SeasonId": 26,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 26000502,
+        "SeasonId": 26,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 26000503,
+        "SeasonId": 26,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 26000601,
+        "SeasonId": 26,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 26000602,
+        "SeasonId": 26,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 26000603,
+        "SeasonId": 26,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 26000701,
+        "SeasonId": 26,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 26000702,
+        "SeasonId": 26,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 26000703,
+        "SeasonId": 26,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 26000801,
+        "SeasonId": 26,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 26000802,
+        "SeasonId": 26,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 26000803,
+        "SeasonId": 26,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 27000101,
+        "SeasonId": 27,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 27000102,
+        "SeasonId": 27,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 130,
+        "Id": 27000103,
+        "SeasonId": 27,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 27000201,
+        "SeasonId": 27,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 27000202,
+        "SeasonId": 27,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 27000203,
+        "SeasonId": 27,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 27000301,
+        "SeasonId": 27,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 27000302,
+        "SeasonId": 27,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 27000303,
+        "SeasonId": 27,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 152,
+        "Id": 27000401,
+        "SeasonId": 27,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 27000402,
+        "SeasonId": 27,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 27000403,
+        "SeasonId": 27,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 27000501,
+        "SeasonId": 27,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 27000502,
+        "SeasonId": 27,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 27000503,
+        "SeasonId": 27,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 27000601,
+        "SeasonId": 27,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 27000602,
+        "SeasonId": 27,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 27000603,
+        "SeasonId": 27,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 148,
+        "Id": 27000701,
+        "SeasonId": 27,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 27000702,
+        "SeasonId": 27,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 27000703,
+        "SeasonId": 27,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 27000801,
+        "SeasonId": 27,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 27000802,
+        "SeasonId": 27,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 27000803,
+        "SeasonId": 27,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 28000101,
+        "SeasonId": 28,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 28000102,
+        "SeasonId": 28,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 28000103,
+        "SeasonId": 28,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 28000201,
+        "SeasonId": 28,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 28000202,
+        "SeasonId": 28,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 28000203,
+        "SeasonId": 28,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 139,
+        "Id": 28000301,
+        "SeasonId": 28,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 28000302,
+        "SeasonId": 28,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 168,
+        "Id": 28000303,
+        "SeasonId": 28,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 28000401,
+        "SeasonId": 28,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 173,
+        "Id": 28000402,
+        "SeasonId": 28,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 28000403,
+        "SeasonId": 28,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 28000501,
+        "SeasonId": 28,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 171,
+        "Id": 28000502,
+        "SeasonId": 28,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 138,
+        "Id": 28000503,
+        "SeasonId": 28,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 28000601,
+        "SeasonId": 28,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 159,
+        "Id": 28000602,
+        "SeasonId": 28,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 172,
+        "Id": 28000603,
+        "SeasonId": 28,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 28000701,
+        "SeasonId": 28,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 28000702,
+        "SeasonId": 28,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 175,
+        "Id": 28000703,
+        "SeasonId": 28,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 28000801,
+        "SeasonId": 28,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 153,
+        "Id": 28000802,
+        "SeasonId": 28,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 28000803,
+        "SeasonId": 28,
+        "WeekNumber": 8
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 29000101,
+        "SeasonId": 29,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 29000102,
+        "SeasonId": 29,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 161,
+        "Id": 29000103,
+        "SeasonId": 29,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 165,
+        "Id": 29000201,
+        "SeasonId": 29,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 29000202,
+        "SeasonId": 29,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 154,
+        "Id": 29000203,
+        "SeasonId": 29,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 29000301,
+        "SeasonId": 29,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 174,
+        "Id": 29000302,
+        "SeasonId": 29,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 136,
+        "Id": 29000303,
+        "SeasonId": 29,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 158,
+        "Id": 29000401,
+        "SeasonId": 29,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 170,
+        "Id": 29000402,
+        "SeasonId": 29,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 150,
+        "Id": 29000403,
+        "SeasonId": 29,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 169,
+        "Id": 29000501,
+        "SeasonId": 29,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 166,
+        "Id": 29000502,
+        "SeasonId": 29,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 29000503,
+        "SeasonId": 29,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 29000601,
+        "SeasonId": 29,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 29000602,
+        "SeasonId": 29,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 29000603,
+        "SeasonId": 29,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 171,
+        "Id": 29000701,
+        "SeasonId": 29,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 155,
+        "Id": 29000702,
+        "SeasonId": 29,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 128,
+        "Id": 29000703,
+        "SeasonId": 29,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 169,
+        "Id": 30000101,
+        "SeasonId": 30,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 166,
+        "Id": 30000102,
+        "SeasonId": 30,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 157,
+        "Id": 30000103,
+        "SeasonId": 30,
+        "WeekNumber": 1
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 141,
+        "Id": 30000201,
+        "SeasonId": 30,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 127,
+        "Id": 30000202,
+        "SeasonId": 30,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 171,
+        "Id": 30000203,
+        "SeasonId": 30,
+        "WeekNumber": 2
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 165,
+        "Id": 30000301,
+        "SeasonId": 30,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 151,
+        "Id": 30000302,
+        "SeasonId": 30,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 156,
+        "Id": 30000303,
+        "SeasonId": 30,
+        "WeekNumber": 3
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 146,
+        "Id": 30000401,
+        "SeasonId": 30,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 172,
+        "Id": 30000402,
+        "SeasonId": 30,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 126,
+        "Id": 30000403,
+        "SeasonId": 30,
+        "WeekNumber": 4
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 163,
+        "Id": 30000501,
+        "SeasonId": 30,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 145,
+        "Id": 30000502,
+        "SeasonId": 30,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 162,
+        "Id": 30000503,
+        "SeasonId": 30,
+        "WeekNumber": 5
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 143,
+        "Id": 30000601,
+        "SeasonId": 30,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 149,
+        "Id": 30000602,
+        "SeasonId": 30,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 164,
+        "Id": 30000603,
+        "SeasonId": 30,
+        "WeekNumber": 6
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 170,
+        "Id": 30000701,
+        "SeasonId": 30,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 160,
+        "Id": 30000702,
+        "SeasonId": 30,
+        "WeekNumber": 7
+    },
+    {
+        "CharacterBonusGroupId": 1,
+        "CharacterId": 174,
+        "Id": 30000703,
+        "SeasonId": 30,
+        "WeekNumber": 7
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "FilePath": "Movies/Useful/Useful_001.usm",
+        "Id": 1,
+        "Order": 1,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "ThumbnailId": "Useful_001",
+        "Title": "グループ対抗ツアーとは？ その1"
+    },
+    {
+        "FilePath": "Movies/Useful/Useful_002.usm",
+        "Id": 2,
+        "Order": 2,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "ThumbnailId": "Useful_002",
+        "Title": "グループ対抗ツアーとは？ その2"
+    },
+    {
+        "FilePath": "Movies/Useful/Useful_003.usm",
+        "Id": 3,
+        "Order": 3,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "ThumbnailId": "Useful_003",
+        "Title": "グループ対抗ツアーとは？ その3"
+    }
+]

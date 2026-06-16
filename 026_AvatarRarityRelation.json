@@ -1,0 +1,32 @@
+[
+    {
+        "AvatarRarity": 1,
+        "Id": 1,
+        "TargetRarity": 1
+    },
+    {
+        "AvatarRarity": 2,
+        "Id": 2,
+        "TargetRarity": 2
+    },
+    {
+        "AvatarRarity": 3,
+        "Id": 3,
+        "TargetRarity": 3
+    },
+    {
+        "AvatarRarity": 4,
+        "Id": 4,
+        "TargetRarity": 4
+    },
+    {
+        "AvatarRarity": 5,
+        "Id": 5,
+        "TargetRarity": 5
+    },
+    {
+        "AvatarRarity": 6,
+        "Id": 6,
+        "TargetRarity": 6
+    }
+]

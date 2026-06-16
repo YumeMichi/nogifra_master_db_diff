@@ -1,0 +1,642 @@
+[
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 1,
+        "Id": 1,
+        "TargetParameter": 7,
+        "Value": 0.04
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 2,
+        "Id": 2,
+        "TargetParameter": 6,
+        "Value": 1800
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 2,
+        "Id": 3,
+        "TargetParameter": 7,
+        "Value": 0.07
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 3,
+        "Id": 5,
+        "TargetParameter": 7,
+        "Value": 0.06
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 3,
+        "Id": 6,
+        "TargetParameter": 5,
+        "Value": 0.15
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 3,
+        "Id": 7,
+        "TargetParameter": 7,
+        "Value": 0.1
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 4,
+        "Id": 9,
+        "TargetParameter": 23,
+        "Value": 0.2
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 5,
+        "Id": 10,
+        "TargetParameter": 13,
+        "Value": 200
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 5,
+        "Id": 11,
+        "TargetParameter": 5,
+        "Value": 0.15
+    },
+    {
+        "AddType": 2,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 6,
+        "Id": 13,
+        "TargetParameter": 4,
+        "Value": 50
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 6,
+        "Id": 14,
+        "TargetParameter": 21,
+        "Value": 0.03
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 6,
+        "Id": 15,
+        "TargetParameter": 5,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 7,
+        "Id": 17,
+        "TargetParameter": 5,
+        "Value": 0.07
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 8,
+        "Id": 18,
+        "TargetParameter": 5,
+        "Value": 0.15
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 8,
+        "Id": 19,
+        "TargetParameter": 13,
+        "Value": 200
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 9,
+        "Id": 21,
+        "TargetParameter": 7,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 9,
+        "Id": 22,
+        "TargetParameter": 5,
+        "Value": 0.2
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 9,
+        "Id": 23,
+        "TargetParameter": 13,
+        "Value": 300
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 10,
+        "Id": 25,
+        "TargetParameter": 5,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 10,
+        "Id": 26,
+        "TargetParameter": 7,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 11,
+        "Id": 27,
+        "TargetParameter": 5,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 11,
+        "Id": 28,
+        "TargetParameter": 7,
+        "Value": 0.14
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 12,
+        "Id": 30,
+        "TargetParameter": 5,
+        "Value": 0.22
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 12,
+        "Id": 31,
+        "TargetParameter": 7,
+        "Value": 0.14
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 12,
+        "Id": 32,
+        "TargetParameter": 13,
+        "Value": 300
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 13,
+        "Id": 35,
+        "TargetParameter": 7,
+        "Value": 0.16
+    },
+    {
+        "AddType": 2,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 13,
+        "Id": 36,
+        "TargetParameter": 4,
+        "Value": 180
+    },
+    {
+        "AddType": 2,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 13,
+        "Id": 37,
+        "TargetParameter": 13,
+        "Value": 5
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 14,
+        "Id": 40,
+        "TargetParameter": 7,
+        "Value": 0.02
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 14,
+        "Id": 41,
+        "TargetParameter": 10,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 14,
+        "Id": 42,
+        "TargetParameter": 5,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 15,
+        "Id": 43,
+        "TargetParameter": 7,
+        "Value": 0.03
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 15,
+        "Id": 44,
+        "TargetParameter": 10,
+        "Value": 0.06
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 15,
+        "Id": 45,
+        "TargetParameter": 5,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 16,
+        "Id": 46,
+        "TargetParameter": 7,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 16,
+        "Id": 47,
+        "TargetParameter": 10,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 16,
+        "Id": 48,
+        "TargetParameter": 5,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 17,
+        "Id": 49,
+        "TargetParameter": 7,
+        "Value": 0.05
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 17,
+        "Id": 50,
+        "TargetParameter": 10,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 17,
+        "Id": 51,
+        "TargetParameter": 5,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 18,
+        "Id": 52,
+        "TargetParameter": 5,
+        "Value": 0.02
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 18,
+        "Id": 53,
+        "TargetParameter": 10,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 18,
+        "Id": 54,
+        "TargetParameter": 7,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 19,
+        "Id": 55,
+        "TargetParameter": 5,
+        "Value": 0.03
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 19,
+        "Id": 56,
+        "TargetParameter": 10,
+        "Value": 0.06
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 19,
+        "Id": 57,
+        "TargetParameter": 7,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 20,
+        "Id": 58,
+        "TargetParameter": 5,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 20,
+        "Id": 59,
+        "TargetParameter": 10,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 20,
+        "Id": 60,
+        "TargetParameter": 7,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 21,
+        "Id": 61,
+        "TargetParameter": 5,
+        "Value": 0.05
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 21,
+        "Id": 62,
+        "TargetParameter": 10,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 21,
+        "Id": 63,
+        "TargetParameter": 7,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 22,
+        "Id": 64,
+        "TargetParameter": 7,
+        "Value": 0.02
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 22,
+        "Id": 65,
+        "TargetParameter": 5,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 22,
+        "Id": 66,
+        "TargetParameter": 10,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 23,
+        "Id": 67,
+        "TargetParameter": 7,
+        "Value": 0.03
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 23,
+        "Id": 68,
+        "TargetParameter": 5,
+        "Value": 0.06
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 23,
+        "Id": 69,
+        "TargetParameter": 10,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 24,
+        "Id": 70,
+        "TargetParameter": 7,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 24,
+        "Id": 71,
+        "TargetParameter": 5,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 24,
+        "Id": 72,
+        "TargetParameter": 10,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 25,
+        "Id": 73,
+        "TargetParameter": 7,
+        "Value": 0.05
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 25,
+        "Id": 74,
+        "TargetParameter": 5,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 25,
+        "Id": 75,
+        "TargetParameter": 10,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 26,
+        "Id": 76,
+        "TargetParameter": 10,
+        "Value": 0.02
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 26,
+        "Id": 77,
+        "TargetParameter": 7,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 26,
+        "Id": 78,
+        "TargetParameter": 5,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 27,
+        "Id": 79,
+        "TargetParameter": 10,
+        "Value": 0.03
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 27,
+        "Id": 80,
+        "TargetParameter": 7,
+        "Value": 0.06
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 27,
+        "Id": 81,
+        "TargetParameter": 5,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 28,
+        "Id": 82,
+        "TargetParameter": 10,
+        "Value": 0.04
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 28,
+        "Id": 83,
+        "TargetParameter": 7,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 28,
+        "Id": 84,
+        "TargetParameter": 5,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 29,
+        "Id": 85,
+        "TargetParameter": 10,
+        "Value": 0.05
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 3,
+        "EquipmentSetId": 29,
+        "Id": 86,
+        "TargetParameter": 7,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 5,
+        "EquipmentSetId": 29,
+        "Id": 87,
+        "TargetParameter": 5,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 1,
+        "EquipmentSetId": 30,
+        "Id": 88,
+        "TargetParameter": 7,
+        "Value": 0.16
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 2,
+        "EquipmentSetId": 30,
+        "Id": 89,
+        "TargetParameter": 5,
+        "Value": 0.16
+    },
+    {
+        "AddType": 3,
+        "EquipmentSetCount": 4,
+        "EquipmentSetId": 30,
+        "Id": 90,
+        "TargetParameter": 28,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "EquipmentSetCount": 6,
+        "EquipmentSetId": 30,
+        "Id": 91,
+        "TargetParameter": 7,
+        "Value": 0.2
+    }
+]

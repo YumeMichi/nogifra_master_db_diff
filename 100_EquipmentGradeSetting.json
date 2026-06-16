@@ -1,0 +1,112 @@
+[
+    {
+        "BaseCustomizationCoin": 0,
+        "BaseCustomizationLockCoin": 0,
+        "BaseCustomizationMoney": 0,
+        "BaseSalePrice": 1000,
+        "CustomizationCount": 0,
+        "GradeCustomizeValue": 0,
+        "GradeType": 1,
+        "Id": 1,
+        "RemakePrice": 5
+    },
+    {
+        "BaseCustomizationCoin": 0,
+        "BaseCustomizationLockCoin": 0,
+        "BaseCustomizationMoney": 0,
+        "BaseSalePrice": 2000,
+        "CustomizationCount": 1,
+        "GradeCustomizeValue": 1,
+        "GradeType": 2,
+        "Id": 2,
+        "RemakePrice": 10
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 375,
+        "BaseSalePrice": 3000,
+        "CustomizationCount": 2,
+        "GradeCustomizeValue": 2,
+        "GradeType": 3,
+        "Id": 3,
+        "RemakePrice": 20
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 625,
+        "BaseSalePrice": 5000,
+        "CustomizationCount": 3,
+        "GradeCustomizeValue": 3,
+        "GradeType": 4,
+        "Id": 4,
+        "RemakePrice": 50
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 1250,
+        "BaseSalePrice": 10000,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 5,
+        "Id": 5,
+        "RemakePrice": 150
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 2000,
+        "BaseSalePrice": 0,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 6,
+        "Id": 6,
+        "RemakePrice": 0
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 3000,
+        "BaseSalePrice": 0,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 7,
+        "Id": 7,
+        "RemakePrice": 0
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 4000,
+        "BaseSalePrice": 0,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 8,
+        "Id": 8,
+        "RemakePrice": 0
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 6000,
+        "BaseSalePrice": 0,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 9,
+        "Id": 9,
+        "RemakePrice": 0
+    },
+    {
+        "BaseCustomizationCoin": 10,
+        "BaseCustomizationLockCoin": 5,
+        "BaseCustomizationMoney": 6000,
+        "BaseSalePrice": 0,
+        "CustomizationCount": 4,
+        "GradeCustomizeValue": 4,
+        "GradeType": 10,
+        "Id": 10,
+        "RemakePrice": 0
+    }
+]

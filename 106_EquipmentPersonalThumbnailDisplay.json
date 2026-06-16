@@ -1,0 +1,44 @@
+[
+    {
+        "BackgroundId": 1,
+        "FrameId": 6,
+        "GradeType": 99,
+        "StepLevel": 40
+    },
+    {
+        "BackgroundId": 2,
+        "FrameId": 6,
+        "GradeType": 99,
+        "StepLevel": 60
+    },
+    {
+        "BackgroundId": 3,
+        "FrameId": 6,
+        "GradeType": 99,
+        "StepLevel": 80
+    },
+    {
+        "BackgroundId": 4,
+        "FrameId": 6,
+        "GradeType": 99,
+        "StepLevel": 100
+    },
+    {
+        "BackgroundId": 4,
+        "FrameId": 6,
+        "GradeType": 8,
+        "StepLevel": 130
+    },
+    {
+        "BackgroundId": 4,
+        "FrameId": 7,
+        "GradeType": 9,
+        "StepLevel": 130
+    },
+    {
+        "BackgroundId": 5,
+        "FrameId": 8,
+        "GradeType": 10,
+        "StepLevel": 150
+    }
+]

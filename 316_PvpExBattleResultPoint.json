@@ -1,0 +1,22 @@
+[
+    {
+        "BattleResultType": 1,
+        "Id": 1,
+        "Point": 20
+    },
+    {
+        "BattleResultType": 2,
+        "Id": 2,
+        "Point": 10
+    },
+    {
+        "BattleResultType": 3,
+        "Id": 3,
+        "Point": 0
+    },
+    {
+        "BattleResultType": 4,
+        "Id": 4,
+        "Point": -10
+    }
+]

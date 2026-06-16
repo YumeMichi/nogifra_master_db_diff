@@ -1,0 +1,3068 @@
+[
+    {
+        "GuildRaidBossId": 101,
+        "Id": 10101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 101,
+        "Id": 10102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 101,
+        "Id": 10103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 102,
+        "Id": 10201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 102,
+        "Id": 10202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 102,
+        "Id": 10203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 106,
+        "Id": 10601,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 106,
+        "Id": 10602,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 106,
+        "Id": 10603,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 110,
+        "Id": 11001,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 110,
+        "Id": 11002,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 110,
+        "Id": 11003,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 112,
+        "Id": 11201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 112,
+        "Id": 11202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 112,
+        "Id": 11203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 113,
+        "Id": 11301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 113,
+        "Id": 11302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 113,
+        "Id": 11303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 114,
+        "Id": 11401,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 114,
+        "Id": 11402,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 114,
+        "Id": 11403,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 115,
+        "Id": 11501,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 115,
+        "Id": 11502,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 115,
+        "Id": 11503,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 117,
+        "Id": 11701,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 117,
+        "Id": 11702,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 117,
+        "Id": 11703,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 118,
+        "Id": 11801,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 118,
+        "Id": 11802,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 118,
+        "Id": 11803,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 120,
+        "Id": 12001,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 120,
+        "Id": 12002,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 120,
+        "Id": 12003,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 121,
+        "Id": 12101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 121,
+        "Id": 12102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 121,
+        "Id": 12103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 122,
+        "Id": 12201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 122,
+        "Id": 12202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 122,
+        "Id": 12203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 124,
+        "Id": 12401,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 124,
+        "Id": 12402,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 124,
+        "Id": 12403,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 125,
+        "Id": 12501,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 125,
+        "Id": 12502,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 125,
+        "Id": 12503,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 126,
+        "Id": 12601,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 126,
+        "Id": 12602,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 126,
+        "Id": 12603,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 127,
+        "Id": 12701,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 127,
+        "Id": 12702,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 127,
+        "Id": 12703,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 128,
+        "Id": 12801,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 128,
+        "Id": 12802,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 128,
+        "Id": 12803,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 129,
+        "Id": 12901,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 129,
+        "Id": 12902,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 129,
+        "Id": 12903,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 130,
+        "Id": 13001,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 130,
+        "Id": 13002,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 130,
+        "Id": 13003,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 131,
+        "Id": 13101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 131,
+        "Id": 13102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 131,
+        "Id": 13103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 132,
+        "Id": 13201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 132,
+        "Id": 13202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 132,
+        "Id": 13203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 133,
+        "Id": 13301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 133,
+        "Id": 13302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 133,
+        "Id": 13303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 134,
+        "Id": 13401,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 134,
+        "Id": 13402,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 134,
+        "Id": 13403,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 135,
+        "Id": 13501,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 135,
+        "Id": 13502,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 135,
+        "Id": 13503,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 136,
+        "Id": 13601,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 136,
+        "Id": 13602,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 136,
+        "Id": 13603,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 137,
+        "Id": 13701,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 137,
+        "Id": 13702,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 137,
+        "Id": 13703,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 138,
+        "Id": 13801,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 138,
+        "Id": 13802,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 138,
+        "Id": 13803,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 139,
+        "Id": 13901,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 139,
+        "Id": 13902,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 139,
+        "Id": 13903,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 140,
+        "Id": 14001,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 140,
+        "Id": 14002,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 140,
+        "Id": 14003,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 141,
+        "Id": 14101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 141,
+        "Id": 14102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 141,
+        "Id": 14103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 142,
+        "Id": 14201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 142,
+        "Id": 14202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 142,
+        "Id": 14203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 143,
+        "Id": 14301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 143,
+        "Id": 14302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 143,
+        "Id": 14303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 144,
+        "Id": 14401,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 144,
+        "Id": 14402,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 144,
+        "Id": 14403,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 145,
+        "Id": 14501,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 145,
+        "Id": 14502,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 145,
+        "Id": 14503,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 146,
+        "Id": 14601,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 146,
+        "Id": 14602,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 146,
+        "Id": 14603,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 147,
+        "Id": 14701,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 147,
+        "Id": 14702,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 147,
+        "Id": 14703,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 148,
+        "Id": 14801,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 148,
+        "Id": 14802,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 148,
+        "Id": 14803,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 149,
+        "Id": 14901,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 149,
+        "Id": 14902,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 149,
+        "Id": 14903,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 150,
+        "Id": 15001,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 150,
+        "Id": 15002,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 150,
+        "Id": 15003,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 151,
+        "Id": 15101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 151,
+        "Id": 15102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 151,
+        "Id": 15103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 152,
+        "Id": 15201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 152,
+        "Id": 15202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 152,
+        "Id": 15203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 153,
+        "Id": 15301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 153,
+        "Id": 15302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 153,
+        "Id": 15303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 10101,
+        "Id": 1010101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 10101,
+        "Id": 1010102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 10101,
+        "Id": 1010103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 10601,
+        "Id": 1060101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 10601,
+        "Id": 1060102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 10601,
+        "Id": 1060103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 11201,
+        "Id": 1120101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 11201,
+        "Id": 1120102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 11201,
+        "Id": 1120103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 11501,
+        "Id": 1150101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 11501,
+        "Id": 1150102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 11501,
+        "Id": 1150103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12101,
+        "Id": 1210101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12101,
+        "Id": 1210102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12101,
+        "Id": 1210103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12601,
+        "Id": 1260101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12601,
+        "Id": 1260102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12601,
+        "Id": 1260103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12602,
+        "Id": 1260201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12602,
+        "Id": 1260202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12602,
+        "Id": 1260203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12603,
+        "Id": 1260301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12603,
+        "Id": 1260302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12603,
+        "Id": 1260303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12701,
+        "Id": 1270101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12701,
+        "Id": 1270102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12701,
+        "Id": 1270103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12702,
+        "Id": 1270201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12702,
+        "Id": 1270202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12702,
+        "Id": 1270203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12703,
+        "Id": 1270301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12703,
+        "Id": 1270302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12703,
+        "Id": 1270303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12801,
+        "Id": 1280101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12801,
+        "Id": 1280102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12801,
+        "Id": 1280103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12802,
+        "Id": 1280201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12802,
+        "Id": 1280202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12802,
+        "Id": 1280203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 12803,
+        "Id": 1280301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 12803,
+        "Id": 1280302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 12803,
+        "Id": 1280303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13001,
+        "Id": 1300101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13001,
+        "Id": 1300102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13001,
+        "Id": 1300103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13002,
+        "Id": 1300201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13002,
+        "Id": 1300202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13002,
+        "Id": 1300203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13003,
+        "Id": 1300301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13003,
+        "Id": 1300302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13003,
+        "Id": 1300303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13101,
+        "Id": 1310101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13101,
+        "Id": 1310102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13101,
+        "Id": 1310103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13201,
+        "Id": 1320101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13201,
+        "Id": 1320102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13201,
+        "Id": 1320103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13202,
+        "Id": 1320201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13202,
+        "Id": 1320202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13202,
+        "Id": 1320203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13301,
+        "Id": 1330101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13301,
+        "Id": 1330102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13301,
+        "Id": 1330103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13302,
+        "Id": 1330201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13302,
+        "Id": 1330202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13302,
+        "Id": 1330203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13401,
+        "Id": 1340101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13401,
+        "Id": 1340102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13401,
+        "Id": 1340103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13402,
+        "Id": 1340201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13402,
+        "Id": 1340202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13402,
+        "Id": 1340203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13501,
+        "Id": 1350101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13501,
+        "Id": 1350102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13501,
+        "Id": 1350103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13601,
+        "Id": 1360101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13601,
+        "Id": 1360102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13601,
+        "Id": 1360103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13602,
+        "Id": 1360201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13602,
+        "Id": 1360202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13602,
+        "Id": 1360203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13603,
+        "Id": 1360301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13603,
+        "Id": 1360302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13603,
+        "Id": 1360303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13701,
+        "Id": 1370101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13701,
+        "Id": 1370102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13701,
+        "Id": 1370103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13702,
+        "Id": 1370201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13702,
+        "Id": 1370202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13702,
+        "Id": 1370203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13801,
+        "Id": 1380101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13801,
+        "Id": 1380102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13801,
+        "Id": 1380103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13802,
+        "Id": 1380201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13802,
+        "Id": 1380202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13802,
+        "Id": 1380203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13803,
+        "Id": 1380301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13803,
+        "Id": 1380302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13803,
+        "Id": 1380303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13901,
+        "Id": 1390101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13901,
+        "Id": 1390102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13901,
+        "Id": 1390103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13902,
+        "Id": 1390201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13902,
+        "Id": 1390202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13902,
+        "Id": 1390203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 13903,
+        "Id": 1390301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 13903,
+        "Id": 1390302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 13903,
+        "Id": 1390303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14001,
+        "Id": 1400101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14001,
+        "Id": 1400102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14001,
+        "Id": 1400103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14101,
+        "Id": 1410101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14101,
+        "Id": 1410102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14101,
+        "Id": 1410103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14102,
+        "Id": 1410201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14102,
+        "Id": 1410202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14102,
+        "Id": 1410203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14103,
+        "Id": 1410301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14103,
+        "Id": 1410302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14103,
+        "Id": 1410303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14201,
+        "Id": 1420101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14201,
+        "Id": 1420102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14201,
+        "Id": 1420103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14301,
+        "Id": 1430101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14301,
+        "Id": 1430102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14301,
+        "Id": 1430103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14302,
+        "Id": 1430201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14302,
+        "Id": 1430202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14302,
+        "Id": 1430203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14303,
+        "Id": 1430301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14303,
+        "Id": 1430302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14303,
+        "Id": 1430303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14401,
+        "Id": 1440101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14401,
+        "Id": 1440102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14401,
+        "Id": 1440103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14501,
+        "Id": 1450101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14501,
+        "Id": 1450102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14501,
+        "Id": 1450103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14502,
+        "Id": 1450201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14502,
+        "Id": 1450202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14502,
+        "Id": 1450203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14503,
+        "Id": 1450301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14503,
+        "Id": 1450302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14503,
+        "Id": 1450303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14601,
+        "Id": 1460101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14601,
+        "Id": 1460102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14601,
+        "Id": 1460103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14602,
+        "Id": 1460201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14602,
+        "Id": 1460202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14602,
+        "Id": 1460203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14603,
+        "Id": 1460301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14603,
+        "Id": 1460302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14603,
+        "Id": 1460303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14701,
+        "Id": 1470101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14701,
+        "Id": 1470102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14701,
+        "Id": 1470103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14801,
+        "Id": 1480101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14801,
+        "Id": 1480102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14801,
+        "Id": 1480103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14802,
+        "Id": 1480201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14802,
+        "Id": 1480202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14802,
+        "Id": 1480203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14803,
+        "Id": 1480301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14803,
+        "Id": 1480302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14803,
+        "Id": 1480303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14901,
+        "Id": 1490101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14901,
+        "Id": 1490102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14901,
+        "Id": 1490103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14902,
+        "Id": 1490201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14902,
+        "Id": 1490202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14902,
+        "Id": 1490203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 14903,
+        "Id": 1490301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 14903,
+        "Id": 1490302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 14903,
+        "Id": 1490303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15001,
+        "Id": 1500101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15001,
+        "Id": 1500102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15001,
+        "Id": 1500103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15002,
+        "Id": 1500201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15002,
+        "Id": 1500202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15002,
+        "Id": 1500203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15003,
+        "Id": 1500301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15003,
+        "Id": 1500302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15003,
+        "Id": 1500303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15101,
+        "Id": 1510101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15101,
+        "Id": 1510102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15101,
+        "Id": 1510103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15102,
+        "Id": 1510201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15102,
+        "Id": 1510202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15102,
+        "Id": 1510203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15103,
+        "Id": 1510301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15103,
+        "Id": 1510302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15103,
+        "Id": 1510303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15201,
+        "Id": 1520101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15201,
+        "Id": 1520102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15201,
+        "Id": 1520103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15202,
+        "Id": 1520201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15202,
+        "Id": 1520202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15202,
+        "Id": 1520203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15203,
+        "Id": 1520301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15203,
+        "Id": 1520302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15203,
+        "Id": 1520303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15301,
+        "Id": 1530101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15301,
+        "Id": 1530102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15301,
+        "Id": 1530103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15302,
+        "Id": 1530201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15302,
+        "Id": 1530202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15302,
+        "Id": 1530203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15303,
+        "Id": 1530301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15303,
+        "Id": 1530302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15303,
+        "Id": 1530303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15401,
+        "Id": 1540101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15401,
+        "Id": 1540102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15401,
+        "Id": 1540103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15402,
+        "Id": 1540201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15402,
+        "Id": 1540202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15402,
+        "Id": 1540203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15403,
+        "Id": 1540301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15403,
+        "Id": 1540302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15403,
+        "Id": 1540303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15501,
+        "Id": 1550101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15501,
+        "Id": 1550102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15501,
+        "Id": 1550103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15502,
+        "Id": 1550201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15502,
+        "Id": 1550202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15502,
+        "Id": 1550203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15503,
+        "Id": 1550301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15503,
+        "Id": 1550302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15503,
+        "Id": 1550303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15601,
+        "Id": 1560101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15601,
+        "Id": 1560102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15601,
+        "Id": 1560103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15602,
+        "Id": 1560201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15602,
+        "Id": 1560202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15602,
+        "Id": 1560203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15603,
+        "Id": 1560301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15603,
+        "Id": 1560302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15603,
+        "Id": 1560303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15701,
+        "Id": 1570101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15701,
+        "Id": 1570102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15701,
+        "Id": 1570103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15702,
+        "Id": 1570201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15702,
+        "Id": 1570202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15702,
+        "Id": 1570203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15703,
+        "Id": 1570301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15703,
+        "Id": 1570302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15703,
+        "Id": 1570303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15801,
+        "Id": 1580101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15801,
+        "Id": 1580102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15801,
+        "Id": 1580103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15802,
+        "Id": 1580201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15802,
+        "Id": 1580202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15802,
+        "Id": 1580203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15803,
+        "Id": 1580301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15803,
+        "Id": 1580302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15803,
+        "Id": 1580303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15901,
+        "Id": 1590101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15901,
+        "Id": 1590102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15901,
+        "Id": 1590103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15902,
+        "Id": 1590201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15902,
+        "Id": 1590202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15902,
+        "Id": 1590203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 15903,
+        "Id": 1590301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 15903,
+        "Id": 1590302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 15903,
+        "Id": 1590303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16001,
+        "Id": 1600101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16001,
+        "Id": 1600102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16001,
+        "Id": 1600103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16002,
+        "Id": 1600201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16002,
+        "Id": 1600202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16002,
+        "Id": 1600203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16003,
+        "Id": 1600301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16003,
+        "Id": 1600302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16003,
+        "Id": 1600303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16101,
+        "Id": 1610101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16101,
+        "Id": 1610102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16101,
+        "Id": 1610103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16102,
+        "Id": 1610201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16102,
+        "Id": 1610202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16102,
+        "Id": 1610203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16103,
+        "Id": 1610301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16103,
+        "Id": 1610302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16103,
+        "Id": 1610303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16201,
+        "Id": 1620101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16201,
+        "Id": 1620102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16201,
+        "Id": 1620103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16202,
+        "Id": 1620201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16202,
+        "Id": 1620202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16202,
+        "Id": 1620203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16203,
+        "Id": 1620301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16203,
+        "Id": 1620302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16203,
+        "Id": 1620303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16301,
+        "Id": 1630101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16301,
+        "Id": 1630102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16301,
+        "Id": 1630103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16302,
+        "Id": 1630201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16302,
+        "Id": 1630202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16302,
+        "Id": 1630203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16303,
+        "Id": 1630301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16303,
+        "Id": 1630302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16303,
+        "Id": 1630303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16401,
+        "Id": 1640101,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16401,
+        "Id": 1640102,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16401,
+        "Id": 1640103,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16402,
+        "Id": 1640201,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16402,
+        "Id": 1640202,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16402,
+        "Id": 1640203,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    },
+    {
+        "GuildRaidBossId": 16403,
+        "Id": 1640301,
+        "RewardItemId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "GuildRaidBossId": 16403,
+        "Id": 1640302,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 400,
+        "RewardType": 111
+    },
+    {
+        "GuildRaidBossId": 16403,
+        "Id": 1640303,
+        "RewardItemId": 0,
+        "RewardQuantity": 20000,
+        "RewardType": 102
+    }
+]

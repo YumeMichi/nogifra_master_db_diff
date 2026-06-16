@@ -1,0 +1,6002 @@
+[
+    {
+        "Id": 2001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2002,
+        "Level": 2,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2003,
+        "Level": 3,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2004,
+        "Level": 4,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2005,
+        "Level": 5,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2006,
+        "Level": 6,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2007,
+        "Level": 7,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2008,
+        "Level": 8,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2009,
+        "Level": 9,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2010,
+        "Level": 10,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2011,
+        "Level": 11,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2012,
+        "Level": 12,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2013,
+        "Level": 13,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2014,
+        "Level": 14,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2015,
+        "Level": 15,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2016,
+        "Level": 16,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2017,
+        "Level": 17,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2018,
+        "Level": 18,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2019,
+        "Level": 19,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2020,
+        "Level": 20,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2021,
+        "Level": 21,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2022,
+        "Level": 22,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2023,
+        "Level": 23,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2024,
+        "Level": 24,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2025,
+        "Level": 25,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2026,
+        "Level": 26,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2027,
+        "Level": 27,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2028,
+        "Level": 28,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2029,
+        "Level": 29,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2030,
+        "Level": 30,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2031,
+        "Level": 31,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2032,
+        "Level": 32,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2033,
+        "Level": 33,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2034,
+        "Level": 34,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2035,
+        "Level": 35,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2036,
+        "Level": 36,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2037,
+        "Level": 37,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2038,
+        "Level": 38,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2039,
+        "Level": 39,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2040,
+        "Level": 40,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2041,
+        "Level": 41,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2042,
+        "Level": 42,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2043,
+        "Level": 43,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2044,
+        "Level": 44,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2045,
+        "Level": 45,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2046,
+        "Level": 46,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2047,
+        "Level": 47,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2048,
+        "Level": 48,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2049,
+        "Level": 49,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2050,
+        "Level": 50,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2051,
+        "Level": 51,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2052,
+        "Level": 52,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2053,
+        "Level": 53,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2054,
+        "Level": 54,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2055,
+        "Level": 55,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2056,
+        "Level": 56,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2057,
+        "Level": 57,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2058,
+        "Level": 58,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2059,
+        "Level": 59,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2060,
+        "Level": 60,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2061,
+        "Level": 61,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2062,
+        "Level": 62,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2063,
+        "Level": 63,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2064,
+        "Level": 64,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2065,
+        "Level": 65,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2066,
+        "Level": 66,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2067,
+        "Level": 67,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2068,
+        "Level": 68,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2069,
+        "Level": 69,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2070,
+        "Level": 70,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2071,
+        "Level": 71,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2072,
+        "Level": 72,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2073,
+        "Level": 73,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2074,
+        "Level": 74,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2075,
+        "Level": 75,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2076,
+        "Level": 76,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2077,
+        "Level": 77,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2078,
+        "Level": 78,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2079,
+        "Level": 79,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2080,
+        "Level": 80,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2081,
+        "Level": 81,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2082,
+        "Level": 82,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2083,
+        "Level": 83,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2084,
+        "Level": 84,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2085,
+        "Level": 85,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2086,
+        "Level": 86,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2087,
+        "Level": 87,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2088,
+        "Level": 88,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2089,
+        "Level": 89,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2090,
+        "Level": 90,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2091,
+        "Level": 91,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2092,
+        "Level": 92,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2093,
+        "Level": 93,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2094,
+        "Level": 94,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2095,
+        "Level": 95,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2096,
+        "Level": 96,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2097,
+        "Level": 97,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2098,
+        "Level": 98,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2099,
+        "Level": 99,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 2100,
+        "Level": 100,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "Id": 4001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4002,
+        "Level": 2,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4003,
+        "Level": 3,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4004,
+        "Level": 4,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4005,
+        "Level": 5,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4006,
+        "Level": 6,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4007,
+        "Level": 7,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4008,
+        "Level": 8,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4009,
+        "Level": 9,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4010,
+        "Level": 10,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4011,
+        "Level": 11,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4012,
+        "Level": 12,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4013,
+        "Level": 13,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4014,
+        "Level": 14,
+        "NpcLevel": 1.56,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4015,
+        "Level": 15,
+        "NpcLevel": 1.63,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4016,
+        "Level": 16,
+        "NpcLevel": 1.63,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4017,
+        "Level": 17,
+        "NpcLevel": 1.7,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4018,
+        "Level": 18,
+        "NpcLevel": 1.7,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4019,
+        "Level": 19,
+        "NpcLevel": 1.77,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4020,
+        "Level": 20,
+        "NpcLevel": 1.77,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4021,
+        "Level": 21,
+        "NpcLevel": 1.84,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4022,
+        "Level": 22,
+        "NpcLevel": 1.84,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4023,
+        "Level": 23,
+        "NpcLevel": 1.91,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4024,
+        "Level": 24,
+        "NpcLevel": 1.98,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4025,
+        "Level": 25,
+        "NpcLevel": 1.98,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4026,
+        "Level": 26,
+        "NpcLevel": 2.05,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4027,
+        "Level": 27,
+        "NpcLevel": 2.05,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4028,
+        "Level": 28,
+        "NpcLevel": 2.12,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4029,
+        "Level": 29,
+        "NpcLevel": 2.12,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4030,
+        "Level": 30,
+        "NpcLevel": 2.19,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4031,
+        "Level": 31,
+        "NpcLevel": 2.26,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4032,
+        "Level": 32,
+        "NpcLevel": 2.26,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4033,
+        "Level": 33,
+        "NpcLevel": 2.33,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4034,
+        "Level": 34,
+        "NpcLevel": 2.33,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4035,
+        "Level": 35,
+        "NpcLevel": 2.4,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4036,
+        "Level": 36,
+        "NpcLevel": 2.4,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4037,
+        "Level": 37,
+        "NpcLevel": 2.47,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4038,
+        "Level": 38,
+        "NpcLevel": 2.54,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4039,
+        "Level": 39,
+        "NpcLevel": 2.54,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4040,
+        "Level": 40,
+        "NpcLevel": 2.61,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4041,
+        "Level": 41,
+        "NpcLevel": 2.61,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4042,
+        "Level": 42,
+        "NpcLevel": 2.68,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4043,
+        "Level": 43,
+        "NpcLevel": 2.68,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4044,
+        "Level": 44,
+        "NpcLevel": 2.75,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4045,
+        "Level": 45,
+        "NpcLevel": 2.82,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4046,
+        "Level": 46,
+        "NpcLevel": 2.82,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4047,
+        "Level": 47,
+        "NpcLevel": 2.89,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4048,
+        "Level": 48,
+        "NpcLevel": 2.89,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4049,
+        "Level": 49,
+        "NpcLevel": 2.96,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4050,
+        "Level": 50,
+        "NpcLevel": 2.96,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4051,
+        "Level": 51,
+        "NpcLevel": 3.03,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4052,
+        "Level": 52,
+        "NpcLevel": 3.03,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4053,
+        "Level": 53,
+        "NpcLevel": 3.1,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4054,
+        "Level": 54,
+        "NpcLevel": 3.17,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4055,
+        "Level": 55,
+        "NpcLevel": 3.17,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4056,
+        "Level": 56,
+        "NpcLevel": 3.24,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4057,
+        "Level": 57,
+        "NpcLevel": 3.24,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4058,
+        "Level": 58,
+        "NpcLevel": 3.31,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4059,
+        "Level": 59,
+        "NpcLevel": 3.31,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4060,
+        "Level": 60,
+        "NpcLevel": 3.38,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4061,
+        "Level": 61,
+        "NpcLevel": 3.45,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4062,
+        "Level": 62,
+        "NpcLevel": 3.45,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4063,
+        "Level": 63,
+        "NpcLevel": 3.52,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4064,
+        "Level": 64,
+        "NpcLevel": 3.52,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4065,
+        "Level": 65,
+        "NpcLevel": 3.59,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4066,
+        "Level": 66,
+        "NpcLevel": 3.59,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4067,
+        "Level": 67,
+        "NpcLevel": 3.66,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4068,
+        "Level": 68,
+        "NpcLevel": 3.73,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4069,
+        "Level": 69,
+        "NpcLevel": 3.73,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4070,
+        "Level": 70,
+        "NpcLevel": 3.8,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4071,
+        "Level": 71,
+        "NpcLevel": 3.8,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4072,
+        "Level": 72,
+        "NpcLevel": 3.87,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4073,
+        "Level": 73,
+        "NpcLevel": 3.87,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4074,
+        "Level": 74,
+        "NpcLevel": 3.94,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4075,
+        "Level": 75,
+        "NpcLevel": 4.01,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4076,
+        "Level": 76,
+        "NpcLevel": 4.01,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4077,
+        "Level": 77,
+        "NpcLevel": 4.08,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4078,
+        "Level": 78,
+        "NpcLevel": 4.08,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4079,
+        "Level": 79,
+        "NpcLevel": 4.15,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4080,
+        "Level": 80,
+        "NpcLevel": 4.15,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4081,
+        "Level": 81,
+        "NpcLevel": 4.22,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4082,
+        "Level": 82,
+        "NpcLevel": 4.22,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4083,
+        "Level": 83,
+        "NpcLevel": 4.29,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4084,
+        "Level": 84,
+        "NpcLevel": 4.36,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4085,
+        "Level": 85,
+        "NpcLevel": 4.36,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4086,
+        "Level": 86,
+        "NpcLevel": 4.43,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4087,
+        "Level": 87,
+        "NpcLevel": 4.43,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4088,
+        "Level": 88,
+        "NpcLevel": 4.5,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4089,
+        "Level": 89,
+        "NpcLevel": 4.5,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4090,
+        "Level": 90,
+        "NpcLevel": 4.57,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4091,
+        "Level": 91,
+        "NpcLevel": 4.64,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4092,
+        "Level": 92,
+        "NpcLevel": 4.64,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4093,
+        "Level": 93,
+        "NpcLevel": 4.71,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4094,
+        "Level": 94,
+        "NpcLevel": 4.71,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4095,
+        "Level": 95,
+        "NpcLevel": 4.78,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4096,
+        "Level": 96,
+        "NpcLevel": 4.78,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4097,
+        "Level": 97,
+        "NpcLevel": 4.85,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4098,
+        "Level": 98,
+        "NpcLevel": 4.92,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4099,
+        "Level": 99,
+        "NpcLevel": 4.92,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 4100,
+        "Level": 100,
+        "NpcLevel": 4.99,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "Id": 10001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10002,
+        "Level": 2,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10003,
+        "Level": 3,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10004,
+        "Level": 4,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10005,
+        "Level": 5,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10006,
+        "Level": 6,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10007,
+        "Level": 7,
+        "NpcLevel": 1.005,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10008,
+        "Level": 8,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10009,
+        "Level": 9,
+        "NpcLevel": 1.015,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10010,
+        "Level": 10,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10011,
+        "Level": 11,
+        "NpcLevel": 1.025,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10012,
+        "Level": 12,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10013,
+        "Level": 13,
+        "NpcLevel": 1.035,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10014,
+        "Level": 14,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10015,
+        "Level": 15,
+        "NpcLevel": 1.045,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10016,
+        "Level": 16,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10017,
+        "Level": 17,
+        "NpcLevel": 1.055,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10018,
+        "Level": 18,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10019,
+        "Level": 19,
+        "NpcLevel": 1.065,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10020,
+        "Level": 20,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10021,
+        "Level": 21,
+        "NpcLevel": 1.075,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10022,
+        "Level": 22,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10023,
+        "Level": 23,
+        "NpcLevel": 1.085,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10024,
+        "Level": 24,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10025,
+        "Level": 25,
+        "NpcLevel": 1.095,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10026,
+        "Level": 26,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10027,
+        "Level": 27,
+        "NpcLevel": 1.105,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10028,
+        "Level": 28,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10029,
+        "Level": 29,
+        "NpcLevel": 1.115,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10030,
+        "Level": 30,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10031,
+        "Level": 31,
+        "NpcLevel": 1.125,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10032,
+        "Level": 32,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10033,
+        "Level": 33,
+        "NpcLevel": 1.135,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10034,
+        "Level": 34,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10035,
+        "Level": 35,
+        "NpcLevel": 1.145,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10036,
+        "Level": 36,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10037,
+        "Level": 37,
+        "NpcLevel": 1.155,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10038,
+        "Level": 38,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10039,
+        "Level": 39,
+        "NpcLevel": 1.165,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10040,
+        "Level": 40,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10041,
+        "Level": 41,
+        "NpcLevel": 1.175,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10042,
+        "Level": 42,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10043,
+        "Level": 43,
+        "NpcLevel": 1.185,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10044,
+        "Level": 44,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10045,
+        "Level": 45,
+        "NpcLevel": 1.195,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10046,
+        "Level": 46,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10047,
+        "Level": 47,
+        "NpcLevel": 1.205,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10048,
+        "Level": 48,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10049,
+        "Level": 49,
+        "NpcLevel": 1.215,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10050,
+        "Level": 50,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10051,
+        "Level": 51,
+        "NpcLevel": 1.225,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10052,
+        "Level": 52,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10053,
+        "Level": 53,
+        "NpcLevel": 1.235,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10054,
+        "Level": 54,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10055,
+        "Level": 55,
+        "NpcLevel": 1.245,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10056,
+        "Level": 56,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10057,
+        "Level": 57,
+        "NpcLevel": 1.255,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10058,
+        "Level": 58,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10059,
+        "Level": 59,
+        "NpcLevel": 1.265,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10060,
+        "Level": 60,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10061,
+        "Level": 61,
+        "NpcLevel": 1.275,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10062,
+        "Level": 62,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10063,
+        "Level": 63,
+        "NpcLevel": 1.285,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10064,
+        "Level": 64,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10065,
+        "Level": 65,
+        "NpcLevel": 1.295,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10066,
+        "Level": 66,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10067,
+        "Level": 67,
+        "NpcLevel": 1.305,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10068,
+        "Level": 68,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10069,
+        "Level": 69,
+        "NpcLevel": 1.315,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10070,
+        "Level": 70,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10071,
+        "Level": 71,
+        "NpcLevel": 1.325,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10072,
+        "Level": 72,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10073,
+        "Level": 73,
+        "NpcLevel": 1.335,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10074,
+        "Level": 74,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10075,
+        "Level": 75,
+        "NpcLevel": 1.345,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10076,
+        "Level": 76,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10077,
+        "Level": 77,
+        "NpcLevel": 1.355,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10078,
+        "Level": 78,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10079,
+        "Level": 79,
+        "NpcLevel": 1.365,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10080,
+        "Level": 80,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10081,
+        "Level": 81,
+        "NpcLevel": 1.375,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10082,
+        "Level": 82,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10083,
+        "Level": 83,
+        "NpcLevel": 1.385,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10084,
+        "Level": 84,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10085,
+        "Level": 85,
+        "NpcLevel": 1.395,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10086,
+        "Level": 86,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10087,
+        "Level": 87,
+        "NpcLevel": 1.405,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10088,
+        "Level": 88,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10089,
+        "Level": 89,
+        "NpcLevel": 1.415,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10090,
+        "Level": 90,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10091,
+        "Level": 91,
+        "NpcLevel": 1.425,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10092,
+        "Level": 92,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10093,
+        "Level": 93,
+        "NpcLevel": 1.435,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10094,
+        "Level": 94,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10095,
+        "Level": 95,
+        "NpcLevel": 1.445,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10096,
+        "Level": 96,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10097,
+        "Level": 97,
+        "NpcLevel": 1.455,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10098,
+        "Level": 98,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10099,
+        "Level": 99,
+        "NpcLevel": 1.465,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 10100,
+        "Level": 100,
+        "NpcLevel": 1.47,
+        "QuestLevelCorrectionGroupId": 10
+    },
+    {
+        "Id": 20000,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20001,
+        "Level": 2,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20002,
+        "Level": 3,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20003,
+        "Level": 4,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20004,
+        "Level": 5,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20005,
+        "Level": 6,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20006,
+        "Level": 7,
+        "NpcLevel": 1.005,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20007,
+        "Level": 8,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20008,
+        "Level": 9,
+        "NpcLevel": 1.015,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20009,
+        "Level": 10,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20010,
+        "Level": 11,
+        "NpcLevel": 1.025,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20011,
+        "Level": 12,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20012,
+        "Level": 13,
+        "NpcLevel": 1.035,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20013,
+        "Level": 14,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20014,
+        "Level": 15,
+        "NpcLevel": 1.045,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20015,
+        "Level": 16,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20016,
+        "Level": 17,
+        "NpcLevel": 1.055,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20017,
+        "Level": 18,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20018,
+        "Level": 19,
+        "NpcLevel": 1.065,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20019,
+        "Level": 20,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20020,
+        "Level": 21,
+        "NpcLevel": 1.075,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20021,
+        "Level": 22,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20022,
+        "Level": 23,
+        "NpcLevel": 1.085,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20023,
+        "Level": 24,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20024,
+        "Level": 25,
+        "NpcLevel": 1.095,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20025,
+        "Level": 26,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20026,
+        "Level": 27,
+        "NpcLevel": 1.105,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20027,
+        "Level": 28,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20028,
+        "Level": 29,
+        "NpcLevel": 1.115,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20029,
+        "Level": 30,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20030,
+        "Level": 31,
+        "NpcLevel": 1.125,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20031,
+        "Level": 32,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20032,
+        "Level": 33,
+        "NpcLevel": 1.135,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20033,
+        "Level": 34,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20034,
+        "Level": 35,
+        "NpcLevel": 1.145,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20035,
+        "Level": 36,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20036,
+        "Level": 37,
+        "NpcLevel": 1.155,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20037,
+        "Level": 38,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20038,
+        "Level": 39,
+        "NpcLevel": 1.165,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20039,
+        "Level": 40,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20040,
+        "Level": 41,
+        "NpcLevel": 1.175,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20041,
+        "Level": 42,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20042,
+        "Level": 43,
+        "NpcLevel": 1.185,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20043,
+        "Level": 44,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20044,
+        "Level": 45,
+        "NpcLevel": 1.195,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20045,
+        "Level": 46,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20046,
+        "Level": 47,
+        "NpcLevel": 1.205,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20047,
+        "Level": 48,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20048,
+        "Level": 49,
+        "NpcLevel": 1.215,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20049,
+        "Level": 50,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20050,
+        "Level": 51,
+        "NpcLevel": 1.225,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20051,
+        "Level": 52,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20052,
+        "Level": 53,
+        "NpcLevel": 1.235,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20053,
+        "Level": 54,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20054,
+        "Level": 55,
+        "NpcLevel": 1.245,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20055,
+        "Level": 56,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20056,
+        "Level": 57,
+        "NpcLevel": 1.255,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20057,
+        "Level": 58,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20058,
+        "Level": 59,
+        "NpcLevel": 1.265,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20059,
+        "Level": 60,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20060,
+        "Level": 61,
+        "NpcLevel": 1.275,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20061,
+        "Level": 62,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20062,
+        "Level": 63,
+        "NpcLevel": 1.285,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20063,
+        "Level": 64,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20064,
+        "Level": 65,
+        "NpcLevel": 1.295,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20065,
+        "Level": 66,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20066,
+        "Level": 67,
+        "NpcLevel": 1.305,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20067,
+        "Level": 68,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20068,
+        "Level": 69,
+        "NpcLevel": 1.315,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20069,
+        "Level": 70,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20070,
+        "Level": 71,
+        "NpcLevel": 1.325,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20071,
+        "Level": 72,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20072,
+        "Level": 73,
+        "NpcLevel": 1.335,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20073,
+        "Level": 74,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20074,
+        "Level": 75,
+        "NpcLevel": 1.345,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20075,
+        "Level": 76,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20076,
+        "Level": 77,
+        "NpcLevel": 1.355,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20077,
+        "Level": 78,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20078,
+        "Level": 79,
+        "NpcLevel": 1.365,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20079,
+        "Level": 80,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20080,
+        "Level": 81,
+        "NpcLevel": 1.375,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20081,
+        "Level": 82,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20082,
+        "Level": 83,
+        "NpcLevel": 1.385,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20083,
+        "Level": 84,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20084,
+        "Level": 85,
+        "NpcLevel": 1.395,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20085,
+        "Level": 86,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20086,
+        "Level": 87,
+        "NpcLevel": 1.405,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20087,
+        "Level": 88,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20088,
+        "Level": 89,
+        "NpcLevel": 1.415,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20089,
+        "Level": 90,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20090,
+        "Level": 91,
+        "NpcLevel": 1.425,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20091,
+        "Level": 92,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20092,
+        "Level": 93,
+        "NpcLevel": 1.435,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20093,
+        "Level": 94,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20094,
+        "Level": 95,
+        "NpcLevel": 1.445,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20095,
+        "Level": 96,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20096,
+        "Level": 97,
+        "NpcLevel": 1.455,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20097,
+        "Level": 98,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20098,
+        "Level": 99,
+        "NpcLevel": 1.465,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 20099,
+        "Level": 100,
+        "NpcLevel": 1.47,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "Id": 110001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110003,
+        "Level": 3,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110004,
+        "Level": 4,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110005,
+        "Level": 5,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110006,
+        "Level": 6,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110007,
+        "Level": 7,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110008,
+        "Level": 8,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110009,
+        "Level": 9,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110010,
+        "Level": 10,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110011,
+        "Level": 11,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110012,
+        "Level": 12,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110013,
+        "Level": 13,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110014,
+        "Level": 14,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110015,
+        "Level": 15,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110016,
+        "Level": 16,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110017,
+        "Level": 17,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110018,
+        "Level": 18,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110019,
+        "Level": 19,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110020,
+        "Level": 20,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110021,
+        "Level": 21,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110022,
+        "Level": 22,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110023,
+        "Level": 23,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110024,
+        "Level": 24,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110025,
+        "Level": 25,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110026,
+        "Level": 26,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110027,
+        "Level": 27,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110028,
+        "Level": 28,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110029,
+        "Level": 29,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110030,
+        "Level": 30,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110031,
+        "Level": 31,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110032,
+        "Level": 32,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110033,
+        "Level": 33,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110034,
+        "Level": 34,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110035,
+        "Level": 35,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110036,
+        "Level": 36,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110037,
+        "Level": 37,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110038,
+        "Level": 38,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110039,
+        "Level": 39,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110040,
+        "Level": 40,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110041,
+        "Level": 41,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110042,
+        "Level": 42,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110043,
+        "Level": 43,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110044,
+        "Level": 44,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110045,
+        "Level": 45,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110046,
+        "Level": 46,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110047,
+        "Level": 47,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110048,
+        "Level": 48,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110049,
+        "Level": 49,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110050,
+        "Level": 50,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110051,
+        "Level": 51,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110052,
+        "Level": 52,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110053,
+        "Level": 53,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110054,
+        "Level": 54,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110055,
+        "Level": 55,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110056,
+        "Level": 56,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110057,
+        "Level": 57,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110058,
+        "Level": 58,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110059,
+        "Level": 59,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110060,
+        "Level": 60,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110061,
+        "Level": 61,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110062,
+        "Level": 62,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110063,
+        "Level": 63,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110064,
+        "Level": 64,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110065,
+        "Level": 65,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110066,
+        "Level": 66,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110067,
+        "Level": 67,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110068,
+        "Level": 68,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110069,
+        "Level": 69,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110070,
+        "Level": 70,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110071,
+        "Level": 71,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110072,
+        "Level": 72,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110073,
+        "Level": 73,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110074,
+        "Level": 74,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110075,
+        "Level": 75,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110076,
+        "Level": 76,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110077,
+        "Level": 77,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110078,
+        "Level": 78,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110079,
+        "Level": 79,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110080,
+        "Level": 80,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110081,
+        "Level": 81,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110082,
+        "Level": 82,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110083,
+        "Level": 83,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110084,
+        "Level": 84,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110085,
+        "Level": 85,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110086,
+        "Level": 86,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110087,
+        "Level": 87,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110088,
+        "Level": 88,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110089,
+        "Level": 89,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110090,
+        "Level": 90,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110091,
+        "Level": 91,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110092,
+        "Level": 92,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110093,
+        "Level": 93,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110094,
+        "Level": 94,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110095,
+        "Level": 95,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110096,
+        "Level": 96,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110097,
+        "Level": 97,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110098,
+        "Level": 98,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110099,
+        "Level": 99,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 110100,
+        "Level": 100,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 101
+    },
+    {
+        "Id": 120001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120003,
+        "Level": 3,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120004,
+        "Level": 4,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120005,
+        "Level": 5,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120006,
+        "Level": 6,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120007,
+        "Level": 7,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120008,
+        "Level": 8,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120009,
+        "Level": 9,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120010,
+        "Level": 10,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120011,
+        "Level": 11,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120012,
+        "Level": 12,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120013,
+        "Level": 13,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120014,
+        "Level": 14,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120015,
+        "Level": 15,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120016,
+        "Level": 16,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120017,
+        "Level": 17,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120018,
+        "Level": 18,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120019,
+        "Level": 19,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120020,
+        "Level": 20,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120021,
+        "Level": 21,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120022,
+        "Level": 22,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120023,
+        "Level": 23,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120024,
+        "Level": 24,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120025,
+        "Level": 25,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120026,
+        "Level": 26,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120027,
+        "Level": 27,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120028,
+        "Level": 28,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120029,
+        "Level": 29,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120030,
+        "Level": 30,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120031,
+        "Level": 31,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120032,
+        "Level": 32,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120033,
+        "Level": 33,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120034,
+        "Level": 34,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120035,
+        "Level": 35,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120036,
+        "Level": 36,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120037,
+        "Level": 37,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120038,
+        "Level": 38,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120039,
+        "Level": 39,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120040,
+        "Level": 40,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120041,
+        "Level": 41,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120042,
+        "Level": 42,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120043,
+        "Level": 43,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120044,
+        "Level": 44,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120045,
+        "Level": 45,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120046,
+        "Level": 46,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120047,
+        "Level": 47,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120048,
+        "Level": 48,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120049,
+        "Level": 49,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120050,
+        "Level": 50,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120051,
+        "Level": 51,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120052,
+        "Level": 52,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120053,
+        "Level": 53,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120054,
+        "Level": 54,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120055,
+        "Level": 55,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120056,
+        "Level": 56,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120057,
+        "Level": 57,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120058,
+        "Level": 58,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120059,
+        "Level": 59,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120060,
+        "Level": 60,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120061,
+        "Level": 61,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120062,
+        "Level": 62,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120063,
+        "Level": 63,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120064,
+        "Level": 64,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120065,
+        "Level": 65,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120066,
+        "Level": 66,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120067,
+        "Level": 67,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120068,
+        "Level": 68,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120069,
+        "Level": 69,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120070,
+        "Level": 70,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120071,
+        "Level": 71,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120072,
+        "Level": 72,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120073,
+        "Level": 73,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120074,
+        "Level": 74,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120075,
+        "Level": 75,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120076,
+        "Level": 76,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120077,
+        "Level": 77,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120078,
+        "Level": 78,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120079,
+        "Level": 79,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120080,
+        "Level": 80,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120081,
+        "Level": 81,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120082,
+        "Level": 82,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120083,
+        "Level": 83,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120084,
+        "Level": 84,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120085,
+        "Level": 85,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120086,
+        "Level": 86,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120087,
+        "Level": 87,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120088,
+        "Level": 88,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120089,
+        "Level": 89,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120090,
+        "Level": 90,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120091,
+        "Level": 91,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120092,
+        "Level": 92,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120093,
+        "Level": 93,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120094,
+        "Level": 94,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120095,
+        "Level": 95,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120096,
+        "Level": 96,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120097,
+        "Level": 97,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120098,
+        "Level": 98,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120099,
+        "Level": 99,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 120100,
+        "Level": 100,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 201
+    },
+    {
+        "Id": 130001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130003,
+        "Level": 3,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130004,
+        "Level": 4,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130005,
+        "Level": 5,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130006,
+        "Level": 6,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130007,
+        "Level": 7,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130008,
+        "Level": 8,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130009,
+        "Level": 9,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130010,
+        "Level": 10,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130011,
+        "Level": 11,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130012,
+        "Level": 12,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130013,
+        "Level": 13,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130014,
+        "Level": 14,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130015,
+        "Level": 15,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130016,
+        "Level": 16,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130017,
+        "Level": 17,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130018,
+        "Level": 18,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130019,
+        "Level": 19,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130020,
+        "Level": 20,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130021,
+        "Level": 21,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130022,
+        "Level": 22,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130023,
+        "Level": 23,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130024,
+        "Level": 24,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130025,
+        "Level": 25,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130026,
+        "Level": 26,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130027,
+        "Level": 27,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130028,
+        "Level": 28,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130029,
+        "Level": 29,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130030,
+        "Level": 30,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130031,
+        "Level": 31,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130032,
+        "Level": 32,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130033,
+        "Level": 33,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130034,
+        "Level": 34,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130035,
+        "Level": 35,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130036,
+        "Level": 36,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130037,
+        "Level": 37,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130038,
+        "Level": 38,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130039,
+        "Level": 39,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130040,
+        "Level": 40,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130041,
+        "Level": 41,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130042,
+        "Level": 42,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130043,
+        "Level": 43,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130044,
+        "Level": 44,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130045,
+        "Level": 45,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130046,
+        "Level": 46,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130047,
+        "Level": 47,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130048,
+        "Level": 48,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130049,
+        "Level": 49,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130050,
+        "Level": 50,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130051,
+        "Level": 51,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130052,
+        "Level": 52,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130053,
+        "Level": 53,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130054,
+        "Level": 54,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130055,
+        "Level": 55,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130056,
+        "Level": 56,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130057,
+        "Level": 57,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130058,
+        "Level": 58,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130059,
+        "Level": 59,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130060,
+        "Level": 60,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130061,
+        "Level": 61,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130062,
+        "Level": 62,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130063,
+        "Level": 63,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130064,
+        "Level": 64,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130065,
+        "Level": 65,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130066,
+        "Level": 66,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130067,
+        "Level": 67,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130068,
+        "Level": 68,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130069,
+        "Level": 69,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130070,
+        "Level": 70,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130071,
+        "Level": 71,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130072,
+        "Level": 72,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130073,
+        "Level": 73,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130074,
+        "Level": 74,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130075,
+        "Level": 75,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130076,
+        "Level": 76,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130077,
+        "Level": 77,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130078,
+        "Level": 78,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130079,
+        "Level": 79,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130080,
+        "Level": 80,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130081,
+        "Level": 81,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130082,
+        "Level": 82,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130083,
+        "Level": 83,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130084,
+        "Level": 84,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130085,
+        "Level": 85,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130086,
+        "Level": 86,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130087,
+        "Level": 87,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130088,
+        "Level": 88,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130089,
+        "Level": 89,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130090,
+        "Level": 90,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130091,
+        "Level": 91,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130092,
+        "Level": 92,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130093,
+        "Level": 93,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130094,
+        "Level": 94,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130095,
+        "Level": 95,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130096,
+        "Level": 96,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130097,
+        "Level": 97,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130098,
+        "Level": 98,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130099,
+        "Level": 99,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 130100,
+        "Level": 100,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 301
+    },
+    {
+        "Id": 140001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140003,
+        "Level": 3,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140004,
+        "Level": 4,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140005,
+        "Level": 5,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140006,
+        "Level": 6,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140007,
+        "Level": 7,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140008,
+        "Level": 8,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140009,
+        "Level": 9,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140010,
+        "Level": 10,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140011,
+        "Level": 11,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140012,
+        "Level": 12,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140013,
+        "Level": 13,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140014,
+        "Level": 14,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140015,
+        "Level": 15,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140016,
+        "Level": 16,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140017,
+        "Level": 17,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140018,
+        "Level": 18,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140019,
+        "Level": 19,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140020,
+        "Level": 20,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140021,
+        "Level": 21,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140022,
+        "Level": 22,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140023,
+        "Level": 23,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140024,
+        "Level": 24,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140025,
+        "Level": 25,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140026,
+        "Level": 26,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140027,
+        "Level": 27,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140028,
+        "Level": 28,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140029,
+        "Level": 29,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140030,
+        "Level": 30,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140031,
+        "Level": 31,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140032,
+        "Level": 32,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140033,
+        "Level": 33,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140034,
+        "Level": 34,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140035,
+        "Level": 35,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140036,
+        "Level": 36,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140037,
+        "Level": 37,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140038,
+        "Level": 38,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140039,
+        "Level": 39,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140040,
+        "Level": 40,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140041,
+        "Level": 41,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140042,
+        "Level": 42,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140043,
+        "Level": 43,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140044,
+        "Level": 44,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140045,
+        "Level": 45,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140046,
+        "Level": 46,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140047,
+        "Level": 47,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140048,
+        "Level": 48,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140049,
+        "Level": 49,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140050,
+        "Level": 50,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140051,
+        "Level": 51,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140052,
+        "Level": 52,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140053,
+        "Level": 53,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140054,
+        "Level": 54,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140055,
+        "Level": 55,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140056,
+        "Level": 56,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140057,
+        "Level": 57,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140058,
+        "Level": 58,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140059,
+        "Level": 59,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140060,
+        "Level": 60,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140061,
+        "Level": 61,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140062,
+        "Level": 62,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140063,
+        "Level": 63,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140064,
+        "Level": 64,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140065,
+        "Level": 65,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140066,
+        "Level": 66,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140067,
+        "Level": 67,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140068,
+        "Level": 68,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140069,
+        "Level": 69,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140070,
+        "Level": 70,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140071,
+        "Level": 71,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140072,
+        "Level": 72,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140073,
+        "Level": 73,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140074,
+        "Level": 74,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140075,
+        "Level": 75,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140076,
+        "Level": 76,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140077,
+        "Level": 77,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140078,
+        "Level": 78,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140079,
+        "Level": 79,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140080,
+        "Level": 80,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140081,
+        "Level": 81,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140082,
+        "Level": 82,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140083,
+        "Level": 83,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140084,
+        "Level": 84,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140085,
+        "Level": 85,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140086,
+        "Level": 86,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140087,
+        "Level": 87,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140088,
+        "Level": 88,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140089,
+        "Level": 89,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140090,
+        "Level": 90,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140091,
+        "Level": 91,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140092,
+        "Level": 92,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140093,
+        "Level": 93,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140094,
+        "Level": 94,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140095,
+        "Level": 95,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140096,
+        "Level": 96,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140097,
+        "Level": 97,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140098,
+        "Level": 98,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140099,
+        "Level": 99,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 140100,
+        "Level": 100,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 401
+    },
+    {
+        "Id": 150001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150003,
+        "Level": 3,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150004,
+        "Level": 4,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150005,
+        "Level": 5,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150006,
+        "Level": 6,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150007,
+        "Level": 7,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150008,
+        "Level": 8,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150009,
+        "Level": 9,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150010,
+        "Level": 10,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150011,
+        "Level": 11,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150012,
+        "Level": 12,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150013,
+        "Level": 13,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150014,
+        "Level": 14,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150015,
+        "Level": 15,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150016,
+        "Level": 16,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150017,
+        "Level": 17,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150018,
+        "Level": 18,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150019,
+        "Level": 19,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150020,
+        "Level": 20,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150021,
+        "Level": 21,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150022,
+        "Level": 22,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150023,
+        "Level": 23,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150024,
+        "Level": 24,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150025,
+        "Level": 25,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150026,
+        "Level": 26,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150027,
+        "Level": 27,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150028,
+        "Level": 28,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150029,
+        "Level": 29,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150030,
+        "Level": 30,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150031,
+        "Level": 31,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150032,
+        "Level": 32,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150033,
+        "Level": 33,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150034,
+        "Level": 34,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150035,
+        "Level": 35,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150036,
+        "Level": 36,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150037,
+        "Level": 37,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150038,
+        "Level": 38,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150039,
+        "Level": 39,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150040,
+        "Level": 40,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150041,
+        "Level": 41,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150042,
+        "Level": 42,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150043,
+        "Level": 43,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150044,
+        "Level": 44,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150045,
+        "Level": 45,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150046,
+        "Level": 46,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150047,
+        "Level": 47,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150048,
+        "Level": 48,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150049,
+        "Level": 49,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150050,
+        "Level": 50,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150051,
+        "Level": 51,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150052,
+        "Level": 52,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150053,
+        "Level": 53,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150054,
+        "Level": 54,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150055,
+        "Level": 55,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150056,
+        "Level": 56,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150057,
+        "Level": 57,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150058,
+        "Level": 58,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150059,
+        "Level": 59,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150060,
+        "Level": 60,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150061,
+        "Level": 61,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150062,
+        "Level": 62,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150063,
+        "Level": 63,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150064,
+        "Level": 64,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150065,
+        "Level": 65,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150066,
+        "Level": 66,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150067,
+        "Level": 67,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150068,
+        "Level": 68,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150069,
+        "Level": 69,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150070,
+        "Level": 70,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150071,
+        "Level": 71,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150072,
+        "Level": 72,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150073,
+        "Level": 73,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150074,
+        "Level": 74,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150075,
+        "Level": 75,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150076,
+        "Level": 76,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150077,
+        "Level": 77,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150078,
+        "Level": 78,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150079,
+        "Level": 79,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150080,
+        "Level": 80,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150081,
+        "Level": 81,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150082,
+        "Level": 82,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150083,
+        "Level": 83,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150084,
+        "Level": 84,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150085,
+        "Level": 85,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150086,
+        "Level": 86,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150087,
+        "Level": 87,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150088,
+        "Level": 88,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150089,
+        "Level": 89,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150090,
+        "Level": 90,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150091,
+        "Level": 91,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150092,
+        "Level": 92,
+        "NpcLevel": 1.47,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150093,
+        "Level": 93,
+        "NpcLevel": 1.47,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150094,
+        "Level": 94,
+        "NpcLevel": 1.48,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150095,
+        "Level": 95,
+        "NpcLevel": 1.48,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150096,
+        "Level": 96,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150097,
+        "Level": 97,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150098,
+        "Level": 98,
+        "NpcLevel": 1.5,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150099,
+        "Level": 99,
+        "NpcLevel": 1.5,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 150100,
+        "Level": 100,
+        "NpcLevel": 1.51,
+        "QuestLevelCorrectionGroupId": 501
+    },
+    {
+        "Id": 160001,
+        "Level": 1,
+        "NpcLevel": 1,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160002,
+        "Level": 2,
+        "NpcLevel": 1.01,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160003,
+        "Level": 3,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160004,
+        "Level": 4,
+        "NpcLevel": 1.02,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160005,
+        "Level": 5,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160006,
+        "Level": 6,
+        "NpcLevel": 1.03,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160007,
+        "Level": 7,
+        "NpcLevel": 1.04,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160008,
+        "Level": 8,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160009,
+        "Level": 9,
+        "NpcLevel": 1.05,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160010,
+        "Level": 10,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160011,
+        "Level": 11,
+        "NpcLevel": 1.06,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160012,
+        "Level": 12,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160013,
+        "Level": 13,
+        "NpcLevel": 1.07,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160014,
+        "Level": 14,
+        "NpcLevel": 1.08,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160015,
+        "Level": 15,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160016,
+        "Level": 16,
+        "NpcLevel": 1.09,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160017,
+        "Level": 17,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160018,
+        "Level": 18,
+        "NpcLevel": 1.1,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160019,
+        "Level": 19,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160020,
+        "Level": 20,
+        "NpcLevel": 1.11,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160021,
+        "Level": 21,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160022,
+        "Level": 22,
+        "NpcLevel": 1.12,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160023,
+        "Level": 23,
+        "NpcLevel": 1.13,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160024,
+        "Level": 24,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160025,
+        "Level": 25,
+        "NpcLevel": 1.14,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160026,
+        "Level": 26,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160027,
+        "Level": 27,
+        "NpcLevel": 1.15,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160028,
+        "Level": 28,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160029,
+        "Level": 29,
+        "NpcLevel": 1.16,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160030,
+        "Level": 30,
+        "NpcLevel": 1.17,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160031,
+        "Level": 31,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160032,
+        "Level": 32,
+        "NpcLevel": 1.18,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160033,
+        "Level": 33,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160034,
+        "Level": 34,
+        "NpcLevel": 1.19,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160035,
+        "Level": 35,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160036,
+        "Level": 36,
+        "NpcLevel": 1.2,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160037,
+        "Level": 37,
+        "NpcLevel": 1.21,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160038,
+        "Level": 38,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160039,
+        "Level": 39,
+        "NpcLevel": 1.22,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160040,
+        "Level": 40,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160041,
+        "Level": 41,
+        "NpcLevel": 1.23,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160042,
+        "Level": 42,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160043,
+        "Level": 43,
+        "NpcLevel": 1.24,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160044,
+        "Level": 44,
+        "NpcLevel": 1.25,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160045,
+        "Level": 45,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160046,
+        "Level": 46,
+        "NpcLevel": 1.26,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160047,
+        "Level": 47,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160048,
+        "Level": 48,
+        "NpcLevel": 1.27,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160049,
+        "Level": 49,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160050,
+        "Level": 50,
+        "NpcLevel": 1.28,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160051,
+        "Level": 51,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160052,
+        "Level": 52,
+        "NpcLevel": 1.29,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160053,
+        "Level": 53,
+        "NpcLevel": 1.3,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160054,
+        "Level": 54,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160055,
+        "Level": 55,
+        "NpcLevel": 1.31,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160056,
+        "Level": 56,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160057,
+        "Level": 57,
+        "NpcLevel": 1.32,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160058,
+        "Level": 58,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160059,
+        "Level": 59,
+        "NpcLevel": 1.33,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160060,
+        "Level": 60,
+        "NpcLevel": 1.34,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160061,
+        "Level": 61,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160062,
+        "Level": 62,
+        "NpcLevel": 1.35,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160063,
+        "Level": 63,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160064,
+        "Level": 64,
+        "NpcLevel": 1.36,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160065,
+        "Level": 65,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160066,
+        "Level": 66,
+        "NpcLevel": 1.37,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160067,
+        "Level": 67,
+        "NpcLevel": 1.38,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160068,
+        "Level": 68,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160069,
+        "Level": 69,
+        "NpcLevel": 1.39,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160070,
+        "Level": 70,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160071,
+        "Level": 71,
+        "NpcLevel": 1.4,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160072,
+        "Level": 72,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160073,
+        "Level": 73,
+        "NpcLevel": 1.41,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160074,
+        "Level": 74,
+        "NpcLevel": 1.42,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160075,
+        "Level": 75,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160076,
+        "Level": 76,
+        "NpcLevel": 1.43,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160077,
+        "Level": 77,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160078,
+        "Level": 78,
+        "NpcLevel": 1.44,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160079,
+        "Level": 79,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160080,
+        "Level": 80,
+        "NpcLevel": 1.45,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160081,
+        "Level": 81,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160082,
+        "Level": 82,
+        "NpcLevel": 1.46,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160083,
+        "Level": 83,
+        "NpcLevel": 1.47,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160084,
+        "Level": 84,
+        "NpcLevel": 1.48,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160085,
+        "Level": 85,
+        "NpcLevel": 1.48,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160086,
+        "Level": 86,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160087,
+        "Level": 87,
+        "NpcLevel": 1.49,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160088,
+        "Level": 88,
+        "NpcLevel": 1.5,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160089,
+        "Level": 89,
+        "NpcLevel": 1.5,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160090,
+        "Level": 90,
+        "NpcLevel": 1.51,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160091,
+        "Level": 91,
+        "NpcLevel": 1.52,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160092,
+        "Level": 92,
+        "NpcLevel": 1.52,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160093,
+        "Level": 93,
+        "NpcLevel": 1.53,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160094,
+        "Level": 94,
+        "NpcLevel": 1.53,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160095,
+        "Level": 95,
+        "NpcLevel": 1.54,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160096,
+        "Level": 96,
+        "NpcLevel": 1.54,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160097,
+        "Level": 97,
+        "NpcLevel": 1.55,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160098,
+        "Level": 98,
+        "NpcLevel": 1.56,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160099,
+        "Level": 99,
+        "NpcLevel": 1.56,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "Id": 160100,
+        "Level": 100,
+        "NpcLevel": 1.57,
+        "QuestLevelCorrectionGroupId": 601
+    }
+]

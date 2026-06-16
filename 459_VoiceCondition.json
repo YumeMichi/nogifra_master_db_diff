@@ -1,0 +1,317 @@
+[
+    {
+        "Id": 1001,
+        "Param1": "6:00:00",
+        "Param2": "11:59:59",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 1
+    },
+    {
+        "Id": 1002,
+        "Param1": "12:00:00",
+        "Param2": "16:59:59",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 1
+    },
+    {
+        "Id": 1003,
+        "Param1": "17:00:00",
+        "Param2": "5:59:59",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 1
+    },
+    {
+        "Id": 2001,
+        "Param1": "1",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2002,
+        "Param1": "2",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2003,
+        "Param1": "3",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2004,
+        "Param1": "4",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2005,
+        "Param1": "5",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2006,
+        "Param1": "6",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2007,
+        "Param1": "7",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2008,
+        "Param1": "8",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2009,
+        "Param1": "9",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2010,
+        "Param1": "10",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2011,
+        "Param1": "11",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2012,
+        "Param1": "12",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2013,
+        "Param1": "13",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2014,
+        "Param1": "14",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2015,
+        "Param1": "15",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2016,
+        "Param1": "16",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2017,
+        "Param1": "17",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2018,
+        "Param1": "18",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2019,
+        "Param1": "19",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2020,
+        "Param1": "20",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2021,
+        "Param1": "21",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2022,
+        "Param1": "22",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2023,
+        "Param1": "23",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2024,
+        "Param1": "24",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2025,
+        "Param1": "25",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2026,
+        "Param1": "26",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2027,
+        "Param1": "27",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2028,
+        "Param1": "28",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2029,
+        "Param1": "29",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 2030,
+        "Param1": "30",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 2
+    },
+    {
+        "Id": 3001,
+        "Param1": "1",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 3
+    },
+    {
+        "Id": 3002,
+        "Param1": "2",
+        "Param2": "",
+        "Param3": "",
+        "Param4": "",
+        "Param5": "",
+        "VoiceConditionType": 3
+    }
+]

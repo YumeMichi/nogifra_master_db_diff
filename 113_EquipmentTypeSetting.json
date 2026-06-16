@@ -1,0 +1,32 @@
+[
+    {
+        "EnhanceMaterialRate": 2,
+        "EquipmentType": 1,
+        "Id": 1
+    },
+    {
+        "EnhanceMaterialRate": 1.25,
+        "EquipmentType": 2,
+        "Id": 2
+    },
+    {
+        "EnhanceMaterialRate": 1,
+        "EquipmentType": 3,
+        "Id": 3
+    },
+    {
+        "EnhanceMaterialRate": 1,
+        "EquipmentType": 4,
+        "Id": 4
+    },
+    {
+        "EnhanceMaterialRate": 1,
+        "EquipmentType": 5,
+        "Id": 5
+    },
+    {
+        "EnhanceMaterialRate": 1,
+        "EquipmentType": 6,
+        "Id": 6
+    }
+]

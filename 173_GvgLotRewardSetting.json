@@ -1,0 +1,182 @@
+[
+    {
+        "Id": 900101,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9001,
+        "Weight": 8500
+    },
+    {
+        "Id": 900102,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9001,
+        "Weight": 500
+    },
+    {
+        "Id": 900103,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9001,
+        "Weight": 1000
+    },
+    {
+        "Id": 900201,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9002,
+        "Weight": 8500
+    },
+    {
+        "Id": 900202,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9002,
+        "Weight": 500
+    },
+    {
+        "Id": 900203,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9002,
+        "Weight": 1000
+    },
+    {
+        "Id": 900301,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9003,
+        "Weight": 8500
+    },
+    {
+        "Id": 900302,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9003,
+        "Weight": 500
+    },
+    {
+        "Id": 900303,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9003,
+        "Weight": 1000
+    },
+    {
+        "Id": 900401,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9004,
+        "Weight": 8400
+    },
+    {
+        "Id": 900402,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9004,
+        "Weight": 1000
+    },
+    {
+        "Id": 900403,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9004,
+        "Weight": 600
+    },
+    {
+        "Id": 901101,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9011,
+        "Weight": 8500
+    },
+    {
+        "Id": 901102,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9011,
+        "Weight": 500
+    },
+    {
+        "Id": 901103,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9011,
+        "Weight": 1000
+    },
+    {
+        "Id": 901201,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9012,
+        "Weight": 8500
+    },
+    {
+        "Id": 901202,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9012,
+        "Weight": 500
+    },
+    {
+        "Id": 901203,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9012,
+        "Weight": 1000
+    },
+    {
+        "Id": 901401,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9014,
+        "Weight": 9200
+    },
+    {
+        "Id": 901402,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9014,
+        "Weight": 500
+    },
+    {
+        "Id": 901403,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9014,
+        "Weight": 300
+    },
+    {
+        "Id": 902101,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9021,
+        "Weight": 8400
+    },
+    {
+        "Id": 902102,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9021,
+        "Weight": 1000
+    },
+    {
+        "Id": 902103,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9021,
+        "Weight": 600
+    },
+    {
+        "Id": 902201,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9022,
+        "Weight": 8500
+    },
+    {
+        "Id": 902202,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9022,
+        "Weight": 1000
+    },
+    {
+        "Id": 902203,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9022,
+        "Weight": 500
+    },
+    {
+        "Id": 902301,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9023,
+        "Weight": 8500
+    },
+    {
+        "Id": 902302,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9023,
+        "Weight": 1000
+    },
+    {
+        "Id": 902303,
+        "IsEmpty": false,
+        "RewardDetailGroupId": 9023,
+        "Weight": 500
+    }
+]

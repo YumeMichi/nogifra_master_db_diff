@@ -1,0 +1,1430 @@
+[
+    {
+        "CharacterId": 101,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_12",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 101,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 101,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 102,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 102,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 102,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 106,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 106,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 106,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 110,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 110,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 110,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_18",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 112,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 112,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 112,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 113,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 113,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 113,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_18",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 114,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_13",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 114,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 114,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 115,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 115,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 115,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 117,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 117,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 117,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 118,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_14",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 118,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 118,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 120,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 120,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 120,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 121,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 121,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 121,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 122,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 122,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 122,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 124,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 124,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 124,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 125,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 125,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 125,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 126,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 126,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_18",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 126,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 127,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 127,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 127,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 128,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 128,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 128,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 129,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 129,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 129,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 130,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 130,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 130,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 131,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 131,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 131,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 132,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 132,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 132,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 133,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 133,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 133,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 134,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 134,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 134,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 135,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 135,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 135,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 136,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 136,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 136,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 137,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 137,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 137,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 138,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 138,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 138,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 139,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 139,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 139,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 140,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 140,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 140,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 141,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 141,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 141,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 142,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 142,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 142,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 143,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 143,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 143,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 144,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 144,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 144,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 145,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 145,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 145,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 146,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 146,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 146,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 147,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 147,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 147,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 148,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 148,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 148,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 149,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 149,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 149,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 150,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 150,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 150,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 151,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 151,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 151,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_18",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 152,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 152,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 152,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 153,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 153,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 153,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 154,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 154,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 154,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 155,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 155,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 155,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 156,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 156,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 156,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 157,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 157,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 157,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 158,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 158,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 158,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 159,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 159,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 159,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 160,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 160,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 160,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 161,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 161,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 161,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 162,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 162,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 162,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 163,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 163,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 163,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 164,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 164,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 164,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 165,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 165,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 165,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 166,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 166,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 166,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_11",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 168,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_15",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 168,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 168,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 169,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_12",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 169,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 169,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 170,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 170,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 170,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 171,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_16",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 171,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 171,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 172,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_17",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 172,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 172,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 173,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 173,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_10",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 173,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_18",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 174,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_07",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 174,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_10",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 174,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_19",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 175,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 175,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 175,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_08",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 501,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 501,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 501,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 502,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_02",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 502,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_05",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 502,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_09",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 503,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 503,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_03",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 503,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 504,
+        "IsDefault": true,
+        "LoopCount": 0,
+        "ResourceName": "Idle_01",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 504,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_04",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CharacterId": 504,
+        "IsDefault": false,
+        "LoopCount": 0,
+        "ResourceName": "Idle_06",
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    }
+]

@@ -1,0 +1,638 @@
+[
+    {
+        "Id": 10001,
+        "RewardGroupId": 3,
+        "SiteId": 1,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10002,
+        "RewardGroupId": 2,
+        "SiteId": 2,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10003,
+        "RewardGroupId": 2,
+        "SiteId": 3,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10004,
+        "RewardGroupId": 2,
+        "SiteId": 4,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10005,
+        "RewardGroupId": 2,
+        "SiteId": 5,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10006,
+        "RewardGroupId": 1,
+        "SiteId": 6,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10007,
+        "RewardGroupId": 1,
+        "SiteId": 7,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10008,
+        "RewardGroupId": 1,
+        "SiteId": 8,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10009,
+        "RewardGroupId": 1,
+        "SiteId": 9,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10010,
+        "RewardGroupId": 1,
+        "SiteId": 10,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10011,
+        "RewardGroupId": 1,
+        "SiteId": 11,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10012,
+        "RewardGroupId": 1,
+        "SiteId": 12,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10013,
+        "RewardGroupId": 1,
+        "SiteId": 13,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10014,
+        "RewardGroupId": 1,
+        "SiteId": 14,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10015,
+        "RewardGroupId": 1,
+        "SiteId": 15,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10016,
+        "RewardGroupId": 1,
+        "SiteId": 16,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10017,
+        "RewardGroupId": 1,
+        "SiteId": 17,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10018,
+        "RewardGroupId": 1,
+        "SiteId": 18,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10019,
+        "RewardGroupId": 1,
+        "SiteId": 19,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10020,
+        "RewardGroupId": 1,
+        "SiteId": 20,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 10021,
+        "RewardGroupId": 1,
+        "SiteId": 21,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 40401,
+        "RewardGroupId": 4,
+        "SiteId": 1,
+        "StartSeasonId": 4
+    },
+    {
+        "Id": 50501,
+        "RewardGroupId": 5,
+        "SiteId": 1,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50502,
+        "RewardGroupId": 6,
+        "SiteId": 2,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50503,
+        "RewardGroupId": 6,
+        "SiteId": 3,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50504,
+        "RewardGroupId": 6,
+        "SiteId": 4,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50505,
+        "RewardGroupId": 6,
+        "SiteId": 5,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50506,
+        "RewardGroupId": 7,
+        "SiteId": 6,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50507,
+        "RewardGroupId": 7,
+        "SiteId": 7,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50508,
+        "RewardGroupId": 7,
+        "SiteId": 8,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50509,
+        "RewardGroupId": 7,
+        "SiteId": 9,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50510,
+        "RewardGroupId": 7,
+        "SiteId": 10,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50511,
+        "RewardGroupId": 7,
+        "SiteId": 11,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50512,
+        "RewardGroupId": 7,
+        "SiteId": 12,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50513,
+        "RewardGroupId": 7,
+        "SiteId": 13,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50514,
+        "RewardGroupId": 7,
+        "SiteId": 14,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50515,
+        "RewardGroupId": 7,
+        "SiteId": 15,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50516,
+        "RewardGroupId": 7,
+        "SiteId": 16,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50517,
+        "RewardGroupId": 7,
+        "SiteId": 17,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50518,
+        "RewardGroupId": 7,
+        "SiteId": 18,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50519,
+        "RewardGroupId": 7,
+        "SiteId": 19,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50520,
+        "RewardGroupId": 7,
+        "SiteId": 20,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 50521,
+        "RewardGroupId": 7,
+        "SiteId": 21,
+        "StartSeasonId": 5
+    },
+    {
+        "Id": 80801,
+        "RewardGroupId": 8,
+        "SiteId": 1,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80802,
+        "RewardGroupId": 9,
+        "SiteId": 2,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80803,
+        "RewardGroupId": 9,
+        "SiteId": 3,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80804,
+        "RewardGroupId": 9,
+        "SiteId": 4,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80805,
+        "RewardGroupId": 9,
+        "SiteId": 5,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80806,
+        "RewardGroupId": 10,
+        "SiteId": 6,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80807,
+        "RewardGroupId": 10,
+        "SiteId": 7,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80808,
+        "RewardGroupId": 10,
+        "SiteId": 8,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80809,
+        "RewardGroupId": 10,
+        "SiteId": 9,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80810,
+        "RewardGroupId": 10,
+        "SiteId": 10,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80811,
+        "RewardGroupId": 10,
+        "SiteId": 11,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80812,
+        "RewardGroupId": 10,
+        "SiteId": 12,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80813,
+        "RewardGroupId": 10,
+        "SiteId": 13,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80814,
+        "RewardGroupId": 10,
+        "SiteId": 14,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80815,
+        "RewardGroupId": 10,
+        "SiteId": 15,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80816,
+        "RewardGroupId": 10,
+        "SiteId": 16,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80817,
+        "RewardGroupId": 10,
+        "SiteId": 17,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80818,
+        "RewardGroupId": 10,
+        "SiteId": 18,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80819,
+        "RewardGroupId": 10,
+        "SiteId": 19,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80820,
+        "RewardGroupId": 10,
+        "SiteId": 20,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 80821,
+        "RewardGroupId": 10,
+        "SiteId": 21,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 90901,
+        "RewardGroupId": 5,
+        "SiteId": 1,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90902,
+        "RewardGroupId": 6,
+        "SiteId": 2,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90903,
+        "RewardGroupId": 6,
+        "SiteId": 3,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90904,
+        "RewardGroupId": 6,
+        "SiteId": 4,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90905,
+        "RewardGroupId": 6,
+        "SiteId": 5,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90906,
+        "RewardGroupId": 7,
+        "SiteId": 6,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90907,
+        "RewardGroupId": 7,
+        "SiteId": 7,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90908,
+        "RewardGroupId": 7,
+        "SiteId": 8,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90909,
+        "RewardGroupId": 7,
+        "SiteId": 9,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90910,
+        "RewardGroupId": 7,
+        "SiteId": 10,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90911,
+        "RewardGroupId": 7,
+        "SiteId": 11,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90912,
+        "RewardGroupId": 7,
+        "SiteId": 12,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90913,
+        "RewardGroupId": 7,
+        "SiteId": 13,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90914,
+        "RewardGroupId": 7,
+        "SiteId": 14,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90915,
+        "RewardGroupId": 7,
+        "SiteId": 15,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90916,
+        "RewardGroupId": 7,
+        "SiteId": 16,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90917,
+        "RewardGroupId": 7,
+        "SiteId": 17,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90918,
+        "RewardGroupId": 7,
+        "SiteId": 18,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90919,
+        "RewardGroupId": 7,
+        "SiteId": 19,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90920,
+        "RewardGroupId": 7,
+        "SiteId": 20,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 90921,
+        "RewardGroupId": 7,
+        "SiteId": 21,
+        "StartSeasonId": 9
+    },
+    {
+        "Id": 151501,
+        "RewardGroupId": 11,
+        "SiteId": 1,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151502,
+        "RewardGroupId": 12,
+        "SiteId": 2,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151503,
+        "RewardGroupId": 12,
+        "SiteId": 3,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151504,
+        "RewardGroupId": 12,
+        "SiteId": 4,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151505,
+        "RewardGroupId": 12,
+        "SiteId": 5,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151506,
+        "RewardGroupId": 13,
+        "SiteId": 6,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151507,
+        "RewardGroupId": 13,
+        "SiteId": 7,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151508,
+        "RewardGroupId": 13,
+        "SiteId": 8,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151509,
+        "RewardGroupId": 13,
+        "SiteId": 9,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151510,
+        "RewardGroupId": 13,
+        "SiteId": 10,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151511,
+        "RewardGroupId": 13,
+        "SiteId": 11,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151512,
+        "RewardGroupId": 13,
+        "SiteId": 12,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151513,
+        "RewardGroupId": 13,
+        "SiteId": 13,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151514,
+        "RewardGroupId": 13,
+        "SiteId": 14,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151515,
+        "RewardGroupId": 13,
+        "SiteId": 15,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151516,
+        "RewardGroupId": 13,
+        "SiteId": 16,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151517,
+        "RewardGroupId": 13,
+        "SiteId": 17,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151518,
+        "RewardGroupId": 13,
+        "SiteId": 18,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151519,
+        "RewardGroupId": 13,
+        "SiteId": 19,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151520,
+        "RewardGroupId": 13,
+        "SiteId": 20,
+        "StartSeasonId": 15
+    },
+    {
+        "Id": 151521,
+        "RewardGroupId": 13,
+        "SiteId": 21,
+        "StartSeasonId": 15
+    }
+]

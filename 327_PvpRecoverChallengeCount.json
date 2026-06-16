@@ -1,0 +1,62 @@
+[
+    {
+        "FromBuyCount": 1,
+        "Id": 1,
+        "NeededCoin": 20,
+        "ToBuyCount": 2
+    },
+    {
+        "FromBuyCount": 3,
+        "Id": 2,
+        "NeededCoin": 40,
+        "ToBuyCount": 4
+    },
+    {
+        "FromBuyCount": 5,
+        "Id": 3,
+        "NeededCoin": 70,
+        "ToBuyCount": 6
+    },
+    {
+        "FromBuyCount": 7,
+        "Id": 4,
+        "NeededCoin": 100,
+        "ToBuyCount": 8
+    },
+    {
+        "FromBuyCount": 9,
+        "Id": 5,
+        "NeededCoin": 150,
+        "ToBuyCount": 10
+    },
+    {
+        "FromBuyCount": 11,
+        "Id": 6,
+        "NeededCoin": 200,
+        "ToBuyCount": 12
+    },
+    {
+        "FromBuyCount": 13,
+        "Id": 7,
+        "NeededCoin": 250,
+        "ToBuyCount": 14
+    },
+    {
+        "FromBuyCount": 15,
+        "Id": 8,
+        "NeededCoin": 300,
+        "ToBuyCount": 15
+    },
+    {
+        "FromBuyCount": 16,
+        "Id": 9,
+        "NeededCoin": 400,
+        "ToBuyCount": 16
+    },
+    {
+        "FromBuyCount": 17,
+        "Id": 10,
+        "NeededCoin": 500,
+        "ToBuyCount": 0
+    }
+]

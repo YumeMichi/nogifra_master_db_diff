@@ -1,0 +1,22 @@
+[
+    {
+        "EffectValue": 100,
+        "Id": 1,
+        "LessonConsumableItemId": 111100001
+    },
+    {
+        "EffectValue": 200,
+        "Id": 2,
+        "LessonConsumableItemId": 111100002
+    },
+    {
+        "EffectValue": 400,
+        "Id": 3,
+        "LessonConsumableItemId": 111100003
+    },
+    {
+        "EffectValue": 800,
+        "Id": 4,
+        "LessonConsumableItemId": 111100004
+    }
+]

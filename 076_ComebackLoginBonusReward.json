@@ -1,0 +1,498 @@
+[
+    {
+        "ComebackLoginBonusId": 2500001,
+        "Day": 1,
+        "Id": 250000101,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500001,
+        "Day": 2,
+        "Id": 250000102,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500001,
+        "Day": 3,
+        "Id": 250000103,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500001,
+        "Day": 4,
+        "Id": 250000104,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500001,
+        "Day": 5,
+        "Id": 250000105,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500002,
+        "Day": 1,
+        "Id": 250000201,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500002,
+        "Day": 2,
+        "Id": 250000202,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500002,
+        "Day": 3,
+        "Id": 250000203,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500002,
+        "Day": 4,
+        "Id": 250000204,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500002,
+        "Day": 5,
+        "Id": 250000205,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 1,
+        "Id": 250000301,
+        "ItemId": 111040450,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 2,
+        "Id": 250000302,
+        "ItemId": 111081006,
+        "ItemQuantity": 40,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 3,
+        "Id": 250000303,
+        "ItemId": 111020002,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 4,
+        "Id": 250000304,
+        "ItemId": 111100009,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 5,
+        "Id": 250000305,
+        "ItemId": 111100007,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 6,
+        "Id": 250000306,
+        "ItemId": 111041120,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500003,
+        "Day": 7,
+        "Id": 250000307,
+        "ItemId": 111100009,
+        "ItemQuantity": 400,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 1,
+        "Id": 250000401,
+        "ItemId": 111081003,
+        "ItemQuantity": 40,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 2,
+        "Id": 250000402,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 3,
+        "Id": 250000403,
+        "ItemId": 111020001,
+        "ItemQuantity": 2000,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 4,
+        "Id": 250000404,
+        "ItemId": 111100009,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 5,
+        "Id": 250000405,
+        "ItemId": 111100007,
+        "ItemQuantity": 15,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 6,
+        "Id": 250000406,
+        "ItemId": 111020002,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500004,
+        "Day": 7,
+        "Id": 250000407,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 1,
+        "Id": 250000501,
+        "ItemId": 111081003,
+        "ItemQuantity": 40,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 2,
+        "Id": 250000502,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 3,
+        "Id": 250000503,
+        "ItemId": 111020001,
+        "ItemQuantity": 2000,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 4,
+        "Id": 250000504,
+        "ItemId": 111100009,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 5,
+        "Id": 250000505,
+        "ItemId": 111100007,
+        "ItemQuantity": 15,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 6,
+        "Id": 250000506,
+        "ItemId": 111020002,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500005,
+        "Day": 7,
+        "Id": 250000507,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 1,
+        "Id": 250000601,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 2,
+        "Id": 250000602,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 3,
+        "Id": 250000603,
+        "ItemId": 111020001,
+        "ItemQuantity": 2000,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 4,
+        "Id": 250000604,
+        "ItemId": 111100009,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 5,
+        "Id": 250000605,
+        "ItemId": 111100007,
+        "ItemQuantity": 15,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 6,
+        "Id": 250000606,
+        "ItemId": 111020002,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500006,
+        "Day": 7,
+        "Id": 250000607,
+        "ItemId": 111081024,
+        "ItemQuantity": 5,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 1,
+        "Id": 250000701,
+        "ItemId": 111081024,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 2,
+        "Id": 250000702,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 3,
+        "Id": 250000703,
+        "ItemId": 111020001,
+        "ItemQuantity": 5000,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 4,
+        "Id": 250000704,
+        "ItemId": 111100007,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 5,
+        "Id": 250000705,
+        "ItemId": 111020002,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 6,
+        "Id": 250000706,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 7,
+        "Id": 250000707,
+        "ItemId": 111100010,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500007,
+        "Day": 7,
+        "Id": 250000708,
+        "ItemId": 111081049,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 1,
+        "Id": 250000801,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 2,
+        "Id": 250000802,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 3,
+        "Id": 250000803,
+        "ItemId": 111100007,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 4,
+        "Id": 250000804,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 5,
+        "Id": 250000805,
+        "ItemId": 111081024,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 6,
+        "Id": 250000806,
+        "ItemId": 111100010,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 7,
+        "Id": 250000807,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500008,
+        "Day": 7,
+        "Id": 250000808,
+        "ItemId": 111081049,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 1,
+        "Id": 250000901,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 2,
+        "Id": 250000902,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 3,
+        "Id": 250000903,
+        "ItemId": 111100007,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 4,
+        "Id": 250000904,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 5,
+        "Id": 250000905,
+        "ItemId": 111081024,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 6,
+        "Id": 250000906,
+        "ItemId": 111100010,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 7,
+        "Id": 250000907,
+        "ItemId": 111041070,
+        "ItemQuantity": 12,
+        "ItemType": 111
+    },
+    {
+        "ComebackLoginBonusId": 2500009,
+        "Day": 7,
+        "Id": 250000908,
+        "ItemId": 111081049,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    }
+]

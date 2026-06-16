@@ -1,0 +1,464 @@
+[
+    {
+        "Id": 100,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 0
+    },
+    {
+        "Id": 101,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 1
+    },
+    {
+        "Id": 102,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 2
+    },
+    {
+        "Id": 103,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 3
+    },
+    {
+        "Id": 104,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 4
+    },
+    {
+        "Id": 105,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 5
+    },
+    {
+        "Id": 106,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 6
+    },
+    {
+        "Id": 107,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 7
+    },
+    {
+        "Id": 108,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 8
+    },
+    {
+        "Id": 109,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 9
+    },
+    {
+        "Id": 110,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 10
+    },
+    {
+        "Id": 111,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 11
+    },
+    {
+        "Id": 112,
+        "Value": 2,
+        "VipBonusType": 1,
+        "VipLevel": 12
+    },
+    {
+        "Id": 200,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 0
+    },
+    {
+        "Id": 201,
+        "Value": 2,
+        "VipBonusType": 2,
+        "VipLevel": 1
+    },
+    {
+        "Id": 202,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 2
+    },
+    {
+        "Id": 203,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 3
+    },
+    {
+        "Id": 204,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 4
+    },
+    {
+        "Id": 205,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 5
+    },
+    {
+        "Id": 206,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 6
+    },
+    {
+        "Id": 207,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 7
+    },
+    {
+        "Id": 208,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 8
+    },
+    {
+        "Id": 209,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 9
+    },
+    {
+        "Id": 210,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 10
+    },
+    {
+        "Id": 211,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 11
+    },
+    {
+        "Id": 212,
+        "Value": 1,
+        "VipBonusType": 2,
+        "VipLevel": 12
+    },
+    {
+        "Id": 300,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 0
+    },
+    {
+        "Id": 301,
+        "Value": 2,
+        "VipBonusType": 3,
+        "VipLevel": 1
+    },
+    {
+        "Id": 302,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 2
+    },
+    {
+        "Id": 303,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 3
+    },
+    {
+        "Id": 304,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 4
+    },
+    {
+        "Id": 305,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 5
+    },
+    {
+        "Id": 306,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 6
+    },
+    {
+        "Id": 307,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 7
+    },
+    {
+        "Id": 308,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 8
+    },
+    {
+        "Id": 309,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 9
+    },
+    {
+        "Id": 310,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 10
+    },
+    {
+        "Id": 311,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 11
+    },
+    {
+        "Id": 312,
+        "Value": 1,
+        "VipBonusType": 3,
+        "VipLevel": 12
+    },
+    {
+        "Id": 403,
+        "Value": 5,
+        "VipBonusType": 4,
+        "VipLevel": 3
+    },
+    {
+        "Id": 404,
+        "Value": 3,
+        "VipBonusType": 4,
+        "VipLevel": 4
+    },
+    {
+        "Id": 405,
+        "Value": 4,
+        "VipBonusType": 4,
+        "VipLevel": 5
+    },
+    {
+        "Id": 406,
+        "Value": 4,
+        "VipBonusType": 4,
+        "VipLevel": 6
+    },
+    {
+        "Id": 407,
+        "Value": 4,
+        "VipBonusType": 4,
+        "VipLevel": 7
+    },
+    {
+        "Id": 408,
+        "Value": 5,
+        "VipBonusType": 4,
+        "VipLevel": 8
+    },
+    {
+        "Id": 409,
+        "Value": 5,
+        "VipBonusType": 4,
+        "VipLevel": 9
+    },
+    {
+        "Id": 410,
+        "Value": 10,
+        "VipBonusType": 4,
+        "VipLevel": 10
+    },
+    {
+        "Id": 411,
+        "Value": 10,
+        "VipBonusType": 4,
+        "VipLevel": 11
+    },
+    {
+        "Id": 412,
+        "Value": 10,
+        "VipBonusType": 4,
+        "VipLevel": 12
+    },
+    {
+        "Id": 503,
+        "Value": 5,
+        "VipBonusType": 5,
+        "VipLevel": 3
+    },
+    {
+        "Id": 504,
+        "Value": 3,
+        "VipBonusType": 5,
+        "VipLevel": 4
+    },
+    {
+        "Id": 505,
+        "Value": 4,
+        "VipBonusType": 5,
+        "VipLevel": 5
+    },
+    {
+        "Id": 506,
+        "Value": 4,
+        "VipBonusType": 5,
+        "VipLevel": 6
+    },
+    {
+        "Id": 507,
+        "Value": 4,
+        "VipBonusType": 5,
+        "VipLevel": 7
+    },
+    {
+        "Id": 508,
+        "Value": 5,
+        "VipBonusType": 5,
+        "VipLevel": 8
+    },
+    {
+        "Id": 509,
+        "Value": 5,
+        "VipBonusType": 5,
+        "VipLevel": 9
+    },
+    {
+        "Id": 510,
+        "Value": 10,
+        "VipBonusType": 5,
+        "VipLevel": 10
+    },
+    {
+        "Id": 511,
+        "Value": 10,
+        "VipBonusType": 5,
+        "VipLevel": 11
+    },
+    {
+        "Id": 512,
+        "Value": 10,
+        "VipBonusType": 5,
+        "VipLevel": 12
+    },
+    {
+        "Id": 1103,
+        "Value": 0,
+        "VipBonusType": 11,
+        "VipLevel": 0
+    },
+    {
+        "Id": 1207,
+        "Value": 0,
+        "VipBonusType": 12,
+        "VipLevel": 7
+    },
+    {
+        "Id": 1305,
+        "Value": 0,
+        "VipBonusType": 13,
+        "VipLevel": 5
+    },
+    {
+        "Id": 1400,
+        "Value": 0,
+        "VipBonusType": 14,
+        "VipLevel": 6
+    },
+    {
+        "Id": 1508,
+        "Value": 0,
+        "VipBonusType": 15,
+        "VipLevel": 10
+    },
+    {
+        "Id": 1602,
+        "Value": 1,
+        "VipBonusType": 16,
+        "VipLevel": 2
+    },
+    {
+        "Id": 1604,
+        "Value": 1,
+        "VipBonusType": 16,
+        "VipLevel": 4
+    },
+    {
+        "Id": 1606,
+        "Value": 1,
+        "VipBonusType": 16,
+        "VipLevel": 6
+    },
+    {
+        "Id": 1700,
+        "Value": 2,
+        "VipBonusType": 17,
+        "VipLevel": 0
+    },
+    {
+        "Id": 1704,
+        "Value": 1,
+        "VipBonusType": 17,
+        "VipLevel": 4
+    },
+    {
+        "Id": 1707,
+        "Value": 1,
+        "VipBonusType": 17,
+        "VipLevel": 7
+    },
+    {
+        "Id": 1710,
+        "Value": 1,
+        "VipBonusType": 17,
+        "VipLevel": 10
+    },
+    {
+        "Id": 1800,
+        "Value": 3,
+        "VipBonusType": 18,
+        "VipLevel": 0
+    },
+    {
+        "Id": 1802,
+        "Value": 1,
+        "VipBonusType": 18,
+        "VipLevel": 2
+    },
+    {
+        "Id": 1804,
+        "Value": 1,
+        "VipBonusType": 18,
+        "VipLevel": 4
+    },
+    {
+        "Id": 1805,
+        "Value": 1,
+        "VipBonusType": 18,
+        "VipLevel": 5
+    },
+    {
+        "Id": 1900,
+        "Value": 0,
+        "VipBonusType": 19,
+        "VipLevel": 1
+    },
+    {
+        "Id": 2000,
+        "Value": 0,
+        "VipBonusType": 20,
+        "VipLevel": 7
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "Id": 101,
+        "IntervalNumber": 5,
+        "ItemId": 0,
+        "ItemQuantity": 50,
+        "ItemType": 104,
+        "TargetEndStageOrder": 100,
+        "TargetStartStageOrder": 50
+    },
+    {
+        "Id": 102,
+        "IntervalNumber": 10,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "TargetEndStageOrder": 100,
+        "TargetStartStageOrder": 50
+    },
+    {
+        "Id": 103,
+        "IntervalNumber": 20,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 104,
+        "TargetEndStageOrder": 100,
+        "TargetStartStageOrder": 50
+    },
+    {
+        "Id": 201,
+        "IntervalNumber": 5,
+        "ItemId": 111040002,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "TargetEndStageOrder": 180,
+        "TargetStartStageOrder": 101
+    },
+    {
+        "Id": 202,
+        "IntervalNumber": 10,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 104,
+        "TargetEndStageOrder": 180,
+        "TargetStartStageOrder": 101
+    },
+    {
+        "Id": 203,
+        "IntervalNumber": 20,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 104,
+        "TargetEndStageOrder": 180,
+        "TargetStartStageOrder": 101
+    },
+    {
+        "Id": 301,
+        "IntervalNumber": 5,
+        "ItemId": 111040003,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "TargetEndStageOrder": 0,
+        "TargetStartStageOrder": 181
+    },
+    {
+        "Id": 302,
+        "IntervalNumber": 10,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 104,
+        "TargetEndStageOrder": 0,
+        "TargetStartStageOrder": 181
+    },
+    {
+        "Id": 303,
+        "IntervalNumber": 20,
+        "ItemId": 0,
+        "ItemQuantity": 500,
+        "ItemType": 104,
+        "TargetEndStageOrder": 0,
+        "TargetStartStageOrder": 181
+    }
+]

@@ -1,0 +1,5322 @@
+[
+    {
+        "BattleScore": 1,
+        "Id": 2102611,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 210261
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2102612,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 210261
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2102613,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 210261
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2102614,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 210261
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2102621,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 210262
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2102622,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 210262
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2102623,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 210262
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2102624,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 210262
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2102631,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 210263
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2102632,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 210263
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2102633,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 210263
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2102634,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 210263
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2102641,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 210264
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2102642,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 210264
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2102643,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 210264
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2102644,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 210264
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2102651,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 210265
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2102652,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 210265
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2102653,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 210265
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2102654,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 210265
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2202611,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 220261
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2202612,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 220261
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2202613,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 220261
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2202614,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 220261
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2202621,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 220262
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2202622,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 220262
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2202623,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 220262
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2202624,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 220262
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2202631,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 220263
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2202632,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 220263
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2202633,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 220263
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2202634,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 220263
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2202641,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 220264
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2202642,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 220264
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2202643,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 220264
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2202644,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 220264
+    },
+    {
+        "BattleScore": 1,
+        "Id": 2202651,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 220265
+    },
+    {
+        "BattleScore": 2,
+        "Id": 2202652,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 220265
+    },
+    {
+        "BattleScore": 3,
+        "Id": 2202653,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 220265
+    },
+    {
+        "BattleScore": 4,
+        "Id": 2202654,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 220265
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000211,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100021
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000212,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100021
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000213,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100021
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000214,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100021
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000221,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100022
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000222,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100022
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000223,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100022
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000224,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100022
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000231,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100023
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000232,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100023
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000233,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100023
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000234,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100023
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000241,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100024
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000242,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100024
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000243,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100024
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000244,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100024
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000251,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100025
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000252,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100025
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000253,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100025
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000254,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100025
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000261,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100026
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000262,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100026
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000263,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100026
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000264,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100026
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000311,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100031
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000312,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100031
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000313,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100031
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000314,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100031
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000321,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100032
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000322,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100032
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000323,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100032
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000324,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100032
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000331,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100033
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000332,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100033
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000333,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100033
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000334,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100033
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000341,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100034
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000342,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100034
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000343,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100034
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000344,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100034
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000351,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100035
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000352,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100035
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000353,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100035
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000354,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100035
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000361,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100036
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000362,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100036
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000363,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100036
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000364,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100036
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000411,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100041
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000412,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100041
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000413,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100041
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000414,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100041
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000421,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100042
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000422,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100042
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000423,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100042
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000424,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100042
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000431,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100043
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000432,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100043
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000433,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100043
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000434,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100043
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000441,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100044
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000442,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100044
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000443,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100044
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000444,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100044
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000451,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100045
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000452,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100045
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000453,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100045
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000454,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100045
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000461,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100046
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000462,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100046
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000463,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100046
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000464,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100046
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000511,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100051
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000512,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100051
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000513,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100051
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000514,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100051
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000521,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100052
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000522,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100052
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000523,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100052
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000524,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100052
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000531,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100053
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000532,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100053
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000533,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100053
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000534,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100053
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000541,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100054
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000542,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100054
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000543,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100054
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000544,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100054
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000551,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100055
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000552,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100055
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000553,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100055
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000554,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100055
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000561,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100056
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000562,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100056
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000563,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100056
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000564,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100056
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000611,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100061
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000612,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100061
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000613,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100061
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000614,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100061
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000621,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100062
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000622,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100062
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000623,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100062
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000624,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100062
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000631,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100063
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000632,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100063
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000633,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100063
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000634,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100063
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000641,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100064
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000642,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100064
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000643,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100064
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000644,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100064
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000651,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100065
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000652,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100065
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000653,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100065
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000654,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100065
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000661,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100066
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000662,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100066
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000663,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100066
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000664,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100066
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000711,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100071
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000712,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100071
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000713,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100071
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000714,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100071
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000721,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100072
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000722,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100072
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000723,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100072
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000724,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100072
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000731,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100073
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000732,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100073
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000733,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100073
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000734,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100073
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000741,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100074
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000742,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100074
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000743,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100074
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000744,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100074
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000751,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100075
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000752,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100075
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000753,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100075
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000754,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100075
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000761,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100076
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000762,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100076
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000763,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100076
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000764,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100076
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000811,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100081
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000812,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100081
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000813,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100081
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000814,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100081
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000821,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100082
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000822,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100082
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000823,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100082
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000824,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100082
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000831,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100083
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000832,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100083
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000833,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100083
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000834,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100083
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000841,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100084
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000842,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100084
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000843,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100084
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000844,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100084
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000851,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100085
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000852,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100085
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000853,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100085
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000854,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100085
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000861,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100086
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000862,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100086
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000863,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100086
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000864,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100086
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000911,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100091
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000912,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100091
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000913,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100091
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000914,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100091
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000921,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100092
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000922,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100092
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000923,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100092
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000924,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100092
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000931,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100093
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000932,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100093
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000933,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100093
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000934,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100093
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000941,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100094
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000942,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100094
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000943,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100094
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000944,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100094
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000951,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100095
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000952,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100095
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000953,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100095
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000954,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100095
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51000961,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100096
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51000962,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100096
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51000963,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100096
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51000964,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100096
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100101
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100101
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100101
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100101
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100102
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100102
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100102
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100102
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100103
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100103
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100103
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100103
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100104
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100104
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100104
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100104
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100105
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100105
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100105
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100105
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100106
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100106
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100106
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100106
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001111,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100111
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001112,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100111
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001113,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100111
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001114,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100111
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001121,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100112
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001122,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100112
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001123,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100112
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001124,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100112
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001131,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100113
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001132,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100113
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001133,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100113
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001134,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100113
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001141,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100114
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001142,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100114
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001143,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100114
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001144,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100114
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001151,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100115
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001152,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100115
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001153,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100115
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001154,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100115
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001161,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100116
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001162,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100116
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001163,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100116
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001164,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100116
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001211,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100121
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001212,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100121
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001213,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100121
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001214,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100121
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001221,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100122
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001222,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100122
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001223,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100122
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001224,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100122
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001231,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100123
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001232,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100123
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001233,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100123
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001234,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100123
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001241,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100124
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001242,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100124
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001243,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100124
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001244,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100124
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001251,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100125
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001252,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100125
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001253,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100125
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001254,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100125
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001261,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100126
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001262,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100126
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001263,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100126
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001264,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100126
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001311,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100131
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001312,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100131
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001313,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100131
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001314,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100131
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001321,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100132
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001322,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100132
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001323,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100132
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001324,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100132
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001331,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100133
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001332,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100133
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001333,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100133
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001334,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100133
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001341,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100134
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001342,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100134
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001343,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100134
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001344,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100134
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001351,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100135
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001352,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100135
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001353,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100135
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001354,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100135
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001361,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100136
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001362,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100136
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001363,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100136
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001364,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100136
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001411,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100141
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001412,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100141
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001413,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100141
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001414,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100141
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001421,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100142
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001422,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100142
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001423,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100142
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001424,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100142
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001431,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100143
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001432,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100143
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001433,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100143
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001434,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100143
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001441,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100144
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001442,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100144
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001443,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100144
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001444,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100144
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001451,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100145
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001452,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100145
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001453,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100145
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001454,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100145
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001461,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100146
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001462,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100146
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001463,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100146
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001464,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100146
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001511,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100151
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001512,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100151
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001513,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100151
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001514,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100151
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001521,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100152
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001522,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100152
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001523,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100152
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001524,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100152
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001531,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100153
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001532,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100153
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001533,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100153
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001534,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100153
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001541,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100154
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001542,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100154
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001543,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100154
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001544,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100154
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001551,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100155
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001552,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100155
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001553,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100155
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001554,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100155
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001561,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100156
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001562,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100156
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001563,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100156
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001564,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100156
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001611,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100161
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001612,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100161
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001613,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100161
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001614,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100161
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001621,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100162
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001622,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100162
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001623,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100162
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001624,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100162
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001631,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100163
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001632,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100163
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001633,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100163
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001634,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100163
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001641,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100164
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001642,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100164
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001643,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100164
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001644,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100164
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001651,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100165
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001652,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100165
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001653,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100165
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001654,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100165
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001661,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100166
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001662,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100166
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001663,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100166
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001664,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100166
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001711,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100171
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001712,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100171
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001713,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100171
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001714,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100171
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001721,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100172
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001722,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100172
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001723,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100172
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001724,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100172
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001731,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100173
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001732,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100173
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001733,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100173
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001734,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100173
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001741,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100174
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001742,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100174
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001743,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100174
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001744,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100174
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001751,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100175
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001752,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100175
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001753,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100175
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001754,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100175
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001761,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100176
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001762,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100176
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001763,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100176
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001764,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100176
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001811,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100181
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001812,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100181
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001813,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100181
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001814,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100181
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001821,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100182
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001822,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100182
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001823,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100182
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001824,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100182
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001831,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100183
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001832,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100183
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001833,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100183
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001834,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100183
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001841,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100184
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001842,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100184
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001843,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100184
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001844,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100184
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001851,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100185
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001852,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100185
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001853,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100185
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001854,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100185
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001861,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100186
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001862,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100186
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001863,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100186
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001864,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100186
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001911,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100191
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001912,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100191
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001913,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100191
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001914,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100191
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001921,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100192
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001922,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100192
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001923,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100192
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001924,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100192
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001931,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100193
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001932,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100193
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001933,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100193
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001934,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100193
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001941,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100194
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001942,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100194
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001943,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100194
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001944,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100194
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001951,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100195
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001952,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100195
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001953,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100195
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001954,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100195
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51001961,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100196
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51001962,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100196
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51001963,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100196
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51001964,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100196
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100201
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100201
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100201
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100201
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100202
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100202
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100202
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100202
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100203
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100203
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100203
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100203
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100204
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100204
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100204
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100204
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100205
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100205
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100205
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100205
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51002061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5100206
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51002062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5100206
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51002063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5100206
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51002064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5100206
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102101
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102101
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102101
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102101
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102102
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102102
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102102
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102102
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102103
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102103
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102103
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102103
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102104
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102104
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102104
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102104
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102105
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102105
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102105
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102105
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51021061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102106
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51021062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102106
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51021063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102106
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51021064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102106
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102301
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102301
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102301
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102301
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102302
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102302
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102302
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102302
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102303
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102303
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102303
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102303
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102304
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102304
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102304
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102304
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102305
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102305
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102305
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102305
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51023061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102306
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51023062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102306
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51023063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102306
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51023064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102306
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102401
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102401
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102401
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102401
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102402
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102402
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102402
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102402
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102403
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102403
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102403
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102403
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102404
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102404
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102404
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102404
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102405
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102405
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102405
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102405
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51024061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102406
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51024062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102406
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51024063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102406
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51024064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102406
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102501
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102501
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102501
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102501
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102502
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102502
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102502
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102502
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102503
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102503
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102503
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102503
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102504
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102504
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102504
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102504
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102505
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102505
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102505
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102505
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51025061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102506
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51025062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102506
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51025063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102506
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51025064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102506
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102601
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102601
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102601
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102601
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102602
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102602
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102602
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102602
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102603
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102603
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102603
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102603
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102604
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102604
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102604
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102604
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102605
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102605
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102605
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102605
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51026061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102606
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51026062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102606
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51026063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102606
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51026064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102606
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102701
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102701
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102701
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102701
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102702
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102702
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102702
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102702
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102703
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102703
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102703
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102703
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102704
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102704
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102704
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102704
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102705
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102705
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102705
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102705
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51027061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102706
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51027062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102706
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51027063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102706
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51027064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102706
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102801
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102801
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102801
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102801
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102802
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102802
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102802
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102802
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102803
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102803
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102803
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102803
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102804
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102804
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102804
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102804
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102805
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102805
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102805
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102805
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51028061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102806
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51028062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102806
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51028063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102806
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51028064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102806
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102901
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102901
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102901
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102901
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102902
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102902
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102902
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102902
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102903
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102903
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102903
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102903
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102904
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102904
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102904
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102904
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102905
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102905
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102905
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102905
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51029061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5102906
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51029062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5102906
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51029063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5102906
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51029064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5102906
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103001
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103001
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103001
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103001
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103002
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103002
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103002
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103002
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103003
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103003
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103003
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103003
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103004
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103004
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103004
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103004
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103005
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103005
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103005
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103005
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51030061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103006
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51030062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103006
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51030063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103006
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51030064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103006
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103101
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103101
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103101
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103101
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103102
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103102
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103102
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103102
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103103
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103103
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103103
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103103
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103104
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103104
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103104
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103104
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103105
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103105
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103105
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103105
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51031061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103106
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51031062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103106
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51031063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103106
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51031064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103106
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032011,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103201
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032012,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103201
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032013,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103201
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032014,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103201
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032021,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103202
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032022,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103202
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032023,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103202
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032024,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103202
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032031,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103203
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032032,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103203
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032033,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103203
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032034,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103203
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032041,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103204
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032042,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103204
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032043,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103204
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032044,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103204
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032051,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103205
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032052,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103205
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032053,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103205
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032054,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103205
+    },
+    {
+        "BattleScore": 1,
+        "Id": 51032061,
+        "MaxTurn": 2,
+        "MinTurn": 1,
+        "ScoreRewardGroupId": 5103206
+    },
+    {
+        "BattleScore": 2,
+        "Id": 51032062,
+        "MaxTurn": 5,
+        "MinTurn": 3,
+        "ScoreRewardGroupId": 5103206
+    },
+    {
+        "BattleScore": 3,
+        "Id": 51032063,
+        "MaxTurn": 10,
+        "MinTurn": 6,
+        "ScoreRewardGroupId": 5103206
+    },
+    {
+        "BattleScore": 4,
+        "Id": 51032064,
+        "MaxTurn": 40,
+        "MinTurn": 11,
+        "ScoreRewardGroupId": 5103206
+    }
+]

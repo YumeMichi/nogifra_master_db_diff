@@ -1,0 +1,233 @@
+[
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 1,
+        "LocationX": 705,
+        "LocationY": 61,
+        "Name": "神宮",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 3
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 2,
+        "LocationX": 1152,
+        "LocationY": 480,
+        "Name": "千代田",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 2
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 3,
+        "LocationX": 23,
+        "LocationY": -201,
+        "Name": "代々木",
+        "ResourceId": 4,
+        "SiteGroupId": 1,
+        "SiteType": 2
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 4,
+        "LocationX": 450,
+        "LocationY": 690,
+        "Name": "さいたま",
+        "ResourceId": 3,
+        "SiteGroupId": 1,
+        "SiteType": 2
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 5,
+        "LocationX": 1510,
+        "LocationY": -247,
+        "Name": "幕張",
+        "ResourceId": 2,
+        "SiteGroupId": 1,
+        "SiteType": 2
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 6,
+        "LocationX": -100,
+        "LocationY": -780,
+        "Name": "横浜",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 7,
+        "LocationX": 586,
+        "LocationY": -1100,
+        "Name": "三崎",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 8,
+        "LocationX": 1120,
+        "LocationY": -810,
+        "Name": "富津",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 9,
+        "LocationX": -596,
+        "LocationY": 174,
+        "Name": "八王子",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 10,
+        "LocationX": -818,
+        "LocationY": -473,
+        "Name": "箱根",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 11,
+        "LocationX": -362,
+        "LocationY": 725,
+        "Name": "川越",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 12,
+        "LocationX": 142,
+        "LocationY": 1240,
+        "Name": "足利",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 13,
+        "LocationX": 1010,
+        "LocationY": 1050,
+        "Name": "つくば",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 14,
+        "LocationX": 1876,
+        "LocationY": 946,
+        "Name": "水戸",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 15,
+        "LocationX": 2155,
+        "LocationY": 287,
+        "Name": "かすみがうら",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 16,
+        "LocationX": 2250,
+        "LocationY": -278,
+        "Name": "成田",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 17,
+        "LocationX": 2050,
+        "LocationY": -750,
+        "Name": "茂原",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 18,
+        "LocationX": -1285,
+        "LocationY": -1010,
+        "Name": "沼津",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 19,
+        "LocationX": -1583,
+        "LocationY": -334,
+        "Name": "富士",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 20,
+        "LocationX": -1373,
+        "LocationY": 224,
+        "Name": "西多摩",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    },
+    {
+        "BattleStageResourceId": 1,
+        "BattleStatusMovieResourceId": 1,
+        "Id": 21,
+        "LocationX": -972,
+        "LocationY": 889,
+        "Name": "秩父",
+        "ResourceId": 1,
+        "SiteGroupId": 1,
+        "SiteType": 1
+    }
+]

@@ -1,0 +1,3782 @@
+[
+    {
+        "Id": 51000211,
+        "ItemId": 101002,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000211
+    },
+    {
+        "Id": 51000212,
+        "ItemId": 101002,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000212
+    },
+    {
+        "Id": 51000213,
+        "ItemId": 101002,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000213
+    },
+    {
+        "Id": 51000221,
+        "ItemId": 101002,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000221
+    },
+    {
+        "Id": 51000222,
+        "ItemId": 101002,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000222
+    },
+    {
+        "Id": 51000223,
+        "ItemId": 101002,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000223
+    },
+    {
+        "Id": 51000231,
+        "ItemId": 101002,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000231
+    },
+    {
+        "Id": 51000232,
+        "ItemId": 101002,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000232
+    },
+    {
+        "Id": 51000233,
+        "ItemId": 101002,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000233
+    },
+    {
+        "Id": 51000241,
+        "ItemId": 101002,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000241
+    },
+    {
+        "Id": 51000242,
+        "ItemId": 101002,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000242
+    },
+    {
+        "Id": 51000243,
+        "ItemId": 101002,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000243
+    },
+    {
+        "Id": 51000251,
+        "ItemId": 101002,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000251
+    },
+    {
+        "Id": 51000252,
+        "ItemId": 101002,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000252
+    },
+    {
+        "Id": 51000253,
+        "ItemId": 101002,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000253
+    },
+    {
+        "Id": 51000261,
+        "ItemId": 101002,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000261
+    },
+    {
+        "Id": 51000262,
+        "ItemId": 101002,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000262
+    },
+    {
+        "Id": 51000263,
+        "ItemId": 101002,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000263
+    },
+    {
+        "Id": 51000311,
+        "ItemId": 101003,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000311
+    },
+    {
+        "Id": 51000312,
+        "ItemId": 101003,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000312
+    },
+    {
+        "Id": 51000313,
+        "ItemId": 101003,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000313
+    },
+    {
+        "Id": 51000321,
+        "ItemId": 101003,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000321
+    },
+    {
+        "Id": 51000322,
+        "ItemId": 101003,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000322
+    },
+    {
+        "Id": 51000323,
+        "ItemId": 101003,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000323
+    },
+    {
+        "Id": 51000331,
+        "ItemId": 101003,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000331
+    },
+    {
+        "Id": 51000332,
+        "ItemId": 101003,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000332
+    },
+    {
+        "Id": 51000333,
+        "ItemId": 101003,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000333
+    },
+    {
+        "Id": 51000341,
+        "ItemId": 101003,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000341
+    },
+    {
+        "Id": 51000342,
+        "ItemId": 101003,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000342
+    },
+    {
+        "Id": 51000343,
+        "ItemId": 101003,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000343
+    },
+    {
+        "Id": 51000351,
+        "ItemId": 101003,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000351
+    },
+    {
+        "Id": 51000352,
+        "ItemId": 101003,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000352
+    },
+    {
+        "Id": 51000353,
+        "ItemId": 101003,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000353
+    },
+    {
+        "Id": 51000361,
+        "ItemId": 101003,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000361
+    },
+    {
+        "Id": 51000362,
+        "ItemId": 101003,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000362
+    },
+    {
+        "Id": 51000363,
+        "ItemId": 101003,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000363
+    },
+    {
+        "Id": 51000411,
+        "ItemId": 190101004,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000411
+    },
+    {
+        "Id": 51000412,
+        "ItemId": 190101004,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000412
+    },
+    {
+        "Id": 51000413,
+        "ItemId": 190101004,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000413
+    },
+    {
+        "Id": 51000421,
+        "ItemId": 190101004,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000421
+    },
+    {
+        "Id": 51000422,
+        "ItemId": 190101004,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000422
+    },
+    {
+        "Id": 51000423,
+        "ItemId": 190101004,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000423
+    },
+    {
+        "Id": 51000431,
+        "ItemId": 190101004,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000431
+    },
+    {
+        "Id": 51000432,
+        "ItemId": 190101004,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000432
+    },
+    {
+        "Id": 51000433,
+        "ItemId": 190101004,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000433
+    },
+    {
+        "Id": 51000441,
+        "ItemId": 190101004,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000441
+    },
+    {
+        "Id": 51000442,
+        "ItemId": 190101004,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000442
+    },
+    {
+        "Id": 51000443,
+        "ItemId": 190101004,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000443
+    },
+    {
+        "Id": 51000451,
+        "ItemId": 190101004,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000451
+    },
+    {
+        "Id": 51000452,
+        "ItemId": 190101004,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000452
+    },
+    {
+        "Id": 51000453,
+        "ItemId": 190101004,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000453
+    },
+    {
+        "Id": 51000461,
+        "ItemId": 190101004,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000461
+    },
+    {
+        "Id": 51000462,
+        "ItemId": 190101004,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000462
+    },
+    {
+        "Id": 51000463,
+        "ItemId": 190101004,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000463
+    },
+    {
+        "Id": 51000511,
+        "ItemId": 190101005,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000511
+    },
+    {
+        "Id": 51000512,
+        "ItemId": 190101005,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000512
+    },
+    {
+        "Id": 51000513,
+        "ItemId": 190101005,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000513
+    },
+    {
+        "Id": 51000521,
+        "ItemId": 190101005,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000521
+    },
+    {
+        "Id": 51000522,
+        "ItemId": 190101005,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000522
+    },
+    {
+        "Id": 51000523,
+        "ItemId": 190101005,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000523
+    },
+    {
+        "Id": 51000531,
+        "ItemId": 190101005,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000531
+    },
+    {
+        "Id": 51000532,
+        "ItemId": 190101005,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000532
+    },
+    {
+        "Id": 51000533,
+        "ItemId": 190101005,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000533
+    },
+    {
+        "Id": 51000541,
+        "ItemId": 190101005,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000541
+    },
+    {
+        "Id": 51000542,
+        "ItemId": 190101005,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000542
+    },
+    {
+        "Id": 51000543,
+        "ItemId": 190101005,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000543
+    },
+    {
+        "Id": 51000551,
+        "ItemId": 190101005,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000551
+    },
+    {
+        "Id": 51000552,
+        "ItemId": 190101005,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000552
+    },
+    {
+        "Id": 51000553,
+        "ItemId": 190101005,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000553
+    },
+    {
+        "Id": 51000561,
+        "ItemId": 190101005,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000561
+    },
+    {
+        "Id": 51000562,
+        "ItemId": 190101005,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000562
+    },
+    {
+        "Id": 51000563,
+        "ItemId": 190101005,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000563
+    },
+    {
+        "Id": 51000611,
+        "ItemId": 190101006,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000611
+    },
+    {
+        "Id": 51000612,
+        "ItemId": 190101006,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000612
+    },
+    {
+        "Id": 51000613,
+        "ItemId": 190101006,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000613
+    },
+    {
+        "Id": 51000621,
+        "ItemId": 190101006,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000621
+    },
+    {
+        "Id": 51000622,
+        "ItemId": 190101006,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000622
+    },
+    {
+        "Id": 51000623,
+        "ItemId": 190101006,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000623
+    },
+    {
+        "Id": 51000631,
+        "ItemId": 190101006,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000631
+    },
+    {
+        "Id": 51000632,
+        "ItemId": 190101006,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000632
+    },
+    {
+        "Id": 51000633,
+        "ItemId": 190101006,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000633
+    },
+    {
+        "Id": 51000641,
+        "ItemId": 190101006,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000641
+    },
+    {
+        "Id": 51000642,
+        "ItemId": 190101006,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000642
+    },
+    {
+        "Id": 51000643,
+        "ItemId": 190101006,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000643
+    },
+    {
+        "Id": 51000651,
+        "ItemId": 190101006,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000651
+    },
+    {
+        "Id": 51000652,
+        "ItemId": 190101006,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000652
+    },
+    {
+        "Id": 51000653,
+        "ItemId": 190101006,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000653
+    },
+    {
+        "Id": 51000661,
+        "ItemId": 190101006,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000661
+    },
+    {
+        "Id": 51000662,
+        "ItemId": 190101006,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000662
+    },
+    {
+        "Id": 51000663,
+        "ItemId": 190101006,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000663
+    },
+    {
+        "Id": 51000711,
+        "ItemId": 190101007,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000711
+    },
+    {
+        "Id": 51000712,
+        "ItemId": 190101007,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000712
+    },
+    {
+        "Id": 51000713,
+        "ItemId": 190101007,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000713
+    },
+    {
+        "Id": 51000721,
+        "ItemId": 190101007,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000721
+    },
+    {
+        "Id": 51000722,
+        "ItemId": 190101007,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000722
+    },
+    {
+        "Id": 51000723,
+        "ItemId": 190101007,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000723
+    },
+    {
+        "Id": 51000731,
+        "ItemId": 190101007,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000731
+    },
+    {
+        "Id": 51000732,
+        "ItemId": 190101007,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000732
+    },
+    {
+        "Id": 51000733,
+        "ItemId": 190101007,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000733
+    },
+    {
+        "Id": 51000741,
+        "ItemId": 190101007,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000741
+    },
+    {
+        "Id": 51000742,
+        "ItemId": 190101007,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000742
+    },
+    {
+        "Id": 51000743,
+        "ItemId": 190101007,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000743
+    },
+    {
+        "Id": 51000751,
+        "ItemId": 190101007,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000751
+    },
+    {
+        "Id": 51000752,
+        "ItemId": 190101007,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000752
+    },
+    {
+        "Id": 51000753,
+        "ItemId": 190101007,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000753
+    },
+    {
+        "Id": 51000761,
+        "ItemId": 190101007,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000761
+    },
+    {
+        "Id": 51000762,
+        "ItemId": 190101007,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000762
+    },
+    {
+        "Id": 51000763,
+        "ItemId": 190101007,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000763
+    },
+    {
+        "Id": 51000811,
+        "ItemId": 190101008,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000811
+    },
+    {
+        "Id": 51000812,
+        "ItemId": 190101008,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000812
+    },
+    {
+        "Id": 51000813,
+        "ItemId": 190101008,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000813
+    },
+    {
+        "Id": 51000821,
+        "ItemId": 190101008,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000821
+    },
+    {
+        "Id": 51000822,
+        "ItemId": 190101008,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000822
+    },
+    {
+        "Id": 51000823,
+        "ItemId": 190101008,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000823
+    },
+    {
+        "Id": 51000831,
+        "ItemId": 190101008,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000831
+    },
+    {
+        "Id": 51000832,
+        "ItemId": 190101008,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000832
+    },
+    {
+        "Id": 51000833,
+        "ItemId": 190101008,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000833
+    },
+    {
+        "Id": 51000841,
+        "ItemId": 190101008,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000841
+    },
+    {
+        "Id": 51000842,
+        "ItemId": 190101008,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000842
+    },
+    {
+        "Id": 51000843,
+        "ItemId": 190101008,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000843
+    },
+    {
+        "Id": 51000851,
+        "ItemId": 190101008,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000851
+    },
+    {
+        "Id": 51000852,
+        "ItemId": 190101008,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000852
+    },
+    {
+        "Id": 51000853,
+        "ItemId": 190101008,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000853
+    },
+    {
+        "Id": 51000861,
+        "ItemId": 190101008,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000861
+    },
+    {
+        "Id": 51000862,
+        "ItemId": 190101008,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000862
+    },
+    {
+        "Id": 51000863,
+        "ItemId": 190101008,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000863
+    },
+    {
+        "Id": 51000911,
+        "ItemId": 190101009,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000911
+    },
+    {
+        "Id": 51000912,
+        "ItemId": 190101009,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000912
+    },
+    {
+        "Id": 51000913,
+        "ItemId": 190101009,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000913
+    },
+    {
+        "Id": 51000921,
+        "ItemId": 190101009,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000921
+    },
+    {
+        "Id": 51000922,
+        "ItemId": 190101009,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000922
+    },
+    {
+        "Id": 51000923,
+        "ItemId": 190101009,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000923
+    },
+    {
+        "Id": 51000931,
+        "ItemId": 190101009,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000931
+    },
+    {
+        "Id": 51000932,
+        "ItemId": 190101009,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000932
+    },
+    {
+        "Id": 51000933,
+        "ItemId": 190101009,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000933
+    },
+    {
+        "Id": 51000941,
+        "ItemId": 190101009,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000941
+    },
+    {
+        "Id": 51000942,
+        "ItemId": 190101009,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000942
+    },
+    {
+        "Id": 51000943,
+        "ItemId": 190101009,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000943
+    },
+    {
+        "Id": 51000951,
+        "ItemId": 190101009,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000951
+    },
+    {
+        "Id": 51000952,
+        "ItemId": 190101009,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000952
+    },
+    {
+        "Id": 51000953,
+        "ItemId": 190101009,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000953
+    },
+    {
+        "Id": 51000961,
+        "ItemId": 190101009,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000961
+    },
+    {
+        "Id": 51000962,
+        "ItemId": 190101009,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000962
+    },
+    {
+        "Id": 51000963,
+        "ItemId": 190101009,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51000963
+    },
+    {
+        "Id": 51001011,
+        "ItemId": 190101010,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001011
+    },
+    {
+        "Id": 51001012,
+        "ItemId": 190101010,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001012
+    },
+    {
+        "Id": 51001013,
+        "ItemId": 190101010,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001013
+    },
+    {
+        "Id": 51001021,
+        "ItemId": 190101010,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001021
+    },
+    {
+        "Id": 51001022,
+        "ItemId": 190101010,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001022
+    },
+    {
+        "Id": 51001023,
+        "ItemId": 190101010,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001023
+    },
+    {
+        "Id": 51001031,
+        "ItemId": 190101010,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001031
+    },
+    {
+        "Id": 51001032,
+        "ItemId": 190101010,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001032
+    },
+    {
+        "Id": 51001033,
+        "ItemId": 190101010,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001033
+    },
+    {
+        "Id": 51001041,
+        "ItemId": 190101010,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001041
+    },
+    {
+        "Id": 51001042,
+        "ItemId": 190101010,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001042
+    },
+    {
+        "Id": 51001043,
+        "ItemId": 190101010,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001043
+    },
+    {
+        "Id": 51001051,
+        "ItemId": 190101010,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001051
+    },
+    {
+        "Id": 51001052,
+        "ItemId": 190101010,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001052
+    },
+    {
+        "Id": 51001053,
+        "ItemId": 190101010,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001053
+    },
+    {
+        "Id": 51001061,
+        "ItemId": 190101010,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001061
+    },
+    {
+        "Id": 51001062,
+        "ItemId": 190101010,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001062
+    },
+    {
+        "Id": 51001063,
+        "ItemId": 190101010,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001063
+    },
+    {
+        "Id": 51001111,
+        "ItemId": 190101011,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001111
+    },
+    {
+        "Id": 51001112,
+        "ItemId": 190101011,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001112
+    },
+    {
+        "Id": 51001113,
+        "ItemId": 190101011,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001113
+    },
+    {
+        "Id": 51001121,
+        "ItemId": 190101011,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001121
+    },
+    {
+        "Id": 51001122,
+        "ItemId": 190101011,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001122
+    },
+    {
+        "Id": 51001123,
+        "ItemId": 190101011,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001123
+    },
+    {
+        "Id": 51001131,
+        "ItemId": 190101011,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001131
+    },
+    {
+        "Id": 51001132,
+        "ItemId": 190101011,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001132
+    },
+    {
+        "Id": 51001133,
+        "ItemId": 190101011,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001133
+    },
+    {
+        "Id": 51001141,
+        "ItemId": 190101011,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001141
+    },
+    {
+        "Id": 51001142,
+        "ItemId": 190101011,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001142
+    },
+    {
+        "Id": 51001143,
+        "ItemId": 190101011,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001143
+    },
+    {
+        "Id": 51001151,
+        "ItemId": 190101011,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001151
+    },
+    {
+        "Id": 51001152,
+        "ItemId": 190101011,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001152
+    },
+    {
+        "Id": 51001153,
+        "ItemId": 190101011,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001153
+    },
+    {
+        "Id": 51001161,
+        "ItemId": 190101011,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001161
+    },
+    {
+        "Id": 51001162,
+        "ItemId": 190101011,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001162
+    },
+    {
+        "Id": 51001163,
+        "ItemId": 190101011,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001163
+    },
+    {
+        "Id": 51001211,
+        "ItemId": 190101012,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001211
+    },
+    {
+        "Id": 51001212,
+        "ItemId": 190101012,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001212
+    },
+    {
+        "Id": 51001213,
+        "ItemId": 190101012,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001213
+    },
+    {
+        "Id": 51001221,
+        "ItemId": 190101012,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001221
+    },
+    {
+        "Id": 51001222,
+        "ItemId": 190101012,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001222
+    },
+    {
+        "Id": 51001223,
+        "ItemId": 190101012,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001223
+    },
+    {
+        "Id": 51001231,
+        "ItemId": 190101012,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001231
+    },
+    {
+        "Id": 51001232,
+        "ItemId": 190101012,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001232
+    },
+    {
+        "Id": 51001233,
+        "ItemId": 190101012,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001233
+    },
+    {
+        "Id": 51001241,
+        "ItemId": 190101012,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001241
+    },
+    {
+        "Id": 51001242,
+        "ItemId": 190101012,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001242
+    },
+    {
+        "Id": 51001243,
+        "ItemId": 190101012,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001243
+    },
+    {
+        "Id": 51001251,
+        "ItemId": 190101012,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001251
+    },
+    {
+        "Id": 51001252,
+        "ItemId": 190101012,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001252
+    },
+    {
+        "Id": 51001253,
+        "ItemId": 190101012,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001253
+    },
+    {
+        "Id": 51001261,
+        "ItemId": 190101012,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001261
+    },
+    {
+        "Id": 51001262,
+        "ItemId": 190101012,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001262
+    },
+    {
+        "Id": 51001263,
+        "ItemId": 190101012,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001263
+    },
+    {
+        "Id": 51001311,
+        "ItemId": 190101013,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001311
+    },
+    {
+        "Id": 51001312,
+        "ItemId": 190101013,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001312
+    },
+    {
+        "Id": 51001313,
+        "ItemId": 190101013,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001313
+    },
+    {
+        "Id": 51001321,
+        "ItemId": 190101013,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001321
+    },
+    {
+        "Id": 51001322,
+        "ItemId": 190101013,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001322
+    },
+    {
+        "Id": 51001323,
+        "ItemId": 190101013,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001323
+    },
+    {
+        "Id": 51001331,
+        "ItemId": 190101013,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001331
+    },
+    {
+        "Id": 51001332,
+        "ItemId": 190101013,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001332
+    },
+    {
+        "Id": 51001333,
+        "ItemId": 190101013,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001333
+    },
+    {
+        "Id": 51001341,
+        "ItemId": 190101013,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001341
+    },
+    {
+        "Id": 51001342,
+        "ItemId": 190101013,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001342
+    },
+    {
+        "Id": 51001343,
+        "ItemId": 190101013,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001343
+    },
+    {
+        "Id": 51001351,
+        "ItemId": 190101013,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001351
+    },
+    {
+        "Id": 51001352,
+        "ItemId": 190101013,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001352
+    },
+    {
+        "Id": 51001353,
+        "ItemId": 190101013,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001353
+    },
+    {
+        "Id": 51001361,
+        "ItemId": 190101013,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001361
+    },
+    {
+        "Id": 51001362,
+        "ItemId": 190101013,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001362
+    },
+    {
+        "Id": 51001363,
+        "ItemId": 190101013,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001363
+    },
+    {
+        "Id": 51001411,
+        "ItemId": 190101014,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001411
+    },
+    {
+        "Id": 51001412,
+        "ItemId": 190101014,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001412
+    },
+    {
+        "Id": 51001413,
+        "ItemId": 190101014,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001413
+    },
+    {
+        "Id": 51001421,
+        "ItemId": 190101014,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001421
+    },
+    {
+        "Id": 51001422,
+        "ItemId": 190101014,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001422
+    },
+    {
+        "Id": 51001423,
+        "ItemId": 190101014,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001423
+    },
+    {
+        "Id": 51001431,
+        "ItemId": 190101014,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001431
+    },
+    {
+        "Id": 51001432,
+        "ItemId": 190101014,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001432
+    },
+    {
+        "Id": 51001433,
+        "ItemId": 190101014,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001433
+    },
+    {
+        "Id": 51001441,
+        "ItemId": 190101014,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001441
+    },
+    {
+        "Id": 51001442,
+        "ItemId": 190101014,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001442
+    },
+    {
+        "Id": 51001443,
+        "ItemId": 190101014,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001443
+    },
+    {
+        "Id": 51001451,
+        "ItemId": 190101014,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001451
+    },
+    {
+        "Id": 51001452,
+        "ItemId": 190101014,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001452
+    },
+    {
+        "Id": 51001453,
+        "ItemId": 190101014,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001453
+    },
+    {
+        "Id": 51001461,
+        "ItemId": 190101014,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001461
+    },
+    {
+        "Id": 51001462,
+        "ItemId": 190101014,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001462
+    },
+    {
+        "Id": 51001463,
+        "ItemId": 190101014,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001463
+    },
+    {
+        "Id": 51001511,
+        "ItemId": 190101015,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001511
+    },
+    {
+        "Id": 51001512,
+        "ItemId": 190101015,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001512
+    },
+    {
+        "Id": 51001513,
+        "ItemId": 190101015,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001513
+    },
+    {
+        "Id": 51001521,
+        "ItemId": 190101015,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001521
+    },
+    {
+        "Id": 51001522,
+        "ItemId": 190101015,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001522
+    },
+    {
+        "Id": 51001523,
+        "ItemId": 190101015,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001523
+    },
+    {
+        "Id": 51001531,
+        "ItemId": 190101015,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001531
+    },
+    {
+        "Id": 51001532,
+        "ItemId": 190101015,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001532
+    },
+    {
+        "Id": 51001533,
+        "ItemId": 190101015,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001533
+    },
+    {
+        "Id": 51001541,
+        "ItemId": 190101015,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001541
+    },
+    {
+        "Id": 51001542,
+        "ItemId": 190101015,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001542
+    },
+    {
+        "Id": 51001543,
+        "ItemId": 190101015,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001543
+    },
+    {
+        "Id": 51001551,
+        "ItemId": 190101015,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001551
+    },
+    {
+        "Id": 51001552,
+        "ItemId": 190101015,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001552
+    },
+    {
+        "Id": 51001553,
+        "ItemId": 190101015,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001553
+    },
+    {
+        "Id": 51001561,
+        "ItemId": 190101015,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001561
+    },
+    {
+        "Id": 51001562,
+        "ItemId": 190101015,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001562
+    },
+    {
+        "Id": 51001563,
+        "ItemId": 190101015,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001563
+    },
+    {
+        "Id": 51001611,
+        "ItemId": 190101016,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001611
+    },
+    {
+        "Id": 51001612,
+        "ItemId": 190101016,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001612
+    },
+    {
+        "Id": 51001613,
+        "ItemId": 190101016,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001613
+    },
+    {
+        "Id": 51001621,
+        "ItemId": 190101016,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001621
+    },
+    {
+        "Id": 51001622,
+        "ItemId": 190101016,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001622
+    },
+    {
+        "Id": 51001623,
+        "ItemId": 190101016,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001623
+    },
+    {
+        "Id": 51001631,
+        "ItemId": 190101016,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001631
+    },
+    {
+        "Id": 51001632,
+        "ItemId": 190101016,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001632
+    },
+    {
+        "Id": 51001633,
+        "ItemId": 190101016,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001633
+    },
+    {
+        "Id": 51001641,
+        "ItemId": 190101016,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001641
+    },
+    {
+        "Id": 51001642,
+        "ItemId": 190101016,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001642
+    },
+    {
+        "Id": 51001643,
+        "ItemId": 190101016,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001643
+    },
+    {
+        "Id": 51001651,
+        "ItemId": 190101016,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001651
+    },
+    {
+        "Id": 51001652,
+        "ItemId": 190101016,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001652
+    },
+    {
+        "Id": 51001653,
+        "ItemId": 190101016,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001653
+    },
+    {
+        "Id": 51001661,
+        "ItemId": 190101016,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001661
+    },
+    {
+        "Id": 51001662,
+        "ItemId": 190101016,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001662
+    },
+    {
+        "Id": 51001663,
+        "ItemId": 190101016,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001663
+    },
+    {
+        "Id": 51001711,
+        "ItemId": 190101017,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001711
+    },
+    {
+        "Id": 51001712,
+        "ItemId": 190101017,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001712
+    },
+    {
+        "Id": 51001713,
+        "ItemId": 190101017,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001713
+    },
+    {
+        "Id": 51001721,
+        "ItemId": 190101017,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001721
+    },
+    {
+        "Id": 51001722,
+        "ItemId": 190101017,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001722
+    },
+    {
+        "Id": 51001723,
+        "ItemId": 190101017,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001723
+    },
+    {
+        "Id": 51001731,
+        "ItemId": 190101017,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001731
+    },
+    {
+        "Id": 51001732,
+        "ItemId": 190101017,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001732
+    },
+    {
+        "Id": 51001733,
+        "ItemId": 190101017,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001733
+    },
+    {
+        "Id": 51001741,
+        "ItemId": 190101017,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001741
+    },
+    {
+        "Id": 51001742,
+        "ItemId": 190101017,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001742
+    },
+    {
+        "Id": 51001743,
+        "ItemId": 190101017,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001743
+    },
+    {
+        "Id": 51001751,
+        "ItemId": 190101017,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001751
+    },
+    {
+        "Id": 51001752,
+        "ItemId": 190101017,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001752
+    },
+    {
+        "Id": 51001753,
+        "ItemId": 190101017,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001753
+    },
+    {
+        "Id": 51001761,
+        "ItemId": 190101017,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001761
+    },
+    {
+        "Id": 51001762,
+        "ItemId": 190101017,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001762
+    },
+    {
+        "Id": 51001763,
+        "ItemId": 190101017,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001763
+    },
+    {
+        "Id": 51001811,
+        "ItemId": 190101018,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001811
+    },
+    {
+        "Id": 51001812,
+        "ItemId": 190101018,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001812
+    },
+    {
+        "Id": 51001813,
+        "ItemId": 190101018,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001813
+    },
+    {
+        "Id": 51001821,
+        "ItemId": 190101018,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001821
+    },
+    {
+        "Id": 51001822,
+        "ItemId": 190101018,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001822
+    },
+    {
+        "Id": 51001823,
+        "ItemId": 190101018,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001823
+    },
+    {
+        "Id": 51001831,
+        "ItemId": 190101018,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001831
+    },
+    {
+        "Id": 51001832,
+        "ItemId": 190101018,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001832
+    },
+    {
+        "Id": 51001833,
+        "ItemId": 190101018,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001833
+    },
+    {
+        "Id": 51001841,
+        "ItemId": 190101018,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001841
+    },
+    {
+        "Id": 51001842,
+        "ItemId": 190101018,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001842
+    },
+    {
+        "Id": 51001843,
+        "ItemId": 190101018,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001843
+    },
+    {
+        "Id": 51001851,
+        "ItemId": 190101018,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001851
+    },
+    {
+        "Id": 51001852,
+        "ItemId": 190101018,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001852
+    },
+    {
+        "Id": 51001853,
+        "ItemId": 190101018,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001853
+    },
+    {
+        "Id": 51001861,
+        "ItemId": 190101018,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001861
+    },
+    {
+        "Id": 51001862,
+        "ItemId": 190101018,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001862
+    },
+    {
+        "Id": 51001863,
+        "ItemId": 190101018,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001863
+    },
+    {
+        "Id": 51001911,
+        "ItemId": 190101019,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001911
+    },
+    {
+        "Id": 51001912,
+        "ItemId": 190101019,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001912
+    },
+    {
+        "Id": 51001913,
+        "ItemId": 190101019,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001913
+    },
+    {
+        "Id": 51001921,
+        "ItemId": 190101019,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001921
+    },
+    {
+        "Id": 51001922,
+        "ItemId": 190101019,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001922
+    },
+    {
+        "Id": 51001923,
+        "ItemId": 190101019,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001923
+    },
+    {
+        "Id": 51001931,
+        "ItemId": 190101019,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001931
+    },
+    {
+        "Id": 51001932,
+        "ItemId": 190101019,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001932
+    },
+    {
+        "Id": 51001933,
+        "ItemId": 190101019,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001933
+    },
+    {
+        "Id": 51001941,
+        "ItemId": 190101019,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001941
+    },
+    {
+        "Id": 51001942,
+        "ItemId": 190101019,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001942
+    },
+    {
+        "Id": 51001943,
+        "ItemId": 190101019,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001943
+    },
+    {
+        "Id": 51001951,
+        "ItemId": 190101019,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001951
+    },
+    {
+        "Id": 51001952,
+        "ItemId": 190101019,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001952
+    },
+    {
+        "Id": 51001953,
+        "ItemId": 190101019,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001953
+    },
+    {
+        "Id": 51001961,
+        "ItemId": 190101019,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001961
+    },
+    {
+        "Id": 51001962,
+        "ItemId": 190101019,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001962
+    },
+    {
+        "Id": 51001963,
+        "ItemId": 190101019,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51001963
+    },
+    {
+        "Id": 51002011,
+        "ItemId": 190101020,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002011
+    },
+    {
+        "Id": 51002012,
+        "ItemId": 190101020,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002012
+    },
+    {
+        "Id": 51002013,
+        "ItemId": 190101020,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002013
+    },
+    {
+        "Id": 51002021,
+        "ItemId": 190101020,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002021
+    },
+    {
+        "Id": 51002022,
+        "ItemId": 190101020,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002022
+    },
+    {
+        "Id": 51002023,
+        "ItemId": 190101020,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002023
+    },
+    {
+        "Id": 51002031,
+        "ItemId": 190101020,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002031
+    },
+    {
+        "Id": 51002032,
+        "ItemId": 190101020,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002032
+    },
+    {
+        "Id": 51002033,
+        "ItemId": 190101020,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002033
+    },
+    {
+        "Id": 51002041,
+        "ItemId": 190101020,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002041
+    },
+    {
+        "Id": 51002042,
+        "ItemId": 190101020,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002042
+    },
+    {
+        "Id": 51002043,
+        "ItemId": 190101020,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002043
+    },
+    {
+        "Id": 51002051,
+        "ItemId": 190101020,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002051
+    },
+    {
+        "Id": 51002052,
+        "ItemId": 190101020,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002052
+    },
+    {
+        "Id": 51002053,
+        "ItemId": 190101020,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002053
+    },
+    {
+        "Id": 51002061,
+        "ItemId": 190101020,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002061
+    },
+    {
+        "Id": 51002062,
+        "ItemId": 190101020,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002062
+    },
+    {
+        "Id": 51002063,
+        "ItemId": 190101020,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51002063
+    },
+    {
+        "Id": 51021011,
+        "ItemId": 190101021,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021011
+    },
+    {
+        "Id": 51021012,
+        "ItemId": 190101021,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021012
+    },
+    {
+        "Id": 51021013,
+        "ItemId": 190101021,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021013
+    },
+    {
+        "Id": 51021021,
+        "ItemId": 190101021,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021021
+    },
+    {
+        "Id": 51021022,
+        "ItemId": 190101021,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021022
+    },
+    {
+        "Id": 51021023,
+        "ItemId": 190101021,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021023
+    },
+    {
+        "Id": 51021031,
+        "ItemId": 190101021,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021031
+    },
+    {
+        "Id": 51021032,
+        "ItemId": 190101021,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021032
+    },
+    {
+        "Id": 51021033,
+        "ItemId": 190101021,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021033
+    },
+    {
+        "Id": 51021041,
+        "ItemId": 190101021,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021041
+    },
+    {
+        "Id": 51021042,
+        "ItemId": 190101021,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021042
+    },
+    {
+        "Id": 51021043,
+        "ItemId": 190101021,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021043
+    },
+    {
+        "Id": 51021051,
+        "ItemId": 190101021,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021051
+    },
+    {
+        "Id": 51021052,
+        "ItemId": 190101021,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021052
+    },
+    {
+        "Id": 51021053,
+        "ItemId": 190101021,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021053
+    },
+    {
+        "Id": 51021061,
+        "ItemId": 190101021,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021061
+    },
+    {
+        "Id": 51021062,
+        "ItemId": 190101021,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021062
+    },
+    {
+        "Id": 51021063,
+        "ItemId": 190101021,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51021063
+    },
+    {
+        "Id": 51023011,
+        "ItemId": 190101022,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023011
+    },
+    {
+        "Id": 51023012,
+        "ItemId": 190101022,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023012
+    },
+    {
+        "Id": 51023013,
+        "ItemId": 190101022,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023013
+    },
+    {
+        "Id": 51023021,
+        "ItemId": 190101022,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023021
+    },
+    {
+        "Id": 51023022,
+        "ItemId": 190101022,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023022
+    },
+    {
+        "Id": 51023023,
+        "ItemId": 190101022,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023023
+    },
+    {
+        "Id": 51023031,
+        "ItemId": 190101022,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023031
+    },
+    {
+        "Id": 51023032,
+        "ItemId": 190101022,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023032
+    },
+    {
+        "Id": 51023033,
+        "ItemId": 190101022,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023033
+    },
+    {
+        "Id": 51023041,
+        "ItemId": 190101022,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023041
+    },
+    {
+        "Id": 51023042,
+        "ItemId": 190101022,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023042
+    },
+    {
+        "Id": 51023043,
+        "ItemId": 190101022,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023043
+    },
+    {
+        "Id": 51023051,
+        "ItemId": 190101022,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023051
+    },
+    {
+        "Id": 51023052,
+        "ItemId": 190101022,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023052
+    },
+    {
+        "Id": 51023053,
+        "ItemId": 190101022,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023053
+    },
+    {
+        "Id": 51023061,
+        "ItemId": 190101022,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023061
+    },
+    {
+        "Id": 51023062,
+        "ItemId": 190101022,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023062
+    },
+    {
+        "Id": 51023063,
+        "ItemId": 190101022,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51023063
+    },
+    {
+        "Id": 51024011,
+        "ItemId": 190101023,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024011
+    },
+    {
+        "Id": 51024012,
+        "ItemId": 190101023,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024012
+    },
+    {
+        "Id": 51024013,
+        "ItemId": 190101023,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024013
+    },
+    {
+        "Id": 51024021,
+        "ItemId": 190101023,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024021
+    },
+    {
+        "Id": 51024022,
+        "ItemId": 190101023,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024022
+    },
+    {
+        "Id": 51024023,
+        "ItemId": 190101023,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024023
+    },
+    {
+        "Id": 51024031,
+        "ItemId": 190101023,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024031
+    },
+    {
+        "Id": 51024032,
+        "ItemId": 190101023,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024032
+    },
+    {
+        "Id": 51024033,
+        "ItemId": 190101023,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024033
+    },
+    {
+        "Id": 51024041,
+        "ItemId": 190101023,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024041
+    },
+    {
+        "Id": 51024042,
+        "ItemId": 190101023,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024042
+    },
+    {
+        "Id": 51024043,
+        "ItemId": 190101023,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024043
+    },
+    {
+        "Id": 51024051,
+        "ItemId": 190101023,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024051
+    },
+    {
+        "Id": 51024052,
+        "ItemId": 190101023,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024052
+    },
+    {
+        "Id": 51024053,
+        "ItemId": 190101023,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024053
+    },
+    {
+        "Id": 51024061,
+        "ItemId": 190101023,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024061
+    },
+    {
+        "Id": 51024062,
+        "ItemId": 190101023,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024062
+    },
+    {
+        "Id": 51024063,
+        "ItemId": 190101023,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51024063
+    },
+    {
+        "Id": 51025011,
+        "ItemId": 190101024,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025011
+    },
+    {
+        "Id": 51025012,
+        "ItemId": 190101024,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025012
+    },
+    {
+        "Id": 51025013,
+        "ItemId": 190101024,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025013
+    },
+    {
+        "Id": 51025021,
+        "ItemId": 190101024,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025021
+    },
+    {
+        "Id": 51025022,
+        "ItemId": 190101024,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025022
+    },
+    {
+        "Id": 51025023,
+        "ItemId": 190101024,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025023
+    },
+    {
+        "Id": 51025031,
+        "ItemId": 190101024,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025031
+    },
+    {
+        "Id": 51025032,
+        "ItemId": 190101024,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025032
+    },
+    {
+        "Id": 51025033,
+        "ItemId": 190101024,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025033
+    },
+    {
+        "Id": 51025041,
+        "ItemId": 190101024,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025041
+    },
+    {
+        "Id": 51025042,
+        "ItemId": 190101024,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025042
+    },
+    {
+        "Id": 51025043,
+        "ItemId": 190101024,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025043
+    },
+    {
+        "Id": 51025051,
+        "ItemId": 190101024,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025051
+    },
+    {
+        "Id": 51025052,
+        "ItemId": 190101024,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025052
+    },
+    {
+        "Id": 51025053,
+        "ItemId": 190101024,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025053
+    },
+    {
+        "Id": 51025061,
+        "ItemId": 190101024,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025061
+    },
+    {
+        "Id": 51025062,
+        "ItemId": 190101024,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025062
+    },
+    {
+        "Id": 51025063,
+        "ItemId": 190101024,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51025063
+    },
+    {
+        "Id": 51026011,
+        "ItemId": 190101025,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026011
+    },
+    {
+        "Id": 51026012,
+        "ItemId": 190101025,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026012
+    },
+    {
+        "Id": 51026013,
+        "ItemId": 190101025,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026013
+    },
+    {
+        "Id": 51026021,
+        "ItemId": 190101025,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026021
+    },
+    {
+        "Id": 51026022,
+        "ItemId": 190101025,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026022
+    },
+    {
+        "Id": 51026023,
+        "ItemId": 190101025,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026023
+    },
+    {
+        "Id": 51026031,
+        "ItemId": 190101025,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026031
+    },
+    {
+        "Id": 51026032,
+        "ItemId": 190101025,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026032
+    },
+    {
+        "Id": 51026033,
+        "ItemId": 190101025,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026033
+    },
+    {
+        "Id": 51026041,
+        "ItemId": 190101025,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026041
+    },
+    {
+        "Id": 51026042,
+        "ItemId": 190101025,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026042
+    },
+    {
+        "Id": 51026043,
+        "ItemId": 190101025,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026043
+    },
+    {
+        "Id": 51026051,
+        "ItemId": 190101025,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026051
+    },
+    {
+        "Id": 51026052,
+        "ItemId": 190101025,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026052
+    },
+    {
+        "Id": 51026053,
+        "ItemId": 190101025,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026053
+    },
+    {
+        "Id": 51026061,
+        "ItemId": 190101025,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026061
+    },
+    {
+        "Id": 51026062,
+        "ItemId": 190101025,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026062
+    },
+    {
+        "Id": 51026063,
+        "ItemId": 190101025,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51026063
+    },
+    {
+        "Id": 51027011,
+        "ItemId": 190101026,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027011
+    },
+    {
+        "Id": 51027012,
+        "ItemId": 190101026,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027012
+    },
+    {
+        "Id": 51027013,
+        "ItemId": 190101026,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027013
+    },
+    {
+        "Id": 51027021,
+        "ItemId": 190101026,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027021
+    },
+    {
+        "Id": 51027022,
+        "ItemId": 190101026,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027022
+    },
+    {
+        "Id": 51027023,
+        "ItemId": 190101026,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027023
+    },
+    {
+        "Id": 51027031,
+        "ItemId": 190101026,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027031
+    },
+    {
+        "Id": 51027032,
+        "ItemId": 190101026,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027032
+    },
+    {
+        "Id": 51027033,
+        "ItemId": 190101026,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027033
+    },
+    {
+        "Id": 51027041,
+        "ItemId": 190101026,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027041
+    },
+    {
+        "Id": 51027042,
+        "ItemId": 190101026,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027042
+    },
+    {
+        "Id": 51027043,
+        "ItemId": 190101026,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027043
+    },
+    {
+        "Id": 51027051,
+        "ItemId": 190101026,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027051
+    },
+    {
+        "Id": 51027052,
+        "ItemId": 190101026,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027052
+    },
+    {
+        "Id": 51027053,
+        "ItemId": 190101026,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027053
+    },
+    {
+        "Id": 51027061,
+        "ItemId": 190101026,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027061
+    },
+    {
+        "Id": 51027062,
+        "ItemId": 190101026,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027062
+    },
+    {
+        "Id": 51027063,
+        "ItemId": 190101026,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51027063
+    },
+    {
+        "Id": 51028011,
+        "ItemId": 190101027,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028011
+    },
+    {
+        "Id": 51028012,
+        "ItemId": 190101027,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028012
+    },
+    {
+        "Id": 51028013,
+        "ItemId": 190101027,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028013
+    },
+    {
+        "Id": 51028021,
+        "ItemId": 190101027,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028021
+    },
+    {
+        "Id": 51028022,
+        "ItemId": 190101027,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028022
+    },
+    {
+        "Id": 51028023,
+        "ItemId": 190101027,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028023
+    },
+    {
+        "Id": 51028031,
+        "ItemId": 190101027,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028031
+    },
+    {
+        "Id": 51028032,
+        "ItemId": 190101027,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028032
+    },
+    {
+        "Id": 51028033,
+        "ItemId": 190101027,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028033
+    },
+    {
+        "Id": 51028041,
+        "ItemId": 190101027,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028041
+    },
+    {
+        "Id": 51028042,
+        "ItemId": 190101027,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028042
+    },
+    {
+        "Id": 51028043,
+        "ItemId": 190101027,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028043
+    },
+    {
+        "Id": 51028051,
+        "ItemId": 190101027,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028051
+    },
+    {
+        "Id": 51028052,
+        "ItemId": 190101027,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028052
+    },
+    {
+        "Id": 51028053,
+        "ItemId": 190101027,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028053
+    },
+    {
+        "Id": 51028061,
+        "ItemId": 190101027,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028061
+    },
+    {
+        "Id": 51028062,
+        "ItemId": 190101027,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028062
+    },
+    {
+        "Id": 51028063,
+        "ItemId": 190101027,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51028063
+    },
+    {
+        "Id": 51029011,
+        "ItemId": 190101028,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029011
+    },
+    {
+        "Id": 51029012,
+        "ItemId": 190101028,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029012
+    },
+    {
+        "Id": 51029013,
+        "ItemId": 190101028,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029013
+    },
+    {
+        "Id": 51029021,
+        "ItemId": 190101028,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029021
+    },
+    {
+        "Id": 51029022,
+        "ItemId": 190101028,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029022
+    },
+    {
+        "Id": 51029023,
+        "ItemId": 190101028,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029023
+    },
+    {
+        "Id": 51029031,
+        "ItemId": 190101028,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029031
+    },
+    {
+        "Id": 51029032,
+        "ItemId": 190101028,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029032
+    },
+    {
+        "Id": 51029033,
+        "ItemId": 190101028,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029033
+    },
+    {
+        "Id": 51029041,
+        "ItemId": 190101028,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029041
+    },
+    {
+        "Id": 51029042,
+        "ItemId": 190101028,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029042
+    },
+    {
+        "Id": 51029043,
+        "ItemId": 190101028,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029043
+    },
+    {
+        "Id": 51029051,
+        "ItemId": 190101028,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029051
+    },
+    {
+        "Id": 51029052,
+        "ItemId": 190101028,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029052
+    },
+    {
+        "Id": 51029053,
+        "ItemId": 190101028,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029053
+    },
+    {
+        "Id": 51029061,
+        "ItemId": 190101028,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029061
+    },
+    {
+        "Id": 51029062,
+        "ItemId": 190101028,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029062
+    },
+    {
+        "Id": 51029063,
+        "ItemId": 190101028,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51029063
+    },
+    {
+        "Id": 51030011,
+        "ItemId": 190101029,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030011
+    },
+    {
+        "Id": 51030012,
+        "ItemId": 190101029,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030012
+    },
+    {
+        "Id": 51030013,
+        "ItemId": 190101029,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030013
+    },
+    {
+        "Id": 51030021,
+        "ItemId": 190101029,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030021
+    },
+    {
+        "Id": 51030022,
+        "ItemId": 190101029,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030022
+    },
+    {
+        "Id": 51030023,
+        "ItemId": 190101029,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030023
+    },
+    {
+        "Id": 51030031,
+        "ItemId": 190101029,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030031
+    },
+    {
+        "Id": 51030032,
+        "ItemId": 190101029,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030032
+    },
+    {
+        "Id": 51030033,
+        "ItemId": 190101029,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030033
+    },
+    {
+        "Id": 51030041,
+        "ItemId": 190101029,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030041
+    },
+    {
+        "Id": 51030042,
+        "ItemId": 190101029,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030042
+    },
+    {
+        "Id": 51030043,
+        "ItemId": 190101029,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030043
+    },
+    {
+        "Id": 51030051,
+        "ItemId": 190101029,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030051
+    },
+    {
+        "Id": 51030052,
+        "ItemId": 190101029,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030052
+    },
+    {
+        "Id": 51030053,
+        "ItemId": 190101029,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030053
+    },
+    {
+        "Id": 51030061,
+        "ItemId": 190101029,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030061
+    },
+    {
+        "Id": 51030062,
+        "ItemId": 190101029,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030062
+    },
+    {
+        "Id": 51030063,
+        "ItemId": 190101029,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51030063
+    },
+    {
+        "Id": 51031011,
+        "ItemId": 190101030,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031011
+    },
+    {
+        "Id": 51031012,
+        "ItemId": 190101030,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031012
+    },
+    {
+        "Id": 51031013,
+        "ItemId": 190101030,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031013
+    },
+    {
+        "Id": 51031021,
+        "ItemId": 190101030,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031021
+    },
+    {
+        "Id": 51031022,
+        "ItemId": 190101030,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031022
+    },
+    {
+        "Id": 51031023,
+        "ItemId": 190101030,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031023
+    },
+    {
+        "Id": 51031031,
+        "ItemId": 190101030,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031031
+    },
+    {
+        "Id": 51031032,
+        "ItemId": 190101030,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031032
+    },
+    {
+        "Id": 51031033,
+        "ItemId": 190101030,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031033
+    },
+    {
+        "Id": 51031041,
+        "ItemId": 190101030,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031041
+    },
+    {
+        "Id": 51031042,
+        "ItemId": 190101030,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031042
+    },
+    {
+        "Id": 51031043,
+        "ItemId": 190101030,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031043
+    },
+    {
+        "Id": 51031051,
+        "ItemId": 190101030,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031051
+    },
+    {
+        "Id": 51031052,
+        "ItemId": 190101030,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031052
+    },
+    {
+        "Id": 51031053,
+        "ItemId": 190101030,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031053
+    },
+    {
+        "Id": 51031061,
+        "ItemId": 190101030,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031061
+    },
+    {
+        "Id": 51031062,
+        "ItemId": 190101030,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031062
+    },
+    {
+        "Id": 51031063,
+        "ItemId": 190101030,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51031063
+    },
+    {
+        "Id": 51032011,
+        "ItemId": 190101031,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032011
+    },
+    {
+        "Id": 51032012,
+        "ItemId": 190101031,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032012
+    },
+    {
+        "Id": 51032013,
+        "ItemId": 190101031,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032013
+    },
+    {
+        "Id": 51032021,
+        "ItemId": 190101031,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032021
+    },
+    {
+        "Id": 51032022,
+        "ItemId": 190101031,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032022
+    },
+    {
+        "Id": 51032023,
+        "ItemId": 190101031,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032023
+    },
+    {
+        "Id": 51032031,
+        "ItemId": 190101031,
+        "ItemQuantity": 25,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032031
+    },
+    {
+        "Id": 51032032,
+        "ItemId": 190101031,
+        "ItemQuantity": 12,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032032
+    },
+    {
+        "Id": 51032033,
+        "ItemId": 190101031,
+        "ItemQuantity": 6,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032033
+    },
+    {
+        "Id": 51032041,
+        "ItemId": 190101031,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032041
+    },
+    {
+        "Id": 51032042,
+        "ItemId": 190101031,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032042
+    },
+    {
+        "Id": 51032043,
+        "ItemId": 190101031,
+        "ItemQuantity": 8,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032043
+    },
+    {
+        "Id": 51032051,
+        "ItemId": 190101031,
+        "ItemQuantity": 40,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032051
+    },
+    {
+        "Id": 51032052,
+        "ItemId": 190101031,
+        "ItemQuantity": 20,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032052
+    },
+    {
+        "Id": 51032053,
+        "ItemId": 190101031,
+        "ItemQuantity": 10,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032053
+    },
+    {
+        "Id": 51032061,
+        "ItemId": 190101031,
+        "ItemQuantity": 60,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032061
+    },
+    {
+        "Id": 51032062,
+        "ItemId": 190101031,
+        "ItemQuantity": 30,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032062
+    },
+    {
+        "Id": 51032063,
+        "ItemId": 190101031,
+        "ItemQuantity": 15,
+        "ItemType": 190,
+        "ScoreRewardSettingId": 51032063
+    }
+]

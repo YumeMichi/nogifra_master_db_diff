@@ -1,0 +1,1514 @@
+[
+    {
+        "CharacterId": 101,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001101,
+        "PresentPartyId": 10001,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 121,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001121,
+        "PresentPartyId": 10001,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001126,
+        "PresentPartyId": 10001,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 127,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001127,
+        "PresentPartyId": 10001,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001130,
+        "PresentPartyId": 10001,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001132,
+        "PresentPartyId": 10001,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 140,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001140,
+        "PresentPartyId": 10001,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 144,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001144,
+        "PresentPartyId": 10001,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 147,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001147,
+        "PresentPartyId": 10001,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 149,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001149,
+        "PresentPartyId": 10001,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10001153,
+        "PresentPartyId": 10001,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 991,
+        "Id": 10002991,
+        "PresentPartyId": 10002,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 992,
+        "Id": 10002992,
+        "PresentPartyId": 10002,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 993,
+        "Id": 10002993,
+        "PresentPartyId": 10002,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 994,
+        "Id": 10002994,
+        "PresentPartyId": 10002,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 995,
+        "Id": 10002995,
+        "PresentPartyId": 10002,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 996,
+        "Id": 10002996,
+        "PresentPartyId": 10002,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 997,
+        "Id": 10002997,
+        "PresentPartyId": 10002,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 106,
+        "Id": 10003106,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 112,
+        "Id": 10003112,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 124,
+        "Id": 10003124,
+        "PresentPartyId": 10003,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 126,
+        "Id": 10003126,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 128,
+        "Id": 10003128,
+        "PresentPartyId": 10003,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 131,
+        "Id": 10003131,
+        "PresentPartyId": 10003,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 133,
+        "Id": 10003133,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 135,
+        "Id": 10003135,
+        "PresentPartyId": 10003,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 139,
+        "Id": 10003139,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 141,
+        "Id": 10003141,
+        "PresentPartyId": 10003,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 143,
+        "Id": 10003143,
+        "PresentPartyId": 10003,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 145,
+        "Id": 10003145,
+        "PresentPartyId": 10003,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 147,
+        "Id": 10003147,
+        "PresentPartyId": 10003,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 148,
+        "Id": 10003148,
+        "PresentPartyId": 10003,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 149,
+        "Id": 10003149,
+        "PresentPartyId": 10003,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 152,
+        "Id": 10003152,
+        "PresentPartyId": 10003,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 101,
+        "Id": 10004101,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 115,
+        "Id": 10004115,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 121,
+        "Id": 10004121,
+        "PresentPartyId": 10004,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 127,
+        "Id": 10004127,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 130,
+        "Id": 10004130,
+        "PresentPartyId": 10004,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 132,
+        "Id": 10004132,
+        "PresentPartyId": 10004,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 134,
+        "Id": 10004134,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 136,
+        "Id": 10004136,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 137,
+        "Id": 10004137,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 138,
+        "Id": 10004138,
+        "PresentPartyId": 10004,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 140,
+        "Id": 10004140,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 142,
+        "Id": 10004142,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 144,
+        "Id": 10004144,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 146,
+        "Id": 10004146,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 150,
+        "Id": 10004150,
+        "PresentPartyId": 10004,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 151,
+        "Id": 10004151,
+        "PresentPartyId": 10004,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 0,
+        "CharacterIdForPresentParty": 153,
+        "Id": 10004153,
+        "PresentPartyId": 10004,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 115,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005115,
+        "PresentPartyId": 10005,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005131,
+        "PresentPartyId": 10005,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005134,
+        "PresentPartyId": 10005,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005135,
+        "PresentPartyId": 10005,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005138,
+        "PresentPartyId": 10005,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 142,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005142,
+        "PresentPartyId": 10005,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005143,
+        "PresentPartyId": 10005,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005145,
+        "PresentPartyId": 10005,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005151,
+        "PresentPartyId": 10005,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10005152,
+        "PresentPartyId": 10005,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 106,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006106,
+        "PresentPartyId": 10006,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006128,
+        "PresentPartyId": 10006,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 133,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006133,
+        "PresentPartyId": 10006,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 136,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006136,
+        "PresentPartyId": 10006,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 137,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006137,
+        "PresentPartyId": 10006,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006139,
+        "PresentPartyId": 10006,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 141,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006141,
+        "PresentPartyId": 10006,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006146,
+        "PresentPartyId": 10006,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006148,
+        "PresentPartyId": 10006,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10006150,
+        "PresentPartyId": 10006,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 121,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007121,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007126,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007127,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007128,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007130,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 131,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007131,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007132,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007133,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007134,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007135,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007136,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 137,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007137,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007138,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007139,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 140,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007140,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 141,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007141,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 142,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007142,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 143,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007143,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 144,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007144,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007145,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007146,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 147,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007147,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007148,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 149,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007149,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007150,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 151,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007151,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 152,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007152,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 153,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007153,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 154,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007154,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007155,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 156,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007156,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007157,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007158,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 159,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007159,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007160,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007161,
+        "PresentPartyId": 10007,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007162,
+        "PresentPartyId": 10007,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 163,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007163,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10007164,
+        "PresentPartyId": 10007,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008126,
+        "PresentPartyId": 10008,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008134,
+        "PresentPartyId": 10008,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008135,
+        "PresentPartyId": 10008,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008138,
+        "PresentPartyId": 10008,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 144,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008144,
+        "PresentPartyId": 10008,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 148,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008148,
+        "PresentPartyId": 10008,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008150,
+        "PresentPartyId": 10008,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 152,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008152,
+        "PresentPartyId": 10008,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008157,
+        "PresentPartyId": 10008,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008159,
+        "PresentPartyId": 10008,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 162,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10008162,
+        "PresentPartyId": 10008,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 127,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009127,
+        "PresentPartyId": 10009,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 128,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009128,
+        "PresentPartyId": 10009,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009131,
+        "PresentPartyId": 10009,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009139,
+        "PresentPartyId": 10009,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 140,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009140,
+        "PresentPartyId": 10009,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009143,
+        "PresentPartyId": 10009,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009151,
+        "PresentPartyId": 10009,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009154,
+        "PresentPartyId": 10009,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10009158,
+        "PresentPartyId": 10009,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010130,
+        "PresentPartyId": 10010,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010133,
+        "PresentPartyId": 10010,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010136,
+        "PresentPartyId": 10010,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010145,
+        "PresentPartyId": 10010,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010153,
+        "PresentPartyId": 10010,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 156,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010156,
+        "PresentPartyId": 10010,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 160,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010160,
+        "PresentPartyId": 10010,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 164,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10010164,
+        "PresentPartyId": 10010,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011126,
+        "PresentPartyId": 10011,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011132,
+        "PresentPartyId": 10011,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011135,
+        "PresentPartyId": 10011,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 137,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011137,
+        "PresentPartyId": 10011,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 138,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011138,
+        "PresentPartyId": 10011,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011141,
+        "PresentPartyId": 10011,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 146,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011146,
+        "PresentPartyId": 10011,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011149,
+        "PresentPartyId": 10011,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 150,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011150,
+        "PresentPartyId": 10011,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011157,
+        "PresentPartyId": 10011,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 159,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011159,
+        "PresentPartyId": 10011,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10011162,
+        "PresentPartyId": 10011,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 127,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012127,
+        "PresentPartyId": 10012,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012131,
+        "PresentPartyId": 10012,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012134,
+        "PresentPartyId": 10012,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012135,
+        "PresentPartyId": 10012,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012139,
+        "PresentPartyId": 10012,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 144,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012144,
+        "PresentPartyId": 10012,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 148,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012148,
+        "PresentPartyId": 10012,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 152,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012152,
+        "PresentPartyId": 10012,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012154,
+        "PresentPartyId": 10012,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 158,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10012158,
+        "PresentPartyId": 10012,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10013135,
+        "PresentPartyId": 10013,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014130,
+        "PresentPartyId": 10014,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 131,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014131,
+        "PresentPartyId": 10014,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014132,
+        "PresentPartyId": 10014,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014133,
+        "PresentPartyId": 10014,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 140,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014140,
+        "PresentPartyId": 10014,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 144,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014144,
+        "PresentPartyId": 10014,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014145,
+        "PresentPartyId": 10014,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014151,
+        "PresentPartyId": 10014,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014156,
+        "PresentPartyId": 10014,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014159,
+        "PresentPartyId": 10014,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014160,
+        "PresentPartyId": 10014,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10014164,
+        "PresentPartyId": 10014,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 134,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015134,
+        "PresentPartyId": 10015,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 136,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015136,
+        "PresentPartyId": 10015,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 141,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015141,
+        "PresentPartyId": 10015,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015143,
+        "PresentPartyId": 10015,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015145,
+        "PresentPartyId": 10015,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015146,
+        "PresentPartyId": 10015,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 149,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015149,
+        "PresentPartyId": 10015,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 154,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015154,
+        "PresentPartyId": 10015,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 155,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015155,
+        "PresentPartyId": 10015,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 158,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015158,
+        "PresentPartyId": 10015,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015161,
+        "PresentPartyId": 10015,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 163,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10015163,
+        "PresentPartyId": 10015,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016126,
+        "PresentPartyId": 10016,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016132,
+        "PresentPartyId": 10016,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 137,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016137,
+        "PresentPartyId": 10016,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 138,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016138,
+        "PresentPartyId": 10016,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016139,
+        "PresentPartyId": 10016,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 148,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016148,
+        "PresentPartyId": 10016,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 150,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016150,
+        "PresentPartyId": 10016,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 153,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016153,
+        "PresentPartyId": 10016,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016155,
+        "PresentPartyId": 10016,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016158,
+        "PresentPartyId": 10016,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016160,
+        "PresentPartyId": 10016,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10016162,
+        "PresentPartyId": 10016,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017130,
+        "PresentPartyId": 10017,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 133,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017133,
+        "PresentPartyId": 10017,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017141,
+        "PresentPartyId": 10017,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 146,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017146,
+        "PresentPartyId": 10017,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017152,
+        "PresentPartyId": 10017,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 156,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017156,
+        "PresentPartyId": 10017,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 157,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017157,
+        "PresentPartyId": 10017,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017161,
+        "PresentPartyId": 10017,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10017163,
+        "PresentPartyId": 10017,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018126,
+        "PresentPartyId": 10018,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 139,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018139,
+        "PresentPartyId": 10018,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018145,
+        "PresentPartyId": 10018,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018149,
+        "PresentPartyId": 10018,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 153,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018153,
+        "PresentPartyId": 10018,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 154,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018154,
+        "PresentPartyId": 10018,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 155,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018155,
+        "PresentPartyId": 10018,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 159,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018159,
+        "PresentPartyId": 10018,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10018164,
+        "PresentPartyId": 10018,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 130,
+        "CharacterIdForPresentParty": 0,
+        "Id": 10019130,
+        "PresentPartyId": 10019,
+        "UnitType": 1
+    }
+]

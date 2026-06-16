@@ -1,0 +1,346 @@
+[
+    {
+        "Id": 1,
+        "IsBeforeSignup": true,
+        "Order": 2,
+        "TipsType": 1,
+        "Title": "メンバーの欠片について",
+        "TutorialId": 0
+    },
+    {
+        "Id": 2,
+        "IsBeforeSignup": true,
+        "Order": 3,
+        "TipsType": 2,
+        "Title": "プロデュースについて",
+        "TutorialId": 0
+    },
+    {
+        "Id": 3,
+        "IsBeforeSignup": true,
+        "Order": 4,
+        "TipsType": 3,
+        "Title": "チャレンジライブについて",
+        "TutorialId": 0
+    },
+    {
+        "Id": 4,
+        "IsBeforeSignup": false,
+        "Order": 100,
+        "TipsType": 4,
+        "Title": "メンバーの総合力を上げよう",
+        "TutorialId": 18
+    },
+    {
+        "Id": 5,
+        "IsBeforeSignup": false,
+        "Order": 101,
+        "TipsType": 5,
+        "Title": "スタイルをセットしよう！ ",
+        "TutorialId": 5
+    },
+    {
+        "Id": 6,
+        "IsBeforeSignup": false,
+        "Order": 102,
+        "TipsType": 6,
+        "Title": "乃木石購入について",
+        "TutorialId": 8
+    },
+    {
+        "Id": 7,
+        "IsBeforeSignup": false,
+        "Order": 108,
+        "TipsType": 7,
+        "Title": "デザインをしよう！",
+        "TutorialId": 20
+    },
+    {
+        "Id": 8,
+        "IsBeforeSignup": false,
+        "Order": 104,
+        "TipsType": 8,
+        "Title": "特別デザインをしよう！",
+        "TutorialId": 15
+    },
+    {
+        "Id": 9,
+        "IsBeforeSignup": false,
+        "Order": 105,
+        "TipsType": 9,
+        "Title": "ガチャについて",
+        "TutorialId": 24
+    },
+    {
+        "Id": 10,
+        "IsBeforeSignup": true,
+        "Order": 5,
+        "TipsType": 10,
+        "Title": "コーデについて",
+        "TutorialId": 0
+    },
+    {
+        "Id": 11,
+        "IsBeforeSignup": false,
+        "Order": 106,
+        "TipsType": 11,
+        "Title": "センターノギメモについて",
+        "TutorialId": 4
+    },
+    {
+        "Id": 12,
+        "IsBeforeSignup": false,
+        "Order": 107,
+        "TipsType": 12,
+        "Title": "リメイクについて",
+        "TutorialId": 20
+    },
+    {
+        "Id": 13,
+        "IsBeforeSignup": false,
+        "Order": 101,
+        "TipsType": 13,
+        "Title": "思い出について",
+        "TutorialId": 2
+    },
+    {
+        "Id": 15,
+        "IsBeforeSignup": false,
+        "Order": 110,
+        "TipsType": 15,
+        "Title": "パーティ編成について",
+        "TutorialId": 11
+    },
+    {
+        "Id": 16,
+        "IsBeforeSignup": true,
+        "Order": 1,
+        "TipsType": 16,
+        "Title": "センター選択について",
+        "TutorialId": 0
+    },
+    {
+        "Id": 17,
+        "IsBeforeSignup": false,
+        "Order": 111,
+        "TipsType": 17,
+        "Title": "乃木WEBについて",
+        "TutorialId": 13
+    },
+    {
+        "Id": 18,
+        "IsBeforeSignup": false,
+        "Order": 112,
+        "TipsType": 18,
+        "Title": "フラワースタンドについて",
+        "TutorialId": 26
+    },
+    {
+        "Id": 19,
+        "IsBeforeSignup": false,
+        "Order": 113,
+        "TipsType": 19,
+        "Title": "楽屋について",
+        "TutorialId": 27
+    },
+    {
+        "Id": 20,
+        "IsBeforeSignup": false,
+        "Order": 901,
+        "TipsType": 20,
+        "Title": "対抗ツアーについて",
+        "TutorialId": 36
+    },
+    {
+        "Id": 21,
+        "IsBeforeSignup": false,
+        "Order": 902,
+        "TipsType": 21,
+        "Title": "エントリーについて",
+        "TutorialId": 37
+    },
+    {
+        "Id": 22,
+        "IsBeforeSignup": false,
+        "Order": 903,
+        "TipsType": 22,
+        "Title": "ツアーライブ開催時間について",
+        "TutorialId": 38
+    },
+    {
+        "Id": 23,
+        "IsBeforeSignup": false,
+        "Order": 904,
+        "TipsType": 23,
+        "Title": "会場画面について",
+        "TutorialId": 39
+    },
+    {
+        "Id": 24,
+        "IsBeforeSignup": false,
+        "Order": 905,
+        "TipsType": 24,
+        "Title": "メンバー登録について",
+        "TutorialId": 40
+    },
+    {
+        "Id": 25,
+        "IsBeforeSignup": false,
+        "Order": 114,
+        "TipsType": 25,
+        "Title": "センタースキルについて",
+        "TutorialId": 9
+    },
+    {
+        "Id": 26,
+        "IsBeforeSignup": false,
+        "Order": 115,
+        "TipsType": 26,
+        "Title": "お見立て会について",
+        "TutorialId": 10
+    },
+    {
+        "Id": 27,
+        "IsBeforeSignup": false,
+        "Order": 116,
+        "TipsType": 27,
+        "Title": "グループについて",
+        "TutorialId": 12
+    },
+    {
+        "Id": 28,
+        "IsBeforeSignup": false,
+        "Order": 117,
+        "TipsType": 28,
+        "Title": "トレーニングについて",
+        "TutorialId": 14
+    },
+    {
+        "Id": 29,
+        "IsBeforeSignup": false,
+        "Order": 119,
+        "TipsType": 29,
+        "Title": "レッスンステージについて",
+        "TutorialId": 16
+    },
+    {
+        "Id": 30,
+        "IsBeforeSignup": false,
+        "Order": 120,
+        "TipsType": 30,
+        "Title": "グループで出来ることについて",
+        "TutorialId": 28
+    },
+    {
+        "Id": 31,
+        "IsBeforeSignup": false,
+        "Order": 118,
+        "TipsType": 31,
+        "Title": "レッスンについて",
+        "TutorialId": 16
+    },
+    {
+        "Id": 32,
+        "IsBeforeSignup": false,
+        "Order": 121,
+        "TipsType": 32,
+        "Title": "カスタマイズについて",
+        "TutorialId": 29
+    },
+    {
+        "Id": 33,
+        "IsBeforeSignup": false,
+        "Order": 201,
+        "TipsType": 33,
+        "Title": "フラコレボード・グループガチャについて",
+        "TutorialId": 41
+    },
+    {
+        "Id": 34,
+        "IsBeforeSignup": false,
+        "Order": 202,
+        "TipsType": 34,
+        "Title": "フラコレボードについて",
+        "TutorialId": 42
+    },
+    {
+        "Id": 35,
+        "IsBeforeSignup": false,
+        "Order": 203,
+        "TipsType": 35,
+        "Title": "グループガチャについて",
+        "TutorialId": 43
+    },
+    {
+        "Id": 36,
+        "IsBeforeSignup": false,
+        "Order": 204,
+        "TipsType": 36,
+        "Title": "寄付・リクエストについて",
+        "TutorialId": 44
+    },
+    {
+        "Id": 37,
+        "IsBeforeSignup": false,
+        "Order": 122,
+        "TipsType": 37,
+        "Title": "短縮ライブについて",
+        "TutorialId": 45
+    },
+    {
+        "Id": 38,
+        "IsBeforeSignup": false,
+        "Order": 123,
+        "TipsType": 38,
+        "Title": "ホーム切り替えについて",
+        "TutorialId": 46
+    },
+    {
+        "Id": 39,
+        "IsBeforeSignup": false,
+        "Order": 124,
+        "TipsType": 39,
+        "Title": "プロフィールについて",
+        "TutorialId": 47
+    },
+    {
+        "Id": 40,
+        "IsBeforeSignup": false,
+        "Order": 125,
+        "TipsType": 40,
+        "Title": "メンバーノギメモについて",
+        "TutorialId": 48
+    },
+    {
+        "Id": 41,
+        "IsBeforeSignup": false,
+        "Order": 126,
+        "TipsType": 41,
+        "Title": "メンバーノギメモ詳細について",
+        "TutorialId": 49
+    },
+    {
+        "Id": 42,
+        "IsBeforeSignup": false,
+        "Order": 126,
+        "TipsType": 42,
+        "Title": "アワードライブについて",
+        "TutorialId": 50
+    },
+    {
+        "Id": 43,
+        "IsBeforeSignup": false,
+        "Order": 127,
+        "TipsType": 43,
+        "Title": "アイキャッチムービーについて",
+        "TutorialId": 51
+    },
+    {
+        "Id": 50,
+        "IsBeforeSignup": false,
+        "Order": 125,
+        "TipsType": 50,
+        "Title": "初心者ボーナスについて",
+        "TutorialId": 50
+    }
+]

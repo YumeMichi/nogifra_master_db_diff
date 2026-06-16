@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Name": "別のフラワースタンドの解放",
+        "UnlockEffectType": 1
+    },
+    {
+        "Id": 2,
+        "Name": "楽屋施設の配置可能人数の増加",
+        "UnlockEffectType": 2
+    },
+    {
+        "Id": 3,
+        "Name": "グループ員への奥義ステータス付与",
+        "UnlockEffectType": 3
+    },
+    {
+        "Id": 4,
+        "Name": "グループ経験値獲得",
+        "UnlockEffectType": 4
+    },
+    {
+        "Id": 5,
+        "Name": "楽屋ステータス強化値",
+        "UnlockEffectType": 5
+    },
+    {
+        "Id": 6,
+        "Name": "グループログインボーナスの獲得物アップ",
+        "UnlockEffectType": 6
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "ExchangeGroupId": 1,
+        "Id": 101,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 2
+    },
+    {
+        "ExchangeGroupId": 2,
+        "Id": 201,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 10
+    },
+    {
+        "ExchangeGroupId": 3,
+        "Id": 301,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 2
+    },
+    {
+        "ExchangeGroupId": 4,
+        "Id": 401,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 2
+    },
+    {
+        "ExchangeGroupId": 5,
+        "Id": 501,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 15
+    },
+    {
+        "ExchangeGroupId": 6,
+        "Id": 601,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 4
+    },
+    {
+        "ExchangeGroupId": 7,
+        "Id": 701,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 3
+    },
+    {
+        "ExchangeGroupId": 8,
+        "Id": 801,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 25
+    },
+    {
+        "ExchangeGroupId": 9,
+        "Id": 901,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 8
+    },
+    {
+        "ExchangeGroupId": 10,
+        "Id": 1001,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 5
+    },
+    {
+        "ExchangeGroupId": 11,
+        "Id": 1101,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 3
+    },
+    {
+        "ExchangeGroupId": 12,
+        "Id": 1201,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 24
+    },
+    {
+        "ExchangeGroupId": 13,
+        "Id": 1301,
+        "ItemId": 190000023,
+        "ItemType": 190,
+        "Quantity": 180
+    },
+    {
+        "ExchangeGroupId": 14,
+        "Id": 1401,
+        "ItemId": 8,
+        "ItemType": 190,
+        "Quantity": 10
+    }
+]

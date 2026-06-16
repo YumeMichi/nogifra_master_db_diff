@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "ItemId": 111130001,
+        "ItemType": 111,
+        "Priority": 1,
+        "RequireQuantity": 1
+    },
+    {
+        "Id": 2,
+        "ItemId": 0,
+        "ItemType": 101,
+        "Priority": 2,
+        "RequireQuantity": 500
+    }
+]

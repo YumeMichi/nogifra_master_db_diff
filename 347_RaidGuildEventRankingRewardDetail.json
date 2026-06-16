@@ -1,0 +1,2830 @@
+[
+    {
+        "Id": 1,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004101
+    },
+    {
+        "Id": 2,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004101
+    },
+    {
+        "Id": 3,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004101
+    },
+    {
+        "Id": 4,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004102
+    },
+    {
+        "Id": 5,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004102
+    },
+    {
+        "Id": 6,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004102
+    },
+    {
+        "Id": 7,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004103
+    },
+    {
+        "Id": 8,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004103
+    },
+    {
+        "Id": 9,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004103
+    },
+    {
+        "Id": 10,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004104
+    },
+    {
+        "Id": 11,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004104
+    },
+    {
+        "Id": 12,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004104
+    },
+    {
+        "Id": 13,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004105
+    },
+    {
+        "Id": 14,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004105
+    },
+    {
+        "Id": 15,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004105
+    },
+    {
+        "Id": 16,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004106
+    },
+    {
+        "Id": 17,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004106
+    },
+    {
+        "Id": 18,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004106
+    },
+    {
+        "Id": 19,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004107
+    },
+    {
+        "Id": 20,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004107
+    },
+    {
+        "Id": 21,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004107
+    },
+    {
+        "Id": 22,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004108
+    },
+    {
+        "Id": 23,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004108
+    },
+    {
+        "Id": 24,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004108
+    },
+    {
+        "Id": 25,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004109
+    },
+    {
+        "Id": 26,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004109
+    },
+    {
+        "Id": 27,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004109
+    },
+    {
+        "Id": 28,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004110
+    },
+    {
+        "Id": 29,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004110
+    },
+    {
+        "Id": 30,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004110
+    },
+    {
+        "Id": 31,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004111
+    },
+    {
+        "Id": 32,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004111
+    },
+    {
+        "Id": 34,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004112
+    },
+    {
+        "Id": 37,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004113
+    },
+    {
+        "Id": 40,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004114
+    },
+    {
+        "Id": 43,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61004115
+    },
+    {
+        "Id": 101,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005101
+    },
+    {
+        "Id": 102,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005101
+    },
+    {
+        "Id": 103,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005101
+    },
+    {
+        "Id": 104,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005101
+    },
+    {
+        "Id": 105,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005102
+    },
+    {
+        "Id": 106,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005102
+    },
+    {
+        "Id": 107,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005102
+    },
+    {
+        "Id": 108,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005102
+    },
+    {
+        "Id": 109,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005103
+    },
+    {
+        "Id": 110,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005103
+    },
+    {
+        "Id": 111,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005103
+    },
+    {
+        "Id": 112,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005103
+    },
+    {
+        "Id": 113,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005104
+    },
+    {
+        "Id": 114,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005104
+    },
+    {
+        "Id": 115,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005104
+    },
+    {
+        "Id": 116,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005104
+    },
+    {
+        "Id": 117,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005105
+    },
+    {
+        "Id": 118,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005105
+    },
+    {
+        "Id": 119,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005105
+    },
+    {
+        "Id": 120,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005105
+    },
+    {
+        "Id": 121,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005106
+    },
+    {
+        "Id": 122,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005106
+    },
+    {
+        "Id": 123,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005106
+    },
+    {
+        "Id": 124,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005106
+    },
+    {
+        "Id": 125,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005107
+    },
+    {
+        "Id": 126,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005107
+    },
+    {
+        "Id": 127,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005107
+    },
+    {
+        "Id": 128,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005107
+    },
+    {
+        "Id": 129,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005108
+    },
+    {
+        "Id": 130,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005108
+    },
+    {
+        "Id": 131,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005108
+    },
+    {
+        "Id": 132,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005108
+    },
+    {
+        "Id": 133,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005109
+    },
+    {
+        "Id": 134,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005109
+    },
+    {
+        "Id": 135,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005109
+    },
+    {
+        "Id": 136,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005109
+    },
+    {
+        "Id": 137,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005110
+    },
+    {
+        "Id": 138,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005110
+    },
+    {
+        "Id": 139,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005110
+    },
+    {
+        "Id": 140,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61005110
+    },
+    {
+        "Id": 141,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005111
+    },
+    {
+        "Id": 142,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005111
+    },
+    {
+        "Id": 144,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005112
+    },
+    {
+        "Id": 147,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005113
+    },
+    {
+        "Id": 150,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005114
+    },
+    {
+        "Id": 153,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61005115
+    },
+    {
+        "Id": 201,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006101
+    },
+    {
+        "Id": 202,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006101
+    },
+    {
+        "Id": 203,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006101
+    },
+    {
+        "Id": 204,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006101
+    },
+    {
+        "Id": 205,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006102
+    },
+    {
+        "Id": 206,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006102
+    },
+    {
+        "Id": 207,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006102
+    },
+    {
+        "Id": 208,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006102
+    },
+    {
+        "Id": 209,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006103
+    },
+    {
+        "Id": 210,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006103
+    },
+    {
+        "Id": 211,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006103
+    },
+    {
+        "Id": 212,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006103
+    },
+    {
+        "Id": 213,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006104
+    },
+    {
+        "Id": 214,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006104
+    },
+    {
+        "Id": 215,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006104
+    },
+    {
+        "Id": 216,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006104
+    },
+    {
+        "Id": 217,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006105
+    },
+    {
+        "Id": 218,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006105
+    },
+    {
+        "Id": 219,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006105
+    },
+    {
+        "Id": 220,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006105
+    },
+    {
+        "Id": 221,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006106
+    },
+    {
+        "Id": 222,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006106
+    },
+    {
+        "Id": 223,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006106
+    },
+    {
+        "Id": 224,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006106
+    },
+    {
+        "Id": 225,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006107
+    },
+    {
+        "Id": 226,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006107
+    },
+    {
+        "Id": 227,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006107
+    },
+    {
+        "Id": 228,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006107
+    },
+    {
+        "Id": 229,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006108
+    },
+    {
+        "Id": 230,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006108
+    },
+    {
+        "Id": 231,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006108
+    },
+    {
+        "Id": 232,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006108
+    },
+    {
+        "Id": 233,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006109
+    },
+    {
+        "Id": 234,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006109
+    },
+    {
+        "Id": 235,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006109
+    },
+    {
+        "Id": 236,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006109
+    },
+    {
+        "Id": 237,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006110
+    },
+    {
+        "Id": 238,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006110
+    },
+    {
+        "Id": 239,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006110
+    },
+    {
+        "Id": 240,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61006110
+    },
+    {
+        "Id": 241,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006111
+    },
+    {
+        "Id": 242,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006111
+    },
+    {
+        "Id": 243,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006112
+    },
+    {
+        "Id": 244,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006113
+    },
+    {
+        "Id": 245,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006114
+    },
+    {
+        "Id": 246,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61006115
+    },
+    {
+        "Id": 301,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007101
+    },
+    {
+        "Id": 302,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007101
+    },
+    {
+        "Id": 303,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007101
+    },
+    {
+        "Id": 304,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007101
+    },
+    {
+        "Id": 305,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007102
+    },
+    {
+        "Id": 306,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007102
+    },
+    {
+        "Id": 307,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007102
+    },
+    {
+        "Id": 308,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007102
+    },
+    {
+        "Id": 309,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007103
+    },
+    {
+        "Id": 310,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007103
+    },
+    {
+        "Id": 311,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007103
+    },
+    {
+        "Id": 312,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007103
+    },
+    {
+        "Id": 313,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007104
+    },
+    {
+        "Id": 314,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007104
+    },
+    {
+        "Id": 315,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007104
+    },
+    {
+        "Id": 316,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007104
+    },
+    {
+        "Id": 317,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007105
+    },
+    {
+        "Id": 318,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007105
+    },
+    {
+        "Id": 319,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007105
+    },
+    {
+        "Id": 320,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007105
+    },
+    {
+        "Id": 321,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007106
+    },
+    {
+        "Id": 322,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007106
+    },
+    {
+        "Id": 323,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007106
+    },
+    {
+        "Id": 324,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007106
+    },
+    {
+        "Id": 325,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007107
+    },
+    {
+        "Id": 326,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007107
+    },
+    {
+        "Id": 327,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007107
+    },
+    {
+        "Id": 328,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007107
+    },
+    {
+        "Id": 329,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007108
+    },
+    {
+        "Id": 330,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007108
+    },
+    {
+        "Id": 331,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007108
+    },
+    {
+        "Id": 332,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007108
+    },
+    {
+        "Id": 333,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007109
+    },
+    {
+        "Id": 334,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007109
+    },
+    {
+        "Id": 335,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007109
+    },
+    {
+        "Id": 336,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007109
+    },
+    {
+        "Id": 337,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007110
+    },
+    {
+        "Id": 338,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007110
+    },
+    {
+        "Id": 339,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007110
+    },
+    {
+        "Id": 340,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61007110
+    },
+    {
+        "Id": 341,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007111
+    },
+    {
+        "Id": 342,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007111
+    },
+    {
+        "Id": 343,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007112
+    },
+    {
+        "Id": 344,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007113
+    },
+    {
+        "Id": 345,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007114
+    },
+    {
+        "Id": 346,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61007115
+    },
+    {
+        "Id": 610081001,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008101
+    },
+    {
+        "Id": 610081002,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008101
+    },
+    {
+        "Id": 610081003,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008101
+    },
+    {
+        "Id": 610081004,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008101
+    },
+    {
+        "Id": 610081005,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008102
+    },
+    {
+        "Id": 610081006,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008102
+    },
+    {
+        "Id": 610081007,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008102
+    },
+    {
+        "Id": 610081008,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008102
+    },
+    {
+        "Id": 610081009,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008103
+    },
+    {
+        "Id": 610081010,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008103
+    },
+    {
+        "Id": 610081011,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008103
+    },
+    {
+        "Id": 610081012,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008103
+    },
+    {
+        "Id": 610081013,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008104
+    },
+    {
+        "Id": 610081014,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008104
+    },
+    {
+        "Id": 610081015,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008104
+    },
+    {
+        "Id": 610081016,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008104
+    },
+    {
+        "Id": 610081017,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008105
+    },
+    {
+        "Id": 610081018,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008105
+    },
+    {
+        "Id": 610081019,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008105
+    },
+    {
+        "Id": 610081020,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008105
+    },
+    {
+        "Id": 610081021,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008106
+    },
+    {
+        "Id": 610081022,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008106
+    },
+    {
+        "Id": 610081023,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008106
+    },
+    {
+        "Id": 610081024,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008106
+    },
+    {
+        "Id": 610081025,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008107
+    },
+    {
+        "Id": 610081026,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008107
+    },
+    {
+        "Id": 610081027,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008107
+    },
+    {
+        "Id": 610081028,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008107
+    },
+    {
+        "Id": 610081029,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008108
+    },
+    {
+        "Id": 610081030,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008108
+    },
+    {
+        "Id": 610081031,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008108
+    },
+    {
+        "Id": 610081032,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008108
+    },
+    {
+        "Id": 610081033,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008109
+    },
+    {
+        "Id": 610081034,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008109
+    },
+    {
+        "Id": 610081035,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008109
+    },
+    {
+        "Id": 610081036,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008109
+    },
+    {
+        "Id": 610081037,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008110
+    },
+    {
+        "Id": 610081038,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008110
+    },
+    {
+        "Id": 610081039,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008110
+    },
+    {
+        "Id": 610081040,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61008110
+    },
+    {
+        "Id": 610081041,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008111
+    },
+    {
+        "Id": 610081042,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008111
+    },
+    {
+        "Id": 610081043,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008112
+    },
+    {
+        "Id": 610081044,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008113
+    },
+    {
+        "Id": 610081045,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008114
+    },
+    {
+        "Id": 610081046,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61008115
+    },
+    {
+        "Id": 610091001,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009101
+    },
+    {
+        "Id": 610091002,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009101
+    },
+    {
+        "Id": 610091003,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009101
+    },
+    {
+        "Id": 610091004,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009101
+    },
+    {
+        "Id": 610091005,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009102
+    },
+    {
+        "Id": 610091006,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009102
+    },
+    {
+        "Id": 610091007,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009102
+    },
+    {
+        "Id": 610091008,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009102
+    },
+    {
+        "Id": 610091009,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009103
+    },
+    {
+        "Id": 610091010,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009103
+    },
+    {
+        "Id": 610091011,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009103
+    },
+    {
+        "Id": 610091012,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009103
+    },
+    {
+        "Id": 610091013,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009104
+    },
+    {
+        "Id": 610091014,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009104
+    },
+    {
+        "Id": 610091015,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009104
+    },
+    {
+        "Id": 610091016,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009104
+    },
+    {
+        "Id": 610091017,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009105
+    },
+    {
+        "Id": 610091018,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009105
+    },
+    {
+        "Id": 610091019,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009105
+    },
+    {
+        "Id": 610091020,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009105
+    },
+    {
+        "Id": 610091021,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009106
+    },
+    {
+        "Id": 610091022,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009106
+    },
+    {
+        "Id": 610091023,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009106
+    },
+    {
+        "Id": 610091024,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009106
+    },
+    {
+        "Id": 610091025,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009107
+    },
+    {
+        "Id": 610091026,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009107
+    },
+    {
+        "Id": 610091027,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009107
+    },
+    {
+        "Id": 610091028,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009107
+    },
+    {
+        "Id": 610091029,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009108
+    },
+    {
+        "Id": 610091030,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009108
+    },
+    {
+        "Id": 610091031,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009108
+    },
+    {
+        "Id": 610091032,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009108
+    },
+    {
+        "Id": 610091033,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009109
+    },
+    {
+        "Id": 610091034,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009109
+    },
+    {
+        "Id": 610091035,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009109
+    },
+    {
+        "Id": 610091036,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009109
+    },
+    {
+        "Id": 610091037,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009110
+    },
+    {
+        "Id": 610091038,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009110
+    },
+    {
+        "Id": 610091039,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009110
+    },
+    {
+        "Id": 610091040,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61009110
+    },
+    {
+        "Id": 610091041,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009111
+    },
+    {
+        "Id": 610091042,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009111
+    },
+    {
+        "Id": 610091043,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009112
+    },
+    {
+        "Id": 610091044,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009113
+    },
+    {
+        "Id": 610091045,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009114
+    },
+    {
+        "Id": 610091046,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61009115
+    },
+    {
+        "Id": 610101001,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010101
+    },
+    {
+        "Id": 610101002,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010101
+    },
+    {
+        "Id": 610101003,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010101
+    },
+    {
+        "Id": 610101004,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010101
+    },
+    {
+        "Id": 610101005,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010102
+    },
+    {
+        "Id": 610101006,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010102
+    },
+    {
+        "Id": 610101007,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010102
+    },
+    {
+        "Id": 610101008,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010102
+    },
+    {
+        "Id": 610101009,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010103
+    },
+    {
+        "Id": 610101010,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010103
+    },
+    {
+        "Id": 610101011,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010103
+    },
+    {
+        "Id": 610101012,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010103
+    },
+    {
+        "Id": 610101013,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010104
+    },
+    {
+        "Id": 610101014,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010104
+    },
+    {
+        "Id": 610101015,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010104
+    },
+    {
+        "Id": 610101016,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010104
+    },
+    {
+        "Id": 610101017,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010105
+    },
+    {
+        "Id": 610101018,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010105
+    },
+    {
+        "Id": 610101019,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010105
+    },
+    {
+        "Id": 610101020,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010105
+    },
+    {
+        "Id": 610101021,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010106
+    },
+    {
+        "Id": 610101022,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010106
+    },
+    {
+        "Id": 610101023,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010106
+    },
+    {
+        "Id": 610101024,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010106
+    },
+    {
+        "Id": 610101025,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010107
+    },
+    {
+        "Id": 610101026,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010107
+    },
+    {
+        "Id": 610101027,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010107
+    },
+    {
+        "Id": 610101028,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010107
+    },
+    {
+        "Id": 610101029,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010108
+    },
+    {
+        "Id": 610101030,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010108
+    },
+    {
+        "Id": 610101031,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010108
+    },
+    {
+        "Id": 610101032,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010108
+    },
+    {
+        "Id": 610101033,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010109
+    },
+    {
+        "Id": 610101034,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010109
+    },
+    {
+        "Id": 610101035,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010109
+    },
+    {
+        "Id": 610101036,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010109
+    },
+    {
+        "Id": 610101037,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010110
+    },
+    {
+        "Id": 610101038,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010110
+    },
+    {
+        "Id": 610101039,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010110
+    },
+    {
+        "Id": 610101040,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61010110
+    },
+    {
+        "Id": 610101041,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010111
+    },
+    {
+        "Id": 610101042,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010111
+    },
+    {
+        "Id": 610101043,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010112
+    },
+    {
+        "Id": 610101044,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010113
+    },
+    {
+        "Id": 610101045,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010114
+    },
+    {
+        "Id": 610101046,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61010115
+    },
+    {
+        "Id": 610111001,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011101
+    },
+    {
+        "Id": 610111002,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011101
+    },
+    {
+        "Id": 610111003,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011101
+    },
+    {
+        "Id": 610111004,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011101
+    },
+    {
+        "Id": 610111005,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011102
+    },
+    {
+        "Id": 610111006,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011102
+    },
+    {
+        "Id": 610111007,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011102
+    },
+    {
+        "Id": 610111008,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011102
+    },
+    {
+        "Id": 610111009,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011103
+    },
+    {
+        "Id": 610111010,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011103
+    },
+    {
+        "Id": 610111011,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011103
+    },
+    {
+        "Id": 610111012,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011103
+    },
+    {
+        "Id": 610111013,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011104
+    },
+    {
+        "Id": 610111014,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011104
+    },
+    {
+        "Id": 610111015,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011104
+    },
+    {
+        "Id": 610111016,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011104
+    },
+    {
+        "Id": 610111017,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011105
+    },
+    {
+        "Id": 610111018,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011105
+    },
+    {
+        "Id": 610111019,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011105
+    },
+    {
+        "Id": 610111020,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011105
+    },
+    {
+        "Id": 610111021,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011106
+    },
+    {
+        "Id": 610111022,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011106
+    },
+    {
+        "Id": 610111023,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011106
+    },
+    {
+        "Id": 610111024,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011106
+    },
+    {
+        "Id": 610111025,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011107
+    },
+    {
+        "Id": 610111026,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011107
+    },
+    {
+        "Id": 610111027,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011107
+    },
+    {
+        "Id": 610111028,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011107
+    },
+    {
+        "Id": 610111029,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011108
+    },
+    {
+        "Id": 610111030,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011108
+    },
+    {
+        "Id": 610111031,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011108
+    },
+    {
+        "Id": 610111032,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011108
+    },
+    {
+        "Id": 610111033,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011109
+    },
+    {
+        "Id": 610111034,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011109
+    },
+    {
+        "Id": 610111035,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011109
+    },
+    {
+        "Id": 610111036,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011109
+    },
+    {
+        "Id": 610111037,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011110
+    },
+    {
+        "Id": 610111038,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011110
+    },
+    {
+        "Id": 610111039,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011110
+    },
+    {
+        "Id": 610111040,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61011110
+    },
+    {
+        "Id": 610111041,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011111
+    },
+    {
+        "Id": 610111042,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011111
+    },
+    {
+        "Id": 610111043,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011112
+    },
+    {
+        "Id": 610111044,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011113
+    },
+    {
+        "Id": 610111045,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011114
+    },
+    {
+        "Id": 610111046,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61011115
+    },
+    {
+        "Id": 610121001,
+        "ItemId": 111040008,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012101
+    },
+    {
+        "Id": 610121002,
+        "ItemId": 111100010,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012101
+    },
+    {
+        "Id": 610121003,
+        "ItemId": 111160999,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012101
+    },
+    {
+        "Id": 610121004,
+        "ItemId": 190000019,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012101
+    },
+    {
+        "Id": 610121005,
+        "ItemId": 111040008,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012102
+    },
+    {
+        "Id": 610121006,
+        "ItemId": 111100010,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012102
+    },
+    {
+        "Id": 610121007,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012102
+    },
+    {
+        "Id": 610121008,
+        "ItemId": 190000019,
+        "ItemQuantity": 2400,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012102
+    },
+    {
+        "Id": 610121009,
+        "ItemId": 111040008,
+        "ItemQuantity": 8,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012103
+    },
+    {
+        "Id": 610121010,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012103
+    },
+    {
+        "Id": 610121011,
+        "ItemId": 111160004,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012103
+    },
+    {
+        "Id": 610121012,
+        "ItemId": 190000019,
+        "ItemQuantity": 1800,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012103
+    },
+    {
+        "Id": 610121013,
+        "ItemId": 111040008,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012104
+    },
+    {
+        "Id": 610121014,
+        "ItemId": 111100009,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012104
+    },
+    {
+        "Id": 610121015,
+        "ItemId": 111160004,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012104
+    },
+    {
+        "Id": 610121016,
+        "ItemId": 190000019,
+        "ItemQuantity": 1500,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012104
+    },
+    {
+        "Id": 610121017,
+        "ItemId": 111040008,
+        "ItemQuantity": 5,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012105
+    },
+    {
+        "Id": 610121018,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012105
+    },
+    {
+        "Id": 610121019,
+        "ItemId": 111160004,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012105
+    },
+    {
+        "Id": 610121020,
+        "ItemId": 190000019,
+        "ItemQuantity": 1200,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012105
+    },
+    {
+        "Id": 610121021,
+        "ItemId": 111040008,
+        "ItemQuantity": 4,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012106
+    },
+    {
+        "Id": 610121022,
+        "ItemId": 111100009,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012106
+    },
+    {
+        "Id": 610121023,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012106
+    },
+    {
+        "Id": 610121024,
+        "ItemId": 190000019,
+        "ItemQuantity": 900,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012106
+    },
+    {
+        "Id": 610121025,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012107
+    },
+    {
+        "Id": 610121026,
+        "ItemId": 111100009,
+        "ItemQuantity": 22,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012107
+    },
+    {
+        "Id": 610121027,
+        "ItemId": 111160003,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012107
+    },
+    {
+        "Id": 610121028,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012107
+    },
+    {
+        "Id": 610121029,
+        "ItemId": 111040008,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012108
+    },
+    {
+        "Id": 610121030,
+        "ItemId": 111100009,
+        "ItemQuantity": 19,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012108
+    },
+    {
+        "Id": 610121031,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012108
+    },
+    {
+        "Id": 610121032,
+        "ItemId": 190000019,
+        "ItemQuantity": 600,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012108
+    },
+    {
+        "Id": 610121033,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012109
+    },
+    {
+        "Id": 610121034,
+        "ItemId": 111100009,
+        "ItemQuantity": 16,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012109
+    },
+    {
+        "Id": 610121035,
+        "ItemId": 111160002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012109
+    },
+    {
+        "Id": 610121036,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012109
+    },
+    {
+        "Id": 610121037,
+        "ItemId": 111040008,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012110
+    },
+    {
+        "Id": 610121038,
+        "ItemId": 111100009,
+        "ItemQuantity": 13,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012110
+    },
+    {
+        "Id": 610121039,
+        "ItemId": 111160002,
+        "ItemQuantity": 2,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012110
+    },
+    {
+        "Id": 610121040,
+        "ItemId": 190000019,
+        "ItemQuantity": 300,
+        "ItemType": 190,
+        "RankingRewardRangeId": 61012110
+    },
+    {
+        "Id": 610121041,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012111
+    },
+    {
+        "Id": 610121042,
+        "ItemId": 111100009,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012111
+    },
+    {
+        "Id": 610121043,
+        "ItemId": 111040008,
+        "ItemQuantity": 1,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012112
+    },
+    {
+        "Id": 610121044,
+        "ItemId": 111040006,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012113
+    },
+    {
+        "Id": 610121045,
+        "ItemId": 111040006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012114
+    },
+    {
+        "Id": 610121046,
+        "ItemId": 111040005,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "RankingRewardRangeId": 61012115
+    }
+]

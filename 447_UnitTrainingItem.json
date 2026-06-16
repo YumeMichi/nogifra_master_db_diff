@@ -1,0 +1,416 @@
+[
+    {
+        "CharacterId": 101,
+        "ConsumableItemId": 111110101,
+        "Id": 1,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 102,
+        "ConsumableItemId": 111110102,
+        "Id": 2,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 106,
+        "ConsumableItemId": 111110106,
+        "Id": 3,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 110,
+        "ConsumableItemId": 111110110,
+        "Id": 4,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 112,
+        "ConsumableItemId": 111110112,
+        "Id": 5,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 113,
+        "ConsumableItemId": 111110113,
+        "Id": 6,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 114,
+        "ConsumableItemId": 111110114,
+        "Id": 7,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 115,
+        "ConsumableItemId": 111110115,
+        "Id": 8,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 117,
+        "ConsumableItemId": 111110117,
+        "Id": 9,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 118,
+        "ConsumableItemId": 111110118,
+        "Id": 10,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 120,
+        "ConsumableItemId": 111110120,
+        "Id": 11,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 121,
+        "ConsumableItemId": 111110121,
+        "Id": 12,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 122,
+        "ConsumableItemId": 111110122,
+        "Id": 13,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 124,
+        "ConsumableItemId": 111110124,
+        "Id": 14,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 125,
+        "ConsumableItemId": 111110125,
+        "Id": 15,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 126,
+        "ConsumableItemId": 111110126,
+        "Id": 16,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 127,
+        "ConsumableItemId": 111110127,
+        "Id": 17,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 128,
+        "ConsumableItemId": 111110128,
+        "Id": 18,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 129,
+        "ConsumableItemId": 111110129,
+        "Id": 19,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 130,
+        "ConsumableItemId": 111110130,
+        "Id": 20,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 131,
+        "ConsumableItemId": 111110131,
+        "Id": 21,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 132,
+        "ConsumableItemId": 111110132,
+        "Id": 22,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 133,
+        "ConsumableItemId": 111110133,
+        "Id": 23,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 134,
+        "ConsumableItemId": 111110134,
+        "Id": 24,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 135,
+        "ConsumableItemId": 111110135,
+        "Id": 25,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 136,
+        "ConsumableItemId": 111110136,
+        "Id": 26,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 137,
+        "ConsumableItemId": 111110137,
+        "Id": 27,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 138,
+        "ConsumableItemId": 111110138,
+        "Id": 28,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 139,
+        "ConsumableItemId": 111110139,
+        "Id": 29,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 140,
+        "ConsumableItemId": 111110140,
+        "Id": 30,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 141,
+        "ConsumableItemId": 111110141,
+        "Id": 31,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 142,
+        "ConsumableItemId": 111110142,
+        "Id": 32,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 143,
+        "ConsumableItemId": 111110143,
+        "Id": 33,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 144,
+        "ConsumableItemId": 111110144,
+        "Id": 34,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 145,
+        "ConsumableItemId": 111110145,
+        "Id": 35,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 146,
+        "ConsumableItemId": 111110146,
+        "Id": 36,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 147,
+        "ConsumableItemId": 111110147,
+        "Id": 37,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 148,
+        "ConsumableItemId": 111110148,
+        "Id": 38,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 149,
+        "ConsumableItemId": 111110149,
+        "Id": 39,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 150,
+        "ConsumableItemId": 111110150,
+        "Id": 40,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 151,
+        "ConsumableItemId": 111110151,
+        "Id": 41,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 152,
+        "ConsumableItemId": 111110152,
+        "Id": 42,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 153,
+        "ConsumableItemId": 111110153,
+        "Id": 43,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 154,
+        "ConsumableItemId": 111110154,
+        "Id": 44,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 155,
+        "ConsumableItemId": 111110155,
+        "Id": 45,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 156,
+        "ConsumableItemId": 111110156,
+        "Id": 46,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 157,
+        "ConsumableItemId": 111110157,
+        "Id": 47,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 158,
+        "ConsumableItemId": 111110158,
+        "Id": 48,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 159,
+        "ConsumableItemId": 111110159,
+        "Id": 49,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 160,
+        "ConsumableItemId": 111110160,
+        "Id": 50,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 161,
+        "ConsumableItemId": 111110161,
+        "Id": 51,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 162,
+        "ConsumableItemId": 111110162,
+        "Id": 52,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 163,
+        "ConsumableItemId": 111110163,
+        "Id": 53,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 164,
+        "ConsumableItemId": 111110164,
+        "Id": 54,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 165,
+        "ConsumableItemId": 111110165,
+        "Id": 55,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 166,
+        "ConsumableItemId": 111110166,
+        "Id": 56,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 167,
+        "ConsumableItemId": 111110167,
+        "Id": 57,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 168,
+        "ConsumableItemId": 111110168,
+        "Id": 58,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 169,
+        "ConsumableItemId": 111110169,
+        "Id": 59,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 170,
+        "ConsumableItemId": 111110170,
+        "Id": 60,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 171,
+        "ConsumableItemId": 111110171,
+        "Id": 61,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 172,
+        "ConsumableItemId": 111110172,
+        "Id": 62,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 173,
+        "ConsumableItemId": 111110173,
+        "Id": 63,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 174,
+        "ConsumableItemId": 111110174,
+        "Id": 64,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 175,
+        "ConsumableItemId": 111110175,
+        "Id": 65,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 501,
+        "ConsumableItemId": 111110501,
+        "Id": 66,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 502,
+        "ConsumableItemId": 111110502,
+        "Id": 67,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 503,
+        "ConsumableItemId": 111110503,
+        "Id": 68,
+        "TrainingId": 3
+    },
+    {
+        "CharacterId": 504,
+        "ConsumableItemId": 111110504,
+        "Id": 69,
+        "TrainingId": 3
+    }
+]

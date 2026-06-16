@@ -1,0 +1,326 @@
+[
+    {
+        "FlowerStandExp": 30,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 3,
+        "Id": 1,
+        "ItemId": 0,
+        "ItemQuantity": 50000,
+        "ItemType": 102
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 10,
+        "Id": 2,
+        "ItemId": 0,
+        "ItemQuantity": 50,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 20,
+        "Id": 3,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 5,
+        "Id": 4,
+        "ItemId": 13,
+        "ItemQuantity": 50,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 10,
+        "Id": 5,
+        "ItemId": 13,
+        "ItemQuantity": 100,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 20,
+        "Id": 6,
+        "ItemId": 13,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 30,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 3,
+        "Id": 7,
+        "ItemId": 0,
+        "ItemQuantity": 50000,
+        "ItemType": 102
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 10,
+        "Id": 8,
+        "ItemId": 0,
+        "ItemQuantity": 50,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 20,
+        "Id": 9,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 5,
+        "Id": 10,
+        "ItemId": 13,
+        "ItemQuantity": 50,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 10,
+        "Id": 11,
+        "ItemId": 13,
+        "ItemQuantity": 100,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 20,
+        "Id": 12,
+        "ItemId": 13,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 30,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 3,
+        "Id": 13,
+        "ItemId": 0,
+        "ItemQuantity": 50000,
+        "ItemType": 102
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 10,
+        "Id": 14,
+        "ItemId": 0,
+        "ItemQuantity": 50,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 20,
+        "Id": 15,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 5,
+        "Id": 16,
+        "ItemId": 13,
+        "ItemQuantity": 50,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 10,
+        "Id": 17,
+        "ItemId": 13,
+        "ItemQuantity": 100,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 20,
+        "Id": 18,
+        "ItemId": 13,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 30,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 3,
+        "Id": 19,
+        "ItemId": 0,
+        "ItemQuantity": 50000,
+        "ItemType": 102
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 10,
+        "Id": 20,
+        "ItemId": 0,
+        "ItemQuantity": 50,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 20,
+        "Id": 21,
+        "ItemId": 0,
+        "ItemQuantity": 300,
+        "ItemType": 101
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 5,
+        "Id": 22,
+        "ItemId": 13,
+        "ItemQuantity": 50,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 10,
+        "Id": 23,
+        "ItemId": 13,
+        "ItemQuantity": 100,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 20,
+        "Id": 24,
+        "ItemId": 13,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 5,
+        "Id": 25,
+        "ItemId": 111140101,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 10,
+        "Id": 26,
+        "ItemId": 111140102,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 1,
+        "GuildMedalQuantity": 20,
+        "Id": 27,
+        "ItemId": 111140103,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 5,
+        "Id": 28,
+        "ItemId": 111140201,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 10,
+        "Id": 29,
+        "ItemId": 111140202,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 2,
+        "GuildMedalQuantity": 20,
+        "Id": 30,
+        "ItemId": 111140203,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 5,
+        "Id": 31,
+        "ItemId": 111140301,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 10,
+        "Id": 32,
+        "ItemId": 111140302,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 3,
+        "GuildMedalQuantity": 20,
+        "Id": 33,
+        "ItemId": 111140303,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 50,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 5,
+        "Id": 34,
+        "ItemId": 111140401,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 100,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 10,
+        "Id": 35,
+        "ItemId": 111140402,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "FlowerStandExp": 200,
+        "FlowerStandId": 4,
+        "GuildMedalQuantity": 20,
+        "Id": 36,
+        "ItemId": 111140403,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    }
+]

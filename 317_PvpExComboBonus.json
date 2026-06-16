@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "Point": 1,
+        "WinCount": 3
+    },
+    {
+        "Id": 2,
+        "Point": 2,
+        "WinCount": 5
+    },
+    {
+        "Id": 3,
+        "Point": 3,
+        "WinCount": 10
+    },
+    {
+        "Id": 4,
+        "Point": 4,
+        "WinCount": 20
+    },
+    {
+        "Id": 5,
+        "Point": 5,
+        "WinCount": 30
+    },
+    {
+        "Id": 6,
+        "Point": 6,
+        "WinCount": 50
+    }
+]

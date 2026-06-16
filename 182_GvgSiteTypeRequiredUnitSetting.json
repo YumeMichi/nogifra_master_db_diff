@@ -1,0 +1,74 @@
+[
+    {
+        "FromServerLevel": 1,
+        "Id": 101,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 1,
+        "SiteType": 1,
+        "ToServerLevel": 70
+    },
+    {
+        "FromServerLevel": 71,
+        "Id": 102,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 2,
+        "SiteType": 1,
+        "ToServerLevel": 90
+    },
+    {
+        "FromServerLevel": 91,
+        "Id": 103,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 3,
+        "SiteType": 1,
+        "ToServerLevel": 0
+    },
+    {
+        "FromServerLevel": 1,
+        "Id": 104,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 1,
+        "SiteType": 2,
+        "ToServerLevel": 50
+    },
+    {
+        "FromServerLevel": 51,
+        "Id": 105,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 2,
+        "SiteType": 2,
+        "ToServerLevel": 85
+    },
+    {
+        "FromServerLevel": 86,
+        "Id": 106,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 3,
+        "SiteType": 2,
+        "ToServerLevel": 0
+    },
+    {
+        "FromServerLevel": 1,
+        "Id": 107,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 2,
+        "SiteType": 3,
+        "ToServerLevel": 50
+    },
+    {
+        "FromServerLevel": 51,
+        "Id": 108,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 3,
+        "SiteType": 3,
+        "ToServerLevel": 85
+    },
+    {
+        "FromServerLevel": 86,
+        "Id": 109,
+        "MaximumUnitsRequiredForAction": 4,
+        "MinimumUnitsRequiredForAction": 4,
+        "SiteType": 3,
+        "ToServerLevel": 0
+    }
+]

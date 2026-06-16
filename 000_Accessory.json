@@ -1,0 +1,14 @@
+[
+    {
+        "AttachmentTarget": 0,
+        "Id": 1,
+        "Name": "ハンドマイク",
+        "ResourceName": "Acc_microphone_001_m1"
+    },
+    {
+        "AttachmentTarget": 3,
+        "Id": 2,
+        "Name": "ヘッドマイク",
+        "ResourceName": "Acc_headsetmic_001_m1"
+    }
+]

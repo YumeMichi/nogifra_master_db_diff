@@ -1,0 +1,74 @@
+[
+    {
+        "Id": 1,
+        "PassingPointType": 1
+    },
+    {
+        "Id": 10,
+        "PassingPointType": 10
+    },
+    {
+        "Id": 20,
+        "PassingPointType": 20
+    },
+    {
+        "Id": 30,
+        "PassingPointType": 30
+    },
+    {
+        "Id": 40,
+        "PassingPointType": 40
+    },
+    {
+        "Id": 50,
+        "PassingPointType": 50
+    },
+    {
+        "Id": 61,
+        "PassingPointType": 61
+    },
+    {
+        "Id": 62,
+        "PassingPointType": 62
+    },
+    {
+        "Id": 70,
+        "PassingPointType": 70
+    },
+    {
+        "Id": 80,
+        "PassingPointType": 80
+    },
+    {
+        "Id": 90,
+        "PassingPointType": 90
+    },
+    {
+        "Id": 100,
+        "PassingPointType": 100
+    },
+    {
+        "Id": 110,
+        "PassingPointType": 110
+    },
+    {
+        "Id": 900,
+        "PassingPointType": 900
+    },
+    {
+        "Id": 901,
+        "PassingPointType": 901
+    },
+    {
+        "Id": 910,
+        "PassingPointType": 910
+    },
+    {
+        "Id": 911,
+        "PassingPointType": 911
+    },
+    {
+        "Id": 1000,
+        "PassingPointType": 1000
+    }
+]

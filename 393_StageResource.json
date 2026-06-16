@@ -1,0 +1,32 @@
+[
+    {
+        "Id": 1,
+        "MainSceneName": "stage_n_001",
+        "SubPrefabName": "Sub_001"
+    },
+    {
+        "Id": 2,
+        "MainSceneName": "stage_n_001",
+        "SubPrefabName": "Sub_002"
+    },
+    {
+        "Id": 3,
+        "MainSceneName": "stage_n_001",
+        "SubPrefabName": "Sub_003"
+    },
+    {
+        "Id": 4,
+        "MainSceneName": "stage_d_001",
+        "SubPrefabName": "Sub_002"
+    },
+    {
+        "Id": 5,
+        "MainSceneName": "stage_lesson_001",
+        "SubPrefabName": ""
+    },
+    {
+        "Id": 6,
+        "MainSceneName": "stage_n_002",
+        "SubPrefabName": ""
+    }
+]

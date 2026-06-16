@@ -1,0 +1,1754 @@
+[
+    {
+        "GuildRaidBossId": 101,
+        "Id": 10101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 101,
+        "Id": 10102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 102,
+        "Id": 10201,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 102,
+        "Id": 10202,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 106,
+        "Id": 10601,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 106,
+        "Id": 10602,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 110,
+        "Id": 11001,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 110,
+        "Id": 11002,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 112,
+        "Id": 11201,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 112,
+        "Id": 11202,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 113,
+        "Id": 11301,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 113,
+        "Id": 11302,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 114,
+        "Id": 11401,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 114,
+        "Id": 11402,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 115,
+        "Id": 11501,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 115,
+        "Id": 11502,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 117,
+        "Id": 11701,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 117,
+        "Id": 11702,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 118,
+        "Id": 11801,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 118,
+        "Id": 11802,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 120,
+        "Id": 12001,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 120,
+        "Id": 12002,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 121,
+        "Id": 12101,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 121,
+        "Id": 12102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 122,
+        "Id": 12201,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 122,
+        "Id": 12202,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 124,
+        "Id": 12401,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 124,
+        "Id": 12402,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 125,
+        "Id": 12501,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 125,
+        "Id": 12502,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 126,
+        "Id": 12601,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 126,
+        "Id": 12602,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 127,
+        "Id": 12701,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 127,
+        "Id": 12702,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 128,
+        "Id": 12801,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 128,
+        "Id": 12802,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 129,
+        "Id": 12901,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 129,
+        "Id": 12902,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 130,
+        "Id": 13001,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 130,
+        "Id": 13002,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 131,
+        "Id": 13101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 131,
+        "Id": 13102,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 132,
+        "Id": 13201,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 132,
+        "Id": 13202,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 133,
+        "Id": 13301,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 133,
+        "Id": 13302,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 134,
+        "Id": 13401,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 134,
+        "Id": 13402,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 135,
+        "Id": 13501,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 135,
+        "Id": 13502,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 136,
+        "Id": 13601,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 136,
+        "Id": 13602,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 137,
+        "Id": 13701,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 137,
+        "Id": 13702,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 138,
+        "Id": 13801,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 138,
+        "Id": 13802,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 139,
+        "Id": 13901,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 139,
+        "Id": 13902,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 140,
+        "Id": 14001,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 140,
+        "Id": 14002,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 141,
+        "Id": 14101,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 141,
+        "Id": 14102,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 142,
+        "Id": 14201,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 142,
+        "Id": 14202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 143,
+        "Id": 14301,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 143,
+        "Id": 14302,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 144,
+        "Id": 14401,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 144,
+        "Id": 14402,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 145,
+        "Id": 14501,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 145,
+        "Id": 14502,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 146,
+        "Id": 14601,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 146,
+        "Id": 14602,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 147,
+        "Id": 14701,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 147,
+        "Id": 14702,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 148,
+        "Id": 14801,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 148,
+        "Id": 14802,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 149,
+        "Id": 14901,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 149,
+        "Id": 14902,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 150,
+        "Id": 15001,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 150,
+        "Id": 15002,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 151,
+        "Id": 15101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 151,
+        "Id": 15102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 152,
+        "Id": 15201,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 152,
+        "Id": 15202,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 153,
+        "Id": 15301,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 153,
+        "Id": 15302,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 10101,
+        "Id": 1010101,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 10101,
+        "Id": 1010102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 10601,
+        "Id": 1060101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 10601,
+        "Id": 1060102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 11201,
+        "Id": 1120101,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 11201,
+        "Id": 1120102,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 11501,
+        "Id": 1150101,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 11501,
+        "Id": 1150102,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 12101,
+        "Id": 1210101,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 12101,
+        "Id": 1210102,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 12601,
+        "Id": 1260101,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 12601,
+        "Id": 1260102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 12602,
+        "Id": 1260201,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 12602,
+        "Id": 1260202,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 12603,
+        "Id": 1260301,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 12603,
+        "Id": 1260302,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 12701,
+        "Id": 1270101,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 12701,
+        "Id": 1270102,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 12702,
+        "Id": 1270201,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 12702,
+        "Id": 1270202,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 12703,
+        "Id": 1270301,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 12703,
+        "Id": 1270302,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 12801,
+        "Id": 1280101,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 12801,
+        "Id": 1280102,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 12802,
+        "Id": 1280201,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 12802,
+        "Id": 1280202,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 12803,
+        "Id": 1280301,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 12803,
+        "Id": 1280302,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13001,
+        "Id": 1300101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 13001,
+        "Id": 1300102,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 13002,
+        "Id": 1300201,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13002,
+        "Id": 1300202,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 13003,
+        "Id": 1300301,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13003,
+        "Id": 1300302,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 13101,
+        "Id": 1310101,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13101,
+        "Id": 1310102,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 13201,
+        "Id": 1320101,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 13201,
+        "Id": 1320102,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 13202,
+        "Id": 1320201,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13202,
+        "Id": 1320202,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 13301,
+        "Id": 1330101,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 13301,
+        "Id": 1330102,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13302,
+        "Id": 1330201,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13302,
+        "Id": 1330202,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 13401,
+        "Id": 1340101,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 13401,
+        "Id": 1340102,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 13402,
+        "Id": 1340201,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 13402,
+        "Id": 1340202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 13501,
+        "Id": 1350101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 13501,
+        "Id": 1350102,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 13601,
+        "Id": 1360101,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13601,
+        "Id": 1360102,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 13602,
+        "Id": 1360201,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13602,
+        "Id": 1360202,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 13603,
+        "Id": 1360301,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13603,
+        "Id": 1360302,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 13701,
+        "Id": 1370101,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 13701,
+        "Id": 1370102,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 13702,
+        "Id": 1370201,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 13702,
+        "Id": 1370202,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13801,
+        "Id": 1380101,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 13801,
+        "Id": 1380102,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 13802,
+        "Id": 1380201,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 13802,
+        "Id": 1380202,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13803,
+        "Id": 1380301,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 13803,
+        "Id": 1380302,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 13901,
+        "Id": 1390101,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 13901,
+        "Id": 1390102,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 13902,
+        "Id": 1390201,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 13902,
+        "Id": 1390202,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 13903,
+        "Id": 1390301,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 13903,
+        "Id": 1390302,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 14001,
+        "Id": 1400101,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 14001,
+        "Id": 1400102,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 14101,
+        "Id": 1410101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 14101,
+        "Id": 1410102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 14102,
+        "Id": 1410201,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14102,
+        "Id": 1410202,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 14103,
+        "Id": 1410301,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14103,
+        "Id": 1410302,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 14201,
+        "Id": 1420101,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14201,
+        "Id": 1420102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 14301,
+        "Id": 1430101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 14301,
+        "Id": 1430102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 14302,
+        "Id": 1430201,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 14302,
+        "Id": 1430202,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 14303,
+        "Id": 1430301,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 14303,
+        "Id": 1430302,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 14401,
+        "Id": 1440101,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 14401,
+        "Id": 1440102,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 14501,
+        "Id": 1450101,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 14501,
+        "Id": 1450102,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 14502,
+        "Id": 1450201,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 14502,
+        "Id": 1450202,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 14503,
+        "Id": 1450301,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 14503,
+        "Id": 1450302,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 14601,
+        "Id": 1460101,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 14601,
+        "Id": 1460102,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14602,
+        "Id": 1460201,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14602,
+        "Id": 1460202,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 14603,
+        "Id": 1460301,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14603,
+        "Id": 1460302,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 14701,
+        "Id": 1470101,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 14701,
+        "Id": 1470102,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 14801,
+        "Id": 1480101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 14801,
+        "Id": 1480102,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 14802,
+        "Id": 1480201,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 14802,
+        "Id": 1480202,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 14803,
+        "Id": 1480301,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 14803,
+        "Id": 1480302,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 14901,
+        "Id": 1490101,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 14901,
+        "Id": 1490102,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 14902,
+        "Id": 1490201,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 14902,
+        "Id": 1490202,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 14903,
+        "Id": 1490301,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 14903,
+        "Id": 1490302,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15001,
+        "Id": 1500101,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15001,
+        "Id": 1500102,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15002,
+        "Id": 1500201,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15002,
+        "Id": 1500202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15003,
+        "Id": 1500301,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15003,
+        "Id": 1500302,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15101,
+        "Id": 1510101,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15101,
+        "Id": 1510102,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15102,
+        "Id": 1510201,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15102,
+        "Id": 1510202,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15103,
+        "Id": 1510301,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15103,
+        "Id": 1510302,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15201,
+        "Id": 1520101,
+        "Round": 1,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15201,
+        "Id": 1520102,
+        "Round": 2,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15202,
+        "Id": 1520201,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15202,
+        "Id": 1520202,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15203,
+        "Id": 1520301,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15203,
+        "Id": 1520302,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15301,
+        "Id": 1530101,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15301,
+        "Id": 1530102,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15302,
+        "Id": 1530201,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15302,
+        "Id": 1530202,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15303,
+        "Id": 1530301,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15303,
+        "Id": 1530302,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15401,
+        "Id": 1540101,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15401,
+        "Id": 1540102,
+        "Round": 2,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 15402,
+        "Id": 1540201,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15402,
+        "Id": 1540202,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15403,
+        "Id": 1540301,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15403,
+        "Id": 1540302,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15501,
+        "Id": 1550101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 15501,
+        "Id": 1550102,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15502,
+        "Id": 1550201,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15502,
+        "Id": 1550202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15503,
+        "Id": 1550301,
+        "Round": 1,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15503,
+        "Id": 1550302,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15601,
+        "Id": 1560101,
+        "Round": 1,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 15601,
+        "Id": 1560102,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15602,
+        "Id": 1560201,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15602,
+        "Id": 1560202,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15603,
+        "Id": 1560301,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15603,
+        "Id": 1560302,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 15701,
+        "Id": 1570101,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15701,
+        "Id": 1570102,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15702,
+        "Id": 1570201,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15702,
+        "Id": 1570202,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15703,
+        "Id": 1570301,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15703,
+        "Id": 1570302,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 15801,
+        "Id": 1580101,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 15801,
+        "Id": 1580102,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15802,
+        "Id": 1580201,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15802,
+        "Id": 1580202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15803,
+        "Id": 1580301,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 15803,
+        "Id": 1580302,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15901,
+        "Id": 1590101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 15901,
+        "Id": 1590102,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 15902,
+        "Id": 1590201,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15902,
+        "Id": 1590202,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 15903,
+        "Id": 1590301,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 15903,
+        "Id": 1590302,
+        "Round": 2,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 16001,
+        "Id": 1600101,
+        "Round": 1,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 16001,
+        "Id": 1600102,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 16002,
+        "Id": 1600201,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 16002,
+        "Id": 1600202,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 16003,
+        "Id": 1600301,
+        "Round": 1,
+        "TagId": 109
+    },
+    {
+        "GuildRaidBossId": 16003,
+        "Id": 1600302,
+        "Round": 2,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 16101,
+        "Id": 1610101,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 16101,
+        "Id": 1610102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 16102,
+        "Id": 1610201,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 16102,
+        "Id": 1610202,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 16103,
+        "Id": 1610301,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 16103,
+        "Id": 1610302,
+        "Round": 2,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 16201,
+        "Id": 1620101,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 16201,
+        "Id": 1620102,
+        "Round": 2,
+        "TagId": 106
+    },
+    {
+        "GuildRaidBossId": 16202,
+        "Id": 1620201,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 16202,
+        "Id": 1620202,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 16203,
+        "Id": 1620301,
+        "Round": 1,
+        "TagId": 105
+    },
+    {
+        "GuildRaidBossId": 16203,
+        "Id": 1620302,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 16301,
+        "Id": 1630101,
+        "Round": 1,
+        "TagId": 107
+    },
+    {
+        "GuildRaidBossId": 16301,
+        "Id": 1630102,
+        "Round": 2,
+        "TagId": 108
+    },
+    {
+        "GuildRaidBossId": 16302,
+        "Id": 1630201,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 16302,
+        "Id": 1630202,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 16303,
+        "Id": 1630301,
+        "Round": 1,
+        "TagId": 103
+    },
+    {
+        "GuildRaidBossId": 16303,
+        "Id": 1630302,
+        "Round": 2,
+        "TagId": 110
+    },
+    {
+        "GuildRaidBossId": 16401,
+        "Id": 1640101,
+        "Round": 1,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 16401,
+        "Id": 1640102,
+        "Round": 2,
+        "TagId": 102
+    },
+    {
+        "GuildRaidBossId": 16402,
+        "Id": 1640201,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 16402,
+        "Id": 1640202,
+        "Round": 2,
+        "TagId": 101
+    },
+    {
+        "GuildRaidBossId": 16403,
+        "Id": 1640301,
+        "Round": 1,
+        "TagId": 104
+    },
+    {
+        "GuildRaidBossId": 16403,
+        "Id": 1640302,
+        "Round": 2,
+        "TagId": 101
+    }
+]

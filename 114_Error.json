@@ -1,0 +1,1642 @@
+[
+    {
+        "Id": 1,
+        "Logic": 5,
+        "Message": "リクエストヘッダが不正です。",
+        "Name": "header_analyzer.Delta.Web.Plugs.MissingClientHeaderError",
+        "NameType": 1,
+        "Title": "通信エラー"
+    },
+    {
+        "Id": 2,
+        "Logic": 7,
+        "Message": "",
+        "Name": "GHR.AUTHENTICATION.SESSION_EXPIRED",
+        "NameType": 2,
+        "Title": "エラー"
+    },
+    {
+        "Id": 3,
+        "Logic": 6,
+        "Message": "",
+        "Name": "Delta.Player.PlayerNotExistsError",
+        "NameType": 3,
+        "Title": "エラー"
+    },
+    {
+        "Id": 4,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Produce.EndProcessNotExecutedError",
+        "NameType": 4,
+        "Title": "エラー"
+    },
+    {
+        "Id": 5,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Produce.AlreadyExecutedEndProgressError",
+        "NameType": 5,
+        "Title": "エラー"
+    },
+    {
+        "Id": 6,
+        "Logic": 5,
+        "Message": "既に使用されている名前です。",
+        "Name": "Delta.Player.SameNameError",
+        "NameType": 6,
+        "Title": "エラー"
+    },
+    {
+        "Id": 20,
+        "Logic": 2,
+        "Message": "同名のグループが存在します。",
+        "Name": "Delta.Guild.DuplicateNameError",
+        "NameType": 20,
+        "Title": "エラー"
+    },
+    {
+        "Id": 21,
+        "Logic": 5,
+        "Message": "グループに所属しています。",
+        "Name": "Delta.Guild.GuildAlreadyJoinedError",
+        "NameType": 21,
+        "Title": "エラー"
+    },
+    {
+        "Id": 22,
+        "Logic": 2,
+        "Message": "グループが満員なため申請できませんでした。",
+        "Name": "Delta.Guild.FullGuildError",
+        "NameType": 22,
+        "Title": "エラー"
+    },
+    {
+        "Id": 23,
+        "Logic": 2,
+        "Message": "他のグループメンバーがいるため脱退できません",
+        "Name": "Delta.Guild.NotEmptyGuildError",
+        "NameType": 23,
+        "Title": "エラー"
+    },
+    {
+        "Id": 24,
+        "Logic": 2,
+        "Message": "グループが存在しません。",
+        "Name": "Delta.Guild.GuildNotFoundError",
+        "NameType": 24,
+        "Title": "エラー"
+    },
+    {
+        "Id": 25,
+        "Logic": 12,
+        "Message": "グループに所属していません。\nホームへ戻ります。",
+        "Name": "Delta.Guild.MemberNotFoundError",
+        "NameType": 25,
+        "Title": "エラー"
+    },
+    {
+        "Id": 26,
+        "Logic": 2,
+        "Message": "申請条件を満たしていません。",
+        "Name": "Delta.Guild.NotFulfillJoinConditionError",
+        "NameType": 26,
+        "Title": "エラー"
+    },
+    {
+        "Id": 27,
+        "Logic": 3,
+        "Message": "申請が取り消されています。",
+        "Name": "Delta.Guild.JoinRequestNotFoundError",
+        "NameType": 27,
+        "Title": "エラー"
+    },
+    {
+        "Id": 28,
+        "Logic": 2,
+        "Message": "所持していないグループアイコンなため変更できません。",
+        "Name": "Delta.Guild.IconNotAvailableError",
+        "NameType": 28,
+        "Title": "エラー"
+    },
+    {
+        "Id": 30,
+        "Logic": 3,
+        "Message": "有効期限切れなため使用できません。",
+        "Name": "Delta.Item.ItemNotWithinValidPeriodError",
+        "NameType": 30,
+        "Title": "エラー"
+    },
+    {
+        "Id": 32,
+        "Logic": 5,
+        "Message": "すでにフレンド解除しています。",
+        "Name": "Delta.Friend.CannotRemoveFriendError",
+        "NameType": 32,
+        "Title": "エラー"
+    },
+    {
+        "Id": 33,
+        "Logic": 5,
+        "Message": "申請取消できません。",
+        "Name": "Delta.Friend.CannotCancelRequestError",
+        "NameType": 33,
+        "Title": "エラー"
+    },
+    {
+        "Id": 34,
+        "Logic": 5,
+        "Message": "既に取り消されています",
+        "Name": "Delta.Friend.CannotAcceptRequestError",
+        "NameType": 34,
+        "Title": "エラー"
+    },
+    {
+        "Id": 35,
+        "Logic": 5,
+        "Message": "既に取り消されています",
+        "Name": "Delta.Friend.CannotRejectRequestError",
+        "NameType": 35,
+        "Title": "エラー"
+    },
+    {
+        "Id": 36,
+        "Logic": 9,
+        "Message": "自分のフレンド数が最大です。",
+        "Name": "Delta.Friend.FriendCountFullError",
+        "NameType": 36,
+        "Title": "エラー"
+    },
+    {
+        "Id": 37,
+        "Logic": 9,
+        "Message": "自分のフレンド申請数が最大です",
+        "Name": "Delta.Friend.FriendRequestCountFullError",
+        "NameType": 37,
+        "Title": "エラー"
+    },
+    {
+        "Id": 38,
+        "Logic": 9,
+        "Message": "相手のフレンド数が最大です。",
+        "Name": "Delta.Friend.TargetPlayerFriendCountFullError",
+        "NameType": 38,
+        "Title": "エラー"
+    },
+    {
+        "Id": 39,
+        "Logic": 9,
+        "Message": "相手の未承認申請数が最大です。",
+        "Name": "Delta.Friend.TargetPlayerFriendRequestedCountFullError",
+        "NameType": 39,
+        "Title": "エラー"
+    },
+    {
+        "Id": 40,
+        "Logic": 9,
+        "Message": "相手のチャンネルが異なります。",
+        "Name": "Delta.Friend.OtherWorldGroupRequestError",
+        "NameType": 40,
+        "Title": "エラー"
+    },
+    {
+        "Id": 41,
+        "Logic": 9,
+        "Message": "自分のフレンドIDです。",
+        "Name": "Delta.Friend.MyFriendIDSearchError",
+        "NameType": 41,
+        "Title": "エラー"
+    },
+    {
+        "Id": 42,
+        "Logic": 9,
+        "Message": "チャンネルが異なります。",
+        "Name": "Delta.Friend.OtherWorldGroupSearchError",
+        "NameType": 42,
+        "Title": "エラー"
+    },
+    {
+        "Id": 43,
+        "Logic": 9,
+        "Message": "ブロック数が最大です。",
+        "Name": "Delta.Friend.BlockCountFullError",
+        "NameType": 43,
+        "Title": "エラー"
+    },
+    {
+        "Id": 44,
+        "Logic": 9,
+        "Message": "ブロックしています。",
+        "Name": "Delta.Friend.TargetPlayerBlockedError",
+        "NameType": 44,
+        "Title": "エラー"
+    },
+    {
+        "Id": 45,
+        "Logic": 9,
+        "Message": "ブロックしているプレイヤーです。",
+        "Name": "Delta.Chat.BlockedReceiverError",
+        "NameType": 45,
+        "Title": "エラー"
+    },
+    {
+        "Id": 46,
+        "Logic": 9,
+        "Message": "ブロックされています。",
+        "Name": "Delta.Chat.BlockedByReceiverError",
+        "NameType": 46,
+        "Title": "エラー"
+    },
+    {
+        "Id": 47,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Coin.BirthdateDoesNotRegisterError",
+        "NameType": 47,
+        "Title": "エラー"
+    },
+    {
+        "Id": 48,
+        "Logic": 9,
+        "Message": "購入出来ない商品です。",
+        "Name": "Delta.Charge.PurchaseCountExceededError",
+        "NameType": 48,
+        "Title": "エラー"
+    },
+    {
+        "Id": 50,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Guild.TargetMemberNotSameGuildError",
+        "NameType": 50,
+        "Title": "エラー"
+    },
+    {
+        "Id": 51,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Guild.SendGiftNotFoundError",
+        "NameType": 51,
+        "Title": "エラー"
+    },
+    {
+        "Id": 52,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Guild.ReceiveGiftNotFoundError",
+        "NameType": 52,
+        "Title": "エラー"
+    },
+    {
+        "Id": 53,
+        "Logic": 9,
+        "Message": "使用出来ない文言が含まれています。",
+        "Name": "Delta.NgWord.NgWordToastError",
+        "NameType": 53,
+        "Title": "エラー"
+    },
+    {
+        "Id": 54,
+        "Logic": 9,
+        "Message": "使用出来ない文言が含まれています。",
+        "Name": "Delta.NgWord.DisabledWordToastError",
+        "NameType": 54,
+        "Title": "エラー"
+    },
+    {
+        "Id": 55,
+        "Logic": 3,
+        "Message": "ラインナップ更新できません。",
+        "Name": "Delta.Shop.CantLineupUpdateError",
+        "NameType": 55,
+        "Title": "エラー"
+    },
+    {
+        "Id": 56,
+        "Logic": 3,
+        "Message": "有効期間外です。",
+        "Name": "Delta.Shop.OutOfPeriodMenuError",
+        "NameType": 56,
+        "Title": "エラー"
+    },
+    {
+        "Id": 57,
+        "Logic": 3,
+        "Message": "ラインナップの無料更新回数が残っていません。",
+        "Name": "Delta.Shop.OverLineupUpdateByFreeError",
+        "NameType": 57,
+        "Title": "エラー"
+    },
+    {
+        "Id": 58,
+        "Logic": 3,
+        "Message": "ラインナップの無料更新回数が残っています。",
+        "Name": "Delta.Shop.UpdateCountErrorByPaid",
+        "NameType": 58,
+        "Title": "エラー"
+    },
+    {
+        "Id": 59,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.Shop.OutOfTotalLimitError",
+        "NameType": 59,
+        "Title": "エラー"
+    },
+    {
+        "Id": 60,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.Shop.OutOfDailyLimitError",
+        "NameType": 60,
+        "Title": "エラー"
+    },
+    {
+        "Id": 61,
+        "Logic": 2,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.Shop.NotDrawnArticleError",
+        "NameType": 61,
+        "Title": "エラー"
+    },
+    {
+        "Id": 62,
+        "Logic": 10,
+        "Message": "",
+        "Name": "Delta.Maintenance.MaintenanceError",
+        "NameType": 62,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 63,
+        "Logic": 10,
+        "Message": "",
+        "Name": "Delta.Maintenance.WorldMaintenanceError",
+        "NameType": 63,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 64,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.PvpMaintenanceError",
+        "NameType": 64,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 65,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.GuildRaidMaintenanceError",
+        "NameType": 65,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 66,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.RaidMaintenanceError",
+        "NameType": 66,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 67,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.RaidEventMaintenanceError",
+        "NameType": 67,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 68,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.RaidRankingEventMaintenanceError",
+        "NameType": 68,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 69,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.GachaMaintenanceError",
+        "NameType": 69,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 70,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.ShopMaintenanceError",
+        "NameType": 70,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 71,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.ChargeAppStoreMaintenanceError",
+        "NameType": 71,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 72,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.ChargeGooglePlayMaintenanceError",
+        "NameType": 72,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 73,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.ChatMaintenanceError",
+        "NameType": 73,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 74,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Shop.InMaintenanceError",
+        "NameType": 74,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 81,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Vip.NoNewVIPLevelRewardError",
+        "NameType": 81,
+        "Title": "エラー"
+    },
+    {
+        "Id": 82,
+        "Logic": 2,
+        "Message": "引継ぎID，またはパスワードが間違っています。",
+        "Name": "DASC.IDPW.VERIFY_FAILED",
+        "NameType": 82,
+        "Title": "エラー"
+    },
+    {
+        "Id": 83,
+        "Logic": 2,
+        "Message": "存在しないユーザです。",
+        "Name": "DASC.IDPW.USER_NOT_FOUND",
+        "NameType": 83,
+        "Title": "エラー"
+    },
+    {
+        "Id": 84,
+        "Logic": 2,
+        "Message": "引継ぎID，またはパスワードのフォーマットが不正です。",
+        "Name": "DASC.IDPW.INVALID_SCHEMA",
+        "NameType": 84,
+        "Title": "エラー"
+    },
+    {
+        "Id": 85,
+        "Logic": 8,
+        "Message": "セッションが無効になりました。\nタイトルに戻ります。",
+        "Name": "GHR.AUTHENTICATION.DEVICE_REVOKED",
+        "NameType": 85,
+        "Title": "確認"
+    },
+    {
+        "Id": 86,
+        "Logic": 3,
+        "Message": "既に終了しています。",
+        "Name": "Delta.GuildRaid.RoundFinishedError",
+        "NameType": 86,
+        "Title": "エラー"
+    },
+    {
+        "Id": 87,
+        "Logic": 2,
+        "Message": "挑戦回数が不足しています。",
+        "Name": "Delta.GuildRaid.ChallengeCountNotEnoughError",
+        "NameType": 87,
+        "Title": "エラー"
+    },
+    {
+        "Id": 88,
+        "Logic": 2,
+        "Message": "挑戦できません。",
+        "Name": "Delta.GuildRaid.BattleNotJoinableError",
+        "NameType": 88,
+        "Title": "エラー"
+    },
+    {
+        "Id": 89,
+        "Logic": 2,
+        "Message": "挑戦回数の回復上限を超えました。",
+        "Name": "Delta.GuildRaid.CannotRecoverByTicketError",
+        "NameType": 89,
+        "Title": "エラー"
+    },
+    {
+        "Id": 91,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Produce.RemainingBulkBattleCountWithFreeButCoinCalledError",
+        "NameType": 91,
+        "Title": "エラー"
+    },
+    {
+        "Id": 92,
+        "Logic": 1,
+        "Message": "データが更新されました。再読み込みをします。",
+        "Name": "Delta.DlcVersion.DlcVersionError",
+        "NameType": 92,
+        "Title": "確認"
+    },
+    {
+        "Id": 98,
+        "Logic": 5,
+        "Message": "総合力が不足しているため参加できません。",
+        "Name": "Delta.GameEvent.DeckTotalBattlePointNotEnoughError",
+        "NameType": 98,
+        "Title": "エラー"
+    },
+    {
+        "Id": 100,
+        "Logic": 5,
+        "Message": "軍団から退出させられました。",
+        "Name": "Delta.GameEvent.DismissedError",
+        "NameType": 100,
+        "Title": "エラー"
+    },
+    {
+        "Id": 101,
+        "Logic": 5,
+        "Message": "現在参加できない軍団です。",
+        "Name": "Delta.GameEvent.EntryCountReachedRoomCapacityError",
+        "NameType": 101,
+        "Title": "エラー"
+    },
+    {
+        "Id": 103,
+        "Logic": 9,
+        "Message": "値が不正です。\n４桁の数字を入力してください。",
+        "Name": "Delta.GameEvent.InvalidPasswordFormatError",
+        "NameType": 103,
+        "Title": "エラー"
+    },
+    {
+        "Id": 104,
+        "Logic": 9,
+        "Message": "総合力が不足しているため参加できません。",
+        "Name": "Delta.GameEvent.InvalidRangeOfMinDeckTotalBattlePointError",
+        "NameType": 104,
+        "Title": "エラー"
+    },
+    {
+        "Id": 106,
+        "Logic": 9,
+        "Message": "同じグループに参加していないため参加できません。",
+        "Name": "Delta.GameEvent.NotJoinedGuildError",
+        "NameType": 106,
+        "Title": "エラー"
+    },
+    {
+        "Id": 108,
+        "Logic": 9,
+        "Message": "同じグループに参加していないため参加できません。",
+        "Name": "Delta.GameEvent.OnlySameGuildMemberCanJoinError",
+        "NameType": 108,
+        "Title": "エラー"
+    },
+    {
+        "Id": 109,
+        "Logic": 5,
+        "Message": "パスワードが正しくありません。",
+        "Name": "Delta.GameEvent.PasswordNotMatchError",
+        "NameType": 109,
+        "Title": "エラー"
+    },
+    {
+        "Id": 112,
+        "Logic": 9,
+        "Message": "該当する軍団が見つかりません。",
+        "Name": "Delta.GameEvent.QuickJoinFailedError",
+        "NameType": 112,
+        "Title": "エラー"
+    },
+    {
+        "Id": 113,
+        "Logic": 5,
+        "Message": "開催期間が終了しています。",
+        "Name": "Delta.GameEvent.RaidNotActiveError",
+        "NameType": 113,
+        "Title": "エラー"
+    },
+    {
+        "Id": 114,
+        "Logic": 5,
+        "Message": "公演時間外です。",
+        "Name": "Delta.GameEvent.RaidNotOpenError",
+        "NameType": 114,
+        "Title": "エラー"
+    },
+    {
+        "Id": 116,
+        "Logic": 5,
+        "Message": "挑戦回数が不足しています。",
+        "Name": "Delta.GameEvent.RemainingChallengeCountNotEnoughError",
+        "NameType": 116,
+        "Title": "エラー"
+    },
+    {
+        "Id": 117,
+        "Logic": 5,
+        "Message": "現在参加できない軍団です。",
+        "Name": "Delta.GameEvent.RoomBattleExecutedError",
+        "NameType": 117,
+        "Title": "エラー"
+    },
+    {
+        "Id": 118,
+        "Logic": 5,
+        "Message": "現在参加できない軍団です。",
+        "Name": "Delta.GameEvent.RoomDissolutionError",
+        "NameType": 118,
+        "Title": "エラー"
+    },
+    {
+        "Id": 119,
+        "Logic": 9,
+        "Message": "該当する軍団が見つかりません。",
+        "Name": "Delta.GameEvent.TheRoomCanQuickJoinNotExistsError",
+        "NameType": 119,
+        "Title": "エラー"
+    },
+    {
+        "Id": 121,
+        "Logic": 9,
+        "Message": "準備中のユーザーがいるため挑戦できません。",
+        "Name": "Delta.GameEvent.ThereIsMemberNotReadyError",
+        "NameType": 121,
+        "Title": "エラー"
+    },
+    {
+        "Id": 123,
+        "Logic": 5,
+        "Message": "推しメン変更可能期間外です。",
+        "Name": "Delta.GameEvent.NotBestCharacterChangeablePeriodError",
+        "NameType": 123,
+        "Title": "エラー"
+    },
+    {
+        "Id": 134,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Gacha.OutOfTermError",
+        "NameType": 134,
+        "Title": "エラー"
+    },
+    {
+        "Id": 137,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Player.PlayerChatBannedError",
+        "NameType": 137,
+        "Title": "エラー"
+    },
+    {
+        "Id": 138,
+        "Logic": 2,
+        "Message": "表示期間が終了しています。",
+        "Name": "Delta.Announcement.AnnouncementNotFoundError",
+        "NameType": 138,
+        "Title": "エラー"
+    },
+    {
+        "Id": 139,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.NgWord.NgWordInSignupError",
+        "NameType": 139,
+        "Title": "エラー"
+    },
+    {
+        "Id": 140,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Unit.MainUnitNotExistsError",
+        "NameType": 140,
+        "Title": "エラー"
+    },
+    {
+        "Id": 143,
+        "Logic": 2,
+        "Message": "このアカウントはチャットの投稿を制限されています。",
+        "Name": "Delta.PlayerBanished.PlayerChatBannedError",
+        "NameType": 143,
+        "Title": "チャット制限中"
+    },
+    {
+        "Id": 144,
+        "Logic": 1,
+        "Message": "本アカウントは利用規約違反行為が行われたと判断したため、\n対象チャンネルでのアカウントの利用を停止しました。\n\n利用規約違反行為にお心当たりがない場合、\nお問い合わせ窓口までご連絡ください。",
+        "Name": "Delta.PlayerBanished.PlayerBannedError",
+        "NameType": 144,
+        "Title": "アカウント停止"
+    },
+    {
+        "Id": 145,
+        "Logic": 2,
+        "Message": "空白文字のみにはできません。",
+        "Name": "Delta.InputString.WordIsBlankError",
+        "NameType": 145,
+        "Title": "エラー"
+    },
+    {
+        "Id": 146,
+        "Logic": 5,
+        "Message": "対象メンバーがグループに所属していません",
+        "Name": "Delta.Guild.TargetNotInGuildError",
+        "NameType": 146,
+        "Title": "エラー"
+    },
+    {
+        "Id": 147,
+        "Logic": 10,
+        "Message": "",
+        "Name": "GHR.MAINTENANCE",
+        "NameType": 147,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 148,
+        "Logic": 9,
+        "Message": "既に申請されています。",
+        "Name": "Delta.Friend.AlreadyRequestedError",
+        "NameType": 148,
+        "Title": "エラー"
+    },
+    {
+        "Id": 149,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.Shop.OutOfMonthlyLimitError",
+        "NameType": 149,
+        "Title": "エラー"
+    },
+    {
+        "Id": 150,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.Shop.OutOfWeeklyLimitError",
+        "NameType": 150,
+        "Title": "エラー"
+    },
+    {
+        "Id": 151,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.RealMoneyShop.OutOfTotalLimitError",
+        "NameType": 151,
+        "Title": "エラー"
+    },
+    {
+        "Id": 152,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.RealMoneyShop.OutOfMonthlyLimitError",
+        "NameType": 152,
+        "Title": "エラー"
+    },
+    {
+        "Id": 153,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.RealMoneyShop.OutOfWeeklyLimitError",
+        "NameType": 153,
+        "Title": "エラー"
+    },
+    {
+        "Id": 154,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.RealMoneyShop.OutOfDailyLimitError",
+        "NameType": 154,
+        "Title": "エラー"
+    },
+    {
+        "Id": 169,
+        "Logic": 9,
+        "Message": "対象ガチャの開催期間が終了しています",
+        "Name": "Delta.Gacha.NotMeetConditionsError",
+        "NameType": 169,
+        "Title": "エラー"
+    },
+    {
+        "Id": 172,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.TowerMaintenanceError",
+        "NameType": 172,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 173,
+        "Logic": 11,
+        "Message": "報酬受取期間が終了しています",
+        "Name": "Delta.Mission.NotWithinPeriodError",
+        "NameType": 173,
+        "Title": "エラー"
+    },
+    {
+        "Id": 195,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.GameEvent.NotBestCharacterFixablePeriodError",
+        "NameType": 195,
+        "Title": "エラー"
+    },
+    {
+        "Id": 196,
+        "Logic": 5,
+        "Message": "キャンペーン開催期間が終了しています。",
+        "Name": "Delta.MissionPass.OutOfPeriodError",
+        "NameType": 196,
+        "Title": "エラー"
+    },
+    {
+        "Id": 197,
+        "Logic": 5,
+        "Message": "該当する商品は現在購入できません。",
+        "Name": "Delta.MissionPass.NotFoundCampaignError",
+        "NameType": 197,
+        "Title": "エラー"
+    },
+    {
+        "Id": 198,
+        "Logic": 9,
+        "Message": "解散済みのグループです。",
+        "Name": "Delta.Guild.DisbandedGuildError",
+        "NameType": 198,
+        "Title": "エラー"
+    },
+    {
+        "Id": 199,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.VersionSetting.NotFoundDlcVersionError",
+        "NameType": 199,
+        "Title": ""
+    },
+    {
+        "Id": 200,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.GvgMaintenanceError",
+        "NameType": 200,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 201,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Gvg.DuringScalingPeriodError",
+        "NameType": 201,
+        "Title": "エラー"
+    },
+    {
+        "Id": 202,
+        "Logic": 11,
+        "Message": "当機能は現在復帰中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Gvg.ServerIsDeadError",
+        "NameType": 202,
+        "Title": "エラー"
+    },
+    {
+        "Id": 203,
+        "Logic": 11,
+        "Message": "現在観覧制限されています。",
+        "Name": "Delta.Gvg.ObservationStoppedError",
+        "NameType": 203,
+        "Title": "エラー"
+    },
+    {
+        "Id": 204,
+        "Logic": 11,
+        "Message": "対象パスの開催期間が終了しています。",
+        "Name": "Delta.StageUpPass.OutOfPurchasePeriodError",
+        "NameType": 204,
+        "Title": "エラー"
+    },
+    {
+        "Id": 205,
+        "Logic": 3,
+        "Message": "対象パスの報酬を既に受取済みです。",
+        "Name": "Delta.StageUpPass.AlreadyReceivedDailyBonusError",
+        "NameType": 205,
+        "Title": "エラー"
+    },
+    {
+        "Id": 206,
+        "Logic": 11,
+        "Message": "対象パスの報酬受取期間が終了しています。",
+        "Name": "Delta.StageUpPass.OutOfBonusPeriodError",
+        "NameType": 206,
+        "Title": "エラー"
+    },
+    {
+        "Id": 207,
+        "Logic": 5,
+        "Message": "読み込んだコードは使用できません。",
+        "Name": "Delta.Serial.NotExistsCodeError",
+        "NameType": 207,
+        "Title": "プレゼント受取"
+    },
+    {
+        "Id": 208,
+        "Logic": 5,
+        "Message": "{0}のコードは既に使用済みです。",
+        "Name": "Delta.Serial.UnusableError",
+        "NameType": 208,
+        "Title": "プレゼント受取"
+    },
+    {
+        "Id": 209,
+        "Logic": 5,
+        "Message": "{0}はプレゼント受取期間外です。",
+        "Name": "Delta.Serial.OutOfTermError",
+        "NameType": 209,
+        "Title": "プレゼント受取"
+    },
+    {
+        "Id": 210,
+        "Logic": 5,
+        "Message": "{0}の報酬は受取済みです。",
+        "Name": "Delta.Serial.AlreadyReceivedError",
+        "NameType": 210,
+        "Title": "プレゼント受取"
+    },
+    {
+        "Id": 211,
+        "Logic": 5,
+        "Message": "{0}は使用できないチャンネルで受け取ろうとしました。",
+        "Name": "Delta.Serial.UnreceivableWorldError",
+        "NameType": 211,
+        "Title": "プレゼント受取"
+    },
+    {
+        "Id": 212,
+        "Logic": 11,
+        "Message": "対象の毎日購入ボーナスの開催期間が終了しています。",
+        "Name": "Delta.DailyChargeBonus.OutOfTermError",
+        "NameType": 212,
+        "Title": "エラー"
+    },
+    {
+        "Id": 213,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Unit.SelectedGraduatedCharacterError",
+        "NameType": 213,
+        "Title": "エラー"
+    },
+    {
+        "Id": 215,
+        "Logic": 5,
+        "Message": "期間が終了しています",
+        "Name": "Delta.PresentParty.OutOfTermError",
+        "NameType": 215,
+        "Title": "エラー"
+    },
+    {
+        "Id": 216,
+        "Logic": 5,
+        "Message": "挑戦中です。",
+        "Name": "Delta.GameEvent.RoomInBattleError",
+        "NameType": 216,
+        "Title": "エラー"
+    },
+    {
+        "Id": 217,
+        "Logic": 5,
+        "Message": "現在軍団から退室できません",
+        "Name": "Delta.GameEvent.RoomNotExitedError",
+        "NameType": 217,
+        "Title": "エラー"
+    },
+    {
+        "Id": 218,
+        "Logic": 9,
+        "Message": "最大レベルまで強化済みです",
+        "Name": "Delta.GroupLinks.AlreadyMaximumLevelError",
+        "NameType": 218,
+        "Title": "エラー"
+    },
+    {
+        "Id": 219,
+        "Logic": 3,
+        "Message": "グループから脱退しているユーザーのフラコレのため、設定できませんでした",
+        "Name": "Delta.GroupLinks.BorrowOtherGuildMemberError",
+        "NameType": 219,
+        "Title": "エラー"
+    },
+    {
+        "Id": 220,
+        "Logic": 3,
+        "Message": "リクエストの期限が切れています。",
+        "Name": "Delta.GroupLinks.ClosedRequestError",
+        "NameType": 220,
+        "Title": "エラー"
+    },
+    {
+        "Id": 221,
+        "Logic": 9,
+        "Message": "未解放のフラコレはレンタルできません",
+        "Name": "Delta.GroupLinks.FailureBorrowMemberCardNotOpenedError",
+        "NameType": 221,
+        "Title": "エラー"
+    },
+    {
+        "Id": 222,
+        "Logic": 9,
+        "Message": "未解放のフラコレは強化できません",
+        "Name": "Delta.GroupLinks.FailureEnhanceNotOpenCardError",
+        "NameType": 222,
+        "Title": "エラー"
+    },
+    {
+        "Id": 223,
+        "Logic": 9,
+        "Message": "未解放のフラコレはリクエストできません",
+        "Name": "Delta.GroupLinks.FailureRequestNotCardOpenedError",
+        "NameType": 223,
+        "Title": "エラー"
+    },
+    {
+        "Id": 224,
+        "Logic": 9,
+        "Message": "所持していないフラコレは設定できません",
+        "Name": "Delta.GroupLinks.FailureSetNotOpenCardError",
+        "NameType": 224,
+        "Title": "エラー"
+    },
+    {
+        "Id": 225,
+        "Logic": 9,
+        "Message": "リクエストは24時間に1回のみ実行できます",
+        "Name": "Delta.GroupLinks.FragmentRequestPrematureError",
+        "NameType": 225,
+        "Title": "エラー"
+    },
+    {
+        "Id": 226,
+        "Logic": 9,
+        "Message": "レベル情報が不正です",
+        "Name": "Delta.GroupLinks.MismatchBeforeEnhancementLevelError",
+        "NameType": 226,
+        "Title": "エラー"
+    },
+    {
+        "Id": 227,
+        "Logic": 3,
+        "Message": "対象メンバーがグループに所属していません",
+        "Name": "Delta.GroupLinks.MismatchGuildError",
+        "NameType": 227,
+        "Title": "エラー"
+    },
+    {
+        "Id": 228,
+        "Logic": 9,
+        "Message": "強化に必要な欠片が足りません",
+        "Name": "Delta.GroupLinks.NotEnoughFragmentError",
+        "NameType": 228,
+        "Title": "エラー"
+    },
+    {
+        "Id": 229,
+        "Logic": 3,
+        "Message": "無効なリクエストです",
+        "Name": "Delta.GroupLinks.PreviousLifeRequestDonationError",
+        "NameType": 229,
+        "Title": "エラー"
+    },
+    {
+        "Id": 230,
+        "Logic": 5,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.GroupLinksGachaMaintenanceError",
+        "NameType": 230,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 232,
+        "Logic": 5,
+        "Message": "対象ガチャの開催期間が終了しています",
+        "Name": "Delta.GroupLinksGacha.OutOfTermError",
+        "NameType": 232,
+        "Title": "エラー"
+    },
+    {
+        "Id": 235,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.StageUpPassMaintenanceError",
+        "NameType": 235,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 236,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.Player.PlayerDeleteRequestedError",
+        "NameType": 236,
+        "Title": "エラー"
+    },
+    {
+        "Id": 237,
+        "Logic": 11,
+        "Message": "グループ対抗ツアー開催日の20:00~22:00までは編成の変更はできません",
+        "Name": "Delta.Deck.InGvgDeckFixedTermError",
+        "NameType": 237,
+        "Title": "エラー"
+    },
+    {
+        "Id": 239,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.LimitedGachaMaintenanceError",
+        "NameType": 239,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 240,
+        "Logic": 5,
+        "Message": "対象ガチャの開催期間が終了しています",
+        "Name": "Delta.LimitedGacha.OutOfTermError",
+        "NameType": 240,
+        "Title": "エラー"
+    },
+    {
+        "Id": 242,
+        "Logic": 11,
+        "Message": "対象の毎日購入ボーナスEXの開催期間が終了しています。",
+        "Name": "Delta.DailyChargeBonusEx.OutOfTermError",
+        "NameType": 242,
+        "Title": "エラー"
+    },
+    {
+        "Id": 243,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.DailyChargeBonusExMaintenanceError",
+        "NameType": 243,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 244,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.GuildEventMaintenanceError",
+        "NameType": 244,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 245,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.EncoreEventMaintenanceError",
+        "NameType": 245,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 246,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.AreaEventMaintenanceError",
+        "NameType": 246,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 247,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.RankingEventMaintenanceError",
+        "NameType": 247,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 248,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.EventRaidMaintenanceError",
+        "NameType": 248,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 251,
+        "Logic": 5,
+        "Message": "参加中の期間は終了しているため、更新します",
+        "Name": "Delta.PvpEx.NotEntryError",
+        "NameType": 251,
+        "Title": "エラー"
+    },
+    {
+        "Id": 252,
+        "Logic": 5,
+        "Message": "現在、開催期間外です",
+        "Name": "Delta.PvpEx.OutOfTermError",
+        "NameType": 252,
+        "Title": "エラー"
+    },
+    {
+        "Id": 253,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.PvpExMaintenanceError",
+        "NameType": 253,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 254,
+        "Logic": 5,
+        "Message": "参加中の期間は終了しているため、更新します",
+        "Name": "Delta.PvpEx.InvalidConsumeItemError",
+        "NameType": 254,
+        "Title": "エラー"
+    },
+    {
+        "Id": 255,
+        "Logic": 5,
+        "Message": "",
+        "Name": "Delta.PvpEx.NotOpponentPlayerError",
+        "NameType": 255,
+        "Title": "エラー"
+    },
+    {
+        "Id": 256,
+        "Logic": 5,
+        "Message": "挑戦回数がリセットされました",
+        "Name": "Delta.PvpEx.OverlappedRecoverCountError",
+        "NameType": 256,
+        "Title": "エラー"
+    },
+    {
+        "Id": 257,
+        "Logic": 5,
+        "Message": "リクエストに失敗しました",
+        "Name": "Delta.GameEvent.InvalidDeckUnitsError",
+        "NameType": 257,
+        "Title": "エラー"
+    },
+    {
+        "Id": 258,
+        "Logic": 11,
+        "Message": "有効ではないショップです",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopNotOpenError",
+        "NameType": 258,
+        "Title": "エラー"
+    },
+    {
+        "Id": 259,
+        "Logic": 11,
+        "Message": "有効ではないショップです",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopClosedError",
+        "NameType": 259,
+        "Title": "エラー"
+    },
+    {
+        "Id": 260,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopAlreadyBoughtError",
+        "NameType": 260,
+        "Title": "エラー"
+    },
+    {
+        "Id": 261,
+        "Logic": 3,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopCannotBuyApiForProductError",
+        "NameType": 261,
+        "Title": "エラー"
+    },
+    {
+        "Id": 262,
+        "Logic": 3,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopBuyOverStageError",
+        "NameType": 262,
+        "Title": "エラー"
+    },
+    {
+        "Id": 263,
+        "Logic": 3,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.SpecialMemberShop.SpecialMemberShopForCheckProductError",
+        "NameType": 263,
+        "Title": "エラー"
+    },
+    {
+        "Id": 264,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.SpecialMemberShopMaintenanceError",
+        "NameType": 264,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 265,
+        "Logic": 11,
+        "Message": "既に受け取り済みです。",
+        "Name": "Delta.BonusShop.CountRewardAlreadyReceivedError",
+        "NameType": 265,
+        "Title": "エラー"
+    },
+    {
+        "Id": 266,
+        "Logic": 11,
+        "Message": "商品を受け取ることができません。",
+        "Name": "Delta.BonusShop.CountRewardCanNotReceiveError",
+        "NameType": 266,
+        "Title": "エラー"
+    },
+    {
+        "Id": 267,
+        "Logic": 5,
+        "Message": "現在、開催期間外のショップです",
+        "Name": "Delta.BonusShop.BonusShopOutOfTermError",
+        "NameType": 267,
+        "Title": "エラー"
+    },
+    {
+        "Id": 268,
+        "Logic": 3,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.BonusShop.BonusShopForCheckProductError",
+        "NameType": 268,
+        "Title": "エラー"
+    },
+    {
+        "Id": 269,
+        "Logic": 3,
+        "Message": "商品を購入することができません。",
+        "Name": "Delta.BonusShop.BonusShopCannotBuyApiForProductError",
+        "NameType": 269,
+        "Title": "エラー"
+    },
+    {
+        "Id": 270,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.BonusShop.BonusShopOutOfDailyLimitError",
+        "NameType": 270,
+        "Title": "エラー"
+    },
+    {
+        "Id": 271,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.BonusShop.BonusShopOutOfWeeklyLimitError",
+        "NameType": 271,
+        "Title": "エラー"
+    },
+    {
+        "Id": 272,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.BonusShop.BonusShopOutOfMonthlyLimitError",
+        "NameType": 272,
+        "Title": "エラー"
+    },
+    {
+        "Id": 273,
+        "Logic": 3,
+        "Message": "購入可能数を超えて購入することはできません。",
+        "Name": "Delta.BonusShop.BonusShopOutOfTotalLimitError",
+        "NameType": 273,
+        "Title": "エラー"
+    },
+    {
+        "Id": 274,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.BonusShopMaintenanceError",
+        "NameType": 274,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 275,
+        "Logic": 0,
+        "Message": "",
+        "Name": "Delta.CenterPhoto.CenterPhotoDoesNotExistError",
+        "NameType": 275,
+        "Title": ""
+    },
+    {
+        "Id": 276,
+        "Logic": 0,
+        "Message": "",
+        "Name": "Delta.CenterPhoto.CenterPhotoInvalidCharacterError",
+        "NameType": 276,
+        "Title": ""
+    },
+    {
+        "Id": 277,
+        "Logic": 5,
+        "Message": "",
+        "Name": "PAS.VERIFY.REQUEST_ERROR",
+        "NameType": 277,
+        "Title": "エラー"
+    },
+    {
+        "Id": 278,
+        "Logic": 5,
+        "Message": "",
+        "Name": "PAS.GOOGLEPLAY.VERIFY_FAILED",
+        "NameType": 278,
+        "Title": "エラー"
+    },
+    {
+        "Id": 279,
+        "Logic": 5,
+        "Message": "コーデ収納枠が上限に達しているため、デザインできませんでした",
+        "Name": "Delta.Equipment.EmptyInsertEquipmentError",
+        "NameType": 279,
+        "Title": "確認"
+    },
+    {
+        "Id": 280,
+        "Logic": 3,
+        "Message": "コーデ収納枠が上限に達しているため、デザインできませんでした",
+        "Name": "Delta.Equipment.CannotInsertEquipmentError",
+        "NameType": 280,
+        "Title": "確認"
+    },
+    {
+        "Id": 284,
+        "Logic": 5,
+        "Message": "対象のエリアは開放期間が終了しています",
+        "Name": "Delta.GameEvent.AreaClosedError",
+        "NameType": 284,
+        "Title": "エラー"
+    },
+    {
+        "Id": 285,
+        "Logic": 11,
+        "Message": "",
+        "Name": "Delta.Arcanum.ArcanumItemNotEnoughError",
+        "NameType": 285,
+        "Title": "エラー"
+    },
+    {
+        "Id": 286,
+        "Logic": 11,
+        "Message": "",
+        "Name": "Delta.Arcanum.ArcanumItemNotSyncError",
+        "NameType": 286,
+        "Title": "エラー"
+    },
+    {
+        "Id": 287,
+        "Logic": 11,
+        "Message": "",
+        "Name": "Delta.Arcanum.DuplicatedArcanumConditionError",
+        "NameType": 287,
+        "Title": "エラー"
+    },
+    {
+        "Id": 289,
+        "Logic": 5,
+        "Message": "",
+        "Name": "DAS.CONNECT.ALREADY_CONNECTED",
+        "NameType": 289,
+        "Title": "エラー"
+    },
+    {
+        "Id": 290,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nIT290",
+        "Name": "Delta.Item.NotSyncItemPossessionError",
+        "NameType": 290,
+        "Title": "エラー"
+    },
+    {
+        "Id": 291,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nGA291",
+        "Name": "Delta.Gacha.NotSyncItemPossessionError",
+        "NameType": 291,
+        "Title": "エラー"
+    },
+    {
+        "Id": 292,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nGR292",
+        "Name": "Delta.GroupLinksGacha.NotSyncItemPossessionError",
+        "NameType": 292,
+        "Title": "エラー"
+    },
+    {
+        "Id": 293,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nLI293",
+        "Name": "Delta.LimitedGacha.NotSyncItemPossessionError",
+        "NameType": 293,
+        "Title": "エラー"
+    },
+    {
+        "Id": 294,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nPR294",
+        "Name": "Delta.PresentParty.NotSyncItemPossessionError",
+        "NameType": 294,
+        "Title": "エラー"
+    },
+    {
+        "Id": 295,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nSH295",
+        "Name": "Delta.Shop.NotSyncItemPossessionError",
+        "NameType": 295,
+        "Title": "エラー"
+    },
+    {
+        "Id": 296,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nST296",
+        "Name": "Delta.StageUpPass.NotSyncItemPossessionError",
+        "NameType": 296,
+        "Title": "エラー"
+    },
+    {
+        "Id": 297,
+        "Logic": 1,
+        "Message": "不明なエラーが発生しました\nタイトルへ戻ります\nIT297",
+        "Name": "Delta.Item.ItemNotEnoughError",
+        "NameType": 297,
+        "Title": "エラー"
+    },
+    {
+        "Id": 298,
+        "Logic": 3,
+        "Message": "既に所持済みの、重複して獲得できないアイテムが選択されています。",
+        "Name": "Delta.Item.DoubledItemError",
+        "NameType": 298,
+        "Title": "エラー"
+    },
+    {
+        "Id": 1001,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.MoneyAppStoreMaintenanceError",
+        "NameType": 1001,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 1002,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.MoneyGooglePlayMaintenanceError",
+        "NameType": 1002,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 1003,
+        "Logic": 11,
+        "Message": "当機能は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.PresentBoxMaintenanceError",
+        "NameType": 1003,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 1004,
+        "Logic": 9,
+        "Message": "現在、メンテナンス中のため、ボックスアイテムの開封は出来ません。",
+        "Name": "Delta.Maintenance.BoxOpenMaintenanceError",
+        "NameType": 1004,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 1005,
+        "Logic": 11,
+        "Message": "当商品は現在メンテナンス中です。\nしばらくお待ち下さい。",
+        "Name": "Delta.Maintenance.ShopArticleMaintenanceError",
+        "NameType": 1005,
+        "Title": "メンテナンス中"
+    },
+    {
+        "Id": 1006,
+        "Logic": 2,
+        "Message": "実行回数でエラーが発生しました\nCM1006",
+        "Name": "Delta.Model.Produce.Error.BulkBattleExecutionCountMismatchError",
+        "NameType": 1006,
+        "Title": "エラー"
+    },
+    {
+        "Id": 1007,
+        "Logic": 2,
+        "Message": "実行回数でエラーが発生しました\nUC1007",
+        "Name": "Delta.Model.Produce.Error.BulkBattleExecutionUseCoinMismatchError",
+        "NameType": 1007,
+        "Title": "エラー"
+    }
+]

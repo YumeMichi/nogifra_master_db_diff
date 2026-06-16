@@ -1,0 +1,1178 @@
+[
+    {
+        "GameMode": 1,
+        "GameModeGroupId": 101,
+        "Id": 101,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 102,
+        "Id": 102,
+        "Value": 0
+    },
+    {
+        "GameMode": 3,
+        "GameModeGroupId": 103,
+        "Id": 103,
+        "Value": 0
+    },
+    {
+        "GameMode": 4,
+        "GameModeGroupId": 104,
+        "Id": 104,
+        "Value": 0
+    },
+    {
+        "GameMode": 5,
+        "GameModeGroupId": 105,
+        "Id": 105,
+        "Value": 0
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 106,
+        "Id": 106,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 107,
+        "Id": 107,
+        "Value": 0
+    },
+    {
+        "GameMode": 9,
+        "GameModeGroupId": 107,
+        "Id": 1072,
+        "Value": 0
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1101,
+        "Id": 1101,
+        "Value": 101
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1102,
+        "Id": 1102,
+        "Value": 102
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1103,
+        "Id": 1103,
+        "Value": 103
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1104,
+        "Id": 1104,
+        "Value": 104
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1105,
+        "Id": 1105,
+        "Value": 105
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1106,
+        "Id": 1106,
+        "Value": 106
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1107,
+        "Id": 1107,
+        "Value": 107
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1108,
+        "Id": 1108,
+        "Value": 108
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1109,
+        "Id": 1109,
+        "Value": 109
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 1110,
+        "Id": 1110,
+        "Value": 110
+    },
+    {
+        "GameMode": 1,
+        "GameModeGroupId": 108,
+        "Id": 10801,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 108,
+        "Id": 10802,
+        "Value": 0
+    },
+    {
+        "GameMode": 3,
+        "GameModeGroupId": 108,
+        "Id": 10803,
+        "Value": 0
+    },
+    {
+        "GameMode": 4,
+        "GameModeGroupId": 108,
+        "Id": 10804,
+        "Value": 0
+    },
+    {
+        "GameMode": 5,
+        "GameModeGroupId": 108,
+        "Id": 10805,
+        "Value": 0
+    },
+    {
+        "GameMode": 6,
+        "GameModeGroupId": 109,
+        "Id": 10901,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 109,
+        "Id": 10902,
+        "Value": 0
+    },
+    {
+        "GameMode": 9,
+        "GameModeGroupId": 109,
+        "Id": 10903,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 110,
+        "Id": 11001,
+        "Value": 0
+    },
+    {
+        "GameMode": 1,
+        "GameModeGroupId": 201,
+        "Id": 20101,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 201,
+        "Id": 20102,
+        "Value": 0
+    },
+    {
+        "GameMode": 5,
+        "GameModeGroupId": 202,
+        "Id": 20201,
+        "Value": 0
+    },
+    {
+        "GameMode": 3,
+        "GameModeGroupId": 203,
+        "Id": 20301,
+        "Value": 0
+    },
+    {
+        "GameMode": 4,
+        "GameModeGroupId": 203,
+        "Id": 20302,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 204,
+        "Id": 20401,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 204,
+        "Id": 20402,
+        "Value": 0
+    },
+    {
+        "GameMode": 9,
+        "GameModeGroupId": 204,
+        "Id": 20403,
+        "Value": 0
+    },
+    {
+        "GameMode": 9,
+        "GameModeGroupId": 205,
+        "Id": 20501,
+        "Value": 0
+    },
+    {
+        "GameMode": 3,
+        "GameModeGroupId": 205,
+        "Id": 20502,
+        "Value": 0
+    },
+    {
+        "GameMode": 4,
+        "GameModeGroupId": 205,
+        "Id": 20503,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 206,
+        "Id": 20601,
+        "Value": 0
+    },
+    {
+        "GameMode": 5,
+        "GameModeGroupId": 206,
+        "Id": 20602,
+        "Value": 0
+    },
+    {
+        "GameMode": 9,
+        "GameModeGroupId": 207,
+        "Id": 20701,
+        "Value": 0
+    },
+    {
+        "GameMode": 2,
+        "GameModeGroupId": 208,
+        "Id": 20801,
+        "Value": 0
+    },
+    {
+        "GameMode": 1,
+        "GameModeGroupId": 208,
+        "Id": 20802,
+        "Value": 0
+    },
+    {
+        "GameMode": 5,
+        "GameModeGroupId": 208,
+        "Id": 20803,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 209,
+        "Id": 20901,
+        "Value": 0
+    },
+    {
+        "GameMode": 1,
+        "GameModeGroupId": 209,
+        "Id": 20902,
+        "Value": 0
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210011,
+        "Id": 210011,
+        "Value": 210011
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210021,
+        "Id": 210021,
+        "Value": 210021
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210031,
+        "Id": 210031,
+        "Value": 210031
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210041,
+        "Id": 210041,
+        "Value": 210041
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210051,
+        "Id": 210051,
+        "Value": 210051
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210061,
+        "Id": 210061,
+        "Value": 210061
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210071,
+        "Id": 210071,
+        "Value": 210071
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210081,
+        "Id": 210081,
+        "Value": 210081
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210091,
+        "Id": 210091,
+        "Value": 210091
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210101,
+        "Id": 210101,
+        "Value": 210101
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210111,
+        "Id": 210111,
+        "Value": 210111
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210121,
+        "Id": 210121,
+        "Value": 210121
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210131,
+        "Id": 210131,
+        "Value": 210131
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210141,
+        "Id": 210141,
+        "Value": 210141
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210151,
+        "Id": 210151,
+        "Value": 210151
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210161,
+        "Id": 210161,
+        "Value": 210161
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210171,
+        "Id": 210171,
+        "Value": 210171
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210181,
+        "Id": 210181,
+        "Value": 210181
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210191,
+        "Id": 210191,
+        "Value": 210191
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210201,
+        "Id": 210201,
+        "Value": 210201
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210211,
+        "Id": 210211,
+        "Value": 210211
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210221,
+        "Id": 210221,
+        "Value": 210221
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210231,
+        "Id": 210231,
+        "Value": 210231
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210241,
+        "Id": 210241,
+        "Value": 210241
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210251,
+        "Id": 210251,
+        "Value": 210251
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210261,
+        "Id": 210261,
+        "Value": 210261
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210271,
+        "Id": 210271,
+        "Value": 210271
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 210281,
+        "Id": 210281,
+        "Value": 210281
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310012,
+        "Id": 310012,
+        "Value": 310012
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310022,
+        "Id": 310022,
+        "Value": 310022
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310032,
+        "Id": 310032,
+        "Value": 310032
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310042,
+        "Id": 310042,
+        "Value": 310042
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310052,
+        "Id": 310052,
+        "Value": 310052
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310062,
+        "Id": 310062,
+        "Value": 310062
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310072,
+        "Id": 310072,
+        "Value": 310072
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310082,
+        "Id": 310082,
+        "Value": 310082
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310092,
+        "Id": 310092,
+        "Value": 310092
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310102,
+        "Id": 310102,
+        "Value": 310102
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310112,
+        "Id": 310112,
+        "Value": 310112
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310122,
+        "Id": 310122,
+        "Value": 310122
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310132,
+        "Id": 310132,
+        "Value": 310132
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310142,
+        "Id": 310142,
+        "Value": 310142
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310152,
+        "Id": 310152,
+        "Value": 310152
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310162,
+        "Id": 310162,
+        "Value": 310162
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310172,
+        "Id": 310172,
+        "Value": 310172
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310182,
+        "Id": 310182,
+        "Value": 310182
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310192,
+        "Id": 310192,
+        "Value": 310192
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310202,
+        "Id": 310202,
+        "Value": 310202
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310212,
+        "Id": 310212,
+        "Value": 310212
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310222,
+        "Id": 310222,
+        "Value": 310222
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310232,
+        "Id": 310232,
+        "Value": 310232
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310242,
+        "Id": 310242,
+        "Value": 310242
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310252,
+        "Id": 310252,
+        "Value": 310252
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310262,
+        "Id": 310262,
+        "Value": 310262
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310272,
+        "Id": 310272,
+        "Value": 310272
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 310282,
+        "Id": 310282,
+        "Value": 310282
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 411251,
+        "Id": 411251,
+        "Value": 411251
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 411911,
+        "Id": 411911,
+        "Value": 411911
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510010,
+        "Id": 510010,
+        "Value": 510010
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510013,
+        "Id": 510013,
+        "Value": 510013
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510020,
+        "Id": 510020,
+        "Value": 510020
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510023,
+        "Id": 510023,
+        "Value": 510023
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510030,
+        "Id": 510030,
+        "Value": 510030
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510033,
+        "Id": 510033,
+        "Value": 510033
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510040,
+        "Id": 510040,
+        "Value": 510040
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510050,
+        "Id": 510050,
+        "Value": 510050
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510053,
+        "Id": 510053,
+        "Value": 510053
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510060,
+        "Id": 510060,
+        "Value": 510060
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510063,
+        "Id": 510063,
+        "Value": 510063
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510070,
+        "Id": 510070,
+        "Value": 510070
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510073,
+        "Id": 510073,
+        "Value": 510073
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510080,
+        "Id": 510080,
+        "Value": 510080
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510083,
+        "Id": 510083,
+        "Value": 510083
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510090,
+        "Id": 510090,
+        "Value": 510090
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510093,
+        "Id": 510093,
+        "Value": 510093
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510100,
+        "Id": 510100,
+        "Value": 510100
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510103,
+        "Id": 510103,
+        "Value": 510103
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510110,
+        "Id": 510110,
+        "Value": 510110
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510113,
+        "Id": 510113,
+        "Value": 510113
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510120,
+        "Id": 510120,
+        "Value": 510120
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510123,
+        "Id": 510123,
+        "Value": 510123
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510130,
+        "Id": 510130,
+        "Value": 510130
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510133,
+        "Id": 510133,
+        "Value": 510133
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510140,
+        "Id": 510140,
+        "Value": 510140
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510143,
+        "Id": 510143,
+        "Value": 510143
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510150,
+        "Id": 510150,
+        "Value": 510150
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510153,
+        "Id": 510153,
+        "Value": 510153
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510160,
+        "Id": 510160,
+        "Value": 510160
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510163,
+        "Id": 510163,
+        "Value": 510163
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510170,
+        "Id": 510170,
+        "Value": 510170
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510173,
+        "Id": 510173,
+        "Value": 510173
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510180,
+        "Id": 510180,
+        "Value": 510180
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510183,
+        "Id": 510183,
+        "Value": 510183
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510190,
+        "Id": 510190,
+        "Value": 510190
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510193,
+        "Id": 510193,
+        "Value": 510193
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510200,
+        "Id": 510200,
+        "Value": 510200
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510203,
+        "Id": 510203,
+        "Value": 510203
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510210,
+        "Id": 510210,
+        "Value": 510210
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510213,
+        "Id": 510213,
+        "Value": 510213
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510230,
+        "Id": 510230,
+        "Value": 510230
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510233,
+        "Id": 510233,
+        "Value": 510233
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510240,
+        "Id": 510240,
+        "Value": 510240
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510243,
+        "Id": 510243,
+        "Value": 510243
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510250,
+        "Id": 510250,
+        "Value": 510250
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510253,
+        "Id": 510253,
+        "Value": 510253
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510260,
+        "Id": 510260,
+        "Value": 510260
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510263,
+        "Id": 510263,
+        "Value": 510263
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510270,
+        "Id": 510270,
+        "Value": 510270
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510273,
+        "Id": 510273,
+        "Value": 510273
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510280,
+        "Id": 510280,
+        "Value": 510280
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510283,
+        "Id": 510283,
+        "Value": 510283
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510290,
+        "Id": 510290,
+        "Value": 510290
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510293,
+        "Id": 510293,
+        "Value": 510293
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510300,
+        "Id": 510300,
+        "Value": 510300
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510303,
+        "Id": 510303,
+        "Value": 510303
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510310,
+        "Id": 510310,
+        "Value": 510310
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510313,
+        "Id": 510313,
+        "Value": 510313
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510320,
+        "Id": 510320,
+        "Value": 510320
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 510323,
+        "Id": 510323,
+        "Value": 510323
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710011,
+        "Id": 710011,
+        "Value": 710011
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710021,
+        "Id": 710021,
+        "Value": 710021
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710031,
+        "Id": 710031,
+        "Value": 710031
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710041,
+        "Id": 710041,
+        "Value": 710041
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710051,
+        "Id": 710051,
+        "Value": 710051
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710061,
+        "Id": 710061,
+        "Value": 710061
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710071,
+        "Id": 710071,
+        "Value": 710071
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710081,
+        "Id": 710081,
+        "Value": 710081
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710091,
+        "Id": 710091,
+        "Value": 710091
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710101,
+        "Id": 710101,
+        "Value": 710101
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710111,
+        "Id": 710111,
+        "Value": 710111
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710121,
+        "Id": 710121,
+        "Value": 710121
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710131,
+        "Id": 710131,
+        "Value": 710131
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710141,
+        "Id": 710141,
+        "Value": 710141
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710151,
+        "Id": 710151,
+        "Value": 710151
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710161,
+        "Id": 710161,
+        "Value": 710161
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710171,
+        "Id": 710171,
+        "Value": 710171
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710181,
+        "Id": 710181,
+        "Value": 710181
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710191,
+        "Id": 710191,
+        "Value": 710191
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710201,
+        "Id": 710201,
+        "Value": 710201
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710211,
+        "Id": 710211,
+        "Value": 710211
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710221,
+        "Id": 710221,
+        "Value": 710221
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 710231,
+        "Id": 710231,
+        "Value": 710231
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810011,
+        "Id": 810011,
+        "Value": 810011
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810021,
+        "Id": 810021,
+        "Value": 810021
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810031,
+        "Id": 810031,
+        "Value": 810031
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810041,
+        "Id": 810041,
+        "Value": 810041
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810051,
+        "Id": 810051,
+        "Value": 810051
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810061,
+        "Id": 810061,
+        "Value": 810061
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810071,
+        "Id": 810071,
+        "Value": 810071
+    },
+    {
+        "GameMode": 7,
+        "GameModeGroupId": 810081,
+        "Id": 810081,
+        "Value": 810081
+    }
+]

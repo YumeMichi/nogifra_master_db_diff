@@ -1,0 +1,173 @@
+[
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 5,
+        "Id": 1,
+        "Rank": 5,
+        "ResourceId": 300101,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 2,
+        "Rank": 1,
+        "ResourceId": 300201,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 1,
+        "Id": 3,
+        "Rank": 1,
+        "ResourceId": 300301,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 2,
+        "Id": 4,
+        "Rank": 1,
+        "ResourceId": 300401,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 3,
+        "Id": 5,
+        "Rank": 1,
+        "ResourceId": 300501,
+        "StageId": 0,
+        "TransitionParameter": "1020005"
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 6,
+        "Rank": 2,
+        "ResourceId": 300601,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 1,
+        "Id": 7,
+        "Rank": 2,
+        "ResourceId": 300701,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 4,
+        "Id": 8,
+        "Rank": 5,
+        "ResourceId": 300801,
+        "StageId": 5,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 5,
+        "Id": 9,
+        "Rank": 7,
+        "ResourceId": 301101,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 10,
+        "Rank": 12,
+        "ResourceId": 301001,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 5,
+        "Id": 11,
+        "Rank": 12,
+        "ResourceId": 300901,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 1,
+        "Id": 12,
+        "Rank": 20,
+        "ResourceId": 301201,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 13,
+        "Rank": 30,
+        "ResourceId": 301901,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 4,
+        "Id": 14,
+        "Rank": 30,
+        "ResourceId": 301301,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 1,
+        "Id": 15,
+        "Rank": 30,
+        "ResourceId": 301401,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 16,
+        "Rank": 40,
+        "ResourceId": 301501,
+        "StageId": 20,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 1,
+        "Id": 17,
+        "Rank": 40,
+        "ResourceId": 301601,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 3,
+        "Id": 18,
+        "Rank": 50,
+        "ResourceId": 301701,
+        "StageId": 0,
+        "TransitionParameter": ""
+    },
+    {
+        "BattleFailedTipsDisplayType": 1,
+        "BattleFailedTipsTransitionType": 0,
+        "Id": 19,
+        "Rank": 50,
+        "ResourceId": 301801,
+        "StageId": 30,
+        "TransitionParameter": ""
+    }
+]

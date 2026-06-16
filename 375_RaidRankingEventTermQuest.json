@@ -1,0 +1,374 @@
+[
+    {
+        "Id": 510011,
+        "QuestGroupSetId": 51001101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510011
+    },
+    {
+        "Id": 510012,
+        "QuestGroupSetId": 51001201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510012
+    },
+    {
+        "Id": 510021,
+        "QuestGroupSetId": 51002101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510021
+    },
+    {
+        "Id": 510022,
+        "QuestGroupSetId": 51002201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510022
+    },
+    {
+        "Id": 510031,
+        "QuestGroupSetId": 51003101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510031
+    },
+    {
+        "Id": 510032,
+        "QuestGroupSetId": 51003201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510032
+    },
+    {
+        "Id": 510041,
+        "QuestGroupSetId": 51004101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510041
+    },
+    {
+        "Id": 510042,
+        "QuestGroupSetId": 51004201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510042
+    },
+    {
+        "Id": 510051,
+        "QuestGroupSetId": 51005101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510051
+    },
+    {
+        "Id": 510052,
+        "QuestGroupSetId": 51005201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510052
+    },
+    {
+        "Id": 510061,
+        "QuestGroupSetId": 51006101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510061
+    },
+    {
+        "Id": 510062,
+        "QuestGroupSetId": 51006201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510062
+    },
+    {
+        "Id": 510071,
+        "QuestGroupSetId": 51007101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510071
+    },
+    {
+        "Id": 510072,
+        "QuestGroupSetId": 51007201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510072
+    },
+    {
+        "Id": 510081,
+        "QuestGroupSetId": 51008101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510081
+    },
+    {
+        "Id": 510082,
+        "QuestGroupSetId": 51008201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510082
+    },
+    {
+        "Id": 510091,
+        "QuestGroupSetId": 51009101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510091
+    },
+    {
+        "Id": 510092,
+        "QuestGroupSetId": 51009201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510092
+    },
+    {
+        "Id": 510101,
+        "QuestGroupSetId": 51010101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510101
+    },
+    {
+        "Id": 510102,
+        "QuestGroupSetId": 51010201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510102
+    },
+    {
+        "Id": 510111,
+        "QuestGroupSetId": 51011101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510111
+    },
+    {
+        "Id": 510112,
+        "QuestGroupSetId": 51011201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510112
+    },
+    {
+        "Id": 510121,
+        "QuestGroupSetId": 51012101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510121
+    },
+    {
+        "Id": 510122,
+        "QuestGroupSetId": 51012201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510122
+    },
+    {
+        "Id": 510131,
+        "QuestGroupSetId": 51013101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510131
+    },
+    {
+        "Id": 510132,
+        "QuestGroupSetId": 51013201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510132
+    },
+    {
+        "Id": 510141,
+        "QuestGroupSetId": 51014101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510141
+    },
+    {
+        "Id": 510142,
+        "QuestGroupSetId": 51014201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510142
+    },
+    {
+        "Id": 510151,
+        "QuestGroupSetId": 51015101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510151
+    },
+    {
+        "Id": 510152,
+        "QuestGroupSetId": 51015201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510152
+    },
+    {
+        "Id": 510161,
+        "QuestGroupSetId": 51016101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510161
+    },
+    {
+        "Id": 510162,
+        "QuestGroupSetId": 51016201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510162
+    },
+    {
+        "Id": 510171,
+        "QuestGroupSetId": 51017101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510171
+    },
+    {
+        "Id": 510172,
+        "QuestGroupSetId": 51017201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510172
+    },
+    {
+        "Id": 510181,
+        "QuestGroupSetId": 51018101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510181
+    },
+    {
+        "Id": 510182,
+        "QuestGroupSetId": 51018201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510182
+    },
+    {
+        "Id": 510191,
+        "QuestGroupSetId": 51019101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510191
+    },
+    {
+        "Id": 510192,
+        "QuestGroupSetId": 51019201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510192
+    },
+    {
+        "Id": 510201,
+        "QuestGroupSetId": 51020101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510201
+    },
+    {
+        "Id": 510202,
+        "QuestGroupSetId": 51020201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510202
+    },
+    {
+        "Id": 510211,
+        "QuestGroupSetId": 51021101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510211
+    },
+    {
+        "Id": 510212,
+        "QuestGroupSetId": 51021201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510212
+    },
+    {
+        "Id": 510231,
+        "QuestGroupSetId": 51023101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510231
+    },
+    {
+        "Id": 510232,
+        "QuestGroupSetId": 51023201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510232
+    },
+    {
+        "Id": 510241,
+        "QuestGroupSetId": 51024101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510241
+    },
+    {
+        "Id": 510242,
+        "QuestGroupSetId": 51024201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510242
+    },
+    {
+        "Id": 510251,
+        "QuestGroupSetId": 51025101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510251
+    },
+    {
+        "Id": 510252,
+        "QuestGroupSetId": 51025201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510252
+    },
+    {
+        "Id": 510261,
+        "QuestGroupSetId": 51026101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510261
+    },
+    {
+        "Id": 510262,
+        "QuestGroupSetId": 51026201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510262
+    },
+    {
+        "Id": 510271,
+        "QuestGroupSetId": 51027101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510271
+    },
+    {
+        "Id": 510272,
+        "QuestGroupSetId": 51027201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510272
+    },
+    {
+        "Id": 510281,
+        "QuestGroupSetId": 51028101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510281
+    },
+    {
+        "Id": 510282,
+        "QuestGroupSetId": 51028201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510282
+    },
+    {
+        "Id": 510291,
+        "QuestGroupSetId": 51029101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510291
+    },
+    {
+        "Id": 510292,
+        "QuestGroupSetId": 51029201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510292
+    },
+    {
+        "Id": 510301,
+        "QuestGroupSetId": 51030101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510301
+    },
+    {
+        "Id": 510302,
+        "QuestGroupSetId": 51030201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510302
+    },
+    {
+        "Id": 510311,
+        "QuestGroupSetId": 51031101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510311
+    },
+    {
+        "Id": 510312,
+        "QuestGroupSetId": 51031201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510312
+    },
+    {
+        "Id": 510321,
+        "QuestGroupSetId": 51032101,
+        "RaidMode": 2,
+        "RankingEventTermId": 510321
+    },
+    {
+        "Id": 510322,
+        "QuestGroupSetId": 51032201,
+        "RaidMode": 2,
+        "RankingEventTermId": 510322
+    }
+]

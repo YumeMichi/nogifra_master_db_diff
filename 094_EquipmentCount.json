@@ -1,0 +1,38 @@
+[
+    {
+        "FromCount": 1,
+        "Id": 1,
+        "NeededCoin": 5,
+        "ToCount": 20
+    },
+    {
+        "FromCount": 21,
+        "Id": 2,
+        "NeededCoin": 10,
+        "ToCount": 40
+    },
+    {
+        "FromCount": 41,
+        "Id": 3,
+        "NeededCoin": 15,
+        "ToCount": 70
+    },
+    {
+        "FromCount": 71,
+        "Id": 4,
+        "NeededCoin": 20,
+        "ToCount": 90
+    },
+    {
+        "FromCount": 91,
+        "Id": 5,
+        "NeededCoin": 25,
+        "ToCount": 110
+    },
+    {
+        "FromCount": 111,
+        "Id": 6,
+        "NeededCoin": 30,
+        "ToCount": 150
+    }
+]

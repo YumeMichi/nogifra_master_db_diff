@@ -1,0 +1,26 @@
+[
+    {
+        "FrameColor": "#436597",
+        "Id": 1,
+        "IsAllocationTarget": true,
+        "IsDeclarableOurSiteEmpty": true,
+        "Name": "小会場",
+        "SiteType": 1
+    },
+    {
+        "FrameColor": "#cc8600",
+        "Id": 2,
+        "IsAllocationTarget": false,
+        "IsDeclarableOurSiteEmpty": false,
+        "Name": "中会場",
+        "SiteType": 2
+    },
+    {
+        "FrameColor": "#b2402f",
+        "Id": 3,
+        "IsAllocationTarget": false,
+        "IsDeclarableOurSiteEmpty": false,
+        "Name": "大会場",
+        "SiteType": 3
+    }
+]

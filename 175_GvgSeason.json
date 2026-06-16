@@ -1,0 +1,242 @@
+[
+    {
+        "BattleMusicId": 1007001,
+        "Id": 1,
+        "StartDate": "2021-12-20T05:00:00+09:00",
+        "Title": "beta",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 1
+    },
+    {
+        "BattleMusicId": 1001901,
+        "Id": 2,
+        "StartDate": "2022-01-17T05:00:00+09:00",
+        "Title": "beta",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 4
+    },
+    {
+        "BattleMusicId": 1001901,
+        "Id": 3,
+        "StartDate": "2022-02-14T05:00:00+09:00",
+        "Title": "beta",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 6
+    },
+    {
+        "BattleMusicId": 1017401,
+        "Id": 4,
+        "StartDate": "2022-04-04T05:00:00+09:00",
+        "Title": "Season1",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 6
+    },
+    {
+        "BattleMusicId": 1013901,
+        "Id": 5,
+        "StartDate": "2022-05-30T05:00:00+09:00",
+        "Title": "Season2",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 9
+    },
+    {
+        "BattleMusicId": 1012001,
+        "Id": 6,
+        "StartDate": "2022-08-08T05:00:00+09:00",
+        "Title": "Season3",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1012501,
+        "Id": 7,
+        "StartDate": "2022-10-10T05:00:00+09:00",
+        "Title": "Season4",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1006901,
+        "Id": 8,
+        "StartDate": "2022-12-05T05:00:00+09:00",
+        "Title": "Season5",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1018001,
+        "Id": 9,
+        "StartDate": "2023-01-30T05:00:00+09:00",
+        "Title": "Season6",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1015701,
+        "Id": 10,
+        "StartDate": "2023-03-27T05:00:00+09:00",
+        "Title": "Season7",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1018601,
+        "Id": 11,
+        "StartDate": "2023-05-22T05:00:00+09:00",
+        "Title": "Season8",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1011301,
+        "Id": 12,
+        "StartDate": "2023-07-17T05:00:00+09:00",
+        "Title": "Season9",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1020501,
+        "Id": 13,
+        "StartDate": "2023-09-11T05:00:00+09:00",
+        "Title": "Season10",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1020801,
+        "Id": 14,
+        "StartDate": "2023-11-06T05:00:00+09:00",
+        "Title": "Season11",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1021801,
+        "Id": 15,
+        "StartDate": "2024-01-08T05:00:00+09:00",
+        "Title": "Season12",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1012901,
+        "Id": 16,
+        "StartDate": "2024-03-11T05:00:00+09:00",
+        "Title": "Season13",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1020601,
+        "Id": 17,
+        "StartDate": "2024-05-06T05:00:00+09:00",
+        "Title": "Season14",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1021301,
+        "Id": 18,
+        "StartDate": "2024-07-01T05:00:00+09:00",
+        "Title": "Season15",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1024101,
+        "Id": 19,
+        "StartDate": "2024-08-26T05:00:00+09:00",
+        "Title": "Season16",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1023201,
+        "Id": 20,
+        "StartDate": "2024-10-28T05:00:00+09:00",
+        "Title": "Season17",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1021001,
+        "Id": 21,
+        "StartDate": "2024-12-23T05:00:00+09:00",
+        "Title": "Season18",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1024701,
+        "Id": 22,
+        "StartDate": "2025-02-24T05:00:00+09:00",
+        "Title": "Season19",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1024601,
+        "Id": 23,
+        "StartDate": "2025-04-21T05:00:00+09:00",
+        "Title": "Season20",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1019101,
+        "Id": 24,
+        "StartDate": "2025-06-16T05:00:00+09:00",
+        "Title": "Season21",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1023601,
+        "Id": 25,
+        "StartDate": "2025-08-11T05:00:00+09:00",
+        "Title": "Season22",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1025101,
+        "Id": 26,
+        "StartDate": "2025-10-13T05:00:00+09:00",
+        "Title": "Season23",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1026501,
+        "Id": 27,
+        "StartDate": "2025-12-15T05:00:00+09:00",
+        "Title": "Season24",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1025801,
+        "Id": 28,
+        "StartDate": "2026-02-16T05:00:00+09:00",
+        "Title": "Season25",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 8
+    },
+    {
+        "BattleMusicId": 1025701,
+        "Id": 29,
+        "StartDate": "2026-04-20T05:00:00+09:00",
+        "Title": "Season26",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    },
+    {
+        "BattleMusicId": 1026001,
+        "Id": 30,
+        "StartDate": "2026-06-15T05:00:00+09:00",
+        "Title": "Season27",
+        "TitleSuffix": "",
+        "TotalWeekNumber": 7
+    }
+]

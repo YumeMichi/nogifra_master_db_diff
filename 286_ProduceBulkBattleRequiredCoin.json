@@ -1,0 +1,132 @@
+[
+    {
+        "Id": 1,
+        "OrdinalNumber": 1,
+        "RequiredCoin": 0
+    },
+    {
+        "Id": 2,
+        "OrdinalNumber": 2,
+        "RequiredCoin": 30
+    },
+    {
+        "Id": 3,
+        "OrdinalNumber": 3,
+        "RequiredCoin": 50
+    },
+    {
+        "Id": 4,
+        "OrdinalNumber": 4,
+        "RequiredCoin": 70
+    },
+    {
+        "Id": 5,
+        "OrdinalNumber": 5,
+        "RequiredCoin": 70
+    },
+    {
+        "Id": 6,
+        "OrdinalNumber": 6,
+        "RequiredCoin": 90
+    },
+    {
+        "Id": 7,
+        "OrdinalNumber": 7,
+        "RequiredCoin": 90
+    },
+    {
+        "Id": 8,
+        "OrdinalNumber": 8,
+        "RequiredCoin": 90
+    },
+    {
+        "Id": 9,
+        "OrdinalNumber": 9,
+        "RequiredCoin": 120
+    },
+    {
+        "Id": 10,
+        "OrdinalNumber": 10,
+        "RequiredCoin": 120
+    },
+    {
+        "Id": 11,
+        "OrdinalNumber": 11,
+        "RequiredCoin": 120
+    },
+    {
+        "Id": 12,
+        "OrdinalNumber": 12,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 13,
+        "OrdinalNumber": 13,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 14,
+        "OrdinalNumber": 14,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 15,
+        "OrdinalNumber": 15,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 16,
+        "OrdinalNumber": 16,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 17,
+        "OrdinalNumber": 17,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 18,
+        "OrdinalNumber": 18,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 19,
+        "OrdinalNumber": 19,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 20,
+        "OrdinalNumber": 20,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 21,
+        "OrdinalNumber": 21,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 22,
+        "OrdinalNumber": 22,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 23,
+        "OrdinalNumber": 23,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 24,
+        "OrdinalNumber": 24,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 25,
+        "OrdinalNumber": 25,
+        "RequiredCoin": 150
+    },
+    {
+        "Id": 26,
+        "OrdinalNumber": 26,
+        "RequiredCoin": 150
+    }
+]

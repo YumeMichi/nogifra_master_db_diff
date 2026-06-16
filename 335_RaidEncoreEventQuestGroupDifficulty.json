@@ -1,0 +1,290 @@
+[
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710011,
+        "Id": 7100111,
+        "QuestGroupId": 7100111
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710011,
+        "Id": 7100112,
+        "QuestGroupId": 7100112
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710021,
+        "Id": 7100121,
+        "QuestGroupId": 7100121
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710021,
+        "Id": 7100122,
+        "QuestGroupId": 7100122
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710031,
+        "Id": 7100131,
+        "QuestGroupId": 7100131
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710031,
+        "Id": 7100132,
+        "QuestGroupId": 7100132
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710041,
+        "Id": 7100141,
+        "QuestGroupId": 7100141
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710041,
+        "Id": 7100142,
+        "QuestGroupId": 7100142
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710051,
+        "Id": 7100151,
+        "QuestGroupId": 7100151
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710051,
+        "Id": 7100152,
+        "QuestGroupId": 7100152
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710061,
+        "Id": 7100161,
+        "QuestGroupId": 7100161
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710061,
+        "Id": 7100162,
+        "QuestGroupId": 7100162
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710071,
+        "Id": 7100171,
+        "QuestGroupId": 7100171
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710071,
+        "Id": 7100172,
+        "QuestGroupId": 7100172
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710081,
+        "Id": 7100811,
+        "QuestGroupId": 7100811
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710081,
+        "Id": 7100812,
+        "QuestGroupId": 7100812
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710091,
+        "Id": 7100911,
+        "QuestGroupId": 7100911
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710091,
+        "Id": 7100912,
+        "QuestGroupId": 7100912
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710101,
+        "Id": 7101011,
+        "QuestGroupId": 7101011
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710101,
+        "Id": 7101012,
+        "QuestGroupId": 7101012
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710111,
+        "Id": 7101111,
+        "QuestGroupId": 7101111
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710111,
+        "Id": 7101112,
+        "QuestGroupId": 7101112
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710121,
+        "Id": 7101211,
+        "QuestGroupId": 7101211
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710121,
+        "Id": 7101212,
+        "QuestGroupId": 7101212
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710131,
+        "Id": 7101311,
+        "QuestGroupId": 7101311
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710131,
+        "Id": 7101312,
+        "QuestGroupId": 7101312
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710141,
+        "Id": 7101411,
+        "QuestGroupId": 7101411
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710141,
+        "Id": 7101412,
+        "QuestGroupId": 7101412
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710151,
+        "Id": 7101511,
+        "QuestGroupId": 7101511
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710151,
+        "Id": 7101512,
+        "QuestGroupId": 7101512
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710161,
+        "Id": 7101611,
+        "QuestGroupId": 7101611
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710161,
+        "Id": 7101612,
+        "QuestGroupId": 7101612
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710171,
+        "Id": 7101711,
+        "QuestGroupId": 7101711
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710171,
+        "Id": 7101712,
+        "QuestGroupId": 7101712
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710181,
+        "Id": 7101811,
+        "QuestGroupId": 7101811
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710181,
+        "Id": 7101812,
+        "QuestGroupId": 7101812
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710191,
+        "Id": 7101911,
+        "QuestGroupId": 7101911
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710191,
+        "Id": 7101912,
+        "QuestGroupId": 7101912
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710201,
+        "Id": 7102011,
+        "QuestGroupId": 7102011
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710201,
+        "Id": 7102012,
+        "QuestGroupId": 7102012
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710211,
+        "Id": 7102111,
+        "QuestGroupId": 7102111
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710211,
+        "Id": 7102112,
+        "QuestGroupId": 7102112
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710221,
+        "Id": 7102211,
+        "QuestGroupId": 7102211
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710221,
+        "Id": 7102212,
+        "QuestGroupId": 7102212
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 710231,
+        "Id": 7102311,
+        "QuestGroupId": 7102311
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 710231,
+        "Id": 7102312,
+        "QuestGroupId": 7102312
+    },
+    {
+        "Difficulty": 1,
+        "EncoreEventId": 990011,
+        "Id": 9900111,
+        "QuestGroupId": 9900111
+    },
+    {
+        "Difficulty": 2,
+        "EncoreEventId": 990011,
+        "Id": 9900112,
+        "QuestGroupId": 9900112
+    }
+]

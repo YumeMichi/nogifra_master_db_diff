@@ -1,0 +1,6402 @@
+[
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 1001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.0807599,
+        "Exp": 1.02,
+        "Id": 1002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.167658,
+        "Exp": 1.04,
+        "Id": 1003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.2287285,
+        "Exp": 1.06,
+        "Id": 1004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.3243465,
+        "Exp": 1.09,
+        "Id": 1005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.4269888,
+        "Exp": 1.12,
+        "Id": 1006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.5376143,
+        "Exp": 1.14,
+        "Id": 1007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.7263968,
+        "Exp": 1.19,
+        "Id": 1008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.8498641,
+        "Exp": 1.22,
+        "Id": 1009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.9789472,
+        "Exp": 1.25,
+        "Id": 1010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 2.1137567,
+        "Exp": 1.27,
+        "Id": 1011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 2.4044948,
+        "Exp": 1.33,
+        "Id": 1012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 2.5665858,
+        "Exp": 1.36,
+        "Id": 1013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 2.7389417,
+        "Exp": 1.39,
+        "Id": 1014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 2.9221585,
+        "Exp": 1.42,
+        "Id": 1015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 3.2504175,
+        "Exp": 1.48,
+        "Id": 1016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 3.4597344,
+        "Exp": 1.51,
+        "Id": 1017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 3.6819117,
+        "Exp": 1.55,
+        "Id": 1018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 3.9182246,
+        "Exp": 1.58,
+        "Id": 1019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 4.3127165,
+        "Exp": 1.64,
+        "Id": 1020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 4.5696483,
+        "Exp": 1.68,
+        "Id": 1021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 4.8350763,
+        "Exp": 1.71,
+        "Id": 1022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 5.3980007,
+        "Exp": 1.78,
+        "Id": 1023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 5.69702,
+        "Exp": 1.82,
+        "Id": 1024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 6.0199723,
+        "Exp": 1.86,
+        "Id": 1025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 6.716148,
+        "Exp": 1.94,
+        "Id": 1026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 7.092769,
+        "Exp": 1.98,
+        "Id": 1027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 7.345662,
+        "Exp": 2.01,
+        "Id": 1028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 8.1659,
+        "Exp": 2.09,
+        "Id": 1029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 8.611201,
+        "Exp": 2.14,
+        "Id": 1030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 9.084477,
+        "Exp": 2.18,
+        "Id": 1031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 9.816041,
+        "Exp": 2.25,
+        "Id": 1032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 10.301824,
+        "Exp": 2.3,
+        "Id": 1033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 10.8032055,
+        "Exp": 2.34,
+        "Id": 1034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 11.855964,
+        "Exp": 2.43,
+        "Id": 1035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 12.430292,
+        "Exp": 2.48,
+        "Id": 1036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 13.029029,
+        "Exp": 2.52,
+        "Id": 1037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 14.315745,
+        "Exp": 2.62,
+        "Id": 1038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 14.752822,
+        "Exp": 2.66,
+        "Id": 1039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 15.445091,
+        "Exp": 2.71,
+        "Id": 1040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 16.93391,
+        "Exp": 2.81,
+        "Id": 1041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 17.74083,
+        "Exp": 2.87,
+        "Id": 1042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 18.971674,
+        "Exp": 2.95,
+        "Id": 1043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 19.78704,
+        "Exp": 3.01,
+        "Id": 1044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 20.623499,
+        "Exp": 3.06,
+        "Id": 1045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 22.36416,
+        "Exp": 3.17,
+        "Id": 1046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 23.30806,
+        "Exp": 3.22,
+        "Id": 1047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 24.28831,
+        "Exp": 3.28,
+        "Id": 1048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 26.377687,
+        "Exp": 3.4,
+        "Id": 1049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 27.079102,
+        "Exp": 3.44,
+        "Id": 1050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 29.35348,
+        "Exp": 3.56,
+        "Id": 1051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 30.571423,
+        "Exp": 3.62,
+        "Id": 1052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 31.85289,
+        "Exp": 3.69,
+        "Id": 1053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 33.789307,
+        "Exp": 3.79,
+        "Id": 1054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 35.069145,
+        "Exp": 3.85,
+        "Id": 1055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 37.717873,
+        "Exp": 3.97,
+        "Id": 1056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 39.093685,
+        "Exp": 4.04,
+        "Id": 1057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 40.556973,
+        "Exp": 4.1,
+        "Id": 1058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.35,
+        "DeckTotalBattlePoint": 43.64462,
+        "Exp": 4.24,
+        "Id": 1059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.36,
+        "DeckTotalBattlePoint": 45.280117,
+        "Exp": 4.31,
+        "Id": 1060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.37,
+        "DeckTotalBattlePoint": 48.036983,
+        "Exp": 4.43,
+        "Id": 1061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.37,
+        "DeckTotalBattlePoint": 49.796,
+        "Exp": 4.5,
+        "Id": 1062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.38,
+        "DeckTotalBattlePoint": 51.631927,
+        "Exp": 4.57,
+        "Id": 1063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.38,
+        "DeckTotalBattlePoint": 54.564148,
+        "Exp": 4.69,
+        "Id": 1064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.39,
+        "DeckTotalBattlePoint": 56.446228,
+        "Exp": 4.76,
+        "Id": 1065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 60.28944,
+        "Exp": 4.9,
+        "Id": 1066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 62.270485,
+        "Exp": 4.98,
+        "Id": 1067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 64.29869,
+        "Exp": 5.05,
+        "Id": 1068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.41,
+        "DeckTotalBattlePoint": 68.68573,
+        "Exp": 5.2,
+        "Id": 1069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.42,
+        "DeckTotalBattlePoint": 70.99781,
+        "Exp": 5.28,
+        "Id": 1070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.43,
+        "DeckTotalBattlePoint": 74.953026,
+        "Exp": 5.41,
+        "Id": 1071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.43,
+        "DeckTotalBattlePoint": 77.41721,
+        "Exp": 5.5,
+        "Id": 1072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.44,
+        "DeckTotalBattlePoint": 82.63794,
+        "Exp": 5.66,
+        "Id": 1073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.44,
+        "DeckTotalBattlePoint": 85.41435,
+        "Exp": 5.75,
+        "Id": 1074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.45,
+        "DeckTotalBattlePoint": 86.850845,
+        "Exp": 5.79,
+        "Id": 1075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.45,
+        "DeckTotalBattlePoint": 92.2709,
+        "Exp": 5.96,
+        "Id": 1076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.46,
+        "DeckTotalBattlePoint": 95.0362,
+        "Exp": 6.04,
+        "Id": 1077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.47,
+        "DeckTotalBattlePoint": 100.73031,
+        "Exp": 6.21,
+        "Id": 1078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.47,
+        "DeckTotalBattlePoint": 103.78362,
+        "Exp": 6.29,
+        "Id": 1079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.48,
+        "DeckTotalBattlePoint": 110.18905,
+        "Exp": 6.47,
+        "Id": 1080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.48,
+        "DeckTotalBattlePoint": 113.56736,
+        "Exp": 6.56,
+        "Id": 1081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.49,
+        "DeckTotalBattlePoint": 115.74487,
+        "Exp": 6.62,
+        "Id": 1082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.5,
+        "DeckTotalBattlePoint": 122.79374,
+        "Exp": 6.8,
+        "Id": 1083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.5,
+        "DeckTotalBattlePoint": 126.51829,
+        "Exp": 6.9,
+        "Id": 1084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.51,
+        "DeckTotalBattlePoint": 132.4015,
+        "Exp": 7.05,
+        "Id": 1085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.51,
+        "DeckTotalBattlePoint": 136.16768,
+        "Exp": 7.14,
+        "Id": 1086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.52,
+        "DeckTotalBattlePoint": 143.7828,
+        "Exp": 7.33,
+        "Id": 1087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.52,
+        "DeckTotalBattlePoint": 147.67271,
+        "Exp": 7.42,
+        "Id": 1088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.53,
+        "DeckTotalBattlePoint": 155.82791,
+        "Exp": 7.61,
+        "Id": 1089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.54,
+        "DeckTotalBattlePoint": 160.1334,
+        "Exp": 7.71,
+        "Id": 1090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.54,
+        "DeckTotalBattlePoint": 164.57207,
+        "Exp": 7.81,
+        "Id": 1091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.55,
+        "DeckTotalBattlePoint": 172.11786,
+        "Exp": 7.97,
+        "Id": 1092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.55,
+        "DeckTotalBattlePoint": 176.81006,
+        "Exp": 8.08,
+        "Id": 1093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.56,
+        "DeckTotalBattlePoint": 186.68431,
+        "Exp": 8.29,
+        "Id": 1094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.56,
+        "DeckTotalBattlePoint": 191.91977,
+        "Exp": 8.39,
+        "Id": 1095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.57,
+        "DeckTotalBattlePoint": 199.64377,
+        "Exp": 8.55,
+        "Id": 1096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.58,
+        "DeckTotalBattlePoint": 204.71895,
+        "Exp": 8.66,
+        "Id": 1097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.58,
+        "DeckTotalBattlePoint": 215.08406,
+        "Exp": 8.86,
+        "Id": 1098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.59,
+        "DeckTotalBattlePoint": 220.39963,
+        "Exp": 8.97,
+        "Id": 1099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.6,
+        "DeckTotalBattlePoint": 231.80067,
+        "Exp": 9.18,
+        "Id": 1100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 101001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 101002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 101003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 101004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 101005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.02,
+        "Id": 101006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 101007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 101008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.04,
+        "Id": 101009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.04,
+        "Id": 101010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.05,
+        "Id": 101011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.05,
+        "Id": 101012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.06,
+        "Id": 101013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.07,
+        "Id": 101014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.07,
+        "Id": 101015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.08,
+        "Id": 101016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.12,
+        "Exp": 1.08,
+        "Id": 101017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.13,
+        "Exp": 1.09,
+        "Id": 101018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.1,
+        "Id": 101019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.16,
+        "Exp": 1.11,
+        "Id": 101020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.11,
+        "Id": 101021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.18,
+        "Exp": 1.12,
+        "Id": 101022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.21,
+        "Exp": 1.13,
+        "Id": 101023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.23,
+        "Exp": 1.14,
+        "Id": 101024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.24,
+        "Exp": 1.14,
+        "Id": 101025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.27,
+        "Exp": 1.15,
+        "Id": 101026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.29,
+        "Exp": 1.16,
+        "Id": 101027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.3,
+        "Exp": 1.17,
+        "Id": 101028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.34,
+        "Exp": 1.18,
+        "Id": 101029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.36,
+        "Exp": 1.19,
+        "Id": 101030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.38,
+        "Exp": 1.19,
+        "Id": 101031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.42,
+        "Exp": 1.21,
+        "Id": 101032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.44,
+        "Exp": 1.21,
+        "Id": 101033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.47,
+        "Exp": 1.22,
+        "Id": 101034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.52,
+        "Exp": 1.24,
+        "Id": 101035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.54,
+        "Exp": 1.24,
+        "Id": 101036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.57,
+        "Exp": 1.25,
+        "Id": 101037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.62,
+        "Exp": 1.27,
+        "Id": 101038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.65,
+        "Exp": 1.28,
+        "Id": 101039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.68,
+        "Exp": 1.28,
+        "Id": 101040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.74,
+        "Exp": 1.3,
+        "Id": 101041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.78,
+        "Exp": 1.31,
+        "Id": 101042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.84,
+        "Exp": 1.33,
+        "Id": 101043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.88,
+        "Exp": 1.34,
+        "Id": 101044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.92,
+        "Exp": 1.34,
+        "Id": 101045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2,
+        "Exp": 1.36,
+        "Id": 101046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.04,
+        "Exp": 1.37,
+        "Id": 101047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.08,
+        "Exp": 1.38,
+        "Id": 101048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.17,
+        "Exp": 1.4,
+        "Id": 101049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.21,
+        "Exp": 1.41,
+        "Id": 101050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.3,
+        "Exp": 1.43,
+        "Id": 101051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.35,
+        "Exp": 1.44,
+        "Id": 101052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.4,
+        "Exp": 1.45,
+        "Id": 101053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.5,
+        "Exp": 1.47,
+        "Id": 101054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.56,
+        "Exp": 1.48,
+        "Id": 101055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.68,
+        "Exp": 1.5,
+        "Id": 101056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.74,
+        "Exp": 1.51,
+        "Id": 101057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.8,
+        "Exp": 1.52,
+        "Id": 101058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.93,
+        "Exp": 1.55,
+        "Id": 101059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.99,
+        "Exp": 1.56,
+        "Id": 101060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.12,
+        "Exp": 1.58,
+        "Id": 101061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.19,
+        "Exp": 1.59,
+        "Id": 101062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.26,
+        "Exp": 1.6,
+        "Id": 101063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.4,
+        "Exp": 1.62,
+        "Id": 101064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.48,
+        "Exp": 1.64,
+        "Id": 101065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.65,
+        "Exp": 1.66,
+        "Id": 101066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.73,
+        "Exp": 1.67,
+        "Id": 101067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.82,
+        "Exp": 1.69,
+        "Id": 101068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.99,
+        "Exp": 1.71,
+        "Id": 101069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.09,
+        "Exp": 1.72,
+        "Id": 101070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.26,
+        "Exp": 1.75,
+        "Id": 101071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.36,
+        "Exp": 1.76,
+        "Id": 101072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.56,
+        "Exp": 1.79,
+        "Id": 101073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.67,
+        "Exp": 1.8,
+        "Id": 101074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.76,
+        "Exp": 1.81,
+        "Id": 101075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 4.98,
+        "Exp": 1.84,
+        "Id": 101076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.09,
+        "Exp": 1.85,
+        "Id": 101077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.33,
+        "Exp": 1.88,
+        "Id": 101078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.45,
+        "Exp": 1.89,
+        "Id": 101079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.7,
+        "Exp": 1.92,
+        "Id": 101080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.82,
+        "Exp": 1.93,
+        "Id": 101081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 5.93,
+        "Exp": 1.95,
+        "Id": 101082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.2,
+        "Exp": 1.97,
+        "Id": 101083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.34,
+        "Exp": 1.99,
+        "Id": 101084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.61,
+        "Exp": 2.01,
+        "Id": 101085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.75,
+        "Exp": 2.03,
+        "Id": 101086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 7.05,
+        "Exp": 2.06,
+        "Id": 101087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.21,
+        "Exp": 2.07,
+        "Id": 101088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.53,
+        "Exp": 2.1,
+        "Id": 101089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.69,
+        "Exp": 2.12,
+        "Id": 101090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 7.86,
+        "Exp": 2.13,
+        "Id": 101091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.17,
+        "Exp": 2.16,
+        "Id": 101092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.35,
+        "Exp": 2.18,
+        "Id": 101093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.71,
+        "Exp": 2.21,
+        "Id": 101094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.9,
+        "Exp": 2.22,
+        "Id": 101095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.25,
+        "Exp": 2.25,
+        "Id": 101096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.45,
+        "Exp": 2.27,
+        "Id": 101097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.85,
+        "Exp": 2.3,
+        "Id": 101098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.05,
+        "Exp": 2.31,
+        "Id": 101099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.47,
+        "Exp": 2.34,
+        "Id": 101100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 101
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 201001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 201002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 201003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 201004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.02,
+        "Id": 201005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.02,
+        "Id": 201006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.03,
+        "Id": 201007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 201008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.04,
+        "Id": 201009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.06,
+        "Exp": 1.04,
+        "Id": 201010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.06,
+        "Exp": 1.05,
+        "Id": 201011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.06,
+        "Id": 201012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.06,
+        "Id": 201013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.1,
+        "Exp": 1.07,
+        "Id": 201014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.08,
+        "Id": 201015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.13,
+        "Exp": 1.09,
+        "Id": 201016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.09,
+        "Id": 201017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.1,
+        "Id": 201018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.1,
+        "Id": 201019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.19,
+        "Exp": 1.11,
+        "Id": 201020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.21,
+        "Exp": 1.12,
+        "Id": 201021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.22,
+        "Exp": 1.13,
+        "Id": 201022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.25,
+        "Exp": 1.14,
+        "Id": 201023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.27,
+        "Exp": 1.15,
+        "Id": 201024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.29,
+        "Exp": 1.16,
+        "Id": 201025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.33,
+        "Exp": 1.17,
+        "Id": 201026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.35,
+        "Exp": 1.18,
+        "Id": 201027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.36,
+        "Exp": 1.18,
+        "Id": 201028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.41,
+        "Exp": 1.2,
+        "Id": 201029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.43,
+        "Exp": 1.2,
+        "Id": 201030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.46,
+        "Exp": 1.21,
+        "Id": 201031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.5,
+        "Exp": 1.23,
+        "Id": 201032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.53,
+        "Exp": 1.24,
+        "Id": 201033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.56,
+        "Exp": 1.24,
+        "Id": 201034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.62,
+        "Exp": 1.26,
+        "Id": 201035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.65,
+        "Exp": 1.27,
+        "Id": 201036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.68,
+        "Exp": 1.28,
+        "Id": 201037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.75,
+        "Exp": 1.3,
+        "Id": 201038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.78,
+        "Exp": 1.3,
+        "Id": 201039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.81,
+        "Exp": 1.31,
+        "Id": 201040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.89,
+        "Exp": 1.33,
+        "Id": 201041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.93,
+        "Exp": 1.34,
+        "Id": 201042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.01,
+        "Exp": 1.36,
+        "Id": 201043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.05,
+        "Exp": 1.37,
+        "Id": 201044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.1,
+        "Exp": 1.38,
+        "Id": 201045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.19,
+        "Exp": 1.4,
+        "Id": 201046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.24,
+        "Exp": 1.41,
+        "Id": 201047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.29,
+        "Exp": 1.42,
+        "Id": 201048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.4,
+        "Exp": 1.44,
+        "Id": 201049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.44,
+        "Exp": 1.45,
+        "Id": 201050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.56,
+        "Exp": 1.47,
+        "Id": 201051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.62,
+        "Exp": 1.49,
+        "Id": 201052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.68,
+        "Exp": 1.5,
+        "Id": 201053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.8,
+        "Exp": 1.52,
+        "Id": 201054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.86,
+        "Exp": 1.53,
+        "Id": 201055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3,
+        "Exp": 1.55,
+        "Id": 201056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.07,
+        "Exp": 1.57,
+        "Id": 201057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.15,
+        "Exp": 1.58,
+        "Id": 201058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.3,
+        "Exp": 1.6,
+        "Id": 201059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.38,
+        "Exp": 1.62,
+        "Id": 201060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.53,
+        "Exp": 1.64,
+        "Id": 201061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.62,
+        "Exp": 1.65,
+        "Id": 201062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.7,
+        "Exp": 1.66,
+        "Id": 201063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.87,
+        "Exp": 1.69,
+        "Id": 201064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.97,
+        "Exp": 1.7,
+        "Id": 201065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.16,
+        "Exp": 1.73,
+        "Id": 201066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.26,
+        "Exp": 1.74,
+        "Id": 201067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.36,
+        "Exp": 1.76,
+        "Id": 201068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.57,
+        "Exp": 1.78,
+        "Id": 201069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.68,
+        "Exp": 1.8,
+        "Id": 201070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.89,
+        "Exp": 1.82,
+        "Id": 201071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.01,
+        "Exp": 1.84,
+        "Id": 201072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.25,
+        "Exp": 1.86,
+        "Id": 201073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.37,
+        "Exp": 1.88,
+        "Id": 201074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.48,
+        "Exp": 1.89,
+        "Id": 201075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.75,
+        "Exp": 1.92,
+        "Id": 201076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.88,
+        "Exp": 1.93,
+        "Id": 201077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.16,
+        "Exp": 1.96,
+        "Id": 201078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.3,
+        "Exp": 1.98,
+        "Id": 201079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.6,
+        "Exp": 2.01,
+        "Id": 201080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.75,
+        "Exp": 2.02,
+        "Id": 201081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.88,
+        "Exp": 2.04,
+        "Id": 201082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.2,
+        "Exp": 2.07,
+        "Id": 201083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.37,
+        "Exp": 2.08,
+        "Id": 201084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.69,
+        "Exp": 2.11,
+        "Id": 201085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 7.86,
+        "Exp": 2.13,
+        "Id": 201086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.22,
+        "Exp": 2.16,
+        "Id": 201087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.4,
+        "Exp": 2.18,
+        "Id": 201088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.78,
+        "Exp": 2.21,
+        "Id": 201089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.98,
+        "Exp": 2.22,
+        "Id": 201090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 9.18,
+        "Exp": 2.24,
+        "Id": 201091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.55,
+        "Exp": 2.27,
+        "Id": 201092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.76,
+        "Exp": 2.29,
+        "Id": 201093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.19,
+        "Exp": 2.32,
+        "Id": 201094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.41,
+        "Exp": 2.34,
+        "Id": 201095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.83,
+        "Exp": 2.37,
+        "Id": 201096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.07,
+        "Exp": 2.38,
+        "Id": 201097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.54,
+        "Exp": 2.42,
+        "Id": 201098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 11.79,
+        "Exp": 2.43,
+        "Id": 201099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.29,
+        "Exp": 2.47,
+        "Id": 201100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 201
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 301001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 301002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 301003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 301004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.02,
+        "Id": 301005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 301006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 301007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.04,
+        "Id": 301008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.06,
+        "Exp": 1.04,
+        "Id": 301009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.05,
+        "Id": 301010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.05,
+        "Id": 301011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.06,
+        "Id": 301012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.07,
+        "Id": 301013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.12,
+        "Exp": 1.08,
+        "Id": 301014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.13,
+        "Exp": 1.08,
+        "Id": 301015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.09,
+        "Id": 301016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.1,
+        "Id": 301017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.18,
+        "Exp": 1.11,
+        "Id": 301018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.19,
+        "Exp": 1.11,
+        "Id": 301019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.22,
+        "Exp": 1.12,
+        "Id": 301020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.24,
+        "Exp": 1.13,
+        "Id": 301021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.26,
+        "Exp": 1.14,
+        "Id": 301022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.3,
+        "Exp": 1.15,
+        "Id": 301023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.32,
+        "Exp": 1.16,
+        "Id": 301024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.34,
+        "Exp": 1.17,
+        "Id": 301025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.38,
+        "Exp": 1.18,
+        "Id": 301026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.4,
+        "Exp": 1.19,
+        "Id": 301027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.42,
+        "Exp": 1.2,
+        "Id": 301028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.48,
+        "Exp": 1.21,
+        "Id": 301029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.5,
+        "Exp": 1.22,
+        "Id": 301030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.53,
+        "Exp": 1.23,
+        "Id": 301031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.59,
+        "Exp": 1.25,
+        "Id": 301032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.62,
+        "Exp": 1.26,
+        "Id": 301033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.65,
+        "Exp": 1.27,
+        "Id": 301034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.72,
+        "Exp": 1.28,
+        "Id": 301035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.75,
+        "Exp": 1.29,
+        "Id": 301036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.79,
+        "Exp": 1.3,
+        "Id": 301037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.87,
+        "Exp": 1.32,
+        "Id": 301038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.9,
+        "Exp": 1.33,
+        "Id": 301039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.95,
+        "Exp": 1.34,
+        "Id": 301040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.04,
+        "Exp": 1.36,
+        "Id": 301041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.08,
+        "Exp": 1.37,
+        "Id": 301042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.17,
+        "Exp": 1.39,
+        "Id": 301043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.22,
+        "Exp": 1.4,
+        "Id": 301044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.28,
+        "Exp": 1.41,
+        "Id": 301045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.39,
+        "Exp": 1.44,
+        "Id": 301046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.44,
+        "Exp": 1.45,
+        "Id": 301047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.5,
+        "Exp": 1.46,
+        "Id": 301048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.62,
+        "Exp": 1.48,
+        "Id": 301049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.68,
+        "Exp": 1.49,
+        "Id": 301050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.81,
+        "Exp": 1.52,
+        "Id": 301051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.88,
+        "Exp": 1.53,
+        "Id": 301052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.95,
+        "Exp": 1.54,
+        "Id": 301053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.09,
+        "Exp": 1.56,
+        "Id": 301054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.17,
+        "Exp": 1.58,
+        "Id": 301055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.33,
+        "Exp": 1.6,
+        "Id": 301056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.41,
+        "Exp": 1.62,
+        "Id": 301057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.5,
+        "Exp": 1.63,
+        "Id": 301058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.67,
+        "Exp": 1.65,
+        "Id": 301059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.77,
+        "Exp": 1.67,
+        "Id": 301060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.94,
+        "Exp": 1.69,
+        "Id": 301061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.04,
+        "Exp": 1.71,
+        "Id": 301062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.14,
+        "Exp": 1.72,
+        "Id": 301063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.34,
+        "Exp": 1.75,
+        "Id": 301064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.44,
+        "Exp": 1.76,
+        "Id": 301065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.67,
+        "Exp": 1.79,
+        "Id": 301066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.78,
+        "Exp": 1.8,
+        "Id": 301067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.9,
+        "Exp": 1.82,
+        "Id": 301068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.15,
+        "Exp": 1.85,
+        "Id": 301069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.28,
+        "Exp": 1.86,
+        "Id": 301070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.52,
+        "Exp": 1.89,
+        "Id": 301071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.65,
+        "Exp": 1.91,
+        "Id": 301072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.93,
+        "Exp": 1.94,
+        "Id": 301073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.08,
+        "Exp": 1.95,
+        "Id": 301074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.21,
+        "Exp": 1.97,
+        "Id": 301075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.51,
+        "Exp": 2,
+        "Id": 301076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.67,
+        "Exp": 2.01,
+        "Id": 301077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.99,
+        "Exp": 2.04,
+        "Id": 301078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.16,
+        "Exp": 2.06,
+        "Id": 301079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.5,
+        "Exp": 2.09,
+        "Id": 301080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.68,
+        "Exp": 2.11,
+        "Id": 301081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 7.83,
+        "Exp": 2.12,
+        "Id": 301082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.2,
+        "Exp": 2.15,
+        "Id": 301083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.39,
+        "Exp": 2.17,
+        "Id": 301084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.76,
+        "Exp": 2.2,
+        "Id": 301085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.96,
+        "Exp": 2.22,
+        "Id": 301086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.37,
+        "Exp": 2.25,
+        "Id": 301087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.59,
+        "Exp": 2.27,
+        "Id": 301088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 10.03,
+        "Exp": 2.3,
+        "Id": 301089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.25,
+        "Exp": 2.32,
+        "Id": 301090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.48,
+        "Exp": 2.34,
+        "Id": 301091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 10.92,
+        "Exp": 2.37,
+        "Id": 301092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.16,
+        "Exp": 2.39,
+        "Id": 301093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.66,
+        "Exp": 2.42,
+        "Id": 301094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 11.92,
+        "Exp": 2.44,
+        "Id": 301095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.4,
+        "Exp": 2.47,
+        "Id": 301096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.67,
+        "Exp": 2.49,
+        "Id": 301097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.22,
+        "Exp": 2.53,
+        "Id": 301098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.51,
+        "Exp": 2.54,
+        "Id": 301099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.09,
+        "Exp": 2.58,
+        "Id": 301100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 301
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 401001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 401002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 401003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 401004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.02,
+        "Id": 401005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 401006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 401007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.06,
+        "Exp": 1.04,
+        "Id": 401008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.04,
+        "Id": 401009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.05,
+        "Id": 401010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.06,
+        "Id": 401011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.07,
+        "Id": 401012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.12,
+        "Exp": 1.07,
+        "Id": 401013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.13,
+        "Exp": 1.08,
+        "Id": 401014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.09,
+        "Id": 401015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.1,
+        "Id": 401016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.19,
+        "Exp": 1.11,
+        "Id": 401017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.2,
+        "Exp": 1.11,
+        "Id": 401018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.22,
+        "Exp": 1.12,
+        "Id": 401019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.26,
+        "Exp": 1.13,
+        "Id": 401020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.27,
+        "Exp": 1.14,
+        "Id": 401021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.29,
+        "Exp": 1.15,
+        "Id": 401022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.34,
+        "Exp": 1.16,
+        "Id": 401023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.36,
+        "Exp": 1.17,
+        "Id": 401024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.38,
+        "Exp": 1.18,
+        "Id": 401025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.43,
+        "Exp": 1.2,
+        "Id": 401026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.46,
+        "Exp": 1.2,
+        "Id": 401027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.48,
+        "Exp": 1.21,
+        "Id": 401028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.54,
+        "Exp": 1.23,
+        "Id": 401029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.57,
+        "Exp": 1.24,
+        "Id": 401030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.61,
+        "Exp": 1.25,
+        "Id": 401031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.67,
+        "Exp": 1.26,
+        "Id": 401032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.7,
+        "Exp": 1.28,
+        "Id": 401033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.74,
+        "Exp": 1.29,
+        "Id": 401034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.82,
+        "Exp": 1.3,
+        "Id": 401035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.86,
+        "Exp": 1.32,
+        "Id": 401036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.9,
+        "Exp": 1.33,
+        "Id": 401037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.99,
+        "Exp": 1.35,
+        "Id": 401038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.03,
+        "Exp": 1.36,
+        "Id": 401039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.08,
+        "Exp": 1.37,
+        "Id": 401040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.18,
+        "Exp": 1.39,
+        "Id": 401041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.23,
+        "Exp": 1.4,
+        "Id": 401042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.34,
+        "Exp": 1.42,
+        "Id": 401043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.39,
+        "Exp": 1.43,
+        "Id": 401044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.45,
+        "Exp": 1.45,
+        "Id": 401045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.58,
+        "Exp": 1.47,
+        "Id": 401046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.64,
+        "Exp": 1.48,
+        "Id": 401047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.71,
+        "Exp": 1.49,
+        "Id": 401048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.85,
+        "Exp": 1.52,
+        "Id": 401049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.91,
+        "Exp": 1.53,
+        "Id": 401050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.06,
+        "Exp": 1.56,
+        "Id": 401051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.14,
+        "Exp": 1.57,
+        "Id": 401052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.22,
+        "Exp": 1.58,
+        "Id": 401053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.38,
+        "Exp": 1.61,
+        "Id": 401054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.47,
+        "Exp": 1.62,
+        "Id": 401055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.65,
+        "Exp": 1.65,
+        "Id": 401056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.75,
+        "Exp": 1.66,
+        "Id": 401057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.84,
+        "Exp": 1.68,
+        "Id": 401058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.04,
+        "Exp": 1.7,
+        "Id": 401059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.15,
+        "Exp": 1.72,
+        "Id": 401060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.35,
+        "Exp": 1.75,
+        "Id": 401061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.46,
+        "Exp": 1.76,
+        "Id": 401062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.58,
+        "Exp": 1.78,
+        "Id": 401063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.8,
+        "Exp": 1.8,
+        "Id": 401064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.92,
+        "Exp": 1.82,
+        "Id": 401065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.18,
+        "Exp": 1.85,
+        "Id": 401066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.31,
+        "Exp": 1.86,
+        "Id": 401067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.44,
+        "Exp": 1.88,
+        "Id": 401068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.72,
+        "Exp": 1.91,
+        "Id": 401069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.87,
+        "Exp": 1.93,
+        "Id": 401070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.14,
+        "Exp": 1.96,
+        "Id": 401071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.3,
+        "Exp": 1.97,
+        "Id": 401072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.61,
+        "Exp": 2,
+        "Id": 401073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.78,
+        "Exp": 2.02,
+        "Id": 401074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.92,
+        "Exp": 2.03,
+        "Id": 401075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.27,
+        "Exp": 2.07,
+        "Id": 401076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.45,
+        "Exp": 2.08,
+        "Id": 401077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.81,
+        "Exp": 2.12,
+        "Id": 401078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8,
+        "Exp": 2.13,
+        "Id": 401079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.39,
+        "Exp": 2.17,
+        "Id": 401080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.59,
+        "Exp": 2.19,
+        "Id": 401081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.77,
+        "Exp": 2.2,
+        "Id": 401082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 9.19,
+        "Exp": 2.23,
+        "Id": 401083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.4,
+        "Exp": 2.25,
+        "Id": 401084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.82,
+        "Exp": 2.28,
+        "Id": 401085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 10.05,
+        "Exp": 2.3,
+        "Id": 401086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.52,
+        "Exp": 2.34,
+        "Id": 401087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.76,
+        "Exp": 2.36,
+        "Id": 401088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.26,
+        "Exp": 2.39,
+        "Id": 401089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.52,
+        "Exp": 2.41,
+        "Id": 401090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.78,
+        "Exp": 2.43,
+        "Id": 401091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.28,
+        "Exp": 2.46,
+        "Id": 401092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.55,
+        "Exp": 2.48,
+        "Id": 401093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.12,
+        "Exp": 2.52,
+        "Id": 401094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.41,
+        "Exp": 2.54,
+        "Id": 401095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 13.96,
+        "Exp": 2.57,
+        "Id": 401096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.27,
+        "Exp": 2.59,
+        "Id": 401097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.9,
+        "Exp": 2.63,
+        "Id": 401098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.22,
+        "Exp": 2.65,
+        "Id": 401099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.88,
+        "Exp": 2.68,
+        "Id": 401100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 401
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 501001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 501002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1.01,
+        "Id": 501003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 501004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 501005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.02,
+        "Id": 501006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.03,
+        "Id": 501007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.06,
+        "Exp": 1.04,
+        "Id": 501008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.05,
+        "Id": 501009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.05,
+        "Id": 501010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.1,
+        "Exp": 1.06,
+        "Id": 501011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.12,
+        "Exp": 1.07,
+        "Id": 501012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.08,
+        "Id": 501013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.09,
+        "Id": 501014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.09,
+        "Id": 501015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.19,
+        "Exp": 1.1,
+        "Id": 501016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.21,
+        "Exp": 1.11,
+        "Id": 501017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.23,
+        "Exp": 1.12,
+        "Id": 501018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.25,
+        "Exp": 1.13,
+        "Id": 501019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.29,
+        "Exp": 1.14,
+        "Id": 501020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.31,
+        "Exp": 1.15,
+        "Id": 501021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.33,
+        "Exp": 1.16,
+        "Id": 501022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.38,
+        "Exp": 1.17,
+        "Id": 501023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.4,
+        "Exp": 1.18,
+        "Id": 501024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.43,
+        "Exp": 1.19,
+        "Id": 501025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.49,
+        "Exp": 1.21,
+        "Id": 501026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.52,
+        "Exp": 1.22,
+        "Id": 501027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.54,
+        "Exp": 1.23,
+        "Id": 501028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.61,
+        "Exp": 1.24,
+        "Id": 501029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.64,
+        "Exp": 1.25,
+        "Id": 501030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.68,
+        "Exp": 1.27,
+        "Id": 501031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.75,
+        "Exp": 1.28,
+        "Id": 501032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.79,
+        "Exp": 1.29,
+        "Id": 501033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.83,
+        "Exp": 1.31,
+        "Id": 501034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.92,
+        "Exp": 1.33,
+        "Id": 501035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.97,
+        "Exp": 1.34,
+        "Id": 501036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.01,
+        "Exp": 1.35,
+        "Id": 501037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.11,
+        "Exp": 1.37,
+        "Id": 501038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.16,
+        "Exp": 1.38,
+        "Id": 501039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.21,
+        "Exp": 1.39,
+        "Id": 501040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.33,
+        "Exp": 1.42,
+        "Id": 501041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.38,
+        "Exp": 1.43,
+        "Id": 501042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.5,
+        "Exp": 1.45,
+        "Id": 501043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.57,
+        "Exp": 1.46,
+        "Id": 501044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.63,
+        "Exp": 1.48,
+        "Id": 501045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.77,
+        "Exp": 1.5,
+        "Id": 501046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.84,
+        "Exp": 1.51,
+        "Id": 501047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.92,
+        "Exp": 1.53,
+        "Id": 501048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.08,
+        "Exp": 1.55,
+        "Id": 501049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.15,
+        "Exp": 1.57,
+        "Id": 501050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.31,
+        "Exp": 1.59,
+        "Id": 501051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.4,
+        "Exp": 1.61,
+        "Id": 501052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.49,
+        "Exp": 1.62,
+        "Id": 501053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.67,
+        "Exp": 1.65,
+        "Id": 501054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.77,
+        "Exp": 1.66,
+        "Id": 501055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.97,
+        "Exp": 1.69,
+        "Id": 501056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.08,
+        "Exp": 1.71,
+        "Id": 501057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.19,
+        "Exp": 1.72,
+        "Id": 501058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.41,
+        "Exp": 1.75,
+        "Id": 501059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.53,
+        "Exp": 1.77,
+        "Id": 501060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.75,
+        "Exp": 1.79,
+        "Id": 501061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.88,
+        "Exp": 1.81,
+        "Id": 501062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 5.01,
+        "Exp": 1.83,
+        "Id": 501063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.26,
+        "Exp": 1.85,
+        "Id": 501064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.39,
+        "Exp": 1.87,
+        "Id": 501065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.68,
+        "Exp": 1.9,
+        "Id": 501066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.83,
+        "Exp": 1.92,
+        "Id": 501067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.98,
+        "Exp": 1.94,
+        "Id": 501068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.29,
+        "Exp": 1.97,
+        "Id": 501069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.45,
+        "Exp": 1.99,
+        "Id": 501070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.76,
+        "Exp": 2.02,
+        "Id": 501071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.93,
+        "Exp": 2.03,
+        "Id": 501072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.29,
+        "Exp": 2.07,
+        "Id": 501073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.47,
+        "Exp": 2.08,
+        "Id": 501074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.63,
+        "Exp": 2.1,
+        "Id": 501075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.02,
+        "Exp": 2.13,
+        "Id": 501076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.22,
+        "Exp": 2.15,
+        "Id": 501077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.63,
+        "Exp": 2.19,
+        "Id": 501078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.84,
+        "Exp": 2.2,
+        "Id": 501079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 9.28,
+        "Exp": 2.24,
+        "Id": 501080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.51,
+        "Exp": 2.26,
+        "Id": 501081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.7,
+        "Exp": 2.27,
+        "Id": 501082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.17,
+        "Exp": 2.31,
+        "Id": 501083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.41,
+        "Exp": 2.33,
+        "Id": 501084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.88,
+        "Exp": 2.36,
+        "Id": 501085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.14,
+        "Exp": 2.38,
+        "Id": 501086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.66,
+        "Exp": 2.42,
+        "Id": 501087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 11.94,
+        "Exp": 2.44,
+        "Id": 501088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.49,
+        "Exp": 2.47,
+        "Id": 501089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.78,
+        "Exp": 2.49,
+        "Id": 501090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.07,
+        "Exp": 2.51,
+        "Id": 501091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.63,
+        "Exp": 2.55,
+        "Id": 501092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.93,
+        "Exp": 2.57,
+        "Id": 501093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.57,
+        "Exp": 2.6,
+        "Id": 501094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.89,
+        "Exp": 2.62,
+        "Id": 501095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.51,
+        "Exp": 2.66,
+        "Id": 501096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.86,
+        "Exp": 2.68,
+        "Id": 501097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 16.56,
+        "Exp": 2.72,
+        "Id": 501098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 16.92,
+        "Exp": 2.74,
+        "Id": 501099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 17.66,
+        "Exp": 2.78,
+        "Id": 501100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 501
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 601001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 601002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 601003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 601004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 601005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 601006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.03,
+        "Id": 601007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.04,
+        "Id": 601008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.05,
+        "Id": 601009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.06,
+        "Id": 601010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.06,
+        "Id": 601011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.07,
+        "Id": 601012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.08,
+        "Id": 601013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.09,
+        "Id": 601014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.18,
+        "Exp": 1.1,
+        "Id": 601015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.22,
+        "Exp": 1.11,
+        "Id": 601016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.24,
+        "Exp": 1.12,
+        "Id": 601017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.26,
+        "Exp": 1.13,
+        "Id": 601018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.28,
+        "Exp": 1.14,
+        "Id": 601019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.32,
+        "Exp": 1.15,
+        "Id": 601020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.34,
+        "Exp": 1.16,
+        "Id": 601021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.37,
+        "Exp": 1.17,
+        "Id": 601022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.42,
+        "Exp": 1.18,
+        "Id": 601023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.45,
+        "Exp": 1.19,
+        "Id": 601024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.48,
+        "Exp": 1.2,
+        "Id": 601025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.54,
+        "Exp": 1.22,
+        "Id": 601026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.57,
+        "Exp": 1.23,
+        "Id": 601027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.6,
+        "Exp": 1.24,
+        "Id": 601028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.68,
+        "Exp": 1.26,
+        "Id": 601029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.72,
+        "Exp": 1.27,
+        "Id": 601030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.76,
+        "Exp": 1.28,
+        "Id": 601031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.83,
+        "Exp": 1.3,
+        "Id": 601032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.88,
+        "Exp": 1.31,
+        "Id": 601033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.92,
+        "Exp": 1.32,
+        "Id": 601034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 2.02,
+        "Exp": 1.35,
+        "Id": 601035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.07,
+        "Exp": 1.36,
+        "Id": 601036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.12,
+        "Exp": 1.37,
+        "Id": 601037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.24,
+        "Exp": 1.39,
+        "Id": 601038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.28,
+        "Exp": 1.4,
+        "Id": 601039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.34,
+        "Exp": 1.42,
+        "Id": 601040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.47,
+        "Exp": 1.44,
+        "Id": 601041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.54,
+        "Exp": 1.45,
+        "Id": 601042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.66,
+        "Exp": 1.48,
+        "Id": 601043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.74,
+        "Exp": 1.49,
+        "Id": 601044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.81,
+        "Exp": 1.51,
+        "Id": 601045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.96,
+        "Exp": 1.53,
+        "Id": 601046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.04,
+        "Exp": 1.55,
+        "Id": 601047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.13,
+        "Exp": 1.56,
+        "Id": 601048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.3,
+        "Exp": 1.59,
+        "Id": 601049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.38,
+        "Exp": 1.6,
+        "Id": 601050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.57,
+        "Exp": 1.63,
+        "Id": 601051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.66,
+        "Exp": 1.64,
+        "Id": 601052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.76,
+        "Exp": 1.66,
+        "Id": 601053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.96,
+        "Exp": 1.69,
+        "Id": 601054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.07,
+        "Exp": 1.7,
+        "Id": 601055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.29,
+        "Exp": 1.73,
+        "Id": 601056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.41,
+        "Exp": 1.75,
+        "Id": 601057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.53,
+        "Exp": 1.76,
+        "Id": 601058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.78,
+        "Exp": 1.79,
+        "Id": 601059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.91,
+        "Exp": 1.81,
+        "Id": 601060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.16,
+        "Exp": 1.84,
+        "Id": 601061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.3,
+        "Exp": 1.86,
+        "Id": 601062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.44,
+        "Exp": 1.87,
+        "Id": 601063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.71,
+        "Exp": 1.9,
+        "Id": 601064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.87,
+        "Exp": 1.92,
+        "Id": 601065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.18,
+        "Exp": 1.95,
+        "Id": 601066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.35,
+        "Exp": 1.97,
+        "Id": 601067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.51,
+        "Exp": 1.99,
+        "Id": 601068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.86,
+        "Exp": 2.02,
+        "Id": 601069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 7.04,
+        "Exp": 2.04,
+        "Id": 601070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.38,
+        "Exp": 2.07,
+        "Id": 601071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.57,
+        "Exp": 2.09,
+        "Id": 601072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 7.96,
+        "Exp": 2.13,
+        "Id": 601073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.17,
+        "Exp": 2.14,
+        "Id": 601074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.34,
+        "Exp": 2.16,
+        "Id": 601075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.77,
+        "Exp": 2.2,
+        "Id": 601076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.99,
+        "Exp": 2.21,
+        "Id": 601077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.45,
+        "Exp": 2.25,
+        "Id": 601078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.68,
+        "Exp": 2.27,
+        "Id": 601079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.16,
+        "Exp": 2.31,
+        "Id": 601080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.41,
+        "Exp": 2.33,
+        "Id": 601081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.63,
+        "Exp": 2.34,
+        "Id": 601082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.15,
+        "Exp": 2.38,
+        "Id": 601083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.42,
+        "Exp": 2.4,
+        "Id": 601084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 11.93,
+        "Exp": 2.43,
+        "Id": 601085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.21,
+        "Exp": 2.45,
+        "Id": 601086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.8,
+        "Exp": 2.49,
+        "Id": 601087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.1,
+        "Exp": 2.51,
+        "Id": 601088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.72,
+        "Exp": 2.55,
+        "Id": 601089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.03,
+        "Exp": 2.57,
+        "Id": 601090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.36,
+        "Exp": 2.59,
+        "Id": 601091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.97,
+        "Exp": 2.63,
+        "Id": 601092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.31,
+        "Exp": 2.65,
+        "Id": 601093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 16.01,
+        "Exp": 2.69,
+        "Id": 601094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 16.37,
+        "Exp": 2.71,
+        "Id": 601095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 17.06,
+        "Exp": 2.75,
+        "Id": 601096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 17.43,
+        "Exp": 2.77,
+        "Id": 601097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 18.21,
+        "Exp": 2.81,
+        "Id": 601098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 18.61,
+        "Exp": 2.83,
+        "Id": 601099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.35,
+        "DeckTotalBattlePoint": 19.42,
+        "Exp": 2.87,
+        "Id": 601100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 601
+    }
+]

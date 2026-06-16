@@ -1,0 +1,26 @@
+[
+    {
+        "MaxBreakthroughCount": 2,
+        "Rarity": 1
+    },
+    {
+        "MaxBreakthroughCount": 3,
+        "Rarity": 2
+    },
+    {
+        "MaxBreakthroughCount": 4,
+        "Rarity": 3
+    },
+    {
+        "MaxBreakthroughCount": 5,
+        "Rarity": 4
+    },
+    {
+        "MaxBreakthroughCount": 7,
+        "Rarity": 5
+    },
+    {
+        "MaxBreakthroughCount": 7,
+        "Rarity": 6
+    }
+]

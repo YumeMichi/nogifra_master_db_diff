@@ -1,0 +1,92 @@
+[
+    {
+        "EffectType": 1,
+        "Id": 101,
+        "Param": 0.002
+    },
+    {
+        "EffectType": 1,
+        "Id": 102,
+        "Param": 0.004
+    },
+    {
+        "EffectType": 1,
+        "Id": 103,
+        "Param": 0.006
+    },
+    {
+        "EffectType": 1,
+        "Id": 104,
+        "Param": 0.008
+    },
+    {
+        "EffectType": 1,
+        "Id": 105,
+        "Param": 0.01
+    },
+    {
+        "EffectType": 1,
+        "Id": 106,
+        "Param": 0.015
+    },
+    {
+        "EffectType": 2,
+        "Id": 201,
+        "Param": 0.002
+    },
+    {
+        "EffectType": 2,
+        "Id": 202,
+        "Param": 0.004
+    },
+    {
+        "EffectType": 2,
+        "Id": 203,
+        "Param": 0.006
+    },
+    {
+        "EffectType": 2,
+        "Id": 204,
+        "Param": 0.008
+    },
+    {
+        "EffectType": 2,
+        "Id": 205,
+        "Param": 0.01
+    },
+    {
+        "EffectType": 2,
+        "Id": 206,
+        "Param": 0.015
+    },
+    {
+        "EffectType": 3,
+        "Id": 301,
+        "Param": 0.0016
+    },
+    {
+        "EffectType": 3,
+        "Id": 302,
+        "Param": 0.0032
+    },
+    {
+        "EffectType": 3,
+        "Id": 303,
+        "Param": 0.0048
+    },
+    {
+        "EffectType": 3,
+        "Id": 304,
+        "Param": 0.0064
+    },
+    {
+        "EffectType": 3,
+        "Id": 305,
+        "Param": 0.008
+    },
+    {
+        "EffectType": 3,
+        "Id": 306,
+        "Param": 0.012
+    }
+]

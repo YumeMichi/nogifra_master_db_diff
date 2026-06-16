@@ -1,0 +1,10 @@
+[
+    {
+        "DonatedTotalLimit": 6,
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "Id": 10001,
+        "PlayerDonationLimit": 2,
+        "Priority": 1,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    }
+]

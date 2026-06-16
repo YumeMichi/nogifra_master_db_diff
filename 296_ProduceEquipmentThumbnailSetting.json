@@ -1,0 +1,197 @@
+[
+    {
+        "Description": "Rank5のコーデが一定確率でドロップ",
+        "Id": 120000001,
+        "Name": "Rank5 コーデ"
+    },
+    {
+        "Description": "Rank5-10のコーデが一定確率でドロップ",
+        "Id": 120000002,
+        "Name": "Rank5-10 コーデ"
+    },
+    {
+        "Description": "Rank10のコーデが一定確率でドロップ",
+        "Id": 120000003,
+        "Name": "Rank10 コーデ"
+    },
+    {
+        "Description": "Rank10-15のコーデが一定確率でドロップ",
+        "Id": 120000004,
+        "Name": "Rank10-15 コーデ"
+    },
+    {
+        "Description": "Rank15のコーデが一定確率でドロップ",
+        "Id": 120000005,
+        "Name": "Rank15 コーデ"
+    },
+    {
+        "Description": "Rank15-20のコーデが一定確率でドロップ",
+        "Id": 120000006,
+        "Name": "Rank15-20 コーデ"
+    },
+    {
+        "Description": "Rank20のコーデが一定確率でドロップ",
+        "Id": 120000007,
+        "Name": "Rank20 コーデ"
+    },
+    {
+        "Description": "Rank20-25のコーデが一定確率でドロップ",
+        "Id": 120000008,
+        "Name": "Rank20-25 コーデ"
+    },
+    {
+        "Description": "Rank25のコーデが一定確率でドロップ",
+        "Id": 120000009,
+        "Name": "Rank25 コーデ"
+    },
+    {
+        "Description": "Rank25-30のコーデが一定確率でドロップ",
+        "Id": 120000010,
+        "Name": "Rank25-30 コーデ"
+    },
+    {
+        "Description": "Rank30のコーデが一定確率でドロップ",
+        "Id": 120000011,
+        "Name": "Rank30 コーデ"
+    },
+    {
+        "Description": "Rank30-35のコーデが一定確率でドロップ",
+        "Id": 120000012,
+        "Name": "Rank30-35 コーデ"
+    },
+    {
+        "Description": "Rank35のコーデが一定確率でドロップ",
+        "Id": 120000013,
+        "Name": "Rank35 コーデ"
+    },
+    {
+        "Description": "Rank35-40のコーデが一定確率でドロップ",
+        "Id": 120000014,
+        "Name": "Rank35-40 コーデ"
+    },
+    {
+        "Description": "Rank40のコーデが一定確率でドロップ",
+        "Id": 120000015,
+        "Name": "Rank40 コーデ"
+    },
+    {
+        "Description": "Rank40-45のコーデが一定確率でドロップ",
+        "Id": 120000016,
+        "Name": "Rank40-45 コーデ"
+    },
+    {
+        "Description": "Rank45のコーデが一定確率でドロップ",
+        "Id": 120000017,
+        "Name": "Rank45 コーデ"
+    },
+    {
+        "Description": "Rank45-50のコーデが一定確率でドロップ",
+        "Id": 120000018,
+        "Name": "Rank45-50 コーデ"
+    },
+    {
+        "Description": "Rank50のコーデが一定確率でドロップ",
+        "Id": 120000019,
+        "Name": "Rank50 コーデ"
+    },
+    {
+        "Description": "Rank50-55のコーデが一定確率でドロップ",
+        "Id": 120000020,
+        "Name": "Rank50-55 コーデ"
+    },
+    {
+        "Description": "Rank55のコーデが一定確率でドロップ",
+        "Id": 120000021,
+        "Name": "Rank55 コーデ"
+    },
+    {
+        "Description": "Rank55-60のコーデが一定確率でドロップ",
+        "Id": 120000022,
+        "Name": "Rank55-60 コーデ"
+    },
+    {
+        "Description": "Rank60のコーデが一定確率でドロップ",
+        "Id": 120000023,
+        "Name": "Rank60 コーデ"
+    },
+    {
+        "Description": "Rank60-65のコーデが一定確率でドロップ",
+        "Id": 120000024,
+        "Name": "Rank60-65 コーデ"
+    },
+    {
+        "Description": "Rank65のコーデが一定確率でドロップ",
+        "Id": 120000025,
+        "Name": "Rank65 コーデ"
+    },
+    {
+        "Description": "Rank65-70のコーデが一定確率でドロップ",
+        "Id": 120000026,
+        "Name": "Rank65-70 コーデ"
+    },
+    {
+        "Description": "Rank70のコーデが一定確率でドロップ",
+        "Id": 120000027,
+        "Name": "Rank70 コーデ"
+    },
+    {
+        "Description": "Rank70-75のコーデが一定確率でドロップ",
+        "Id": 120000028,
+        "Name": "Rank70-75 コーデ"
+    },
+    {
+        "Description": "Rank75のコーデが一定確率でドロップ",
+        "Id": 120000029,
+        "Name": "Rank75 コーデ"
+    },
+    {
+        "Description": "Rank75-80のコーデが一定確率でドロップ",
+        "Id": 120000030,
+        "Name": "Rank75-80 コーデ"
+    },
+    {
+        "Description": "Rank80のコーデが一定確率でドロップ",
+        "Id": 120000031,
+        "Name": "Rank80 コーデ"
+    },
+    {
+        "Description": "Rank80-85のコーデが一定確率でドロップ",
+        "Id": 120000032,
+        "Name": "Rank80-85 コーデ"
+    },
+    {
+        "Description": "Rank85のコーデが一定確率でドロップ",
+        "Id": 120000033,
+        "Name": "Rank85 コーデ"
+    },
+    {
+        "Description": "Rank85-90のコーデが一定確率でドロップ",
+        "Id": 120000034,
+        "Name": "Rank85-90 コーデ"
+    },
+    {
+        "Description": "Rank90のコーデが一定確率でドロップ",
+        "Id": 120000035,
+        "Name": "Rank90 コーデ"
+    },
+    {
+        "Description": "Rank90-95のコーデが一定確率でドロップ",
+        "Id": 120000036,
+        "Name": "Rank90-95 コーデ"
+    },
+    {
+        "Description": "Rank95のコーデが一定確率でドロップ",
+        "Id": 120000037,
+        "Name": "Rank95 コーデ"
+    },
+    {
+        "Description": "Rank95-100のコーデが一定確率でドロップ",
+        "Id": 120000038,
+        "Name": "Rank95-100 コーデ"
+    },
+    {
+        "Description": "Rank100のコーデが一定確率でドロップ",
+        "Id": 120000039,
+        "Name": "Rank100 コーデ"
+    }
+]

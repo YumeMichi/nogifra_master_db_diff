@@ -1,0 +1,211 @@
+[
+    {
+        "EndAt": "2022-12-08T04:59:59+09:00",
+        "Id": 3200001,
+        "LotteryImageId": 3200001,
+        "Name": "乃木石GETチャンス！クリスマスログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200001,
+        "StartAt": "2022-12-01T05:00:00+09:00",
+        "ThumbnailId": 3200001,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2022-12-26T04:59:59+09:00",
+        "Id": 3200002,
+        "LotteryImageId": 3200001,
+        "Name": "MerryXmas！プレゼントログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200002,
+        "StartAt": "2022-12-25T05:00:00+09:00",
+        "ThumbnailId": 3200002,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-01-13T04:59:59+09:00",
+        "Id": 3200003,
+        "LotteryImageId": 3200003,
+        "Name": "謹賀新年！お年玉ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200003,
+        "StartAt": "2023-01-01T05:00:00+09:00",
+        "ThumbnailId": 3200003,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-04-12T04:59:59+09:00",
+        "Id": 3200004,
+        "LotteryImageId": 3200004,
+        "Name": "キミプロライブ開催告知記念ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200004,
+        "StartAt": "2023-04-01T05:00:00+09:00",
+        "ThumbnailId": 3200004,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-05-08T04:59:59+09:00",
+        "Id": 3200005,
+        "LotteryImageId": 3200005,
+        "Name": "GW記念特別ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200005,
+        "StartAt": "2023-05-03T05:00:00+09:00",
+        "ThumbnailId": 3200005,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-06-10T04:59:59+09:00",
+        "Id": 3200006,
+        "LotteryImageId": 3200006,
+        "Name": "レイニーキャンペーン特別ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200006,
+        "StartAt": "2023-06-01T05:00:00+09:00",
+        "ThumbnailId": 3200006,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-07-08T04:59:59+09:00",
+        "Id": 3200007,
+        "LotteryImageId": 3200007,
+        "Name": "七夕2023キャンペーン特別ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200007,
+        "StartAt": "2023-07-07T05:00:00+09:00",
+        "ThumbnailId": 3200007,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-08-17T04:59:59+09:00",
+        "Id": 3200008,
+        "LotteryImageId": 3200008,
+        "Name": "2ndAnniv.-第2弾-ログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200008,
+        "StartAt": "2023-08-11T05:00:00+09:00",
+        "ThumbnailId": 3200008,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2023-12-26T04:59:59+09:00",
+        "Id": 3200010,
+        "LotteryImageId": 3200010,
+        "Name": "Merry Christmas！プレゼントログインボーナス",
+        "Priority": 200,
+        "ResourceId": 3200010,
+        "StartAt": "2023-12-25T05:00:00+09:00",
+        "ThumbnailId": 3200010,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2024-01-11T04:59:59+09:00",
+        "Id": 3200011,
+        "LotteryImageId": 3200011,
+        "Name": "2024謹賀新年！ログインボーナス",
+        "Priority": 110,
+        "ResourceId": 3200011,
+        "StartAt": "2024-01-01T05:00:00+09:00",
+        "ThumbnailId": 3200011,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2024-08-22T04:59:59+09:00",
+        "Id": 3200013,
+        "LotteryImageId": 3200013,
+        "Name": "3rdAnniversary記念特別ログインボーナス",
+        "Priority": 300,
+        "ResourceId": 3200013,
+        "StartAt": "2024-08-12T05:00:00+09:00",
+        "ThumbnailId": 3200013,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2024-12-26T04:59:59+09:00",
+        "Id": 3200014,
+        "LotteryImageId": 3200014,
+        "Name": "Merry Christmas！プレゼントログインボーナス",
+        "Priority": 300,
+        "ResourceId": 3200014,
+        "StartAt": "2024-12-25T05:00:00+09:00",
+        "ThumbnailId": 3200014,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2025-01-11T04:59:59+09:00",
+        "Id": 3200015,
+        "LotteryImageId": 3200015,
+        "Name": "2025謹賀新年！ログインボーナス",
+        "Priority": 300,
+        "ResourceId": 3200015,
+        "StartAt": "2025-01-01T05:00:00+09:00",
+        "ThumbnailId": 3200015,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2025-08-23T04:59:59+09:00",
+        "Id": 3200016,
+        "LotteryImageId": 3200016,
+        "Name": "4thAnniversaryスペシャルログインボーナス",
+        "Priority": 305,
+        "ResourceId": 3200016,
+        "StartAt": "2025-08-12T00:00:00+09:00",
+        "ThumbnailId": 3200016,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2025-12-22T04:59:59+09:00",
+        "Id": 3200017,
+        "LotteryImageId": 3200017,
+        "Name": "6期生登場記念スペシャルログインボーナス",
+        "Priority": 310,
+        "ResourceId": 2200335,
+        "StartAt": "2025-12-11T05:00:00+09:00",
+        "ThumbnailId": 2200335,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-01-10T23:59:59+09:00",
+        "Id": 3200018,
+        "LotteryImageId": 3200018,
+        "Name": "2026謹賀新年！ログインボーナス",
+        "Priority": 315,
+        "ResourceId": 3200018,
+        "StartAt": "2026-01-01T00:00:00+09:00",
+        "ThumbnailId": 3200018,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2025-12-26T04:59:59+09:00",
+        "Id": 3200019,
+        "LotteryImageId": 3200041,
+        "Name": "Merry Christmas！プレゼントログインボーナス",
+        "Priority": 313,
+        "ResourceId": 3200041,
+        "StartAt": "2025-12-25T05:00:00+09:00",
+        "ThumbnailId": 3200041,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-03-23T04:59:59+09:00",
+        "Id": 3200020,
+        "LotteryImageId": 3200020,
+        "Name": "4.6thAnniversaryスペシャルログインボーナス",
+        "Priority": 320,
+        "ResourceId": 3200020,
+        "StartAt": "2026-03-12T05:00:00+09:00",
+        "ThumbnailId": 3200020,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-05-31T04:59:59+09:00",
+        "Id": 3200021,
+        "LotteryImageId": 3200021,
+        "Name": "乃木フラ感謝祭スペシャルログインボーナス",
+        "Priority": 325,
+        "ResourceId": 3200021,
+        "StartAt": "2026-05-22T05:00:00+09:00",
+        "ThumbnailId": 3200021,
+        "VoiceLoginId": 0
+    }
+]

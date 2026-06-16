@@ -1,0 +1,4730 @@
+[
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011001,
+        "MaterialSettingName": "Cos_80001_01_m001",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011002,
+        "MaterialSettingName": "Cos_80001_01_m002",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011003,
+        "MaterialSettingName": "Cos_80001_01_m003",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011004,
+        "MaterialSettingName": "Cos_80001_01_m004",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011005,
+        "MaterialSettingName": "Cos_80001_01_m005",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011006,
+        "MaterialSettingName": "Cos_80001_01_m006",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011007,
+        "MaterialSettingName": "Cos_80001_01_m007",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011008,
+        "MaterialSettingName": "Cos_80001_01_m008",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011009,
+        "MaterialSettingName": "Cos_80001_01_m009",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011010,
+        "MaterialSettingName": "Cos_80001_01_m010",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011011,
+        "MaterialSettingName": "Cos_80001_01_m011",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011012,
+        "MaterialSettingName": "Cos_80001_01_m012",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011013,
+        "MaterialSettingName": "Cos_80001_01_m013",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011014,
+        "MaterialSettingName": "Cos_80001_01_m014",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011015,
+        "MaterialSettingName": "Cos_80001_01_m015",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011016,
+        "MaterialSettingName": "Cos_80001_01_m016",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011017,
+        "MaterialSettingName": "Cos_80001_01_m017",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011018,
+        "MaterialSettingName": "Cos_80001_01_m018",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011019,
+        "MaterialSettingName": "Cos_80001_01_m019",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011020,
+        "MaterialSettingName": "Cos_80001_01_m020",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011021,
+        "MaterialSettingName": "Cos_80001_01_m021",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011022,
+        "MaterialSettingName": "Cos_80001_01_m022",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011023,
+        "MaterialSettingName": "Cos_80001_01_m023",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011024,
+        "MaterialSettingName": "Cos_80001_01_m024",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011025,
+        "MaterialSettingName": "Cos_80001_01_m025",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011026,
+        "MaterialSettingName": "Cos_80001_01_m026",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011027,
+        "MaterialSettingName": "Cos_80001_01_m027",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011028,
+        "MaterialSettingName": "Cos_80001_01_m028",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011029,
+        "MaterialSettingName": "Cos_80001_01_m029",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011030,
+        "MaterialSettingName": "Cos_80001_01_m030",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011031,
+        "MaterialSettingName": "Cos_80001_01_m031",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011032,
+        "MaterialSettingName": "Cos_80001_01_m032",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011033,
+        "MaterialSettingName": "Cos_80001_01_m033",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011034,
+        "MaterialSettingName": "Cos_80001_01_m034",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011035,
+        "MaterialSettingName": "Cos_80001_01_m035",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011036,
+        "MaterialSettingName": "Cos_80001_01_m036",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011037,
+        "MaterialSettingName": "Cos_80001_01_m037",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011038,
+        "MaterialSettingName": "Cos_80001_01_m038",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011039,
+        "MaterialSettingName": "Cos_80001_01_m039",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011040,
+        "MaterialSettingName": "Cos_80001_01_m040",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011041,
+        "MaterialSettingName": "Cos_80001_01_m041",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011042,
+        "MaterialSettingName": "Cos_80001_01_m042",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011043,
+        "MaterialSettingName": "Cos_80001_01_m043",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011044,
+        "MaterialSettingName": "Cos_80001_01_m044",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011045,
+        "MaterialSettingName": "Cos_80001_01_m045",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011046,
+        "MaterialSettingName": "Cos_80001_01_m046",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011047,
+        "MaterialSettingName": "Cos_80001_01_m047",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011048,
+        "MaterialSettingName": "Cos_80001_01_m048",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011049,
+        "MaterialSettingName": "Cos_80001_01_m049",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011050,
+        "MaterialSettingName": "Cos_80001_01_m050",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011051,
+        "MaterialSettingName": "Cos_80001_01_m051",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011052,
+        "MaterialSettingName": "Cos_80001_01_m052",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011053,
+        "MaterialSettingName": "Cos_80001_01_m053",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011054,
+        "MaterialSettingName": "Cos_80001_01_m054",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011055,
+        "MaterialSettingName": "Cos_80001_01_m055",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011056,
+        "MaterialSettingName": "Cos_80001_01_m056",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011057,
+        "MaterialSettingName": "Cos_80001_01_m057",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011058,
+        "MaterialSettingName": "Cos_80001_01_m058",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011059,
+        "MaterialSettingName": "Cos_80001_01_m059",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011060,
+        "MaterialSettingName": "Cos_80001_01_m060",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011061,
+        "MaterialSettingName": "Cos_80001_01_m061",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011062,
+        "MaterialSettingName": "Cos_80001_01_m062",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011063,
+        "MaterialSettingName": "Cos_80001_01_m063",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011064,
+        "MaterialSettingName": "Cos_80001_01_m064",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011065,
+        "MaterialSettingName": "Cos_80001_01_m065",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011066,
+        "MaterialSettingName": "Cos_80001_01_m066",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011067,
+        "MaterialSettingName": "Cos_80001_01_m067",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011068,
+        "MaterialSettingName": "Cos_80001_01_m068",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011069,
+        "MaterialSettingName": "Cos_80001_01_m069",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011070,
+        "MaterialSettingName": "Cos_80001_01_m070",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011071,
+        "MaterialSettingName": "Cos_80001_01_m071",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011072,
+        "MaterialSettingName": "Cos_80001_01_m072",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011073,
+        "MaterialSettingName": "Cos_80001_01_m073",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011074,
+        "MaterialSettingName": "Cos_80001_01_m074",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011075,
+        "MaterialSettingName": "Cos_80001_01_m075",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011076,
+        "MaterialSettingName": "Cos_80001_01_m076",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011077,
+        "MaterialSettingName": "Cos_80001_01_m077",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011078,
+        "MaterialSettingName": "Cos_80001_01_m078",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011079,
+        "MaterialSettingName": "Cos_80001_01_m079",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011080,
+        "MaterialSettingName": "Cos_80001_01_m080",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011081,
+        "MaterialSettingName": "Cos_80001_01_m081",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011082,
+        "MaterialSettingName": "Cos_80001_01_m082",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011083,
+        "MaterialSettingName": "Cos_80001_01_m083",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011084,
+        "MaterialSettingName": "Cos_80001_01_m084",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011085,
+        "MaterialSettingName": "Cos_80001_01_m085",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011086,
+        "MaterialSettingName": "Cos_80001_01_m086",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011087,
+        "MaterialSettingName": "Cos_80001_01_m087",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011088,
+        "MaterialSettingName": "Cos_80001_01_m088",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011089,
+        "MaterialSettingName": "Cos_80001_01_m089",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011090,
+        "MaterialSettingName": "Cos_80001_01_m090",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011091,
+        "MaterialSettingName": "Cos_80001_01_m091",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011092,
+        "MaterialSettingName": "Cos_80001_01_m092",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011093,
+        "MaterialSettingName": "Cos_80001_01_m093",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011094,
+        "MaterialSettingName": "Cos_80001_01_m094",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011095,
+        "MaterialSettingName": "Cos_80001_01_m095",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011096,
+        "MaterialSettingName": "Cos_80001_01_m096",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011097,
+        "MaterialSettingName": "Cos_80001_01_m097",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011098,
+        "MaterialSettingName": "Cos_80001_01_m098",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011099,
+        "MaterialSettingName": "Cos_80001_01_m099",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011100,
+        "MaterialSettingName": "Cos_80001_01_m100",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011101,
+        "MaterialSettingName": "Cos_80001_01_m101",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011102,
+        "MaterialSettingName": "Cos_80001_01_m102",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011103,
+        "MaterialSettingName": "Cos_80001_01_m103",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011104,
+        "MaterialSettingName": "Cos_80001_01_m104",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011105,
+        "MaterialSettingName": "Cos_80001_01_m105",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011106,
+        "MaterialSettingName": "Cos_80001_01_m106",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011107,
+        "MaterialSettingName": "Cos_80001_01_m107",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011108,
+        "MaterialSettingName": "Cos_80001_01_m108",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011109,
+        "MaterialSettingName": "Cos_80001_01_m109",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011110,
+        "MaterialSettingName": "Cos_80001_01_m110",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011111,
+        "MaterialSettingName": "Cos_80001_01_m111",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011112,
+        "MaterialSettingName": "Cos_80001_01_m112",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011113,
+        "MaterialSettingName": "Cos_80001_01_m113",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011114,
+        "MaterialSettingName": "Cos_80001_01_m114",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011115,
+        "MaterialSettingName": "Cos_80001_01_m115",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011116,
+        "MaterialSettingName": "Cos_80001_01_m116",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011117,
+        "MaterialSettingName": "Cos_80001_01_m117",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011118,
+        "MaterialSettingName": "Cos_80001_01_m118",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011119,
+        "MaterialSettingName": "Cos_80001_01_m119",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011120,
+        "MaterialSettingName": "Cos_80001_01_m120",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011121,
+        "MaterialSettingName": "Cos_80001_01_m121",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011122,
+        "MaterialSettingName": "Cos_80001_01_m122",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011123,
+        "MaterialSettingName": "Cos_80001_01_m123",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011124,
+        "MaterialSettingName": "Cos_80001_01_m124",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011125,
+        "MaterialSettingName": "Cos_80001_01_m125",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011126,
+        "MaterialSettingName": "Cos_80001_01_m126",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011127,
+        "MaterialSettingName": "Cos_80001_01_m127",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011128,
+        "MaterialSettingName": "Cos_80001_01_m128",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011129,
+        "MaterialSettingName": "Cos_80001_01_m129",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011130,
+        "MaterialSettingName": "Cos_80001_01_m130",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011131,
+        "MaterialSettingName": "Cos_80001_01_m131",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011132,
+        "MaterialSettingName": "Cos_80001_01_m132",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011133,
+        "MaterialSettingName": "Cos_80001_01_m133",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011134,
+        "MaterialSettingName": "Cos_80001_01_m134",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011135,
+        "MaterialSettingName": "Cos_80001_01_m135",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011136,
+        "MaterialSettingName": "Cos_80001_01_m136",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011137,
+        "MaterialSettingName": "Cos_80001_01_m137",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011138,
+        "MaterialSettingName": "Cos_80001_01_m138",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011139,
+        "MaterialSettingName": "Cos_80001_01_m139",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011140,
+        "MaterialSettingName": "Cos_80001_01_m140",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011141,
+        "MaterialSettingName": "Cos_80001_01_m141",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011142,
+        "MaterialSettingName": "Cos_80001_01_m142",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011143,
+        "MaterialSettingName": "Cos_80001_01_m143",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011144,
+        "MaterialSettingName": "Cos_80001_01_m144",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011145,
+        "MaterialSettingName": "Cos_80001_01_m145",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011146,
+        "MaterialSettingName": "Cos_80001_01_m146",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011147,
+        "MaterialSettingName": "Cos_80001_01_m147",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011148,
+        "MaterialSettingName": "Cos_80001_01_m148",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011149,
+        "MaterialSettingName": "Cos_80001_01_m149",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011150,
+        "MaterialSettingName": "Cos_80001_01_m150",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011151,
+        "MaterialSettingName": "Cos_80001_01_m151",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011152,
+        "MaterialSettingName": "Cos_80001_01_m152",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011153,
+        "MaterialSettingName": "Cos_80001_01_m153",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011154,
+        "MaterialSettingName": "Cos_80001_01_m154",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011155,
+        "MaterialSettingName": "Cos_80001_01_m155",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011156,
+        "MaterialSettingName": "Cos_80001_01_m156",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011157,
+        "MaterialSettingName": "Cos_80001_01_m157",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011158,
+        "MaterialSettingName": "Cos_80001_01_m158",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011159,
+        "MaterialSettingName": "Cos_80001_01_m159",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011160,
+        "MaterialSettingName": "Cos_80001_01_m160",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011161,
+        "MaterialSettingName": "Cos_80001_01_m161",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011162,
+        "MaterialSettingName": "Cos_80001_01_m162",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011163,
+        "MaterialSettingName": "Cos_80001_01_m163",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011164,
+        "MaterialSettingName": "Cos_80001_01_m164",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011165,
+        "MaterialSettingName": "Cos_80001_01_m165",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011166,
+        "MaterialSettingName": "Cos_80001_01_m166",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011167,
+        "MaterialSettingName": "Cos_80001_01_m167",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011168,
+        "MaterialSettingName": "Cos_80001_01_m168",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011169,
+        "MaterialSettingName": "Cos_80001_01_m169",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011170,
+        "MaterialSettingName": "Cos_80001_01_m170",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011171,
+        "MaterialSettingName": "Cos_80001_01_m171",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011172,
+        "MaterialSettingName": "Cos_80001_01_m172",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011173,
+        "MaterialSettingName": "Cos_80001_01_m173",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011174,
+        "MaterialSettingName": "Cos_80001_01_m174",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011175,
+        "MaterialSettingName": "Cos_80001_01_m175",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011176,
+        "MaterialSettingName": "Cos_80001_01_m176",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011177,
+        "MaterialSettingName": "Cos_80001_01_m177",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011178,
+        "MaterialSettingName": "Cos_80001_01_m178",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011179,
+        "MaterialSettingName": "Cos_80001_01_m179",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011180,
+        "MaterialSettingName": "Cos_80001_01_m180",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011181,
+        "MaterialSettingName": "Cos_80001_01_m181",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011183,
+        "MaterialSettingName": "Cos_80001_01_m183",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011184,
+        "MaterialSettingName": "Cos_80001_01_m184",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011185,
+        "MaterialSettingName": "Cos_80001_01_m185",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012001,
+        "MaterialSettingName": "Cos_80001_02_m001",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012002,
+        "MaterialSettingName": "Cos_80001_02_m002",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012003,
+        "MaterialSettingName": "Cos_80001_02_m003",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012004,
+        "MaterialSettingName": "Cos_80001_02_m004",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012005,
+        "MaterialSettingName": "Cos_80001_02_m005",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012006,
+        "MaterialSettingName": "Cos_80001_02_m006",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012007,
+        "MaterialSettingName": "Cos_80001_02_m007",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012008,
+        "MaterialSettingName": "Cos_80001_02_m008",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012009,
+        "MaterialSettingName": "Cos_80001_02_m009",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012010,
+        "MaterialSettingName": "Cos_80001_02_m010",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012011,
+        "MaterialSettingName": "Cos_80001_02_m011",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012012,
+        "MaterialSettingName": "Cos_80001_02_m012",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012013,
+        "MaterialSettingName": "Cos_80001_02_m013",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012014,
+        "MaterialSettingName": "Cos_80001_02_m014",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012015,
+        "MaterialSettingName": "Cos_80001_02_m015",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012016,
+        "MaterialSettingName": "Cos_80001_02_m016",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012017,
+        "MaterialSettingName": "Cos_80001_02_m017",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012018,
+        "MaterialSettingName": "Cos_80001_02_m018",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012019,
+        "MaterialSettingName": "Cos_80001_02_m019",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012020,
+        "MaterialSettingName": "Cos_80001_02_m020",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012021,
+        "MaterialSettingName": "Cos_80001_02_m021",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012022,
+        "MaterialSettingName": "Cos_80001_02_m022",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012023,
+        "MaterialSettingName": "Cos_80001_02_m023",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012024,
+        "MaterialSettingName": "Cos_80001_02_m024",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012025,
+        "MaterialSettingName": "Cos_80001_02_m025",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012026,
+        "MaterialSettingName": "Cos_80001_02_m026",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012027,
+        "MaterialSettingName": "Cos_80001_02_m027",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012028,
+        "MaterialSettingName": "Cos_80001_02_m028",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012029,
+        "MaterialSettingName": "Cos_80001_02_m029",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012030,
+        "MaterialSettingName": "Cos_80001_02_m030",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012031,
+        "MaterialSettingName": "Cos_80001_02_m031",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012032,
+        "MaterialSettingName": "Cos_80001_02_m032",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012033,
+        "MaterialSettingName": "Cos_80001_02_m033",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012034,
+        "MaterialSettingName": "Cos_80001_02_m034",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012035,
+        "MaterialSettingName": "Cos_80001_02_m035",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012036,
+        "MaterialSettingName": "Cos_80001_02_m036",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012037,
+        "MaterialSettingName": "Cos_80001_02_m037",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012038,
+        "MaterialSettingName": "Cos_80001_02_m038",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012039,
+        "MaterialSettingName": "Cos_80001_02_m039",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012040,
+        "MaterialSettingName": "Cos_80001_02_m040",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012041,
+        "MaterialSettingName": "Cos_80001_02_m041",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012042,
+        "MaterialSettingName": "Cos_80001_02_m042",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012043,
+        "MaterialSettingName": "Cos_80001_02_m043",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012044,
+        "MaterialSettingName": "Cos_80001_02_m044",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012045,
+        "MaterialSettingName": "Cos_80001_02_m045",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012046,
+        "MaterialSettingName": "Cos_80001_02_m046",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012047,
+        "MaterialSettingName": "Cos_80001_02_m047",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012048,
+        "MaterialSettingName": "Cos_80001_02_m048",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012049,
+        "MaterialSettingName": "Cos_80001_02_m049",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012050,
+        "MaterialSettingName": "Cos_80001_02_m050",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012051,
+        "MaterialSettingName": "Cos_80001_02_m051",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012052,
+        "MaterialSettingName": "Cos_80001_02_m052",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012053,
+        "MaterialSettingName": "Cos_80001_02_m053",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012054,
+        "MaterialSettingName": "Cos_80001_02_m054",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012055,
+        "MaterialSettingName": "Cos_80001_02_m055",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012056,
+        "MaterialSettingName": "Cos_80001_02_m056",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012057,
+        "MaterialSettingName": "Cos_80001_02_m057",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012058,
+        "MaterialSettingName": "Cos_80001_02_m058",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012059,
+        "MaterialSettingName": "Cos_80001_02_m059",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012060,
+        "MaterialSettingName": "Cos_80001_02_m060",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012061,
+        "MaterialSettingName": "Cos_80001_02_m061",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012062,
+        "MaterialSettingName": "Cos_80001_02_m062",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012063,
+        "MaterialSettingName": "Cos_80001_02_m063",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012064,
+        "MaterialSettingName": "Cos_80001_02_m064",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012065,
+        "MaterialSettingName": "Cos_80001_02_m065",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012066,
+        "MaterialSettingName": "Cos_80001_02_m066",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012067,
+        "MaterialSettingName": "Cos_80001_02_m067",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012068,
+        "MaterialSettingName": "Cos_80001_02_m068",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012069,
+        "MaterialSettingName": "Cos_80001_02_m069",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012070,
+        "MaterialSettingName": "Cos_80001_02_m070",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012071,
+        "MaterialSettingName": "Cos_80001_02_m071",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012072,
+        "MaterialSettingName": "Cos_80001_02_m072",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012073,
+        "MaterialSettingName": "Cos_80001_02_m073",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012074,
+        "MaterialSettingName": "Cos_80001_02_m074",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012075,
+        "MaterialSettingName": "Cos_80001_02_m075",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012076,
+        "MaterialSettingName": "Cos_80001_02_m076",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012077,
+        "MaterialSettingName": "Cos_80001_02_m077",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012078,
+        "MaterialSettingName": "Cos_80001_02_m078",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012079,
+        "MaterialSettingName": "Cos_80001_02_m079",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012080,
+        "MaterialSettingName": "Cos_80001_02_m080",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012081,
+        "MaterialSettingName": "Cos_80001_02_m081",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012082,
+        "MaterialSettingName": "Cos_80001_02_m082",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012083,
+        "MaterialSettingName": "Cos_80001_02_m083",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012084,
+        "MaterialSettingName": "Cos_80001_02_m084",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012085,
+        "MaterialSettingName": "Cos_80001_02_m085",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012086,
+        "MaterialSettingName": "Cos_80001_02_m086",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012087,
+        "MaterialSettingName": "Cos_80001_02_m087",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012088,
+        "MaterialSettingName": "Cos_80001_02_m088",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012089,
+        "MaterialSettingName": "Cos_80001_02_m089",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012090,
+        "MaterialSettingName": "Cos_80001_02_m090",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012091,
+        "MaterialSettingName": "Cos_80001_02_m091",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012092,
+        "MaterialSettingName": "Cos_80001_02_m092",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012093,
+        "MaterialSettingName": "Cos_80001_02_m093",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012094,
+        "MaterialSettingName": "Cos_80001_02_m094",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012095,
+        "MaterialSettingName": "Cos_80001_02_m095",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012096,
+        "MaterialSettingName": "Cos_80001_02_m096",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012097,
+        "MaterialSettingName": "Cos_80001_02_m097",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012098,
+        "MaterialSettingName": "Cos_80001_02_m098",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012099,
+        "MaterialSettingName": "Cos_80001_02_m099",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012100,
+        "MaterialSettingName": "Cos_80001_02_m110",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012101,
+        "MaterialSettingName": "Cos_80001_02_m101",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012102,
+        "MaterialSettingName": "Cos_80001_02_m102",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012103,
+        "MaterialSettingName": "Cos_80001_02_m103",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012104,
+        "MaterialSettingName": "Cos_80001_02_m104",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012105,
+        "MaterialSettingName": "Cos_80001_02_m105",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012106,
+        "MaterialSettingName": "Cos_80001_02_m106",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012107,
+        "MaterialSettingName": "Cos_80001_02_m107",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012108,
+        "MaterialSettingName": "Cos_80001_02_m108",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012109,
+        "MaterialSettingName": "Cos_80001_02_m109",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012110,
+        "MaterialSettingName": "Cos_80001_02_m100",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012111,
+        "MaterialSettingName": "Cos_80001_02_m111",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012112,
+        "MaterialSettingName": "Cos_80001_02_m112",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012113,
+        "MaterialSettingName": "Cos_80001_02_m113",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012114,
+        "MaterialSettingName": "Cos_80001_02_m114",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012115,
+        "MaterialSettingName": "Cos_80001_02_m115",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012116,
+        "MaterialSettingName": "Cos_80001_02_m116",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012117,
+        "MaterialSettingName": "Cos_80001_02_m117",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012118,
+        "MaterialSettingName": "Cos_80001_02_m118",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012119,
+        "MaterialSettingName": "Cos_80001_02_m119",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012120,
+        "MaterialSettingName": "Cos_80001_02_m120",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012121,
+        "MaterialSettingName": "Cos_80001_02_m121",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012122,
+        "MaterialSettingName": "Cos_80001_02_m122",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012123,
+        "MaterialSettingName": "Cos_80001_02_m123",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012124,
+        "MaterialSettingName": "Cos_80001_02_m124",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012125,
+        "MaterialSettingName": "Cos_80001_02_m125",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012126,
+        "MaterialSettingName": "Cos_80001_02_m126",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012127,
+        "MaterialSettingName": "Cos_80001_02_m127",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012128,
+        "MaterialSettingName": "Cos_80001_02_m128",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012129,
+        "MaterialSettingName": "Cos_80001_02_m129",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012130,
+        "MaterialSettingName": "Cos_80001_02_m130",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012131,
+        "MaterialSettingName": "Cos_80001_02_m131",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012132,
+        "MaterialSettingName": "Cos_80001_02_m132",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012133,
+        "MaterialSettingName": "Cos_80001_02_m133",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012134,
+        "MaterialSettingName": "Cos_80001_02_m134",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012135,
+        "MaterialSettingName": "Cos_80001_02_m135",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012136,
+        "MaterialSettingName": "Cos_80001_02_m136",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012137,
+        "MaterialSettingName": "Cos_80001_02_m137",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012138,
+        "MaterialSettingName": "Cos_80001_02_m138",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012139,
+        "MaterialSettingName": "Cos_80001_02_m139",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012140,
+        "MaterialSettingName": "Cos_80001_02_m140",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012141,
+        "MaterialSettingName": "Cos_80001_02_m141",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012142,
+        "MaterialSettingName": "Cos_80001_02_m142",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012143,
+        "MaterialSettingName": "Cos_80001_02_m143",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012144,
+        "MaterialSettingName": "Cos_80001_02_m144",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012145,
+        "MaterialSettingName": "Cos_80001_02_m145",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012146,
+        "MaterialSettingName": "Cos_80001_02_m146",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012147,
+        "MaterialSettingName": "Cos_80001_02_m147",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012148,
+        "MaterialSettingName": "Cos_80001_02_m148",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012149,
+        "MaterialSettingName": "Cos_80001_02_m149",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012150,
+        "MaterialSettingName": "Cos_80001_02_m150",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012151,
+        "MaterialSettingName": "Cos_80001_02_m151",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012152,
+        "MaterialSettingName": "Cos_80001_02_m152",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012153,
+        "MaterialSettingName": "Cos_80001_02_m153",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012154,
+        "MaterialSettingName": "Cos_80001_02_m154",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012155,
+        "MaterialSettingName": "Cos_80001_02_m155",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012156,
+        "MaterialSettingName": "Cos_80001_02_m156",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012157,
+        "MaterialSettingName": "Cos_80001_02_m157",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012158,
+        "MaterialSettingName": "Cos_80001_02_m158",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012159,
+        "MaterialSettingName": "Cos_80001_02_m159",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012160,
+        "MaterialSettingName": "Cos_80001_02_m160",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012161,
+        "MaterialSettingName": "Cos_80001_02_m161",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012162,
+        "MaterialSettingName": "Cos_80001_02_m162",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012163,
+        "MaterialSettingName": "Cos_80001_02_m163",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012164,
+        "MaterialSettingName": "Cos_80001_02_m164",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012165,
+        "MaterialSettingName": "Cos_80001_02_m165",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012166,
+        "MaterialSettingName": "Cos_80001_02_m166",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012167,
+        "MaterialSettingName": "Cos_80001_02_m167",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012168,
+        "MaterialSettingName": "Cos_80001_02_m168",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012169,
+        "MaterialSettingName": "Cos_80001_02_m169",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012170,
+        "MaterialSettingName": "Cos_80001_02_m170",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012171,
+        "MaterialSettingName": "Cos_80001_02_m171",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012172,
+        "MaterialSettingName": "Cos_80001_02_m172",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012173,
+        "MaterialSettingName": "Cos_80001_02_m173",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012174,
+        "MaterialSettingName": "Cos_80001_02_m174",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012175,
+        "MaterialSettingName": "Cos_80001_02_m175",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012176,
+        "MaterialSettingName": "Cos_80001_02_m176",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012177,
+        "MaterialSettingName": "Cos_80001_02_m177",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012178,
+        "MaterialSettingName": "Cos_80001_02_m178",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012179,
+        "MaterialSettingName": "Cos_80001_02_m179",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012180,
+        "MaterialSettingName": "Cos_80001_02_m180",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012181,
+        "MaterialSettingName": "Cos_80001_02_m181",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012183,
+        "MaterialSettingName": "Cos_80001_02_m183",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012184,
+        "MaterialSettingName": "Cos_80001_02_m184",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012185,
+        "MaterialSettingName": "Cos_80001_02_m185",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00001_01",
+        "Id": 100001011,
+        "MaterialSettingName": "Cos_00001_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00001_02",
+        "Id": 100001021,
+        "MaterialSettingName": "Cos_00001_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00001_02",
+        "Id": 100001022,
+        "MaterialSettingName": "Cos_00001_02_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00001_02",
+        "Id": 100001023,
+        "MaterialSettingName": "Cos_00001_02_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00019_01",
+        "Id": 100019011,
+        "MaterialSettingName": "Cos_00019_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00019_01",
+        "Id": 100019012,
+        "MaterialSettingName": "Cos_00019_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00019_01",
+        "Id": 100019013,
+        "MaterialSettingName": "Cos_00019_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00031_01",
+        "Id": 100031011,
+        "MaterialSettingName": "Cos_00031_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00031_02",
+        "Id": 100031021,
+        "MaterialSettingName": "Cos_00031_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00193_01",
+        "Id": 100193011,
+        "MaterialSettingName": "Cos_00193_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00193_02",
+        "Id": 100193021,
+        "MaterialSettingName": "Cos_00193_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00193_03",
+        "Id": 100193031,
+        "MaterialSettingName": "Cos_00193_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00193_04",
+        "Id": 100193041,
+        "MaterialSettingName": "Cos_00193_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00210_01",
+        "Id": 100210011,
+        "MaterialSettingName": "Cos_00210_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00210_02",
+        "Id": 100210021,
+        "MaterialSettingName": "Cos_00210_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00256_01",
+        "Id": 100256011,
+        "MaterialSettingName": "Cos_00256_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_00256_02",
+        "Id": 100256021,
+        "MaterialSettingName": "Cos_00256_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10255_02",
+        "Id": 102550211,
+        "MaterialSettingName": "Cos_10255_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09002_01",
+        "Id": 109002011,
+        "MaterialSettingName": "Cos_09002_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09003_01",
+        "Id": 109003011,
+        "MaterialSettingName": "Cos_09003_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09003_02",
+        "Id": 109003021,
+        "MaterialSettingName": "Cos_09003_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09004_01",
+        "Id": 109004011,
+        "MaterialSettingName": "Cos_09004_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09005_01",
+        "Id": 109005011,
+        "MaterialSettingName": "Cos_09005_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_09006_01",
+        "Id": 109006011,
+        "MaterialSettingName": "Cos_09006_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_09006_02",
+        "Id": 109006021,
+        "MaterialSettingName": "Cos_09006_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10001_01",
+        "Id": 110001011,
+        "MaterialSettingName": "Cos_10001_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10001_02",
+        "Id": 110001021,
+        "MaterialSettingName": "Cos_10001_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10001_02",
+        "Id": 110001022,
+        "MaterialSettingName": "Cos_10001_02_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10001_02",
+        "Id": 110001023,
+        "MaterialSettingName": "Cos_10001_02_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10009_01",
+        "Id": 110009011,
+        "MaterialSettingName": "Cos_10009_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10009_02",
+        "Id": 110009021,
+        "MaterialSettingName": "Cos_10009_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10009_03",
+        "Id": 110009031,
+        "MaterialSettingName": "Cos_10009_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10009_04",
+        "Id": 110009041,
+        "MaterialSettingName": "Cos_10009_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10019_01",
+        "Id": 110019011,
+        "MaterialSettingName": "Cos_10019_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10025_01",
+        "Id": 110025011,
+        "MaterialSettingName": "Cos_10025_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10025_01",
+        "Id": 110025012,
+        "MaterialSettingName": "Cos_10025_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10025_01",
+        "Id": 110025013,
+        "MaterialSettingName": "Cos_10025_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10025_01",
+        "Id": 110025014,
+        "MaterialSettingName": "Cos_10025_01_m4",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10028_01",
+        "Id": 110028011,
+        "MaterialSettingName": "Cos_10028_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10028_01",
+        "Id": 110028012,
+        "MaterialSettingName": "Cos_10028_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10028_01",
+        "Id": 110028013,
+        "MaterialSettingName": "Cos_10028_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_02",
+        "Id": 110031021,
+        "MaterialSettingName": "Cos_10031_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_02",
+        "Id": 110031022,
+        "MaterialSettingName": "Cos_10031_02_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_02",
+        "Id": 110031023,
+        "MaterialSettingName": "Cos_10031_02_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_02",
+        "Id": 110031024,
+        "MaterialSettingName": "Cos_10031_02_m4",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_03",
+        "Id": 110031032,
+        "MaterialSettingName": "Cos_10031_03_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10031_03",
+        "Id": 110031033,
+        "MaterialSettingName": "Cos_10031_03_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10037_01",
+        "Id": 110037011,
+        "MaterialSettingName": "Cos_10037_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10037_01",
+        "Id": 110037012,
+        "MaterialSettingName": "Cos_10037_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10043_01",
+        "Id": 110043011,
+        "MaterialSettingName": "Cos_10043_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10047_01",
+        "Id": 110047011,
+        "MaterialSettingName": "Cos_10047_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10047_01",
+        "Id": 110047012,
+        "MaterialSettingName": "Cos_10047_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10049_01",
+        "Id": 110049011,
+        "MaterialSettingName": "Cos_10049_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10049_01",
+        "Id": 110049012,
+        "MaterialSettingName": "Cos_10049_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10053_01",
+        "Id": 110053011,
+        "MaterialSettingName": "Cos_10053_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10055_01",
+        "Id": 110055011,
+        "MaterialSettingName": "Cos_10055_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10059_01",
+        "Id": 110059011,
+        "MaterialSettingName": "Cos_10059_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10059_01",
+        "Id": 110059012,
+        "MaterialSettingName": "Cos_10059_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10069_01",
+        "Id": 110069011,
+        "MaterialSettingName": "Cos_10069_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10069_01",
+        "Id": 110069012,
+        "MaterialSettingName": "Cos_10069_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10069_01",
+        "Id": 110069013,
+        "MaterialSettingName": "Cos_10069_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10069_01",
+        "Id": 110069014,
+        "MaterialSettingName": "Cos_10069_01_m4",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10069_01",
+        "Id": 110069015,
+        "MaterialSettingName": "Cos_10069_01_m5",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10074_01",
+        "Id": 110074011,
+        "MaterialSettingName": "Cos_10074_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10075_01",
+        "Id": 110075011,
+        "MaterialSettingName": "Cos_10075_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10075_02",
+        "Id": 110075021,
+        "MaterialSettingName": "Cos_10075_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10079_01",
+        "Id": 110079011,
+        "MaterialSettingName": "Cos_10079_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10088_01",
+        "Id": 110088011,
+        "MaterialSettingName": "Cos_10088_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10088_02",
+        "Id": 110088021,
+        "MaterialSettingName": "Cos_10088_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10093_01",
+        "Id": 110093011,
+        "MaterialSettingName": "Cos_10093_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10100_01",
+        "Id": 110100011,
+        "MaterialSettingName": "Cos_10100_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10100_01",
+        "Id": 110100012,
+        "MaterialSettingName": "Cos_10100_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10100_01",
+        "Id": 110100013,
+        "MaterialSettingName": "Cos_10100_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10106_01",
+        "Id": 110106011,
+        "MaterialSettingName": "Cos_10106_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10106_02",
+        "Id": 110106012,
+        "MaterialSettingName": "Cos_10106_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10106_03",
+        "Id": 110106013,
+        "MaterialSettingName": "Cos_10106_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10106_04",
+        "Id": 110106014,
+        "MaterialSettingName": "Cos_10106_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10106_05",
+        "Id": 110106051,
+        "MaterialSettingName": "Cos_10106_05_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10111_01",
+        "Id": 110111011,
+        "MaterialSettingName": "Cos_10111_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10111_01",
+        "Id": 110111012,
+        "MaterialSettingName": "Cos_10111_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10112_01",
+        "Id": 110112011,
+        "MaterialSettingName": "Cos_10112_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10112_01",
+        "Id": 110112012,
+        "MaterialSettingName": "Cos_10112_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10113_01",
+        "Id": 110113011,
+        "MaterialSettingName": "Cos_10113_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10113_01",
+        "Id": 110113012,
+        "MaterialSettingName": "Cos_10113_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10117_01",
+        "Id": 110117011,
+        "MaterialSettingName": "Cos_10117_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10118_01",
+        "Id": 110118011,
+        "MaterialSettingName": "Cos_10118_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10120_02",
+        "Id": 110120021,
+        "MaterialSettingName": "Cos_10120_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10120_03",
+        "Id": 110120031,
+        "MaterialSettingName": "Cos_10120_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10120_05",
+        "Id": 110120051,
+        "MaterialSettingName": "Cos_10120_05_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10120_05",
+        "Id": 110120052,
+        "MaterialSettingName": "Cos_10120_05_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10124_01",
+        "Id": 110124011,
+        "MaterialSettingName": "Cos_10124_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10131_01",
+        "Id": 110131011,
+        "MaterialSettingName": "Cos_10131_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10132_01",
+        "Id": 110132011,
+        "MaterialSettingName": "Cos_10132_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10132_01",
+        "Id": 110132012,
+        "MaterialSettingName": "Cos_10132_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10132_01",
+        "Id": 110132013,
+        "MaterialSettingName": "Cos_10132_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10137_01",
+        "Id": 110137011,
+        "MaterialSettingName": "Cos_10137_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10137_02",
+        "Id": 110137021,
+        "MaterialSettingName": "Cos_10137_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10138_01",
+        "Id": 110138011,
+        "MaterialSettingName": "Cos_10138_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_01",
+        "Id": 110139011,
+        "MaterialSettingName": "Cos_10139_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_02",
+        "Id": 110139021,
+        "MaterialSettingName": "Cos_10139_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_02",
+        "Id": 110139022,
+        "MaterialSettingName": "Cos_10139_02_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_03",
+        "Id": 110139031,
+        "MaterialSettingName": "Cos_10139_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_04",
+        "Id": 110139041,
+        "MaterialSettingName": "Cos_10139_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10139_05",
+        "Id": 110139051,
+        "MaterialSettingName": "Cos_10139_05_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10141_01",
+        "Id": 110141011,
+        "MaterialSettingName": "Cos_10141_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10146_01",
+        "Id": 110146011,
+        "MaterialSettingName": "Cos_10146_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10146_01",
+        "Id": 110146012,
+        "MaterialSettingName": "Cos_10146_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10146_02",
+        "Id": 110146021,
+        "MaterialSettingName": "Cos_10146_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10148_01",
+        "Id": 110148011,
+        "MaterialSettingName": "Cos_10148_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10161_02",
+        "Id": 110161021,
+        "MaterialSettingName": "Cos_10161_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10163_01",
+        "Id": 110163011,
+        "MaterialSettingName": "Cos_10163_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10164_01",
+        "Id": 110164011,
+        "MaterialSettingName": "Cos_10164_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10164_02",
+        "Id": 110164021,
+        "MaterialSettingName": "Cos_10164_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10171_01",
+        "Id": 110171011,
+        "MaterialSettingName": "Cos_10171_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10171_02",
+        "Id": 110171021,
+        "MaterialSettingName": "Cos_10171_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10171_03",
+        "Id": 110171031,
+        "MaterialSettingName": "Cos_10171_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10171_03",
+        "Id": 110171032,
+        "MaterialSettingName": "Cos_10171_03_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10174_01",
+        "Id": 110174011,
+        "MaterialSettingName": "Cos_10174_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10174_02",
+        "Id": 110174021,
+        "MaterialSettingName": "Cos_10174_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10174_03",
+        "Id": 110174031,
+        "MaterialSettingName": "Cos_10174_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10174_04",
+        "Id": 110174041,
+        "MaterialSettingName": "Cos_10174_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10210_01",
+        "Id": 110210011,
+        "MaterialSettingName": "Cos_10210_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10210_02",
+        "Id": 110210021,
+        "MaterialSettingName": "Cos_10210_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10210_03",
+        "Id": 110210031,
+        "MaterialSettingName": "Cos_10210_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10218_01",
+        "Id": 110218011,
+        "MaterialSettingName": "Cos_10218_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10224_01",
+        "Id": 110224011,
+        "MaterialSettingName": "Cos_10224_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10225_03",
+        "Id": 110225032,
+        "MaterialSettingName": "Cos_10225_03_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10235_04",
+        "Id": 110235041,
+        "MaterialSettingName": "Cos_10235_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_01",
+        "Id": 110242011,
+        "MaterialSettingName": "Cos_10242_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_01",
+        "Id": 110242012,
+        "MaterialSettingName": "Cos_10242_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_02",
+        "Id": 110242021,
+        "MaterialSettingName": "Cos_10242_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_02",
+        "Id": 110242022,
+        "MaterialSettingName": "Cos_10242_02_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_03",
+        "Id": 110242031,
+        "MaterialSettingName": "Cos_10242_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_03",
+        "Id": 110242032,
+        "MaterialSettingName": "Cos_10242_03_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_04",
+        "Id": 110242041,
+        "MaterialSettingName": "Cos_10242_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10242_04",
+        "Id": 110242042,
+        "MaterialSettingName": "Cos_10242_04_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10249_07",
+        "Id": 110249071,
+        "MaterialSettingName": "Cos_10249_07_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10250_05",
+        "Id": 110250051,
+        "MaterialSettingName": "Cos_10250_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10252_01",
+        "Id": 110252011,
+        "MaterialSettingName": "Cos_10252_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10252_02",
+        "Id": 110252021,
+        "MaterialSettingName": "Cos_10252_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10252_03",
+        "Id": 110252031,
+        "MaterialSettingName": "Cos_10252_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10252_04",
+        "Id": 110252041,
+        "MaterialSettingName": "Cos_10252_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10252_05",
+        "Id": 110252051,
+        "MaterialSettingName": "Cos_10252_05_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10255_01",
+        "Id": 110255011,
+        "MaterialSettingName": "Cos_10255_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10255_03",
+        "Id": 110255031,
+        "MaterialSettingName": "Cos_10255_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10258_01",
+        "Id": 110258011,
+        "MaterialSettingName": "Cos_10258_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10258_02",
+        "Id": 110258021,
+        "MaterialSettingName": "Cos_10258_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10258_03",
+        "Id": 110258031,
+        "MaterialSettingName": "Cos_10258_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_01",
+        "Id": 110261011,
+        "MaterialSettingName": "Cos_10261_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_02",
+        "Id": 110261021,
+        "MaterialSettingName": "Cos_10261_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_03",
+        "Id": 110261031,
+        "MaterialSettingName": "Cos_10261_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_04",
+        "Id": 110261041,
+        "MaterialSettingName": "Cos_10261_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_05",
+        "Id": 110261051,
+        "MaterialSettingName": "Cos_10261_05_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_06",
+        "Id": 110261061,
+        "MaterialSettingName": "Cos_10261_06_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_07",
+        "Id": 110261071,
+        "MaterialSettingName": "Cos_10261_07_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10261_08",
+        "Id": 110261081,
+        "MaterialSettingName": "Cos_10261_08_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10263_01",
+        "Id": 110263011,
+        "MaterialSettingName": "Cos_10263_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10263_02",
+        "Id": 110263021,
+        "MaterialSettingName": "Cos_10263_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10263_03",
+        "Id": 110263031,
+        "MaterialSettingName": "Cos_10263_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10263_04",
+        "Id": 110263041,
+        "MaterialSettingName": "Cos_10263_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10270_01",
+        "Id": 110270011,
+        "MaterialSettingName": "Cos_10270_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10284_01",
+        "Id": 110284011,
+        "MaterialSettingName": "Cos_10284_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20011_02",
+        "Id": 120011021,
+        "MaterialSettingName": "Cos_20011_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20110_01",
+        "Id": 120110011,
+        "MaterialSettingName": "Cos_20110_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20110_01",
+        "Id": 120110012,
+        "MaterialSettingName": "Cos_20110_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20110_01",
+        "Id": 120110013,
+        "MaterialSettingName": "Cos_20110_01_m3",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20110_01",
+        "Id": 120110014,
+        "MaterialSettingName": "Cos_20110_01_m4",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_20140_01",
+        "Id": 120140011,
+        "MaterialSettingName": "Cos_20140_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20311_01",
+        "Id": 120311011,
+        "MaterialSettingName": "Cos_20311_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001101,
+        "MaterialSettingName": "Cos_90001_01_m101",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001102,
+        "MaterialSettingName": "Cos_90001_01_m102",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001106,
+        "MaterialSettingName": "Cos_90001_01_m106",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001110,
+        "MaterialSettingName": "Cos_90001_01_m110",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001112,
+        "MaterialSettingName": "Cos_90001_01_m112",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001113,
+        "MaterialSettingName": "Cos_90001_01_m113",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001114,
+        "MaterialSettingName": "Cos_90001_01_m114",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001115,
+        "MaterialSettingName": "Cos_90001_01_m115",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001117,
+        "MaterialSettingName": "Cos_90001_01_m117",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001118,
+        "MaterialSettingName": "Cos_90001_01_m118",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001120,
+        "MaterialSettingName": "Cos_90001_01_m120",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001121,
+        "MaterialSettingName": "Cos_90001_01_m121",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001122,
+        "MaterialSettingName": "Cos_90001_01_m122",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001124,
+        "MaterialSettingName": "Cos_90001_01_m124",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001125,
+        "MaterialSettingName": "Cos_90001_01_m125",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001126,
+        "MaterialSettingName": "Cos_90001_01_m126",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001127,
+        "MaterialSettingName": "Cos_90001_01_m127",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001128,
+        "MaterialSettingName": "Cos_90001_01_m128",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001129,
+        "MaterialSettingName": "Cos_90001_01_m129",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001130,
+        "MaterialSettingName": "Cos_90001_01_m130",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001131,
+        "MaterialSettingName": "Cos_90001_01_m131",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001132,
+        "MaterialSettingName": "Cos_90001_01_m132",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001133,
+        "MaterialSettingName": "Cos_90001_01_m133",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001134,
+        "MaterialSettingName": "Cos_90001_01_m134",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001135,
+        "MaterialSettingName": "Cos_90001_01_m135",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001136,
+        "MaterialSettingName": "Cos_90001_01_m136",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001137,
+        "MaterialSettingName": "Cos_90001_01_m137",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001138,
+        "MaterialSettingName": "Cos_90001_01_m138",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001139,
+        "MaterialSettingName": "Cos_90001_01_m139",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001140,
+        "MaterialSettingName": "Cos_90001_01_m140",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001141,
+        "MaterialSettingName": "Cos_90001_01_m141",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001142,
+        "MaterialSettingName": "Cos_90001_01_m142",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001143,
+        "MaterialSettingName": "Cos_90001_01_m143",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001144,
+        "MaterialSettingName": "Cos_90001_01_m144",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001145,
+        "MaterialSettingName": "Cos_90001_01_m145",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001146,
+        "MaterialSettingName": "Cos_90001_01_m146",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001147,
+        "MaterialSettingName": "Cos_90001_01_m147",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001148,
+        "MaterialSettingName": "Cos_90001_01_m148",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001149,
+        "MaterialSettingName": "Cos_90001_01_m149",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001150,
+        "MaterialSettingName": "Cos_90001_01_m150",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001151,
+        "MaterialSettingName": "Cos_90001_01_m151",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001152,
+        "MaterialSettingName": "Cos_90001_01_m152",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001153,
+        "MaterialSettingName": "Cos_90001_01_m153",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001154,
+        "MaterialSettingName": "Cos_90001_01_m154",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001155,
+        "MaterialSettingName": "Cos_90001_01_m155",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001156,
+        "MaterialSettingName": "Cos_90001_01_m156",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001157,
+        "MaterialSettingName": "Cos_90001_01_m157",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001158,
+        "MaterialSettingName": "Cos_90001_01_m158",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001159,
+        "MaterialSettingName": "Cos_90001_01_m159",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001160,
+        "MaterialSettingName": "Cos_90001_01_m160",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001161,
+        "MaterialSettingName": "Cos_90001_01_m161",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001162,
+        "MaterialSettingName": "Cos_90001_01_m162",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001163,
+        "MaterialSettingName": "Cos_90001_01_m163",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001164,
+        "MaterialSettingName": "Cos_90001_01_m164",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001165,
+        "MaterialSettingName": "Cos_90001_01_m165",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001166,
+        "MaterialSettingName": "Cos_90001_01_m166",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001168,
+        "MaterialSettingName": "Cos_90001_01_m168",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001169,
+        "MaterialSettingName": "Cos_90001_01_m169",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001170,
+        "MaterialSettingName": "Cos_90001_01_m170",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001171,
+        "MaterialSettingName": "Cos_90001_01_m171",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001172,
+        "MaterialSettingName": "Cos_90001_01_m172",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001173,
+        "MaterialSettingName": "Cos_90001_01_m173",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001174,
+        "MaterialSettingName": "Cos_90001_01_m174",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001175,
+        "MaterialSettingName": "Cos_90001_01_m175",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001501,
+        "MaterialSettingName": "Cos_90001_01_m501",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001502,
+        "MaterialSettingName": "Cos_90001_01_m502",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001503,
+        "MaterialSettingName": "Cos_90001_01_m503",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90001_01",
+        "Id": 190001504,
+        "MaterialSettingName": "Cos_90001_01_m504",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90002_01",
+        "Id": 190002011,
+        "MaterialSettingName": "Cos_90002_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90002_02",
+        "Id": 190002021,
+        "MaterialSettingName": "Cos_90002_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90004_01",
+        "Id": 190004011,
+        "MaterialSettingName": "Cos_90004_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90005_01",
+        "Id": 190005011,
+        "MaterialSettingName": "Cos_90005_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90005_01",
+        "Id": 190005012,
+        "MaterialSettingName": "Cos_90005_01_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90006_01",
+        "Id": 190006011,
+        "MaterialSettingName": "Cos_90006_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90006_02",
+        "Id": 190006021,
+        "MaterialSettingName": "Cos_90006_02_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90006_03",
+        "Id": 190006031,
+        "MaterialSettingName": "Cos_90006_03_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90006_04",
+        "Id": 190006041,
+        "MaterialSettingName": "Cos_90006_04_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90006_04",
+        "Id": 190006042,
+        "MaterialSettingName": "Cos_90006_04_m2",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90009_01",
+        "Id": 190009011,
+        "MaterialSettingName": "Cos_90009_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90010_01",
+        "Id": 190010011,
+        "MaterialSettingName": "Cos_90010_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90011_01",
+        "Id": 190011011,
+        "MaterialSettingName": "Cos_90011_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90015_01",
+        "Id": 190015011,
+        "MaterialSettingName": "Cos_90015_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90016_01",
+        "Id": 190016011,
+        "MaterialSettingName": "Cos_90016_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90017_01",
+        "Id": 190017011,
+        "MaterialSettingName": "Cos_90017_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90020_01",
+        "Id": 190020011,
+        "MaterialSettingName": "Cos_90020_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90021_01",
+        "Id": 190021011,
+        "MaterialSettingName": "Cos_90021_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90023_01",
+        "Id": 190023011,
+        "MaterialSettingName": "Cos_90023_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90024_01",
+        "Id": 190024011,
+        "MaterialSettingName": "Cos_90024_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_90027_01",
+        "Id": 190027011,
+        "MaterialSettingName": "Cos_90027_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00200_01",
+        "Id": 200200011,
+        "MaterialSettingName": "Cos_00200_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00200_02",
+        "Id": 200200021,
+        "MaterialSettingName": "Cos_00200_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00263_01",
+        "Id": 200263011,
+        "MaterialSettingName": "Cos_00263_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00263_02",
+        "Id": 200263021,
+        "MaterialSettingName": "Cos_00263_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_00263_03",
+        "Id": 200263031,
+        "MaterialSettingName": "Cos_00263_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20165_01",
+        "Id": 201650111,
+        "MaterialSettingName": "Cos_20165_01_m1",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_10007_01",
+        "Id": 210007011,
+        "MaterialSettingName": "Cos_10007_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10007_01",
+        "Id": 210007012,
+        "MaterialSettingName": "Cos_10007_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10007_01",
+        "Id": 210007013,
+        "MaterialSettingName": "Cos_10007_01_m3",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10007_02",
+        "Id": 210007021,
+        "MaterialSettingName": "Cos_10007_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10031_01",
+        "Id": 210031011,
+        "MaterialSettingName": "Cos_10031_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10082_02",
+        "Id": 210082021,
+        "MaterialSettingName": "Cos_10082_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10082_03",
+        "Id": 210082031,
+        "MaterialSettingName": "Cos_10082_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_01",
+        "Id": 210120011,
+        "MaterialSettingName": "Cos_10120_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_01",
+        "Id": 210120012,
+        "MaterialSettingName": "Cos_10120_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_04",
+        "Id": 210120041,
+        "MaterialSettingName": "Cos_10120_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_04",
+        "Id": 210120042,
+        "MaterialSettingName": "Cos_10120_04_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_06",
+        "Id": 210120061,
+        "MaterialSettingName": "Cos_10120_06_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10120_08",
+        "Id": 210120081,
+        "MaterialSettingName": "Cos_10120_08_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10142_01",
+        "Id": 210142011,
+        "MaterialSettingName": "Cos_10142_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10150_01",
+        "Id": 210150011,
+        "MaterialSettingName": "Cos_10150_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10150_02",
+        "Id": 210150021,
+        "MaterialSettingName": "Cos_10150_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10157_01",
+        "Id": 210157011,
+        "MaterialSettingName": "Cos_10157_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10157_02",
+        "Id": 210157021,
+        "MaterialSettingName": "Cos_10157_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10157_03",
+        "Id": 210157031,
+        "MaterialSettingName": "Cos_10157_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10157_04",
+        "Id": 210157041,
+        "MaterialSettingName": "Cos_10157_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10157_05",
+        "Id": 210157051,
+        "MaterialSettingName": "Cos_10157_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10168_01",
+        "Id": 210168011,
+        "MaterialSettingName": "Cos_10168_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10168_01",
+        "Id": 210168012,
+        "MaterialSettingName": "Cos_10168_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10175_01",
+        "Id": 210175011,
+        "MaterialSettingName": "Cos_10175_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_01",
+        "Id": 210186011,
+        "MaterialSettingName": "Cos_10186_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_02",
+        "Id": 210186021,
+        "MaterialSettingName": "Cos_10186_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_03",
+        "Id": 210186031,
+        "MaterialSettingName": "Cos_10186_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_04",
+        "Id": 210186041,
+        "MaterialSettingName": "Cos_10186_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_05",
+        "Id": 210186051,
+        "MaterialSettingName": "Cos_10186_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_06",
+        "Id": 210186061,
+        "MaterialSettingName": "Cos_10186_06_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_07",
+        "Id": 210186071,
+        "MaterialSettingName": "Cos_10186_07_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_08",
+        "Id": 210186081,
+        "MaterialSettingName": "Cos_10186_08_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_09",
+        "Id": 210186091,
+        "MaterialSettingName": "Cos_10186_09_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10186_10",
+        "Id": 210186101,
+        "MaterialSettingName": "Cos_10186_10_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10187_01",
+        "Id": 210187011,
+        "MaterialSettingName": "Cos_10187_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10187_02",
+        "Id": 210187021,
+        "MaterialSettingName": "Cos_10187_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10190_01",
+        "Id": 210190011,
+        "MaterialSettingName": "Cos_10190_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10190_02",
+        "Id": 210190021,
+        "MaterialSettingName": "Cos_10190_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10190_03",
+        "Id": 210190031,
+        "MaterialSettingName": "Cos_10190_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10190_04",
+        "Id": 210190041,
+        "MaterialSettingName": "Cos_10190_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10190_05",
+        "Id": 210190051,
+        "MaterialSettingName": "Cos_10190_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10193_01",
+        "Id": 210193011,
+        "MaterialSettingName": "Cos_10193_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10193_02",
+        "Id": 210193021,
+        "MaterialSettingName": "Cos_10193_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10193_03",
+        "Id": 210193031,
+        "MaterialSettingName": "Cos_10193_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10193_04",
+        "Id": 210193041,
+        "MaterialSettingName": "Cos_10193_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10193_05",
+        "Id": 210193051,
+        "MaterialSettingName": "Cos_10193_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10198_01",
+        "Id": 210198011,
+        "MaterialSettingName": "Cos_10198_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10198_02",
+        "Id": 210198021,
+        "MaterialSettingName": "Cos_10198_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10198_03",
+        "Id": 210198031,
+        "MaterialSettingName": "Cos_10198_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10200_01",
+        "Id": 210200011,
+        "MaterialSettingName": "Cos_10200_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10203_01",
+        "Id": 210203011,
+        "MaterialSettingName": "Cos_10203_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10206_01",
+        "Id": 210206011,
+        "MaterialSettingName": "Cos_10206_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10206_02",
+        "Id": 210206021,
+        "MaterialSettingName": "Cos_10206_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10206_03",
+        "Id": 210206031,
+        "MaterialSettingName": "Cos_10206_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10207_01",
+        "Id": 210207011,
+        "MaterialSettingName": "Cos_10207_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10208_01",
+        "Id": 210208011,
+        "MaterialSettingName": "Cos_10208_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10208_02",
+        "Id": 210208021,
+        "MaterialSettingName": "Cos_10208_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10208_03",
+        "Id": 210208031,
+        "MaterialSettingName": "Cos_10208_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10213_01",
+        "Id": 210213011,
+        "MaterialSettingName": "Cos_10213_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10213_01",
+        "Id": 210213012,
+        "MaterialSettingName": "Cos_10213_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10213_01",
+        "Id": 210213013,
+        "MaterialSettingName": "Cos_10213_01_m3",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10215_01",
+        "Id": 210215011,
+        "MaterialSettingName": "Cos_10215_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10215_02",
+        "Id": 210215021,
+        "MaterialSettingName": "Cos_10215_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10218_02",
+        "Id": 210218021,
+        "MaterialSettingName": "Cos_10218_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10218_03",
+        "Id": 210218031,
+        "MaterialSettingName": "Cos_10218_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10218_04",
+        "Id": 210218041,
+        "MaterialSettingName": "Cos_10218_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10218_07",
+        "Id": 210218071,
+        "MaterialSettingName": "Cos_10218_07_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10221_01",
+        "Id": 210221011,
+        "MaterialSettingName": "Cos_10221_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10221_02",
+        "Id": 210221021,
+        "MaterialSettingName": "Cos_10221_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10221_03",
+        "Id": 210221031,
+        "MaterialSettingName": "Cos_10221_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10221_04",
+        "Id": 210221041,
+        "MaterialSettingName": "Cos_10221_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_01",
+        "Id": 210225011,
+        "MaterialSettingName": "Cos_10225_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_02",
+        "Id": 210225021,
+        "MaterialSettingName": "Cos_10225_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_02",
+        "Id": 210225022,
+        "MaterialSettingName": "Cos_10225_02_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_03",
+        "Id": 210225031,
+        "MaterialSettingName": "Cos_10225_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_04",
+        "Id": 210225041,
+        "MaterialSettingName": "Cos_10225_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10225_04",
+        "Id": 210225042,
+        "MaterialSettingName": "Cos_10225_04_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10227_01",
+        "Id": 210227011,
+        "MaterialSettingName": "Cos_10227_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10227_02",
+        "Id": 210227021,
+        "MaterialSettingName": "Cos_10227_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10227_03",
+        "Id": 210227031,
+        "MaterialSettingName": "Cos_10227_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10227_04",
+        "Id": 210227041,
+        "MaterialSettingName": "Cos_10227_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10227_05",
+        "Id": 210227051,
+        "MaterialSettingName": "Cos_10227_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10228_01",
+        "Id": 210228011,
+        "MaterialSettingName": "Cos_10228_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10228_02",
+        "Id": 210228021,
+        "MaterialSettingName": "Cos_10228_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10228_03",
+        "Id": 210228031,
+        "MaterialSettingName": "Cos_10228_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10228_04",
+        "Id": 210228041,
+        "MaterialSettingName": "Cos_10228_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10235_01",
+        "Id": 210235011,
+        "MaterialSettingName": "Cos_10235_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10235_02",
+        "Id": 210235021,
+        "MaterialSettingName": "Cos_10235_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10235_03",
+        "Id": 210235031,
+        "MaterialSettingName": "Cos_10235_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10235_05",
+        "Id": 210235051,
+        "MaterialSettingName": "Cos_10235_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10239_01",
+        "Id": 210239011,
+        "MaterialSettingName": "Cos_10239_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10239_02",
+        "Id": 210239021,
+        "MaterialSettingName": "Cos_10239_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10239_03",
+        "Id": 210239031,
+        "MaterialSettingName": "Cos_10239_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10243_01",
+        "Id": 210243011,
+        "MaterialSettingName": "Cos_10243_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10246_01",
+        "Id": 210246011,
+        "MaterialSettingName": "Cos_10246_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_01",
+        "Id": 210249011,
+        "MaterialSettingName": "Cos_10249_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_02",
+        "Id": 210249021,
+        "MaterialSettingName": "Cos_10249_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_03",
+        "Id": 210249031,
+        "MaterialSettingName": "Cos_10249_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_04",
+        "Id": 210249041,
+        "MaterialSettingName": "Cos_10249_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_05",
+        "Id": 210249051,
+        "MaterialSettingName": "Cos_10249_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10249_06",
+        "Id": 210249061,
+        "MaterialSettingName": "Cos_10249_06_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10250_01",
+        "Id": 210250011,
+        "MaterialSettingName": "Cos_10250_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10250_02",
+        "Id": 210250021,
+        "MaterialSettingName": "Cos_10250_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10250_03",
+        "Id": 210250031,
+        "MaterialSettingName": "Cos_10250_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10250_04",
+        "Id": 210250041,
+        "MaterialSettingName": "Cos_10250_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20256_01",
+        "Id": 210256012,
+        "MaterialSettingName": "Cos_20256_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10270_02",
+        "Id": 210270021,
+        "MaterialSettingName": "Cos_10270_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10270_03",
+        "Id": 210270031,
+        "MaterialSettingName": "Cos_10270_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10270_04",
+        "Id": 210270041,
+        "MaterialSettingName": "Cos_10270_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10270_05",
+        "Id": 210270051,
+        "MaterialSettingName": "Cos_10270_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10271_01",
+        "Id": 210271011,
+        "MaterialSettingName": "Cos_10271_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10271_02",
+        "Id": 210271021,
+        "MaterialSettingName": "Cos_10271_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10271_03",
+        "Id": 210271031,
+        "MaterialSettingName": "Cos_10271_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_02",
+        "Id": 210277021,
+        "MaterialSettingName": "Cos_10277_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_04",
+        "Id": 210277041,
+        "MaterialSettingName": "Cos_10277_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_04",
+        "Id": 210277042,
+        "MaterialSettingName": "Cos_10277_04_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_05",
+        "Id": 210277051,
+        "MaterialSettingName": "Cos_10277_05_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_05",
+        "Id": 210277052,
+        "MaterialSettingName": "Cos_10277_05_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_07",
+        "Id": 210277071,
+        "MaterialSettingName": "Cos_10277_07_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10277_07",
+        "Id": 210277072,
+        "MaterialSettingName": "Cos_10277_07_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10278_01",
+        "Id": 210278011,
+        "MaterialSettingName": "Cos_10278_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10279_01",
+        "Id": 210279011,
+        "MaterialSettingName": "Cos_10279_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10284_02",
+        "Id": 210284021,
+        "MaterialSettingName": "Cos_10284_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10286_01",
+        "Id": 210286011,
+        "MaterialSettingName": "Cos_10286_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10293_01",
+        "Id": 210293011,
+        "MaterialSettingName": "Cos_10293_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10293_03",
+        "Id": 210293031,
+        "MaterialSettingName": "Cos_10293_03_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10293_04",
+        "Id": 210293041,
+        "MaterialSettingName": "Cos_10293_04_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20157_01",
+        "Id": 220157011,
+        "MaterialSettingName": "Cos_20157_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20256_01",
+        "Id": 220256011,
+        "MaterialSettingName": "Cos_20256_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20256_01",
+        "Id": 220256013,
+        "MaterialSettingName": "Cos_20256_01_m3",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20256_02",
+        "Id": 220256021,
+        "MaterialSettingName": "Cos_20256_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20256_02",
+        "Id": 220256022,
+        "MaterialSettingName": "Cos_20256_02_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_20304_01",
+        "Id": 220304011,
+        "MaterialSettingName": "Cos_20304_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90007_01",
+        "Id": 290007011,
+        "MaterialSettingName": "Cos_90007_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90012_01",
+        "Id": 290012011,
+        "MaterialSettingName": "Cos_90012_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90013_01",
+        "Id": 290013011,
+        "MaterialSettingName": "Cos_90013_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90013_02",
+        "Id": 290013021,
+        "MaterialSettingName": "Cos_90013_02_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90014_01",
+        "Id": 290014011,
+        "MaterialSettingName": "Cos_90014_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90022_01",
+        "Id": 290022011,
+        "MaterialSettingName": "Cos_90022_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90025_01",
+        "Id": 290025011,
+        "MaterialSettingName": "Cos_90025_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90026_01",
+        "Id": 290026011,
+        "MaterialSettingName": "Cos_90026_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90028_01",
+        "Id": 290028011,
+        "MaterialSettingName": "Cos_90028_01_m1",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90028_01",
+        "Id": 290028012,
+        "MaterialSettingName": "Cos_90028_01_m2",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_90028_01",
+        "Id": 290028013,
+        "MaterialSettingName": "Cos_90028_01_m3",
+        "ValidateCostumeBoneType": 2
+    },
+    {
+        "CostumeResourceName": "Cos_10077_01",
+        "Id": 310077011,
+        "MaterialSettingName": "Cos_10077_01_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_10166_01",
+        "Id": 310166011,
+        "MaterialSettingName": "Cos_10166_01_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_10013_01",
+        "Id": 410013011,
+        "MaterialSettingName": "Cos_10013_01_m1",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_10013_02",
+        "Id": 410013021,
+        "MaterialSettingName": "Cos_10013_02_m1",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_10013_02",
+        "Id": 410013022,
+        "MaterialSettingName": "Cos_10013_02_m2",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_10161_01",
+        "Id": 410161011,
+        "MaterialSettingName": "Cos_10161_01_m1",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_10166_04",
+        "Id": 410166011,
+        "MaterialSettingName": "Cos_10166_04_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_10166_05",
+        "Id": 410166051,
+        "MaterialSettingName": "Cos_10166_05_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_10166_06",
+        "Id": 410166061,
+        "MaterialSettingName": "Cos_10166_06_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_10166_07",
+        "Id": 410166071,
+        "MaterialSettingName": "Cos_10166_07_m1",
+        "ValidateCostumeBoneType": 3
+    },
+    {
+        "CostumeResourceName": "Cos_20307_03",
+        "Id": 420307031,
+        "MaterialSettingName": "Cos_20307_03_m1",
+        "ValidateCostumeBoneType": 4
+    },
+    {
+        "CostumeResourceName": "Cos_90003_01",
+        "Id": 490003011,
+        "MaterialSettingName": "Cos_90003_01_m1",
+        "ValidateCostumeBoneType": 4
+    }
+]

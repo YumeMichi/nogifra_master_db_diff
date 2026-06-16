@@ -1,0 +1,1462 @@
+[
+    {
+        "AvatarId": 101301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 101,
+        "Name": "秋元真夏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 102101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 102,
+        "Name": "生田絵梨花",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 106101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 106,
+        "Name": "齋藤飛鳥",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 110101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 110,
+        "Name": "高山一実",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 112301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 112,
+        "Name": "樋口日奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 113301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 113,
+        "Name": "星野みなみ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 114201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 114,
+        "Name": "松村沙友理",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 115101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 115,
+        "Name": "和田まあや",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 117101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 117,
+        "Name": "伊藤純奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 118301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 118,
+        "Name": "北野日奈子",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 120201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 120,
+        "Name": "新内眞衣",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 121201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 121,
+        "Name": "鈴木絢音",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 122101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 122,
+        "Name": "寺田蘭世",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 124101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 124,
+        "Name": "山崎怜奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 125101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 125,
+        "Name": "渡辺みり愛",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 126201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 126,
+        "Name": "伊藤理々杏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 127301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 127,
+        "Name": "岩本蓮加",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 128101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 128,
+        "Name": "梅澤美波",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 129301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 129,
+        "Name": "大園桃子",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 130201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 130,
+        "Name": "久保史緒里",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 131101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 131,
+        "Name": "阪口珠美",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 132201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 132,
+        "Name": "佐藤楓",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 133201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 133,
+        "Name": "中村麗乃",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 134101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 134,
+        "Name": "向井葉月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 135301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 135,
+        "Name": "山下美月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 136301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 136,
+        "Name": "吉田綾乃クリスティー",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 137201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 137,
+        "Name": "与田祐希",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 138201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 138,
+        "Name": "遠藤さくら",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 139101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 139,
+        "Name": "賀喜遥香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 140301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 140,
+        "Name": "掛橋沙耶香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 141201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 141,
+        "Name": "金川紗耶",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 142201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 142,
+        "Name": "北川悠理",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 143101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 143,
+        "Name": "柴田柚菜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 144301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 144,
+        "Name": "清宮レイ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 145201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 145,
+        "Name": "田村真佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 146101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 146,
+        "Name": "筒井あやめ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 147101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 147,
+        "Name": "早川聖来",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 148301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 148,
+        "Name": "矢久保美緒",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 149301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 149,
+        "Name": "黒見明香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 150101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 150,
+        "Name": "佐藤璃果",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 151201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 151,
+        "Name": "林瑠奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 152301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 152,
+        "Name": "松尾美佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 153301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 153,
+        "Name": "弓木奈於",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 101301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 10101,
+        "Name": "秋元真夏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 106101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 10601,
+        "Name": "齋藤飛鳥",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 112301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 11201,
+        "Name": "樋口日奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 115101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 11501,
+        "Name": "和田まあや",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 121201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12101,
+        "Name": "鈴木絢音",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 126201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12601,
+        "Name": "伊藤理々杏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 126201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12602,
+        "Name": "伊藤理々杏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 126201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12603,
+        "Name": "伊藤理々杏",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 127301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12701,
+        "Name": "岩本蓮加",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 127301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12702,
+        "Name": "岩本蓮加",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 127301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12703,
+        "Name": "岩本蓮加",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 128101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12801,
+        "Name": "梅澤美波",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 128101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12802,
+        "Name": "梅澤美波",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 128101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 12803,
+        "Name": "梅澤美波",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 130201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13001,
+        "Name": "久保史緒里",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 130201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13002,
+        "Name": "久保史緒里",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 130201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13003,
+        "Name": "久保史緒里",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 131101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13101,
+        "Name": "阪口珠美",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 132201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13201,
+        "Name": "佐藤楓",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 132201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13202,
+        "Name": "佐藤楓",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 133201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13301,
+        "Name": "中村麗乃",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 133201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13302,
+        "Name": "中村麗乃",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 134101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13401,
+        "Name": "向井葉月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 134101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13402,
+        "Name": "向井葉月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 135301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13501,
+        "Name": "山下美月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 136301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13601,
+        "Name": "吉田綾乃クリスティー",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 136301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13602,
+        "Name": "吉田綾乃クリスティー",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 136301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13603,
+        "Name": "吉田綾乃クリスティー",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 137201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13701,
+        "Name": "与田祐希",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 137201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13702,
+        "Name": "与田祐希",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 138201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13801,
+        "Name": "遠藤さくら",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 138201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13802,
+        "Name": "遠藤さくら",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 138201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13803,
+        "Name": "遠藤さくら",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 139101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13901,
+        "Name": "賀喜遥香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 139101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13902,
+        "Name": "賀喜遥香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 139101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 13903,
+        "Name": "賀喜遥香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 140301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14001,
+        "Name": "掛橋沙耶香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 141201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14101,
+        "Name": "金川紗耶",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 141201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14102,
+        "Name": "金川紗耶",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 141201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14103,
+        "Name": "金川紗耶",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 142201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14201,
+        "Name": "北川悠理",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 143101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14301,
+        "Name": "柴田柚菜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 143101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14302,
+        "Name": "柴田柚菜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 143101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14303,
+        "Name": "柴田柚菜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 144301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14401,
+        "Name": "清宮レイ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 145201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14501,
+        "Name": "田村真佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 145201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14502,
+        "Name": "田村真佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 145201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14503,
+        "Name": "田村真佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 146101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14601,
+        "Name": "筒井あやめ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 146101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14602,
+        "Name": "筒井あやめ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 146101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14603,
+        "Name": "筒井あやめ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 147101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14701,
+        "Name": "早川聖来",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 148301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14801,
+        "Name": "矢久保美緒",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 148301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14802,
+        "Name": "矢久保美緒",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 148301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14803,
+        "Name": "矢久保美緒",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 149301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14901,
+        "Name": "黒見明香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 149301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14902,
+        "Name": "黒見明香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 149301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 14903,
+        "Name": "黒見明香",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 150101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15001,
+        "Name": "佐藤璃果",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 150101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15002,
+        "Name": "佐藤璃果",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 150101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15003,
+        "Name": "佐藤璃果",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 151201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15101,
+        "Name": "林瑠奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 151201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15102,
+        "Name": "林瑠奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 151201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15103,
+        "Name": "林瑠奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 152301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15201,
+        "Name": "松尾美佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 152301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15202,
+        "Name": "松尾美佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 152301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15203,
+        "Name": "松尾美佑",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 153301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15301,
+        "Name": "弓木奈於",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 153301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15302,
+        "Name": "弓木奈於",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 153301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15303,
+        "Name": "弓木奈於",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 154201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15401,
+        "Name": "五百城茉央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 154201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15402,
+        "Name": "五百城茉央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 154201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15403,
+        "Name": "五百城茉央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 155101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15501,
+        "Name": "池田瑛紗",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 155101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15502,
+        "Name": "池田瑛紗",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 155101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15503,
+        "Name": "池田瑛紗",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 156201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15601,
+        "Name": "一ノ瀬美空",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 156201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15602,
+        "Name": "一ノ瀬美空",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 156201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15603,
+        "Name": "一ノ瀬美空",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 157101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15701,
+        "Name": "井上和",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 157101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15702,
+        "Name": "井上和",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 157101021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15703,
+        "Name": "井上和",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 158201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15801,
+        "Name": "岡本姫奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 158201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15802,
+        "Name": "岡本姫奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 158201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15803,
+        "Name": "岡本姫奈",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 159301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15901,
+        "Name": "小川彩",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 159301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15902,
+        "Name": "小川彩",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 159301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 15903,
+        "Name": "小川彩",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 160201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16001,
+        "Name": "奥田いろは",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 160201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16002,
+        "Name": "奥田いろは",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 160201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16003,
+        "Name": "奥田いろは",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 161301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16101,
+        "Name": "川﨑桜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 161301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16102,
+        "Name": "川﨑桜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 161301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16103,
+        "Name": "川﨑桜",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 162301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16201,
+        "Name": "菅原咲月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 162301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16202,
+        "Name": "菅原咲月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 162301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16203,
+        "Name": "菅原咲月",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 1
+    },
+    {
+        "AvatarId": 163201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16301,
+        "Name": "冨里奈央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 163201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16302,
+        "Name": "冨里奈央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 163201021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16303,
+        "Name": "冨里奈央",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 3
+    },
+    {
+        "AvatarId": 164301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16401,
+        "Name": "中西アルノ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 164301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16402,
+        "Name": "中西アルノ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    },
+    {
+        "AvatarId": 164301021,
+        "BaseHp": 55000,
+        "Experience": 100,
+        "Id": 16403,
+        "Name": "中西アルノ",
+        "Patience": 0,
+        "Point": 100,
+        "UnitType": 2
+    }
+]

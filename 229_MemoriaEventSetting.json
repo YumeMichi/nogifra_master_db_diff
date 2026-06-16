@@ -1,0 +1,902 @@
+[
+    {
+        "GroupId": 210011,
+        "Id": 210011,
+        "RaidId": 210011,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210021,
+        "Id": 210021,
+        "RaidId": 210021,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210031,
+        "Id": 210031,
+        "RaidId": 210031,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210041,
+        "Id": 210041,
+        "RaidId": 210041,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210051,
+        "Id": 210051,
+        "RaidId": 210051,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210061,
+        "Id": 210061,
+        "RaidId": 210061,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210071,
+        "Id": 210071,
+        "RaidId": 210071,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210081,
+        "Id": 210081,
+        "RaidId": 210081,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210091,
+        "Id": 210091,
+        "RaidId": 210091,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210101,
+        "Id": 210101,
+        "RaidId": 210101,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210111,
+        "Id": 210111,
+        "RaidId": 210111,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210121,
+        "Id": 210121,
+        "RaidId": 210121,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210131,
+        "Id": 210131,
+        "RaidId": 210131,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210141,
+        "Id": 210141,
+        "RaidId": 210141,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210151,
+        "Id": 210151,
+        "RaidId": 210151,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210161,
+        "Id": 210161,
+        "RaidId": 210161,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210171,
+        "Id": 210171,
+        "RaidId": 210171,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210181,
+        "Id": 210181,
+        "RaidId": 210181,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210191,
+        "Id": 210191,
+        "RaidId": 210191,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210201,
+        "Id": 210201,
+        "RaidId": 210201,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210211,
+        "Id": 210211,
+        "RaidId": 210211,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210221,
+        "Id": 210221,
+        "RaidId": 210221,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210231,
+        "Id": 210231,
+        "RaidId": 210231,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210241,
+        "Id": 210241,
+        "RaidId": 210241,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210251,
+        "Id": 210251,
+        "RaidId": 210251,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210261,
+        "Id": 210261,
+        "RaidId": 210261,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210271,
+        "Id": 210271,
+        "RaidId": 210271,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 210281,
+        "Id": 210281,
+        "RaidId": 210281,
+        "RaidType": 2
+    },
+    {
+        "GroupId": 310012,
+        "Id": 310012,
+        "RaidId": 310012,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310022,
+        "Id": 310022,
+        "RaidId": 310022,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310032,
+        "Id": 310032,
+        "RaidId": 310032,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310042,
+        "Id": 310042,
+        "RaidId": 310042,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310052,
+        "Id": 310052,
+        "RaidId": 310052,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310062,
+        "Id": 310062,
+        "RaidId": 310062,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310072,
+        "Id": 310072,
+        "RaidId": 310072,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310082,
+        "Id": 310082,
+        "RaidId": 310082,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310092,
+        "Id": 310092,
+        "RaidId": 310092,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310102,
+        "Id": 310102,
+        "RaidId": 310102,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310112,
+        "Id": 310112,
+        "RaidId": 310112,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310122,
+        "Id": 310122,
+        "RaidId": 310122,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310132,
+        "Id": 310132,
+        "RaidId": 310132,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310142,
+        "Id": 310142,
+        "RaidId": 310142,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310152,
+        "Id": 310152,
+        "RaidId": 310152,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310162,
+        "Id": 310162,
+        "RaidId": 310162,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310172,
+        "Id": 310172,
+        "RaidId": 310172,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310182,
+        "Id": 310182,
+        "RaidId": 310182,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310192,
+        "Id": 310192,
+        "RaidId": 310192,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310202,
+        "Id": 310202,
+        "RaidId": 310202,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310212,
+        "Id": 310212,
+        "RaidId": 310212,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310222,
+        "Id": 310222,
+        "RaidId": 310222,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310232,
+        "Id": 310232,
+        "RaidId": 310232,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310242,
+        "Id": 310242,
+        "RaidId": 310242,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310252,
+        "Id": 310252,
+        "RaidId": 310252,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310262,
+        "Id": 310262,
+        "RaidId": 310262,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310272,
+        "Id": 310272,
+        "RaidId": 310272,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 310282,
+        "Id": 310282,
+        "RaidId": 310282,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 411251,
+        "Id": 411251,
+        "RaidId": 411251,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 411911,
+        "Id": 411911,
+        "RaidId": 411911,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510010,
+        "Id": 510010,
+        "RaidId": 510010,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510013,
+        "Id": 510013,
+        "RaidId": 510013,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510020,
+        "Id": 510020,
+        "RaidId": 510020,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510023,
+        "Id": 510023,
+        "RaidId": 510023,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510030,
+        "Id": 510030,
+        "RaidId": 510030,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510033,
+        "Id": 510033,
+        "RaidId": 510033,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510040,
+        "Id": 510040,
+        "RaidId": 510040,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510050,
+        "Id": 510050,
+        "RaidId": 510050,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510053,
+        "Id": 510053,
+        "RaidId": 510053,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510060,
+        "Id": 510060,
+        "RaidId": 510060,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510063,
+        "Id": 510063,
+        "RaidId": 510063,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510070,
+        "Id": 510070,
+        "RaidId": 510070,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510073,
+        "Id": 510073,
+        "RaidId": 510073,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510080,
+        "Id": 510080,
+        "RaidId": 510080,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510083,
+        "Id": 510083,
+        "RaidId": 510083,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510090,
+        "Id": 510090,
+        "RaidId": 510090,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510093,
+        "Id": 510093,
+        "RaidId": 510093,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510100,
+        "Id": 510100,
+        "RaidId": 510100,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510103,
+        "Id": 510103,
+        "RaidId": 510103,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510110,
+        "Id": 510110,
+        "RaidId": 510110,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510113,
+        "Id": 510113,
+        "RaidId": 510113,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510120,
+        "Id": 510120,
+        "RaidId": 510120,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510123,
+        "Id": 510123,
+        "RaidId": 510123,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510130,
+        "Id": 510130,
+        "RaidId": 510130,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510133,
+        "Id": 510133,
+        "RaidId": 510133,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510140,
+        "Id": 510140,
+        "RaidId": 510140,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510143,
+        "Id": 510143,
+        "RaidId": 510143,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510150,
+        "Id": 510150,
+        "RaidId": 510150,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510153,
+        "Id": 510153,
+        "RaidId": 510153,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510160,
+        "Id": 510160,
+        "RaidId": 510160,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510163,
+        "Id": 510163,
+        "RaidId": 510163,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510170,
+        "Id": 510170,
+        "RaidId": 510170,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510173,
+        "Id": 510173,
+        "RaidId": 510173,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510180,
+        "Id": 510180,
+        "RaidId": 510180,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510183,
+        "Id": 510183,
+        "RaidId": 510183,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510190,
+        "Id": 510190,
+        "RaidId": 510190,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510193,
+        "Id": 510193,
+        "RaidId": 510193,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510200,
+        "Id": 510200,
+        "RaidId": 510200,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510203,
+        "Id": 510203,
+        "RaidId": 510203,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510210,
+        "Id": 510210,
+        "RaidId": 510210,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510213,
+        "Id": 510213,
+        "RaidId": 510213,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510230,
+        "Id": 510230,
+        "RaidId": 510230,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510233,
+        "Id": 510233,
+        "RaidId": 510233,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510240,
+        "Id": 510240,
+        "RaidId": 510240,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510243,
+        "Id": 510243,
+        "RaidId": 510243,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510250,
+        "Id": 510250,
+        "RaidId": 510250,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510253,
+        "Id": 510253,
+        "RaidId": 510253,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510260,
+        "Id": 510260,
+        "RaidId": 510260,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510263,
+        "Id": 510263,
+        "RaidId": 510263,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510270,
+        "Id": 510270,
+        "RaidId": 510270,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510273,
+        "Id": 510273,
+        "RaidId": 510273,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510280,
+        "Id": 510280,
+        "RaidId": 510280,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510283,
+        "Id": 510283,
+        "RaidId": 510283,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510290,
+        "Id": 510290,
+        "RaidId": 510290,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510293,
+        "Id": 510293,
+        "RaidId": 510293,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510300,
+        "Id": 510300,
+        "RaidId": 510300,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510303,
+        "Id": 510303,
+        "RaidId": 510303,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510310,
+        "Id": 510310,
+        "RaidId": 510310,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510313,
+        "Id": 510313,
+        "RaidId": 510313,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 510320,
+        "Id": 510320,
+        "RaidId": 510320,
+        "RaidType": 3
+    },
+    {
+        "GroupId": 510323,
+        "Id": 510323,
+        "RaidId": 510323,
+        "RaidType": 4
+    },
+    {
+        "GroupId": 710011,
+        "Id": 710011,
+        "RaidId": 710011,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710021,
+        "Id": 710021,
+        "RaidId": 710021,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710031,
+        "Id": 710031,
+        "RaidId": 710031,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710041,
+        "Id": 710041,
+        "RaidId": 710041,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710051,
+        "Id": 710051,
+        "RaidId": 710051,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710061,
+        "Id": 710061,
+        "RaidId": 710061,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710071,
+        "Id": 710071,
+        "RaidId": 710071,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710081,
+        "Id": 710081,
+        "RaidId": 710081,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710091,
+        "Id": 710091,
+        "RaidId": 710091,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710101,
+        "Id": 710101,
+        "RaidId": 710101,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710111,
+        "Id": 710111,
+        "RaidId": 710111,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710121,
+        "Id": 710121,
+        "RaidId": 710121,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710131,
+        "Id": 710131,
+        "RaidId": 710131,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710141,
+        "Id": 710141,
+        "RaidId": 710141,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710151,
+        "Id": 710151,
+        "RaidId": 710151,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710161,
+        "Id": 710161,
+        "RaidId": 710161,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710171,
+        "Id": 710171,
+        "RaidId": 710171,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710181,
+        "Id": 710181,
+        "RaidId": 710181,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710191,
+        "Id": 710191,
+        "RaidId": 710191,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710201,
+        "Id": 710201,
+        "RaidId": 710201,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710211,
+        "Id": 710211,
+        "RaidId": 710211,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710221,
+        "Id": 710221,
+        "RaidId": 710221,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 710231,
+        "Id": 710231,
+        "RaidId": 710231,
+        "RaidType": 6
+    },
+    {
+        "GroupId": 810011,
+        "Id": 810011,
+        "RaidId": 810011,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810021,
+        "Id": 810021,
+        "RaidId": 810021,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810031,
+        "Id": 810031,
+        "RaidId": 810031,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810041,
+        "Id": 810041,
+        "RaidId": 810041,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810051,
+        "Id": 810051,
+        "RaidId": 810051,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810061,
+        "Id": 810061,
+        "RaidId": 810061,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810071,
+        "Id": 810071,
+        "RaidId": 810071,
+        "RaidType": 7
+    },
+    {
+        "GroupId": 810081,
+        "Id": 810081,
+        "RaidId": 810081,
+        "RaidType": 7
+    }
+]

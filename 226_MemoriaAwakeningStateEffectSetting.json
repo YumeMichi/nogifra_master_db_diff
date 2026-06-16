@@ -1,0 +1,434 @@
+[
+    {
+        "AwakeningNumber": 1,
+        "Id": 1,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2001
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 2,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2001
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 3,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2001
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 4,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2001
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 5,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2002
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 6,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2002
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 7,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2002
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 8,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2002
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 9,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2003
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 10,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2003
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 11,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2003
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 12,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2003
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 13,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2004
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 14,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2004
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 15,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2004
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 16,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2004
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 17,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2005
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 18,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2005
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 19,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2005
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 20,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2005
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 21,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 2006
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 22,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 2006
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 23,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 2006
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 24,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 2006
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 25,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3001
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 26,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3001
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 27,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3001
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 28,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3001
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 29,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3002
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 30,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3002
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 31,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3002
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 32,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3002
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 33,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3003
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 34,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3003
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 35,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3003
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 36,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3003
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 37,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3004
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 38,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3004
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 39,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3004
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 40,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3004
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 41,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3005
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 42,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3005
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 43,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3005
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 44,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3005
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 45,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3006
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 46,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3006
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 47,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3006
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 48,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3006
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 49,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3007
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 50,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3007
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 51,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3007
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 52,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3007
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 53,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3008
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 54,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3008
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 55,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3008
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 56,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3008
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 57,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 3009
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 58,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 3009
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 59,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 3009
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 60,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 3009
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 61,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 12001
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 62,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 12001
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 63,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 12001
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 64,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 12001
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 65,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 13001
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 66,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 13001
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 67,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 13001
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 68,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 13001
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 69,
+        "MultipleValue": 4,
+        "ResistanceStateGroupId": 21001
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 70,
+        "MultipleValue": 10,
+        "ResistanceStateGroupId": 21001
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 71,
+        "MultipleValue": 17,
+        "ResistanceStateGroupId": 21001
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 72,
+        "MultipleValue": 25,
+        "ResistanceStateGroupId": 21001
+    }
+]

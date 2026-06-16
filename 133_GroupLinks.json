@@ -1,0 +1,114 @@
+[
+    {
+        "BackgroundResourceId": 101001,
+        "Id": 101001,
+        "Name": "Spring Collection Vol.1",
+        "Order": 1001,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 101002,
+        "Id": 101002,
+        "Name": "Spring Collection Vol.2",
+        "Order": 1002,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 101003,
+        "Id": 101003,
+        "Name": "Spring Collection Vol.3",
+        "Order": 1003,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 101004,
+        "Id": 101004,
+        "Name": "Spring Collection Vol.4",
+        "Order": 1004,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 102001,
+        "Id": 102001,
+        "Name": "Summer Collection Vol.1",
+        "Order": 2001,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 102002,
+        "Id": 102002,
+        "Name": "Summer Collection Vol.2",
+        "Order": 2002,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 102003,
+        "Id": 102003,
+        "Name": "Summer Collection Vol.3",
+        "Order": 2003,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 102004,
+        "Id": 102004,
+        "Name": "Summer Collection Vol.4",
+        "Order": 2004,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 103001,
+        "Id": 103001,
+        "Name": "Autumn Collection Vol.1",
+        "Order": 3001,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 103002,
+        "Id": 103002,
+        "Name": "Autumn Collection Vol.2",
+        "Order": 3002,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 103003,
+        "Id": 103003,
+        "Name": "Autumn Collection Vol.3",
+        "Order": 3003,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 103004,
+        "Id": 103004,
+        "Name": "Autumn Collection Vol.4",
+        "Order": 3004,
+        "StartAt": "2023-03-14T14:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 104001,
+        "Id": 104001,
+        "Name": "Winter Collection Vol.1",
+        "Order": 4001,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 104002,
+        "Id": 104002,
+        "Name": "Winter Collection Vol.2",
+        "Order": 4002,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 104003,
+        "Id": 104003,
+        "Name": "Winter Collection Vol.3",
+        "Order": 4003,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    },
+    {
+        "BackgroundResourceId": 104004,
+        "Id": 104004,
+        "Name": "Winter Collection Vol.4",
+        "Order": 4004,
+        "StartAt": "2022-01-01T00:00:00+09:00"
+    }
+]

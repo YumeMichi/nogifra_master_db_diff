@@ -1,0 +1,764 @@
+[
+    {
+        "FlowerStandLevelId": 10001,
+        "Id": 1000101,
+        "UnlockEffectType": 3,
+        "Value": 601001
+    },
+    {
+        "FlowerStandLevelId": 10001,
+        "Id": 1000102,
+        "UnlockEffectType": 6,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 10002,
+        "Id": 1000201,
+        "UnlockEffectType": 3,
+        "Value": 601002
+    },
+    {
+        "FlowerStandLevelId": 10002,
+        "Id": 1000202,
+        "UnlockEffectType": 2,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 10003,
+        "Id": 1000301,
+        "UnlockEffectType": 3,
+        "Value": 601003
+    },
+    {
+        "FlowerStandLevelId": 10003,
+        "Id": 1000302,
+        "UnlockEffectType": 1,
+        "Value": 2
+    },
+    {
+        "FlowerStandLevelId": 10004,
+        "Id": 1000401,
+        "UnlockEffectType": 3,
+        "Value": 601004
+    },
+    {
+        "FlowerStandLevelId": 10004,
+        "Id": 1000402,
+        "UnlockEffectType": 6,
+        "Value": 2
+    },
+    {
+        "FlowerStandLevelId": 10005,
+        "Id": 1000501,
+        "UnlockEffectType": 3,
+        "Value": 601005
+    },
+    {
+        "FlowerStandLevelId": 10006,
+        "Id": 1000601,
+        "UnlockEffectType": 3,
+        "Value": 601006
+    },
+    {
+        "FlowerStandLevelId": 10006,
+        "Id": 1000602,
+        "UnlockEffectType": 6,
+        "Value": 3
+    },
+    {
+        "FlowerStandLevelId": 10007,
+        "Id": 1000701,
+        "UnlockEffectType": 3,
+        "Value": 601007
+    },
+    {
+        "FlowerStandLevelId": 10008,
+        "Id": 1000801,
+        "UnlockEffectType": 3,
+        "Value": 601008
+    },
+    {
+        "FlowerStandLevelId": 10008,
+        "Id": 1000802,
+        "UnlockEffectType": 6,
+        "Value": 4
+    },
+    {
+        "FlowerStandLevelId": 10009,
+        "Id": 1000901,
+        "UnlockEffectType": 3,
+        "Value": 601009
+    },
+    {
+        "FlowerStandLevelId": 10010,
+        "Id": 1001001,
+        "UnlockEffectType": 3,
+        "Value": 601010
+    },
+    {
+        "FlowerStandLevelId": 10010,
+        "Id": 1001002,
+        "UnlockEffectType": 6,
+        "Value": 5
+    },
+    {
+        "FlowerStandLevelId": 10011,
+        "Id": 1001101,
+        "UnlockEffectType": 3,
+        "Value": 601011
+    },
+    {
+        "FlowerStandLevelId": 10012,
+        "Id": 1001201,
+        "UnlockEffectType": 3,
+        "Value": 601012
+    },
+    {
+        "FlowerStandLevelId": 10012,
+        "Id": 1001202,
+        "UnlockEffectType": 6,
+        "Value": 6
+    },
+    {
+        "FlowerStandLevelId": 10013,
+        "Id": 1001301,
+        "UnlockEffectType": 3,
+        "Value": 601013
+    },
+    {
+        "FlowerStandLevelId": 10014,
+        "Id": 1001401,
+        "UnlockEffectType": 3,
+        "Value": 601014
+    },
+    {
+        "FlowerStandLevelId": 10014,
+        "Id": 1001402,
+        "UnlockEffectType": 6,
+        "Value": 7
+    },
+    {
+        "FlowerStandLevelId": 10015,
+        "Id": 1001501,
+        "UnlockEffectType": 3,
+        "Value": 601015
+    },
+    {
+        "FlowerStandLevelId": 10016,
+        "Id": 1001601,
+        "UnlockEffectType": 3,
+        "Value": 601016
+    },
+    {
+        "FlowerStandLevelId": 10016,
+        "Id": 1001602,
+        "UnlockEffectType": 6,
+        "Value": 8
+    },
+    {
+        "FlowerStandLevelId": 10017,
+        "Id": 1001701,
+        "UnlockEffectType": 3,
+        "Value": 601017
+    },
+    {
+        "FlowerStandLevelId": 10018,
+        "Id": 1001801,
+        "UnlockEffectType": 3,
+        "Value": 601018
+    },
+    {
+        "FlowerStandLevelId": 10018,
+        "Id": 1001802,
+        "UnlockEffectType": 6,
+        "Value": 9
+    },
+    {
+        "FlowerStandLevelId": 10019,
+        "Id": 1001901,
+        "UnlockEffectType": 3,
+        "Value": 601019
+    },
+    {
+        "FlowerStandLevelId": 10020,
+        "Id": 1002001,
+        "UnlockEffectType": 3,
+        "Value": 601020
+    },
+    {
+        "FlowerStandLevelId": 10020,
+        "Id": 1002002,
+        "UnlockEffectType": 6,
+        "Value": 10
+    },
+    {
+        "FlowerStandLevelId": 20001,
+        "Id": 2000101,
+        "UnlockEffectType": 3,
+        "Value": 602001
+    },
+    {
+        "FlowerStandLevelId": 20001,
+        "Id": 2000102,
+        "UnlockEffectType": 5,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 20002,
+        "Id": 2000201,
+        "UnlockEffectType": 3,
+        "Value": 602002
+    },
+    {
+        "FlowerStandLevelId": 20003,
+        "Id": 2000301,
+        "UnlockEffectType": 1,
+        "Value": 3
+    },
+    {
+        "FlowerStandLevelId": 20003,
+        "Id": 2000302,
+        "UnlockEffectType": 3,
+        "Value": 602003
+    },
+    {
+        "FlowerStandLevelId": 20004,
+        "Id": 2000401,
+        "UnlockEffectType": 3,
+        "Value": 602004
+    },
+    {
+        "FlowerStandLevelId": 20004,
+        "Id": 2000402,
+        "UnlockEffectType": 5,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 20005,
+        "Id": 2000501,
+        "UnlockEffectType": 3,
+        "Value": 602005
+    },
+    {
+        "FlowerStandLevelId": 20006,
+        "Id": 2000601,
+        "UnlockEffectType": 3,
+        "Value": 602006
+    },
+    {
+        "FlowerStandLevelId": 20007,
+        "Id": 2000701,
+        "UnlockEffectType": 3,
+        "Value": 602007
+    },
+    {
+        "FlowerStandLevelId": 20007,
+        "Id": 2000702,
+        "UnlockEffectType": 5,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 20008,
+        "Id": 2000801,
+        "UnlockEffectType": 3,
+        "Value": 602008
+    },
+    {
+        "FlowerStandLevelId": 20009,
+        "Id": 2000901,
+        "UnlockEffectType": 3,
+        "Value": 602009
+    },
+    {
+        "FlowerStandLevelId": 20010,
+        "Id": 2001001,
+        "UnlockEffectType": 3,
+        "Value": 602010
+    },
+    {
+        "FlowerStandLevelId": 20010,
+        "Id": 2001002,
+        "UnlockEffectType": 5,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 20011,
+        "Id": 2001101,
+        "UnlockEffectType": 3,
+        "Value": 602011
+    },
+    {
+        "FlowerStandLevelId": 20012,
+        "Id": 2001201,
+        "UnlockEffectType": 3,
+        "Value": 602012
+    },
+    {
+        "FlowerStandLevelId": 20012,
+        "Id": 2001202,
+        "UnlockEffectType": 5,
+        "Value": 20
+    },
+    {
+        "FlowerStandLevelId": 20013,
+        "Id": 2001301,
+        "UnlockEffectType": 3,
+        "Value": 602013
+    },
+    {
+        "FlowerStandLevelId": 20014,
+        "Id": 2001401,
+        "UnlockEffectType": 3,
+        "Value": 602014
+    },
+    {
+        "FlowerStandLevelId": 20014,
+        "Id": 2001402,
+        "UnlockEffectType": 5,
+        "Value": 20
+    },
+    {
+        "FlowerStandLevelId": 20015,
+        "Id": 2001501,
+        "UnlockEffectType": 3,
+        "Value": 602015
+    },
+    {
+        "FlowerStandLevelId": 20016,
+        "Id": 2001601,
+        "UnlockEffectType": 3,
+        "Value": 602016
+    },
+    {
+        "FlowerStandLevelId": 20016,
+        "Id": 2001602,
+        "UnlockEffectType": 5,
+        "Value": 20
+    },
+    {
+        "FlowerStandLevelId": 20017,
+        "Id": 2001701,
+        "UnlockEffectType": 3,
+        "Value": 602017
+    },
+    {
+        "FlowerStandLevelId": 20018,
+        "Id": 2001801,
+        "UnlockEffectType": 3,
+        "Value": 602018
+    },
+    {
+        "FlowerStandLevelId": 20018,
+        "Id": 2001802,
+        "UnlockEffectType": 5,
+        "Value": 20
+    },
+    {
+        "FlowerStandLevelId": 20019,
+        "Id": 2001901,
+        "UnlockEffectType": 3,
+        "Value": 602019
+    },
+    {
+        "FlowerStandLevelId": 20020,
+        "Id": 2002001,
+        "UnlockEffectType": 3,
+        "Value": 602020
+    },
+    {
+        "FlowerStandLevelId": 20020,
+        "Id": 2002002,
+        "UnlockEffectType": 5,
+        "Value": 20
+    },
+    {
+        "FlowerStandLevelId": 30001,
+        "Id": 3000101,
+        "UnlockEffectType": 3,
+        "Value": 603001
+    },
+    {
+        "FlowerStandLevelId": 30002,
+        "Id": 3000201,
+        "UnlockEffectType": 3,
+        "Value": 603002
+    },
+    {
+        "FlowerStandLevelId": 30002,
+        "Id": 3000202,
+        "UnlockEffectType": 2,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 30003,
+        "Id": 3000301,
+        "UnlockEffectType": 3,
+        "Value": 603003
+    },
+    {
+        "FlowerStandLevelId": 30003,
+        "Id": 3000302,
+        "UnlockEffectType": 1,
+        "Value": 4
+    },
+    {
+        "FlowerStandLevelId": 30004,
+        "Id": 3000401,
+        "UnlockEffectType": 3,
+        "Value": 603004
+    },
+    {
+        "FlowerStandLevelId": 30004,
+        "Id": 3000402,
+        "UnlockEffectType": 2,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 30005,
+        "Id": 3000501,
+        "UnlockEffectType": 3,
+        "Value": 603005
+    },
+    {
+        "FlowerStandLevelId": 30006,
+        "Id": 3000601,
+        "UnlockEffectType": 3,
+        "Value": 603006
+    },
+    {
+        "FlowerStandLevelId": 30007,
+        "Id": 3000701,
+        "UnlockEffectType": 3,
+        "Value": 603007
+    },
+    {
+        "FlowerStandLevelId": 30007,
+        "Id": 3000702,
+        "UnlockEffectType": 2,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 30008,
+        "Id": 3000801,
+        "UnlockEffectType": 3,
+        "Value": 603008
+    },
+    {
+        "FlowerStandLevelId": 30009,
+        "Id": 3000901,
+        "UnlockEffectType": 3,
+        "Value": 603009
+    },
+    {
+        "FlowerStandLevelId": 30010,
+        "Id": 3001001,
+        "UnlockEffectType": 3,
+        "Value": 603010
+    },
+    {
+        "FlowerStandLevelId": 30010,
+        "Id": 3001002,
+        "UnlockEffectType": 2,
+        "Value": 1
+    },
+    {
+        "FlowerStandLevelId": 30011,
+        "Id": 3001101,
+        "UnlockEffectType": 3,
+        "Value": 603011
+    },
+    {
+        "FlowerStandLevelId": 30012,
+        "Id": 3001201,
+        "UnlockEffectType": 3,
+        "Value": 603012
+    },
+    {
+        "FlowerStandLevelId": 30013,
+        "Id": 3001301,
+        "UnlockEffectType": 3,
+        "Value": 603013
+    },
+    {
+        "FlowerStandLevelId": 30014,
+        "Id": 3001401,
+        "UnlockEffectType": 3,
+        "Value": 603014
+    },
+    {
+        "FlowerStandLevelId": 30015,
+        "Id": 3001501,
+        "UnlockEffectType": 3,
+        "Value": 603015
+    },
+    {
+        "FlowerStandLevelId": 30016,
+        "Id": 3001601,
+        "UnlockEffectType": 3,
+        "Value": 603016
+    },
+    {
+        "FlowerStandLevelId": 30017,
+        "Id": 3001701,
+        "UnlockEffectType": 3,
+        "Value": 603017
+    },
+    {
+        "FlowerStandLevelId": 30018,
+        "Id": 3001801,
+        "UnlockEffectType": 3,
+        "Value": 603018
+    },
+    {
+        "FlowerStandLevelId": 30019,
+        "Id": 3001901,
+        "UnlockEffectType": 3,
+        "Value": 603019
+    },
+    {
+        "FlowerStandLevelId": 30020,
+        "Id": 3002001,
+        "UnlockEffectType": 3,
+        "Value": 603020
+    },
+    {
+        "FlowerStandLevelId": 40001,
+        "Id": 4000101,
+        "UnlockEffectType": 3,
+        "Value": 604001
+    },
+    {
+        "FlowerStandLevelId": 40001,
+        "Id": 4000102,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40002,
+        "Id": 4000201,
+        "UnlockEffectType": 3,
+        "Value": 604002
+    },
+    {
+        "FlowerStandLevelId": 40002,
+        "Id": 4000202,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40003,
+        "Id": 4000301,
+        "UnlockEffectType": 3,
+        "Value": 604003
+    },
+    {
+        "FlowerStandLevelId": 40003,
+        "Id": 4000302,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40004,
+        "Id": 4000401,
+        "UnlockEffectType": 3,
+        "Value": 604004
+    },
+    {
+        "FlowerStandLevelId": 40004,
+        "Id": 4000402,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40005,
+        "Id": 4000501,
+        "UnlockEffectType": 3,
+        "Value": 604005
+    },
+    {
+        "FlowerStandLevelId": 40005,
+        "Id": 4000502,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40006,
+        "Id": 4000601,
+        "UnlockEffectType": 3,
+        "Value": 604006
+    },
+    {
+        "FlowerStandLevelId": 40006,
+        "Id": 4000602,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40007,
+        "Id": 4000701,
+        "UnlockEffectType": 3,
+        "Value": 604007
+    },
+    {
+        "FlowerStandLevelId": 40007,
+        "Id": 4000702,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40008,
+        "Id": 4000801,
+        "UnlockEffectType": 3,
+        "Value": 604008
+    },
+    {
+        "FlowerStandLevelId": 40008,
+        "Id": 4000802,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40009,
+        "Id": 4000901,
+        "UnlockEffectType": 3,
+        "Value": 604009
+    },
+    {
+        "FlowerStandLevelId": 40009,
+        "Id": 4000902,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40010,
+        "Id": 4001001,
+        "UnlockEffectType": 3,
+        "Value": 604010
+    },
+    {
+        "FlowerStandLevelId": 40010,
+        "Id": 4001002,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40011,
+        "Id": 4001101,
+        "UnlockEffectType": 3,
+        "Value": 604011
+    },
+    {
+        "FlowerStandLevelId": 40011,
+        "Id": 4001102,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40012,
+        "Id": 4001201,
+        "UnlockEffectType": 3,
+        "Value": 604012
+    },
+    {
+        "FlowerStandLevelId": 40012,
+        "Id": 4001202,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40013,
+        "Id": 4001301,
+        "UnlockEffectType": 3,
+        "Value": 604013
+    },
+    {
+        "FlowerStandLevelId": 40013,
+        "Id": 4001302,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40014,
+        "Id": 4001401,
+        "UnlockEffectType": 3,
+        "Value": 604014
+    },
+    {
+        "FlowerStandLevelId": 40014,
+        "Id": 4001402,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40015,
+        "Id": 4001501,
+        "UnlockEffectType": 3,
+        "Value": 604015
+    },
+    {
+        "FlowerStandLevelId": 40015,
+        "Id": 4001502,
+        "UnlockEffectType": 4,
+        "Value": 150
+    },
+    {
+        "FlowerStandLevelId": 40016,
+        "Id": 4001601,
+        "UnlockEffectType": 3,
+        "Value": 604016
+    },
+    {
+        "FlowerStandLevelId": 40016,
+        "Id": 4001602,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40017,
+        "Id": 4001701,
+        "UnlockEffectType": 3,
+        "Value": 604017
+    },
+    {
+        "FlowerStandLevelId": 40017,
+        "Id": 4001702,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40018,
+        "Id": 4001801,
+        "UnlockEffectType": 3,
+        "Value": 604018
+    },
+    {
+        "FlowerStandLevelId": 40018,
+        "Id": 4001802,
+        "UnlockEffectType": 4,
+        "Value": 50
+    },
+    {
+        "FlowerStandLevelId": 40019,
+        "Id": 4001901,
+        "UnlockEffectType": 3,
+        "Value": 604019
+    },
+    {
+        "FlowerStandLevelId": 40019,
+        "Id": 4001902,
+        "UnlockEffectType": 4,
+        "Value": 100
+    },
+    {
+        "FlowerStandLevelId": 40020,
+        "Id": 4002001,
+        "UnlockEffectType": 3,
+        "Value": 604020
+    },
+    {
+        "FlowerStandLevelId": 40020,
+        "Id": 4002002,
+        "UnlockEffectType": 4,
+        "Value": 150
+    }
+]

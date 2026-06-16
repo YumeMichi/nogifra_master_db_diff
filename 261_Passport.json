@@ -1,0 +1,42 @@
+[
+    {
+        "EffectiveDays": 30,
+        "Id": 1,
+        "Name": "マンスリーバックステージパス（30日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 2,
+        "Name": "ウィークリーバックステージパス（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 3,
+        "Name": "ホワイトパス（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 4,
+        "Name": "パープルパス（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 5,
+        "Name": "レッスンパス（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 6,
+        "Name": "レインボーパス（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 7,
+        "Name": "ウィークリーバックステージパス2（7日分）"
+    },
+    {
+        "EffectiveDays": 7,
+        "Id": 8,
+        "Name": "メンバーノギメモ強化パス"
+    }
+]

@@ -1,0 +1,698 @@
+[
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 1,
+        "Name": "アピール力アップ",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 2,
+        "Name": "ディフェンスアップ",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 5,
+        "Name": "命中率アップ",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 5
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 6,
+        "Name": "回避率アップ",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 6
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 7,
+        "Name": "アピールガード(努力)",
+        "StartAt": "2024-09-02T17:00:00+09:00",
+        "StateId": 7
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 8,
+        "Name": "アピールガード(感謝)",
+        "StartAt": "2024-12-09T17:00:00+09:00",
+        "StateId": 8
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 9,
+        "Name": "アピールガード(笑顔)",
+        "StartAt": "2024-08-05T17:00:00+09:00",
+        "StateId": 9
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 10,
+        "Name": "会心アピール耐性アップ",
+        "StartAt": "2026-03-30T17:00:00+09:00",
+        "StateId": 10
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 11,
+        "Name": "会心率アップ",
+        "StartAt": "2025-08-07T17:00:00+09:00",
+        "StateId": 11
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 12,
+        "Name": "アピールブースト(努力)",
+        "StartAt": "2026-01-26T17:00:00+09:00",
+        "StateId": 12
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 13,
+        "Name": "アピールブースト(感謝)",
+        "StartAt": "2026-01-12T17:00:00+09:00",
+        "StateId": 13
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 1,
+        "Id": 14,
+        "Name": "アピールブースト(笑顔)",
+        "StartAt": "2026-01-19T17:00:00+09:00",
+        "StateId": 14
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1001,
+        "Name": "反響",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1001
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1002,
+        "Name": "興奮",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1002
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1003,
+        "Name": "熱中",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1003
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1004,
+        "Name": "陽動",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1004
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1005,
+        "Name": "集中",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1005
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1007,
+        "Name": "堅忍",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1007
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1008,
+        "Name": "勇気",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1008
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1009,
+        "Name": "魅了",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1009
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1010,
+        "Name": "全開",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1010
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1011,
+        "Name": "威圧",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1011
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1012,
+        "Name": "神気",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1012
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1013,
+        "Name": "軽快",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1013
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1015,
+        "Name": "強運",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1015
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1019,
+        "Name": "機敏",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 1019
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1020,
+        "Name": "防音",
+        "StartAt": "2024-07-01T00:00:00+09:00",
+        "StateId": 1020
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1021,
+        "Name": "柔軟",
+        "StartAt": "2024-08-01T00:00:00+09:00",
+        "StateId": 1021
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1024,
+        "Name": "光華",
+        "StartAt": "2025-04-14T17:00:00+09:00",
+        "StateId": 1024
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1026,
+        "Name": "軽業",
+        "StartAt": "2025-07-10T17:00:00+09:00",
+        "StateId": 1026
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1027,
+        "Name": "舞踏",
+        "StartAt": "2025-07-10T17:00:00+09:00",
+        "StateId": 1027
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1028,
+        "Name": "情熱",
+        "StartAt": "2025-08-07T17:00:00+09:00",
+        "StateId": 1028
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1029,
+        "Name": "交響",
+        "StartAt": "2025-09-04T17:00:00+09:00",
+        "StateId": 1029
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1030,
+        "Name": "豪運",
+        "StartAt": "2025-08-28T17:00:00+09:00",
+        "StateId": 1030
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1031,
+        "Name": "倍音",
+        "StartAt": "2025-09-11T17:00:00+09:00",
+        "StateId": 1031
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1032,
+        "Name": "夢中",
+        "StartAt": "2025-11-10T17:00:00+09:00",
+        "StateId": 1032
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1033,
+        "Name": "音響",
+        "StartAt": "2025-11-17T17:00:00+09:00",
+        "StateId": 1033
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1034,
+        "Name": "熱意",
+        "StartAt": "2025-12-08T17:00:00+09:00",
+        "StateId": 1034
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1035,
+        "Name": "牽制",
+        "StartAt": "2025-12-15T17:00:00+09:00",
+        "StateId": 1035
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1036,
+        "Name": "奏響",
+        "StartAt": "2025-12-22T22:00:00+09:00",
+        "StateId": 1036
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1037,
+        "Name": "静謐",
+        "StartAt": "2025-01-15T17:00:00+09:00",
+        "StateId": 1037
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 2,
+        "Id": 1038,
+        "Name": "聡明",
+        "StartAt": "2026-04-02T17:00:00+09:00",
+        "StateId": 1038
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2001,
+        "Name": "アピール力ダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2001
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2002,
+        "Name": "ディフェンスダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2002
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2003,
+        "Name": "フィジカルダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2003
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2004,
+        "Name": "メンタルダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2004
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2005,
+        "Name": "命中率ダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2005
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 4,
+        "Id": 2006,
+        "Name": "回避率ダウン",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 2006
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3001,
+        "Name": "転倒",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3001
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3002,
+        "Name": "雑音",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3002
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3003,
+        "Name": "落胆",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3003
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3004,
+        "Name": "衰弱",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3004
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3005,
+        "Name": "心労",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3005
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3006,
+        "Name": "嫉妬",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3006
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3007,
+        "Name": "空腹",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3007
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3008,
+        "Name": "執着",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3008
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3009,
+        "Name": "混乱",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3009
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3010,
+        "Name": "緊張",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 3010
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 5,
+        "Id": 3012,
+        "Name": "弱音",
+        "StartAt": "2025-09-04T17:00:00+09:00",
+        "StateId": 3012
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4001,
+        "Name": "重奏",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4001
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4002,
+        "Name": "熱血",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4002
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4003,
+        "Name": "聖域",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4003
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4004,
+        "Name": "円陣",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4004
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4005,
+        "Name": "遮音",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4005
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4008,
+        "Name": "不屈",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4008
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4009,
+        "Name": "声援",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4009
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4010,
+        "Name": "根性",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4010
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4011,
+        "Name": "希望",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4011
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4012,
+        "Name": "光輝",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4012
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4013,
+        "Name": "翻弄",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4013
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4014,
+        "Name": "抱擁",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 4014
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4015,
+        "Name": "独占",
+        "StartAt": "2024-07-22T17:00:00+09:00",
+        "StateId": 4015
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4016,
+        "Name": "追走",
+        "StartAt": "2024-10-07T17:00:00+09:00",
+        "StateId": 4016
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4017,
+        "Name": "脚光",
+        "StartAt": "2024-10-10T17:00:00+09:00",
+        "StateId": 4017
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4018,
+        "Name": "決心",
+        "StartAt": "2024-11-28T17:00:00+09:00",
+        "StateId": 4018
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4019,
+        "Name": "残響",
+        "StartAt": "2025-01-01T00:00:00+09:00",
+        "StateId": 4019
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4020,
+        "Name": "保護",
+        "StartAt": "2026-01-28T17:00:00+09:00",
+        "StateId": 4020
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4021,
+        "Name": "臨機",
+        "StartAt": "2025-08-07T17:00:00+09:00",
+        "StateId": 4021
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4022,
+        "Name": "瞑想",
+        "StartAt": "2025-08-12T17:00:00+09:00",
+        "StateId": 4022
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4023,
+        "Name": "旋回",
+        "StartAt": "2025-11-27T17:00:00+09:00",
+        "StateId": 4023
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4024,
+        "Name": "平穏",
+        "StartAt": "2025-12-01T17:00:00+09:00",
+        "StateId": 4024
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4025,
+        "Name": "躍動",
+        "StartAt": "2026-01-01T17:00:00+09:00",
+        "StateId": 4025
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4026,
+        "Name": "平静",
+        "StartAt": "2026-03-12T17:00:00+09:00",
+        "StateId": 4026
+    },
+    {
+        "EffectTypeId": 0,
+        "FilterCategory": 3,
+        "Id": 4027,
+        "Name": "華麗",
+        "StartAt": "2026-03-19T17:00:00+09:00",
+        "StateId": 4027
+    },
+    {
+        "EffectTypeId": 90019,
+        "FilterCategory": 6,
+        "Id": 5001,
+        "Name": "リタイア回復",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 0
+    },
+    {
+        "EffectTypeId": 90023,
+        "FilterCategory": 6,
+        "Id": 5002,
+        "Name": "アンコールスキル",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 0
+    },
+    {
+        "EffectTypeId": 90024,
+        "FilterCategory": 6,
+        "Id": 5003,
+        "Name": "アドバンススキル",
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StateId": 0
+    }
+]

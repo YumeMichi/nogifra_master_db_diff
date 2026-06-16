@@ -1,0 +1,97 @@
+[
+    {
+        "Id": 1,
+        "Sentence": "\u003ccolor=#d66184\u003e※同一のスチルを設定することはできません\n※スチルはメンバー・ノギメモの解放時や、メンバーの親密度を上げることなどで入手できる場合があります\u003c/color\u003e",
+        "TitleName": "注意事項（ホーム画像設定）"
+    },
+    {
+        "Id": 2,
+        "Sentence": "\u003ccolor=#d66184\u003e※受け取り期限が付いているものは、一定期間内に受け取りをしないと消滅します\u003c/color\u003e",
+        "TitleName": "注意事項（プレゼントボックス）"
+    },
+    {
+        "Id": 3,
+        "Sentence": "\u003ccolor=#6aa262\u003e※ 稀にグッズを獲得できる場合もあります\u003c/color\u003e",
+        "TitleName": "POINT（ステージ）"
+    },
+    {
+        "Id": 4,
+        "Sentence": "\u003ccolor=#6aa262\u003e※ ライブ成功すると自動的に、次のステージが自動選択され、放置中もそのステージを参照します\u003c/color\u003e",
+        "TitleName": "POINT（チャレンジ）"
+    },
+    {
+        "Id": 5,
+        "Sentence": "\u003ccolor=#d66184\u003e※ ルームがいっぱいの場合、実行時に獲得したグッズは自動的に売却されます\u003c/color\u003e",
+        "TitleName": "注意事項（短縮ライブ）"
+    },
+    {
+        "Id": 6,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 表記は目安であるため、確実に表記通りになることを保証するものではございません。\u003c/color\u003e",
+        "TitleName": "注意事項（スケジュール）"
+    },
+    {
+        "Id": 7,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 増加させた挑戦回数は、権利数のリセット時に消滅します\u003c/color\u003e",
+        "TitleName": "注意事項（本日の残り挑戦回数）"
+    },
+    {
+        "Id": 8,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank1以上から利用可能です\u003c/color\u003e",
+        "TitleName": "注意事項（スピード解決）"
+    },
+    {
+        "Id": 9,
+        "Sentence": "\u003ccolor=#6aa262\u003e※ 未所持のスタイルでも、見た目を確認することができます\u003c/color\u003e",
+        "TitleName": "POINT（スタイル変更）"
+    },
+    {
+        "Id": 10,
+        "Sentence": "\u003ccolor=#d66184\u003e※ グッズ枠の拡張には「乃木石」が必要です\u003c/color\u003e",
+        "TitleName": "注意事項（グッズタブ）"
+    },
+    {
+        "Id": 11,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 強化Lv1以上か、いずれかの特衣Lvが1以上であること\u003c/color\u003e",
+        "TitleName": "※1"
+    },
+    {
+        "Id": 12,
+        "Sentence": "\u003ccolor=#6aa262\u003e※ 受け取れる回数は毎月2回までです\u003c/color\u003e",
+        "TitleName": "注意事項（振り替え）"
+    },
+    {
+        "Id": 13,
+        "Sentence": "\u003ccolor=#d66184\u003e※ パーティ同期を行うまで、メンバーのステータスやグッズ・ノギメモの装着状況は、パーティ同期を行う以前のパーティ情報が参照されます\u003c/color\u003e",
+        "TitleName": "注意事項（パーティ同期）"
+    },
+    {
+        "Id": 14,
+        "Sentence": "\u003ccolor=#d66184\u003e※ パーティ同期を行うまで、メンバーのステータスやグッズ・ノギメモの装着状況は、パーティ同期を行う以前のパーティ情報が参照されます\u003c/color\u003e",
+        "TitleName": "注意事項（パーティ同期）"
+    },
+    {
+        "Id": 15,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank9以上から利用可能です\u003c/color\u003e",
+        "TitleName": "注意事項（短縮ライブ）"
+    },
+    {
+        "Id": 16,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank10以上から利用可能です\u003c/color\u003e",
+        "TitleName": "月ログインボーナス"
+    },
+    {
+        "Id": 17,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank11以上から利用可能です\u003c/color\u003e",
+        "TitleName": "注意事項（短縮ライブ）"
+    },
+    {
+        "Id": 18,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank12以上から利用可能です\u003c/color\u003e",
+        "TitleName": "月ログインボーナス"
+    },
+    {
+        "Id": 19,
+        "Sentence": "\u003ccolor=#d66184\u003e※ 本機能は、会員Rank13以上から利用可能です\u003c/color\u003e",
+        "TitleName": "注意事項（短縮ライブ）"
+    }
+]

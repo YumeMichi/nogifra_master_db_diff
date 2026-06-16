@@ -1,0 +1,3772 @@
+[
+    {
+        "DestinationEquipmentId": 100110340,
+        "ExchangeGroupId": 0,
+        "Id": 100110340,
+        "Name": "【センター・努力】ウエアの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、【センター・努力】ウエアを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 100110340
+    },
+    {
+        "DestinationEquipmentId": 100210340,
+        "ExchangeGroupId": 0,
+        "Id": 100210340,
+        "Name": "【センター・感謝】マイクの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、【センター・感謝】マイクを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 100210340
+    },
+    {
+        "DestinationEquipmentId": 100310340,
+        "ExchangeGroupId": 0,
+        "Id": 100310340,
+        "Name": "【センター・笑顔】キーホルダーの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、【センター・笑顔】キーホルダーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 100310340
+    },
+    {
+        "DestinationEquipmentId": 101110340,
+        "ExchangeGroupId": 0,
+        "Id": 101110340,
+        "Name": "バイオリンの欠片（秋元 真夏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バイオリンを入手可能\n(センターRank30以上でセット可能)※[まあいいか？]秋元 真夏は専用ステータスの効果対象外です",
+        "ThumbnailId": 101110340
+    },
+    {
+        "DestinationEquipmentId": 101210340,
+        "ExchangeGroupId": 0,
+        "Id": 101210340,
+        "Name": "エプロンの欠片（秋元 真夏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、エプロンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 101210340
+    },
+    {
+        "DestinationEquipmentId": 101310340,
+        "ExchangeGroupId": 0,
+        "Id": 101310340,
+        "Name": "マカロンの欠片（秋元 真夏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、マカロンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 101310340
+    },
+    {
+        "DestinationEquipmentId": 102110340,
+        "ExchangeGroupId": 0,
+        "Id": 102110340,
+        "Name": "電子ピアノの欠片（生田 絵梨花 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、電子ピアノを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 102110340
+    },
+    {
+        "DestinationEquipmentId": 102310340,
+        "ExchangeGroupId": 0,
+        "Id": 102310340,
+        "Name": "唐揚げの欠片（生田 絵梨花 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、唐揚げを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 102310340
+    },
+    {
+        "DestinationEquipmentId": 106110340,
+        "ExchangeGroupId": 0,
+        "Id": 106110340,
+        "Name": "ドラムスティックの欠片（齋藤 飛鳥 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ドラムスティックを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 106110340
+    },
+    {
+        "DestinationEquipmentId": 106210340,
+        "ExchangeGroupId": 0,
+        "Id": 106210340,
+        "Name": "愛読書の欠片（齋藤 飛鳥 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、愛読書を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 106210340
+    },
+    {
+        "DestinationEquipmentId": 106310340,
+        "ExchangeGroupId": 0,
+        "Id": 106310340,
+        "Name": "ステーキの欠片（齋藤 飛鳥 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ステーキを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 106310340
+    },
+    {
+        "DestinationEquipmentId": 110110340,
+        "ExchangeGroupId": 0,
+        "Id": 110110340,
+        "Name": "剣道具の欠片（高山 一実 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、剣道具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 110110340
+    },
+    {
+        "DestinationEquipmentId": 110310340,
+        "ExchangeGroupId": 0,
+        "Id": 110310340,
+        "Name": "ビワの欠片（高山 一実 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ビワを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 110310340
+    },
+    {
+        "DestinationEquipmentId": 112110340,
+        "ExchangeGroupId": 0,
+        "Id": 112110340,
+        "Name": "鉄棒の欠片（樋口 日奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、鉄棒を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 112110340
+    },
+    {
+        "DestinationEquipmentId": 112210340,
+        "ExchangeGroupId": 0,
+        "Id": 112210340,
+        "Name": "パスケースの欠片（樋口 日奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パスケースを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 112210340
+    },
+    {
+        "DestinationEquipmentId": 112310340,
+        "ExchangeGroupId": 0,
+        "Id": 112310340,
+        "Name": "抹茶の洋菓子の欠片（樋口 日奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、抹茶の洋菓子を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 112310340
+    },
+    {
+        "DestinationEquipmentId": 113210340,
+        "ExchangeGroupId": 0,
+        "Id": 113210340,
+        "Name": "ショップの紙袋の欠片（星野 みなみ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ショップの紙袋を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 113210340
+    },
+    {
+        "DestinationEquipmentId": 113310340,
+        "ExchangeGroupId": 0,
+        "Id": 113310340,
+        "Name": "パンの欠片（星野 みなみ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 113310340
+    },
+    {
+        "DestinationEquipmentId": 114210340,
+        "ExchangeGroupId": 0,
+        "Id": 114210340,
+        "Name": "漫画本の欠片（松村 沙友理 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、漫画本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 114210340
+    },
+    {
+        "DestinationEquipmentId": 115110340,
+        "ExchangeGroupId": 0,
+        "Id": 115110340,
+        "Name": "道着を着たクマのぬいぐるみの欠片（和田 まあや 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、道着を着たクマのぬいぐるみを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 115110340
+    },
+    {
+        "DestinationEquipmentId": 115210340,
+        "ExchangeGroupId": 0,
+        "Id": 115210340,
+        "Name": "漢方の欠片（和田 まあや 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、漢方を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 115210340
+    },
+    {
+        "DestinationEquipmentId": 115310340,
+        "ExchangeGroupId": 0,
+        "Id": 115310340,
+        "Name": "あけびの欠片（和田 まあや 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、あけびを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 115310340
+    },
+    {
+        "DestinationEquipmentId": 117110340,
+        "ExchangeGroupId": 0,
+        "Id": 117110340,
+        "Name": "舞台台本の欠片（伊藤 純奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、舞台台本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 117110340
+    },
+    {
+        "DestinationEquipmentId": 118110340,
+        "ExchangeGroupId": 0,
+        "Id": 118110340,
+        "Name": "曲がったフライパンの欠片（北野 日奈子 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、曲がったフライパンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 118110340
+    },
+    {
+        "DestinationEquipmentId": 118310340,
+        "ExchangeGroupId": 0,
+        "Id": 118310340,
+        "Name": "牛乳の欠片（北野 日奈子 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、牛乳を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 118310340
+    },
+    {
+        "DestinationEquipmentId": 120210340,
+        "ExchangeGroupId": 0,
+        "Id": 120210340,
+        "Name": "ドラマDVDの欠片（新内 眞衣 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ドラマDVDを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 120210340
+    },
+    {
+        "DestinationEquipmentId": 120310340,
+        "ExchangeGroupId": 0,
+        "Id": 120310340,
+        "Name": "水の欠片（新内 眞衣 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、水を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 120310340
+    },
+    {
+        "DestinationEquipmentId": 121110340,
+        "ExchangeGroupId": 0,
+        "Id": 121110340,
+        "Name": "フルートの欠片（鈴木 絢音 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、フルートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 121110340
+    },
+    {
+        "DestinationEquipmentId": 121210340,
+        "ExchangeGroupId": 0,
+        "Id": 121210340,
+        "Name": "飛行機の模型の欠片（鈴木 絢音 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、飛行機の模型を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 121210340
+    },
+    {
+        "DestinationEquipmentId": 121310340,
+        "ExchangeGroupId": 0,
+        "Id": 121310340,
+        "Name": "きりたんぽの欠片（鈴木 絢音 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、きりたんぽを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 121310340
+    },
+    {
+        "DestinationEquipmentId": 122110340,
+        "ExchangeGroupId": 0,
+        "Id": 122110340,
+        "Name": "古着の欠片（寺田 蘭世 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、古着を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 122110340
+    },
+    {
+        "DestinationEquipmentId": 122210340,
+        "ExchangeGroupId": 0,
+        "Id": 122210340,
+        "Name": "舞台雑誌の欠片（寺田 蘭世 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、舞台雑誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 122210340
+    },
+    {
+        "DestinationEquipmentId": 124110340,
+        "ExchangeGroupId": 0,
+        "Id": 124110340,
+        "Name": "歴史書の欠片（山崎 怜奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、歴史書を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 124110340
+    },
+    {
+        "DestinationEquipmentId": 124210340,
+        "ExchangeGroupId": 0,
+        "Id": 124210340,
+        "Name": "中国語の本の欠片（山崎 怜奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、中国語の本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 124210340
+    },
+    {
+        "DestinationEquipmentId": 124310340,
+        "ExchangeGroupId": 0,
+        "Id": 124310340,
+        "Name": "餃子の欠片（山崎 怜奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、餃子を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 124310340
+    },
+    {
+        "DestinationEquipmentId": 125110340,
+        "ExchangeGroupId": 0,
+        "Id": 125110340,
+        "Name": "レオタードの欠片（渡辺 みり愛 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、レオタードを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 125110340
+    },
+    {
+        "DestinationEquipmentId": 126110340,
+        "ExchangeGroupId": 0,
+        "Id": 126110340,
+        "Name": "バトンの欠片（伊藤 理々杏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バトンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 126110340
+    },
+    {
+        "DestinationEquipmentId": 126110341,
+        "ExchangeGroupId": 0,
+        "Id": 126110341,
+        "Name": "伊藤理々杏のスティックライトの欠片（伊藤理々杏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、伊藤理々杏のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 126110341
+    },
+    {
+        "DestinationEquipmentId": 126210340,
+        "ExchangeGroupId": 0,
+        "Id": 126210340,
+        "Name": "シーサーのぬいぐるみの欠片（伊藤 理々杏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、シーサーのぬいぐるみを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 126210340
+    },
+    {
+        "DestinationEquipmentId": 126310340,
+        "ExchangeGroupId": 0,
+        "Id": 126310340,
+        "Name": "うむくじの天ぷらの欠片（伊藤 理々杏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、うむくじの天ぷらを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 126310340
+    },
+    {
+        "DestinationEquipmentId": 126310341,
+        "ExchangeGroupId": 0,
+        "Id": 126310341,
+        "Name": "伊藤理々杏のうちわの欠片（伊藤理々杏 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、伊藤理々杏のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 126310341
+    },
+    {
+        "DestinationEquipmentId": 127110340,
+        "ExchangeGroupId": 0,
+        "Id": 127110340,
+        "Name": "ローラースケートの欠片（岩本 蓮加 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ローラースケートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 127110340
+    },
+    {
+        "DestinationEquipmentId": 127210340,
+        "ExchangeGroupId": 0,
+        "Id": 127210340,
+        "Name": "ギターの欠片（岩本 蓮加 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ギターを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 127210340
+    },
+    {
+        "DestinationEquipmentId": 127310340,
+        "ExchangeGroupId": 0,
+        "Id": 127310340,
+        "Name": "駄菓子の欠片（岩本 蓮加 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、駄菓子を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 127310340
+    },
+    {
+        "DestinationEquipmentId": 127310341,
+        "ExchangeGroupId": 0,
+        "Id": 127310341,
+        "Name": "岩本蓮加のスティックライトの欠片（岩本蓮加 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、岩本蓮加のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 127310341
+    },
+    {
+        "DestinationEquipmentId": 127310342,
+        "ExchangeGroupId": 0,
+        "Id": 127310342,
+        "Name": "岩本蓮加のうちわの欠片（岩本蓮加 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、岩本蓮加のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 127310342
+    },
+    {
+        "DestinationEquipmentId": 128110340,
+        "ExchangeGroupId": 0,
+        "Id": 128110340,
+        "Name": "ナイフの欠片（梅澤 美波 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ナイフを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 128110340
+    },
+    {
+        "DestinationEquipmentId": 128210340,
+        "ExchangeGroupId": 0,
+        "Id": 128210340,
+        "Name": "バレーボールの欠片（梅澤 美波 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バレーボールを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 128210340
+    },
+    {
+        "DestinationEquipmentId": 128210341,
+        "ExchangeGroupId": 0,
+        "Id": 128210341,
+        "Name": "梅澤美波のうちわの欠片（梅澤美波 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、梅澤美波のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 128210341
+    },
+    {
+        "DestinationEquipmentId": 128310340,
+        "ExchangeGroupId": 0,
+        "Id": 128310340,
+        "Name": "マヨネーズの欠片（梅澤 美波 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、マヨネーズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 128310340
+    },
+    {
+        "DestinationEquipmentId": 128310341,
+        "ExchangeGroupId": 0,
+        "Id": 128310341,
+        "Name": "梅澤美波のスティックライトの欠片（梅澤美波 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、梅澤美波のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 128310341
+    },
+    {
+        "DestinationEquipmentId": 129310340,
+        "ExchangeGroupId": 0,
+        "Id": 129310340,
+        "Name": "桃の欠片（大園 桃子 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、桃を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 129310340
+    },
+    {
+        "DestinationEquipmentId": 130110340,
+        "ExchangeGroupId": 0,
+        "Id": 130110340,
+        "Name": "チアのポンポンの欠片（久保 史緒里 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、チアのポンポンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 130110340
+    },
+    {
+        "DestinationEquipmentId": 130110341,
+        "ExchangeGroupId": 0,
+        "Id": 130110341,
+        "Name": "久保史緒里のうちわの欠片（久保史緒里 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、久保史緒里のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 130110341
+    },
+    {
+        "DestinationEquipmentId": 130210340,
+        "ExchangeGroupId": 0,
+        "Id": 130210340,
+        "Name": "乃木坂雑誌の欠片（久保 史緒里 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、乃木坂雑誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 130210340
+    },
+    {
+        "DestinationEquipmentId": 130310340,
+        "ExchangeGroupId": 0,
+        "Id": 130310340,
+        "Name": "牛タンの欠片（久保 史緒里 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、牛タンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 130310340
+    },
+    {
+        "DestinationEquipmentId": 130310341,
+        "ExchangeGroupId": 0,
+        "Id": 130310341,
+        "Name": "久保史緒里のスティックライトの欠片（久保史緒里 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、久保史緒里のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 130310341
+    },
+    {
+        "DestinationEquipmentId": 131110340,
+        "ExchangeGroupId": 0,
+        "Id": 131110340,
+        "Name": "フォークの欠片（阪口 珠美 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、フォークを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 131110340
+    },
+    {
+        "DestinationEquipmentId": 131210340,
+        "ExchangeGroupId": 0,
+        "Id": 131210340,
+        "Name": "トウシューズの欠片（阪口 珠美 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トウシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 131210340
+    },
+    {
+        "DestinationEquipmentId": 131210341,
+        "ExchangeGroupId": 0,
+        "Id": 131210341,
+        "Name": "阪口珠美のスティックライトの欠片（阪口珠美 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、阪口珠美のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 131210341
+    },
+    {
+        "DestinationEquipmentId": 131310340,
+        "ExchangeGroupId": 0,
+        "Id": 131310340,
+        "Name": "抹茶ロールケーキの欠片（阪口 珠美 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、抹茶ロールケーキを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 131310340
+    },
+    {
+        "DestinationEquipmentId": 132110340,
+        "ExchangeGroupId": 0,
+        "Id": 132110340,
+        "Name": "バドミントンのラケットの欠片（佐藤 楓 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バドミントンのラケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 132110340
+    },
+    {
+        "DestinationEquipmentId": 132210340,
+        "ExchangeGroupId": 0,
+        "Id": 132210340,
+        "Name": "ランニングシューズの欠片（佐藤 楓 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ランニングシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 132210340
+    },
+    {
+        "DestinationEquipmentId": 132210341,
+        "ExchangeGroupId": 0,
+        "Id": 132210341,
+        "Name": "佐藤楓のスティックライトの欠片（佐藤楓 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、佐藤楓のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 132210341
+    },
+    {
+        "DestinationEquipmentId": 132310340,
+        "ExchangeGroupId": 0,
+        "Id": 132310340,
+        "Name": "味噌カツの欠片（佐藤 楓 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、味噌カツを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 132310340
+    },
+    {
+        "DestinationEquipmentId": 133110340,
+        "ExchangeGroupId": 0,
+        "Id": 133110340,
+        "Name": "お囃子の横笛の欠片（中村 麗乃 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、お囃子の横笛を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 133110340
+    },
+    {
+        "DestinationEquipmentId": 133110341,
+        "ExchangeGroupId": 0,
+        "Id": 133110341,
+        "Name": "中村麗乃のスティックライトの欠片（中村麗乃 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、中村麗乃のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 133110341
+    },
+    {
+        "DestinationEquipmentId": 133210340,
+        "ExchangeGroupId": 0,
+        "Id": 133210340,
+        "Name": "ヘッドホンの欠片（中村 麗乃 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヘッドホンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 133210340
+    },
+    {
+        "DestinationEquipmentId": 133310340,
+        "ExchangeGroupId": 0,
+        "Id": 133310340,
+        "Name": "わたあめの欠片（中村 麗乃 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、わたあめを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 133310340
+    },
+    {
+        "DestinationEquipmentId": 134110340,
+        "ExchangeGroupId": 0,
+        "Id": 134110340,
+        "Name": "キャップの欠片（向井 葉月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、キャップを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 134110340
+    },
+    {
+        "DestinationEquipmentId": 134210340,
+        "ExchangeGroupId": 0,
+        "Id": 134210340,
+        "Name": "食品サンプルのキーホルダーの欠片（向井 葉月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、食品サンプルのキーホルダーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 134210340
+    },
+    {
+        "DestinationEquipmentId": 134310340,
+        "ExchangeGroupId": 0,
+        "Id": 134310340,
+        "Name": "豚骨ラーメンの欠片（向井 葉月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、豚骨ラーメンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 134310340
+    },
+    {
+        "DestinationEquipmentId": 134310341,
+        "ExchangeGroupId": 0,
+        "Id": 134310341,
+        "Name": "向井葉月のスティックライトの欠片（向井葉月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、向井葉月のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 134310341
+    },
+    {
+        "DestinationEquipmentId": 135110340,
+        "ExchangeGroupId": 0,
+        "Id": 135110340,
+        "Name": "スプーンの欠片（山下 美月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、スプーンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 135110340
+    },
+    {
+        "DestinationEquipmentId": 135210340,
+        "ExchangeGroupId": 0,
+        "Id": 135210340,
+        "Name": "ゴルフクラブとボールの欠片（山下 美月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ゴルフクラブとボールを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 135210340
+    },
+    {
+        "DestinationEquipmentId": 135210341,
+        "ExchangeGroupId": 0,
+        "Id": 135210341,
+        "Name": "山下美月のスティックライトの欠片（山下美月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、山下美月のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 135210341
+    },
+    {
+        "DestinationEquipmentId": 135310340,
+        "ExchangeGroupId": 0,
+        "Id": 135310340,
+        "Name": "味噌汁の欠片（山下 美月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、味噌汁を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 135310340
+    },
+    {
+        "DestinationEquipmentId": 136110340,
+        "ExchangeGroupId": 0,
+        "Id": 136110340,
+        "Name": "卓球のラケットの欠片（吉田 綾乃クリスティー 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、卓球のラケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 136110340
+    },
+    {
+        "DestinationEquipmentId": 136110341,
+        "ExchangeGroupId": 0,
+        "Id": 136110341,
+        "Name": "吉田綾乃ｸﾘｽﾃｨｰのスティックライトの欠片（吉田綾乃ｸﾘｽﾃｨｰ専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、吉田綾乃ｸﾘｽﾃｨｰのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 136110341
+    },
+    {
+        "DestinationEquipmentId": 136210340,
+        "ExchangeGroupId": 0,
+        "Id": 136210340,
+        "Name": "ヒーロー雑誌の欠片（吉田 綾乃クリスティー 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヒーロー雑誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 136210340
+    },
+    {
+        "DestinationEquipmentId": 136210341,
+        "ExchangeGroupId": 0,
+        "Id": 136210341,
+        "Name": "吉田綾乃クリスティーのうちわの欠片（吉田綾乃クリスティー 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、吉田綾乃クリスティーのうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 136210341
+    },
+    {
+        "DestinationEquipmentId": 136310340,
+        "ExchangeGroupId": 0,
+        "Id": 136310340,
+        "Name": "焼き肉の欠片（吉田 綾乃クリスティー 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、焼き肉を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 136310340
+    },
+    {
+        "DestinationEquipmentId": 137110340,
+        "ExchangeGroupId": 0,
+        "Id": 137110340,
+        "Name": "一輪車の欠片（与田 祐希 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、一輪車を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 137110340
+    },
+    {
+        "DestinationEquipmentId": 137110341,
+        "ExchangeGroupId": 0,
+        "Id": 137110341,
+        "Name": "与田祐希のスティックライトの欠片（与田祐希 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、与田祐希のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 137110341
+    },
+    {
+        "DestinationEquipmentId": 137210340,
+        "ExchangeGroupId": 0,
+        "Id": 137210340,
+        "Name": "ヤギのぬいぐるみの欠片（与田 祐希 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヤギのぬいぐるみを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 137210340
+    },
+    {
+        "DestinationEquipmentId": 137310340,
+        "ExchangeGroupId": 0,
+        "Id": 137310340,
+        "Name": "馬刺しの欠片（与田 祐希 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、馬刺しを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 137310340
+    },
+    {
+        "DestinationEquipmentId": 138110340,
+        "ExchangeGroupId": 0,
+        "Id": 138110340,
+        "Name": "クラリネットの欠片（遠藤 さくら 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、クラリネットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 138110340
+    },
+    {
+        "DestinationEquipmentId": 138110341,
+        "ExchangeGroupId": 0,
+        "Id": 138110341,
+        "Name": "遠藤さくらのうちわの欠片（遠藤さくら 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、遠藤さくらのうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 138110341
+    },
+    {
+        "DestinationEquipmentId": 138210340,
+        "ExchangeGroupId": 0,
+        "Id": 138210340,
+        "Name": "バスセットの欠片（遠藤 さくら 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バスセットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 138210340
+    },
+    {
+        "DestinationEquipmentId": 138310340,
+        "ExchangeGroupId": 0,
+        "Id": 138310340,
+        "Name": "みたらし団子の欠片（遠藤 さくら 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、みたらし団子を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 138310340
+    },
+    {
+        "DestinationEquipmentId": 138310341,
+        "ExchangeGroupId": 0,
+        "Id": 138310341,
+        "Name": "遠藤さくらのスティックライトの欠片（遠藤さくら 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、遠藤さくらのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 138310341
+    },
+    {
+        "DestinationEquipmentId": 139110340,
+        "ExchangeGroupId": 0,
+        "Id": 139110340,
+        "Name": "極小折り鶴の欠片（賀喜 遥香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、極小折り鶴を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 139110340
+    },
+    {
+        "DestinationEquipmentId": 139210340,
+        "ExchangeGroupId": 0,
+        "Id": 139210340,
+        "Name": "イラスト制作セットの欠片（賀喜 遥香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、イラスト制作セットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 139210340
+    },
+    {
+        "DestinationEquipmentId": 139210341,
+        "ExchangeGroupId": 0,
+        "Id": 139210341,
+        "Name": "賀喜遥香のスティックライトの欠片（賀喜遥香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、賀喜遥香のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 139210341
+    },
+    {
+        "DestinationEquipmentId": 139310340,
+        "ExchangeGroupId": 0,
+        "Id": 139310340,
+        "Name": "カキフライの欠片（賀喜 遥香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、カキフライを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 139310340
+    },
+    {
+        "DestinationEquipmentId": 139310341,
+        "ExchangeGroupId": 0,
+        "Id": 139310341,
+        "Name": "賀喜遥香のうちわの欠片（賀喜遥香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、賀喜遥香のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 139310341
+    },
+    {
+        "DestinationEquipmentId": 140110340,
+        "ExchangeGroupId": 0,
+        "Id": 140110340,
+        "Name": "アコースティックギターの欠片（掛橋 沙耶香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、アコースティックギターを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 140110340
+    },
+    {
+        "DestinationEquipmentId": 140210340,
+        "ExchangeGroupId": 0,
+        "Id": 140210340,
+        "Name": "テディベアの欠片（掛橋 沙耶香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、テディベアを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 140210340
+    },
+    {
+        "DestinationEquipmentId": 140310340,
+        "ExchangeGroupId": 0,
+        "Id": 140310340,
+        "Name": "いちごの欠片（掛橋 沙耶香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、いちごを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 140310340
+    },
+    {
+        "DestinationEquipmentId": 141110340,
+        "ExchangeGroupId": 0,
+        "Id": 141110340,
+        "Name": "歌詞カードの欠片（金川 紗耶 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、歌詞カードを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 141110340
+    },
+    {
+        "DestinationEquipmentId": 141210340,
+        "ExchangeGroupId": 0,
+        "Id": 141210340,
+        "Name": "ヘアスプレーの欠片（金川 紗耶 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヘアスプレーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 141210340
+    },
+    {
+        "DestinationEquipmentId": 141210341,
+        "ExchangeGroupId": 0,
+        "Id": 141210341,
+        "Name": "金川紗耶のうちわの欠片（金川紗耶 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、金川紗耶のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 141210341
+    },
+    {
+        "DestinationEquipmentId": 141310340,
+        "ExchangeGroupId": 0,
+        "Id": 141310340,
+        "Name": "ほたての欠片（金川 紗耶 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ほたてを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 141310340
+    },
+    {
+        "DestinationEquipmentId": 141310341,
+        "ExchangeGroupId": 0,
+        "Id": 141310341,
+        "Name": "金川紗耶のスティックライトの欠片（金川紗耶 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、金川紗耶のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 141310341
+    },
+    {
+        "DestinationEquipmentId": 142110340,
+        "ExchangeGroupId": 0,
+        "Id": 142110340,
+        "Name": "マンドリンの欠片（北川 悠理 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、マンドリンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 142110340
+    },
+    {
+        "DestinationEquipmentId": 142210340,
+        "ExchangeGroupId": 0,
+        "Id": 142210340,
+        "Name": "パラパラ漫画の欠片（北川 悠理 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パラパラ漫画を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 142210340
+    },
+    {
+        "DestinationEquipmentId": 142310340,
+        "ExchangeGroupId": 0,
+        "Id": 142310340,
+        "Name": "トマトのブルスケッタの欠片（北川 悠理 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トマトのブルスケッタを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 142310340
+    },
+    {
+        "DestinationEquipmentId": 143110340,
+        "ExchangeGroupId": 0,
+        "Id": 143110340,
+        "Name": "新体操のクラブの欠片（柴田 柚菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、新体操のクラブを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 143110340
+    },
+    {
+        "DestinationEquipmentId": 143110341,
+        "ExchangeGroupId": 0,
+        "Id": 143110341,
+        "Name": "柴田柚菜のスティックライトの欠片（柴田柚菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、柴田柚菜のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 143110341
+    },
+    {
+        "DestinationEquipmentId": 143210340,
+        "ExchangeGroupId": 0,
+        "Id": 143210340,
+        "Name": "野球応援グッズの欠片（柴田 柚菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、野球応援グッズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 143210340
+    },
+    {
+        "DestinationEquipmentId": 143210341,
+        "ExchangeGroupId": 0,
+        "Id": 143210341,
+        "Name": "柴田柚菜のうちわの欠片（柴田柚菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、柴田柚菜のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 143210341
+    },
+    {
+        "DestinationEquipmentId": 143310340,
+        "ExchangeGroupId": 0,
+        "Id": 143310340,
+        "Name": "オムライスの欠片（柴田 柚菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、オムライスを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 143310340
+    },
+    {
+        "DestinationEquipmentId": 144110340,
+        "ExchangeGroupId": 0,
+        "Id": 144110340,
+        "Name": "答辞の欠片（清宮 レイ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、答辞を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 144110340
+    },
+    {
+        "DestinationEquipmentId": 144210340,
+        "ExchangeGroupId": 0,
+        "Id": 144210340,
+        "Name": "英単語カードの欠片（清宮 レイ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、英単語カードを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 144210340
+    },
+    {
+        "DestinationEquipmentId": 144210341,
+        "ExchangeGroupId": 0,
+        "Id": 144210341,
+        "Name": "清宮レイのスティックライトの欠片（清宮レイ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、清宮レイのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 144210341
+    },
+    {
+        "DestinationEquipmentId": 144310340,
+        "ExchangeGroupId": 0,
+        "Id": 144310340,
+        "Name": "みかんの欠片（清宮 レイ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、みかんを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 144310340
+    },
+    {
+        "DestinationEquipmentId": 145110340,
+        "ExchangeGroupId": 0,
+        "Id": 145110340,
+        "Name": "ソフトボールのグローブの欠片（田村 真佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ソフトボールのグローブを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 145110340
+    },
+    {
+        "DestinationEquipmentId": 145110341,
+        "ExchangeGroupId": 0,
+        "Id": 145110341,
+        "Name": "田村真佑のスティックライトの欠片（田村真佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、田村真佑のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 145110341
+    },
+    {
+        "DestinationEquipmentId": 145110342,
+        "ExchangeGroupId": 0,
+        "Id": 145110342,
+        "Name": "田村真佑のうちわの欠片（田村真佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、田村真佑のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 145110342
+    },
+    {
+        "DestinationEquipmentId": 145210340,
+        "ExchangeGroupId": 0,
+        "Id": 145210340,
+        "Name": "ビリヤードキューとボールの欠片（田村 真佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ビリヤードキューとボールを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 145210340
+    },
+    {
+        "DestinationEquipmentId": 145310340,
+        "ExchangeGroupId": 0,
+        "Id": 145310340,
+        "Name": "ビーフシチューの欠片（田村 真佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ビーフシチューを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 145310340
+    },
+    {
+        "DestinationEquipmentId": 146110340,
+        "ExchangeGroupId": 0,
+        "Id": 146110340,
+        "Name": "書道セットの欠片（筒井 あやめ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、書道セットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 146110340
+    },
+    {
+        "DestinationEquipmentId": 146110341,
+        "ExchangeGroupId": 0,
+        "Id": 146110341,
+        "Name": "筒井あやめのスティックライトの欠片（筒井あやめ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、筒井あやめのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 146110341
+    },
+    {
+        "DestinationEquipmentId": 146110342,
+        "ExchangeGroupId": 0,
+        "Id": 146110342,
+        "Name": "筒井あやめのうちわの欠片（筒井あやめ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、筒井あやめのうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 146110342
+    },
+    {
+        "DestinationEquipmentId": 146210340,
+        "ExchangeGroupId": 0,
+        "Id": 146210340,
+        "Name": "編み物の欠片（筒井 あやめ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、編み物を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 146210340
+    },
+    {
+        "DestinationEquipmentId": 146310340,
+        "ExchangeGroupId": 0,
+        "Id": 146310340,
+        "Name": "メロンソーダの欠片（筒井 あやめ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、メロンソーダを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 146310340
+    },
+    {
+        "DestinationEquipmentId": 147110340,
+        "ExchangeGroupId": 0,
+        "Id": 147110340,
+        "Name": "バレエのティアラの欠片（早川 聖来 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バレエのティアラを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 147110340
+    },
+    {
+        "DestinationEquipmentId": 147210340,
+        "ExchangeGroupId": 0,
+        "Id": 147210340,
+        "Name": "トカゲのアクキーの欠片（早川 聖来 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トカゲのアクキーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 147210340
+    },
+    {
+        "DestinationEquipmentId": 147310340,
+        "ExchangeGroupId": 0,
+        "Id": 147310340,
+        "Name": "たこ焼きの欠片（早川 聖来 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、たこ焼きを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 147310340
+    },
+    {
+        "DestinationEquipmentId": 148110340,
+        "ExchangeGroupId": 0,
+        "Id": 148110340,
+        "Name": "茶道具の欠片（矢久保 美緒 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、茶道具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 148110340
+    },
+    {
+        "DestinationEquipmentId": 148210340,
+        "ExchangeGroupId": 0,
+        "Id": 148210340,
+        "Name": "アイドルグッズの欠片（矢久保 美緒 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、アイドルグッズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 148210340
+    },
+    {
+        "DestinationEquipmentId": 148210341,
+        "ExchangeGroupId": 0,
+        "Id": 148210341,
+        "Name": "矢久保美緒のスティックライトの欠片（矢久保美緒 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、矢久保美緒のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 148210341
+    },
+    {
+        "DestinationEquipmentId": 148310340,
+        "ExchangeGroupId": 0,
+        "Id": 148310340,
+        "Name": "タピオカドリンクの欠片（矢久保 美緒 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、タピオカドリンクを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 148310340
+    },
+    {
+        "DestinationEquipmentId": 148310341,
+        "ExchangeGroupId": 0,
+        "Id": 148310341,
+        "Name": "矢久保美緒のうちわの欠片（矢久保美緒 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、矢久保美緒のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 148310341
+    },
+    {
+        "DestinationEquipmentId": 149110340,
+        "ExchangeGroupId": 0,
+        "Id": 149110340,
+        "Name": "中国剣の欠片（黒見 明香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、中国剣を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 149110340
+    },
+    {
+        "DestinationEquipmentId": 149210340,
+        "ExchangeGroupId": 0,
+        "Id": 149210340,
+        "Name": "カンフースターのポスターの欠片（黒見 明香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、カンフースターのポスターを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 149210340
+    },
+    {
+        "DestinationEquipmentId": 149210341,
+        "ExchangeGroupId": 0,
+        "Id": 149210341,
+        "Name": "黒見明香のうちわの欠片（黒見明香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、黒見明香のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 149210341
+    },
+    {
+        "DestinationEquipmentId": 149310340,
+        "ExchangeGroupId": 0,
+        "Id": 149310340,
+        "Name": "焼き小籠包の欠片（黒見 明香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、焼き小籠包を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 149310340
+    },
+    {
+        "DestinationEquipmentId": 149310341,
+        "ExchangeGroupId": 0,
+        "Id": 149310341,
+        "Name": "黒見明香のスティックライトの欠片（黒見明香 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、黒見明香のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 149310341
+    },
+    {
+        "DestinationEquipmentId": 150110340,
+        "ExchangeGroupId": 0,
+        "Id": 150110340,
+        "Name": "トランペットの欠片（佐藤 璃果 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トランペットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 150110340
+    },
+    {
+        "DestinationEquipmentId": 150110341,
+        "ExchangeGroupId": 0,
+        "Id": 150110341,
+        "Name": "佐藤璃果のうちわの欠片（佐藤璃果 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、佐藤璃果のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 150110341
+    },
+    {
+        "DestinationEquipmentId": 150210340,
+        "ExchangeGroupId": 0,
+        "Id": 150210340,
+        "Name": "キーボードの欠片（佐藤 璃果 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、キーボードを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 150210340
+    },
+    {
+        "DestinationEquipmentId": 150210341,
+        "ExchangeGroupId": 0,
+        "Id": 150210341,
+        "Name": "佐藤璃果のスティックライトの欠片（佐藤璃果 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、佐藤璃果のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 150210341
+    },
+    {
+        "DestinationEquipmentId": 150310340,
+        "ExchangeGroupId": 0,
+        "Id": 150310340,
+        "Name": "焼き芋の欠片（佐藤 璃果 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、焼き芋を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 150310340
+    },
+    {
+        "DestinationEquipmentId": 151110340,
+        "ExchangeGroupId": 0,
+        "Id": 151110340,
+        "Name": "手話の本の欠片（林 瑠奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、手話の本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 151110340
+    },
+    {
+        "DestinationEquipmentId": 151110341,
+        "ExchangeGroupId": 0,
+        "Id": 151110341,
+        "Name": "林瑠奈のスティックライトの欠片（林瑠奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、林瑠奈のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 151110341
+    },
+    {
+        "DestinationEquipmentId": 151210340,
+        "ExchangeGroupId": 0,
+        "Id": 151210340,
+        "Name": "へんなTシャツの欠片（林 瑠奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、へんなTシャツを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 151210340
+    },
+    {
+        "DestinationEquipmentId": 151310340,
+        "ExchangeGroupId": 0,
+        "Id": 151310340,
+        "Name": "もやしの欠片（林 瑠奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、もやしを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 151310340
+    },
+    {
+        "DestinationEquipmentId": 151310341,
+        "ExchangeGroupId": 0,
+        "Id": 151310341,
+        "Name": "林瑠奈のうちわの欠片（林瑠奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、林瑠奈のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 151310341
+    },
+    {
+        "DestinationEquipmentId": 152110340,
+        "ExchangeGroupId": 0,
+        "Id": 152110340,
+        "Name": "チア衣装とポンポンの欠片（松尾 美佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、チア衣装とポンポンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 152110340
+    },
+    {
+        "DestinationEquipmentId": 152110341,
+        "ExchangeGroupId": 0,
+        "Id": 152110341,
+        "Name": "松尾美佑のスティックライトの欠片（松尾美佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、松尾美佑のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 152110341
+    },
+    {
+        "DestinationEquipmentId": 152110342,
+        "ExchangeGroupId": 0,
+        "Id": 152110342,
+        "Name": "松尾美佑のうちわの欠片（松尾美佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、松尾美佑のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 152110342
+    },
+    {
+        "DestinationEquipmentId": 152210340,
+        "ExchangeGroupId": 0,
+        "Id": 152210340,
+        "Name": "飯盒の欠片（松尾 美佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、飯盒を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 152210340
+    },
+    {
+        "DestinationEquipmentId": 152310340,
+        "ExchangeGroupId": 0,
+        "Id": 152310340,
+        "Name": "梨の欠片（松尾 美佑 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、梨を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 152310340
+    },
+    {
+        "DestinationEquipmentId": 153110340,
+        "ExchangeGroupId": 0,
+        "Id": 153110340,
+        "Name": "バスケットボールの欠片（弓木 奈於 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バスケットボールを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 153110340
+    },
+    {
+        "DestinationEquipmentId": 153210340,
+        "ExchangeGroupId": 0,
+        "Id": 153210340,
+        "Name": "縄跳びの欠片（弓木 奈於 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、縄跳びを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 153210340
+    },
+    {
+        "DestinationEquipmentId": 153310340,
+        "ExchangeGroupId": 0,
+        "Id": 153310340,
+        "Name": "炊き込みご飯の欠片（弓木 奈於 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、炊き込みご飯を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 153310340
+    },
+    {
+        "DestinationEquipmentId": 153310341,
+        "ExchangeGroupId": 0,
+        "Id": 153310341,
+        "Name": "弓木奈於のスティックライトの欠片（弓木奈於 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、弓木奈於のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 153310341
+    },
+    {
+        "DestinationEquipmentId": 153310342,
+        "ExchangeGroupId": 0,
+        "Id": 153310342,
+        "Name": "弓木奈於のうちわの欠片（弓木奈於 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、弓木奈於のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 153310342
+    },
+    {
+        "DestinationEquipmentId": 154110340,
+        "ExchangeGroupId": 0,
+        "Id": 154110340,
+        "Name": "剣道防具の欠片（五百城茉央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、剣道防具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 154110340
+    },
+    {
+        "DestinationEquipmentId": 154110341,
+        "ExchangeGroupId": 0,
+        "Id": 154110341,
+        "Name": "五百城茉央のスティックライトの欠片（五百城茉央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、五百城茉央のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 154110341
+    },
+    {
+        "DestinationEquipmentId": 154210340,
+        "ExchangeGroupId": 0,
+        "Id": 154210340,
+        "Name": "マグロ料理本の欠片（五百城茉央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、マグロ料理本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 154210340
+    },
+    {
+        "DestinationEquipmentId": 154310340,
+        "ExchangeGroupId": 0,
+        "Id": 154310340,
+        "Name": "ジャスミンティーの欠片（五百城茉央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジャスミンティーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 154310340
+    },
+    {
+        "DestinationEquipmentId": 154310341,
+        "ExchangeGroupId": 0,
+        "Id": 154310341,
+        "Name": "五百城茉央のうちわの欠片（五百城茉央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、五百城茉央のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 154310341
+    },
+    {
+        "DestinationEquipmentId": 155110340,
+        "ExchangeGroupId": 0,
+        "Id": 155110340,
+        "Name": "バスケのホイッスルの欠片（池田瑛紗 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バスケのホイッスルを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 155110340
+    },
+    {
+        "DestinationEquipmentId": 155210340,
+        "ExchangeGroupId": 0,
+        "Id": 155210340,
+        "Name": "絵画道具の欠片（池田瑛紗 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、絵画道具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 155210340
+    },
+    {
+        "DestinationEquipmentId": 155210341,
+        "ExchangeGroupId": 0,
+        "Id": 155210341,
+        "Name": "池田瑛紗のスティックライトの欠片（池田瑛紗 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、池田瑛紗のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 155210341
+    },
+    {
+        "DestinationEquipmentId": 155310340,
+        "ExchangeGroupId": 0,
+        "Id": 155310340,
+        "Name": "エビフライの欠片（池田瑛紗 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、エビフライを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 155310340
+    },
+    {
+        "DestinationEquipmentId": 155310341,
+        "ExchangeGroupId": 0,
+        "Id": 155310341,
+        "Name": "池田瑛紗のうちわの欠片（池田瑛紗 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、池田瑛紗のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 155310341
+    },
+    {
+        "DestinationEquipmentId": 156110340,
+        "ExchangeGroupId": 0,
+        "Id": 156110340,
+        "Name": "キーボードピアノの欠片（一ノ瀬美空 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、キーボードピアノを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 156110340
+    },
+    {
+        "DestinationEquipmentId": 156210340,
+        "ExchangeGroupId": 0,
+        "Id": 156210340,
+        "Name": "しおりの欠片（一ノ瀬美空 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、しおりを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 156210340
+    },
+    {
+        "DestinationEquipmentId": 156310340,
+        "ExchangeGroupId": 0,
+        "Id": 156310340,
+        "Name": "スルメの欠片（一ノ瀬美空 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、スルメを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 156310340
+    },
+    {
+        "DestinationEquipmentId": 156310341,
+        "ExchangeGroupId": 0,
+        "Id": 156310341,
+        "Name": "一ノ瀬美空のスティックライトの欠片（一ノ瀬美空 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、一ノ瀬美空のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 156310341
+    },
+    {
+        "DestinationEquipmentId": 156310342,
+        "ExchangeGroupId": 0,
+        "Id": 156310342,
+        "Name": "一ノ瀬美空のうちわの欠片（一ノ瀬美空 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、一ノ瀬美空のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 156310342
+    },
+    {
+        "DestinationEquipmentId": 157110340,
+        "ExchangeGroupId": 0,
+        "Id": 157110340,
+        "Name": "和弓の欠片（井上和 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、和弓を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 157110340
+    },
+    {
+        "DestinationEquipmentId": 157110341,
+        "ExchangeGroupId": 0,
+        "Id": 157110341,
+        "Name": "井上和のうちわの欠片（井上和 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、井上和のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 157110341
+    },
+    {
+        "DestinationEquipmentId": 157210340,
+        "ExchangeGroupId": 0,
+        "Id": 157210340,
+        "Name": "木炭の欠片（井上和 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、木炭を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 157210340
+    },
+    {
+        "DestinationEquipmentId": 157310340,
+        "ExchangeGroupId": 0,
+        "Id": 157310340,
+        "Name": "おはぎの欠片（井上和 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、おはぎを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 157310340
+    },
+    {
+        "DestinationEquipmentId": 157310341,
+        "ExchangeGroupId": 0,
+        "Id": 157310341,
+        "Name": "井上和のスティックライトの欠片（井上和 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、井上和のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 157310341
+    },
+    {
+        "DestinationEquipmentId": 158110340,
+        "ExchangeGroupId": 0,
+        "Id": 158110340,
+        "Name": "バレエ雑誌の欠片（岡本姫奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バレエ雑誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 158110340
+    },
+    {
+        "DestinationEquipmentId": 158110341,
+        "ExchangeGroupId": 0,
+        "Id": 158110341,
+        "Name": "岡本姫奈のスティックライトの欠片（岡本姫奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、岡本姫奈のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 158110341
+    },
+    {
+        "DestinationEquipmentId": 158210340,
+        "ExchangeGroupId": 0,
+        "Id": 158210340,
+        "Name": "メイク道具の欠片（岡本姫奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、メイク道具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 158210340
+    },
+    {
+        "DestinationEquipmentId": 158210341,
+        "ExchangeGroupId": 0,
+        "Id": 158210341,
+        "Name": "岡本姫奈のうちわの欠片（岡本姫奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、岡本姫奈のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 158210341
+    },
+    {
+        "DestinationEquipmentId": 158310340,
+        "ExchangeGroupId": 0,
+        "Id": 158310340,
+        "Name": "スイートポテトの欠片（岡本姫奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、スイートポテトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 158310340
+    },
+    {
+        "DestinationEquipmentId": 159110340,
+        "ExchangeGroupId": 0,
+        "Id": 159110340,
+        "Name": "そろばんの欠片（小川彩 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、そろばんを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 159110340
+    },
+    {
+        "DestinationEquipmentId": 159110341,
+        "ExchangeGroupId": 0,
+        "Id": 159110341,
+        "Name": "小川彩のうちわの欠片（小川彩 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、小川彩のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 159110341
+    },
+    {
+        "DestinationEquipmentId": 159210340,
+        "ExchangeGroupId": 0,
+        "Id": 159210340,
+        "Name": "ドラムの欠片（小川彩 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ドラムを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 159210340
+    },
+    {
+        "DestinationEquipmentId": 159210341,
+        "ExchangeGroupId": 0,
+        "Id": 159210341,
+        "Name": "小川彩のスティックライトの欠片（小川彩 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、小川彩のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 159210341
+    },
+    {
+        "DestinationEquipmentId": 159310340,
+        "ExchangeGroupId": 0,
+        "Id": 159310340,
+        "Name": "トマトの欠片（小川彩 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トマトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 159310340
+    },
+    {
+        "DestinationEquipmentId": 160110340,
+        "ExchangeGroupId": 0,
+        "Id": 160110340,
+        "Name": "紙芝居の欠片（奥田いろは 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、紙芝居を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 160110340
+    },
+    {
+        "DestinationEquipmentId": 160110341,
+        "ExchangeGroupId": 0,
+        "Id": 160110341,
+        "Name": "奥田いろはのうちわの欠片（奥田いろは 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、奥田いろはのうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 160110341
+    },
+    {
+        "DestinationEquipmentId": 160210340,
+        "ExchangeGroupId": 0,
+        "Id": 160210340,
+        "Name": "弾き語り用ギターの欠片（奥田いろは 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、弾き語り用ギターを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 160210340
+    },
+    {
+        "DestinationEquipmentId": 160310340,
+        "ExchangeGroupId": 0,
+        "Id": 160310340,
+        "Name": "あんバタートーストの欠片（奥田いろは 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、あんバタートーストを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 160310340
+    },
+    {
+        "DestinationEquipmentId": 160310341,
+        "ExchangeGroupId": 0,
+        "Id": 160310341,
+        "Name": "奥田いろはのスティックライトの欠片（奥田いろは 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、奥田いろはのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 160310341
+    },
+    {
+        "DestinationEquipmentId": 161110340,
+        "ExchangeGroupId": 0,
+        "Id": 161110340,
+        "Name": "フィギュアスケートシューズの欠片（川﨑桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、フィギュアスケートシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 161110340
+    },
+    {
+        "DestinationEquipmentId": 161210340,
+        "ExchangeGroupId": 0,
+        "Id": 161210340,
+        "Name": "ファッション誌の欠片（川﨑桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ファッション誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 161210340
+    },
+    {
+        "DestinationEquipmentId": 161210341,
+        "ExchangeGroupId": 0,
+        "Id": 161210341,
+        "Name": "川﨑桜のスティックライトの欠片（川﨑桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、川﨑桜のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 161210341
+    },
+    {
+        "DestinationEquipmentId": 161210342,
+        "ExchangeGroupId": 0,
+        "Id": 161210342,
+        "Name": "川﨑桜のうちわの欠片（川﨑桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、川﨑桜のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 161210342
+    },
+    {
+        "DestinationEquipmentId": 161310340,
+        "ExchangeGroupId": 0,
+        "Id": 161310340,
+        "Name": "さくらんぼの欠片（川﨑桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、さくらんぼを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 161310340
+    },
+    {
+        "DestinationEquipmentId": 162110340,
+        "ExchangeGroupId": 0,
+        "Id": 162110340,
+        "Name": "バスケットゴールの欠片（菅原咲月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、バスケットゴールを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 162110340
+    },
+    {
+        "DestinationEquipmentId": 162210340,
+        "ExchangeGroupId": 0,
+        "Id": 162210340,
+        "Name": "卵焼き器の欠片（菅原咲月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、卵焼き器を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 162210340
+    },
+    {
+        "DestinationEquipmentId": 162210341,
+        "ExchangeGroupId": 0,
+        "Id": 162210341,
+        "Name": "菅原咲月のスティックライトの欠片（菅原咲月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、菅原咲月のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 162210341
+    },
+    {
+        "DestinationEquipmentId": 162210342,
+        "ExchangeGroupId": 0,
+        "Id": 162210342,
+        "Name": "菅原咲月のうちわの欠片（菅原咲月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、菅原咲月のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 162210342
+    },
+    {
+        "DestinationEquipmentId": 162310340,
+        "ExchangeGroupId": 0,
+        "Id": 162310340,
+        "Name": "ドライフルーツの欠片（菅原咲月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ドライフルーツを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 162310340
+    },
+    {
+        "DestinationEquipmentId": 163110340,
+        "ExchangeGroupId": 0,
+        "Id": 163110340,
+        "Name": "当たり付きアイスバーの欠片（冨里奈央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、当たり付きアイスバーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 163110340
+    },
+    {
+        "DestinationEquipmentId": 163210340,
+        "ExchangeGroupId": 0,
+        "Id": 163210340,
+        "Name": "犬のキーホルダーの欠片（冨里奈央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、犬のキーホルダーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 163210340
+    },
+    {
+        "DestinationEquipmentId": 163310340,
+        "ExchangeGroupId": 0,
+        "Id": 163310340,
+        "Name": "洋菓子セットの欠片（冨里奈央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、洋菓子セットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 163310340
+    },
+    {
+        "DestinationEquipmentId": 163310341,
+        "ExchangeGroupId": 0,
+        "Id": 163310341,
+        "Name": "冨里奈央のスティックライトの欠片（冨里奈央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、冨里奈央のスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 163310341
+    },
+    {
+        "DestinationEquipmentId": 163310342,
+        "ExchangeGroupId": 0,
+        "Id": 163310342,
+        "Name": "冨里奈央のうちわの欠片（冨里奈央 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、冨里奈央のうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 163310342
+    },
+    {
+        "DestinationEquipmentId": 164110340,
+        "ExchangeGroupId": 0,
+        "Id": 164110340,
+        "Name": "レコーディングマイクの欠片（中西アルノ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、レコーディングマイクを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 164110340
+    },
+    {
+        "DestinationEquipmentId": 164110341,
+        "ExchangeGroupId": 0,
+        "Id": 164110341,
+        "Name": "中西アルノのスティックライトの欠片（中西アルノ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、中西アルノのスティックライトを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 164110341
+    },
+    {
+        "DestinationEquipmentId": 164210340,
+        "ExchangeGroupId": 0,
+        "Id": 164210340,
+        "Name": "ヤモリTシャツの欠片（中西アルノ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヤモリTシャツを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 164210340
+    },
+    {
+        "DestinationEquipmentId": 164210341,
+        "ExchangeGroupId": 0,
+        "Id": 164210341,
+        "Name": "中西アルノのうちわの欠片（中西アルノ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、中西アルノのうちわを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 164210341
+    },
+    {
+        "DestinationEquipmentId": 164310340,
+        "ExchangeGroupId": 0,
+        "Id": 164310340,
+        "Name": "アニマルマカロンの欠片（中西アルノ 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、アニマルマカロンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 164310340
+    },
+    {
+        "DestinationEquipmentId": 165110340,
+        "ExchangeGroupId": 0,
+        "Id": 165110340,
+        "Name": "花ばさみの欠片（愛宕心響 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、花ばさみを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 165110340
+    },
+    {
+        "DestinationEquipmentId": 165310340,
+        "ExchangeGroupId": 0,
+        "Id": 165310340,
+        "Name": "唐揚げとレモンの欠片（愛宕心響 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、唐揚げとレモンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 165310340
+    },
+    {
+        "DestinationEquipmentId": 166110340,
+        "ExchangeGroupId": 0,
+        "Id": 166110340,
+        "Name": "大きな書道用筆の欠片（大越ひなの 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、大きな書道用筆を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 166110340
+    },
+    {
+        "DestinationEquipmentId": 166210340,
+        "ExchangeGroupId": 0,
+        "Id": 166210340,
+        "Name": "釣り竿の欠片（大越ひなの 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、釣り竿を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 166210340
+    },
+    {
+        "DestinationEquipmentId": 168110340,
+        "ExchangeGroupId": 0,
+        "Id": 168110340,
+        "Name": "マレットの欠片（海邉朱莉 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、マレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 168110340
+    },
+    {
+        "DestinationEquipmentId": 168310340,
+        "ExchangeGroupId": 0,
+        "Id": 168310340,
+        "Name": "アイスの欠片（海邉朱莉 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、アイスを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 168310340
+    },
+    {
+        "DestinationEquipmentId": 169110340,
+        "ExchangeGroupId": 0,
+        "Id": 169110340,
+        "Name": "ジャグリング講座動画の欠片（川端晃菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジャグリング講座動画を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 169110340
+    },
+    {
+        "DestinationEquipmentId": 169210340,
+        "ExchangeGroupId": 0,
+        "Id": 169210340,
+        "Name": "乃木坂46のCDの欠片（川端晃菜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、乃木坂46のCDを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 169210340
+    },
+    {
+        "DestinationEquipmentId": 170210340,
+        "ExchangeGroupId": 0,
+        "Id": 170210340,
+        "Name": "茶道のお稽古道具の欠片（鈴木佑捺 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、茶道のお稽古道具を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 170210340
+    },
+    {
+        "DestinationEquipmentId": 170310340,
+        "ExchangeGroupId": 0,
+        "Id": 170310340,
+        "Name": "おにぎりの欠片（鈴木佑捺 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、おにぎりを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 170310340
+    },
+    {
+        "DestinationEquipmentId": 171110340,
+        "ExchangeGroupId": 0,
+        "Id": 171110340,
+        "Name": "チアユニフォームの欠片（瀬戸口心月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、チアユニフォームを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 171110340
+    },
+    {
+        "DestinationEquipmentId": 171310340,
+        "ExchangeGroupId": 0,
+        "Id": 171310340,
+        "Name": "梅干しの欠片（瀬戸口心月 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、梅干しを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 171310340
+    },
+    {
+        "DestinationEquipmentId": 172110340,
+        "ExchangeGroupId": 0,
+        "Id": 172110340,
+        "Name": "フラダンス衣装の欠片（長嶋凛桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、フラダンス衣装を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 172110340
+    },
+    {
+        "DestinationEquipmentId": 172210340,
+        "ExchangeGroupId": 0,
+        "Id": 172210340,
+        "Name": "便せんの欠片（長嶋凛桜 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、便せんを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 172210340
+    },
+    {
+        "DestinationEquipmentId": 173210340,
+        "ExchangeGroupId": 0,
+        "Id": 173210340,
+        "Name": "文豪の文庫本の欠片（増田三莉音 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、文豪の文庫本を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 173210340
+    },
+    {
+        "DestinationEquipmentId": 173310340,
+        "ExchangeGroupId": 0,
+        "Id": 173310340,
+        "Name": "コーヒーゼリーの欠片（増田三莉音 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、コーヒーゼリーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 173310340
+    },
+    {
+        "DestinationEquipmentId": 174110340,
+        "ExchangeGroupId": 0,
+        "Id": 174110340,
+        "Name": "トロンボーンの欠片（森平麗心 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、トロンボーンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 174110340
+    },
+    {
+        "DestinationEquipmentId": 174310340,
+        "ExchangeGroupId": 0,
+        "Id": 174310340,
+        "Name": "カルビの欠片（森平麗心 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、カルビを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 174310340
+    },
+    {
+        "DestinationEquipmentId": 175110340,
+        "ExchangeGroupId": 0,
+        "Id": 175110340,
+        "Name": "盆踊りの浴衣の欠片（矢田萌華 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、盆踊りの浴衣を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 175110340
+    },
+    {
+        "DestinationEquipmentId": 175210340,
+        "ExchangeGroupId": 0,
+        "Id": 175210340,
+        "Name": "ビュッフェの欠片（矢田萌華 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ビュッフェを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 175210340
+    },
+    {
+        "DestinationEquipmentId": 501310340,
+        "ExchangeGroupId": 0,
+        "Id": 501310340,
+        "Name": "パンプキンパイの欠片（生駒里奈 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パンプキンパイを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 501310340
+    },
+    {
+        "DestinationEquipmentId": 502210340,
+        "ExchangeGroupId": 0,
+        "Id": 502210340,
+        "Name": "おしゃれ雑誌の欠片（伊藤万理華 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、おしゃれ雑誌を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 502210340
+    },
+    {
+        "DestinationEquipmentId": 503110340,
+        "ExchangeGroupId": 0,
+        "Id": 503110340,
+        "Name": "ソフトボール用バットの欠片（白石麻衣 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ソフトボール用バットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 503110340
+    },
+    {
+        "DestinationEquipmentId": 504110340,
+        "ExchangeGroupId": 0,
+        "Id": 504110340,
+        "Name": "どいやさんの欠片（西野七瀬 専用）",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、どいやさんを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 504110340
+    },
+    {
+        "DestinationEquipmentId": 601030120,
+        "ExchangeGroupId": 1,
+        "Id": 601030120,
+        "Name": "リーブラのブック / ノートの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのブック / ノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601030120
+    },
+    {
+        "DestinationEquipmentId": 601040120,
+        "ExchangeGroupId": 1,
+        "Id": 601040120,
+        "Name": "リーブラのバッグの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのバッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601060120
+    },
+    {
+        "DestinationEquipmentId": 601060120,
+        "ExchangeGroupId": 1,
+        "Id": 601060120,
+        "Name": "リーブラのアクセサリの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのアクセサリを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601040120
+    },
+    {
+        "DestinationEquipmentId": 601120120,
+        "ExchangeGroupId": 1,
+        "Id": 601120120,
+        "Name": "リーブラのシューズの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601120120
+    },
+    {
+        "DestinationEquipmentId": 601220120,
+        "ExchangeGroupId": 1,
+        "Id": 601220120,
+        "Name": "リーブラのイヤモニの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのイヤモニを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601220120
+    },
+    {
+        "DestinationEquipmentId": 601320120,
+        "ExchangeGroupId": 1,
+        "Id": 601320120,
+        "Name": "リーブラのエチケットの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、リーブラのエチケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 601320120
+    },
+    {
+        "DestinationEquipmentId": 602030230,
+        "ExchangeGroupId": 2,
+        "Id": 602030230,
+        "Name": "スコーピオのブック / ノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのブック / ノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602030230
+    },
+    {
+        "DestinationEquipmentId": 602050230,
+        "ExchangeGroupId": 2,
+        "Id": 602050230,
+        "Name": "スコーピオのウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602050230
+    },
+    {
+        "DestinationEquipmentId": 602060230,
+        "ExchangeGroupId": 2,
+        "Id": 602060230,
+        "Name": "スコーピオのアクセサリの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのアクセサリを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602040230
+    },
+    {
+        "DestinationEquipmentId": 602110230,
+        "ExchangeGroupId": 2,
+        "Id": 602110230,
+        "Name": "スコーピオのウエアの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのウエアを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602110230
+    },
+    {
+        "DestinationEquipmentId": 602210230,
+        "ExchangeGroupId": 2,
+        "Id": 602210230,
+        "Name": "スコーピオのマイクの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのマイクを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602210230
+    },
+    {
+        "DestinationEquipmentId": 602310230,
+        "ExchangeGroupId": 2,
+        "Id": 602310230,
+        "Name": "スコーピオのキーホルダーの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、スコーピオのキーホルダーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 602310230
+    },
+    {
+        "DestinationEquipmentId": 603030340,
+        "ExchangeGroupId": 3,
+        "Id": 603030340,
+        "Name": "サジタリアスのブック / ノートの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのブック / ノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603030340
+    },
+    {
+        "DestinationEquipmentId": 603040340,
+        "ExchangeGroupId": 3,
+        "Id": 603040340,
+        "Name": "サジタリアスのバッグの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのバッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603060340
+    },
+    {
+        "DestinationEquipmentId": 603050340,
+        "ExchangeGroupId": 3,
+        "Id": 603050340,
+        "Name": "サジタリアスのウォレットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603050340
+    },
+    {
+        "DestinationEquipmentId": 603060340,
+        "ExchangeGroupId": 3,
+        "Id": 603060340,
+        "Name": "サジタリアスのアクセサリの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのアクセサリを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603040340
+    },
+    {
+        "DestinationEquipmentId": 603110340,
+        "ExchangeGroupId": 3,
+        "Id": 603110340,
+        "Name": "サジタリアスのウエアの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのウエアを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603110340
+    },
+    {
+        "DestinationEquipmentId": 603120340,
+        "ExchangeGroupId": 3,
+        "Id": 603120340,
+        "Name": "サジタリアスのシューズの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603120340
+    },
+    {
+        "DestinationEquipmentId": 603210340,
+        "ExchangeGroupId": 3,
+        "Id": 603210340,
+        "Name": "サジタリアスのマイクの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのマイクを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603210340
+    },
+    {
+        "DestinationEquipmentId": 603220340,
+        "ExchangeGroupId": 3,
+        "Id": 603220340,
+        "Name": "サジタリアスのイヤモニの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのイヤモニを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603220340
+    },
+    {
+        "DestinationEquipmentId": 603310340,
+        "ExchangeGroupId": 3,
+        "Id": 603310340,
+        "Name": "サジタリアスのキーホルダーの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのキーホルダーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603310340
+    },
+    {
+        "DestinationEquipmentId": 603320340,
+        "ExchangeGroupId": 3,
+        "Id": 603320340,
+        "Name": "サジタリアスのエチケットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、サジタリアスのエチケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 603320340
+    },
+    {
+        "DestinationEquipmentId": 604030420,
+        "ExchangeGroupId": 4,
+        "Id": 604030420,
+        "Name": "カプリコンのブック / ノートの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのブック / ノートを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604030420
+    },
+    {
+        "DestinationEquipmentId": 604040420,
+        "ExchangeGroupId": 4,
+        "Id": 604040420,
+        "Name": "カプリコンのバッグの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのバッグを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604060420
+    },
+    {
+        "DestinationEquipmentId": 604060420,
+        "ExchangeGroupId": 4,
+        "Id": 604060420,
+        "Name": "カプリコンのアクセサリの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのアクセサリを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604040420
+    },
+    {
+        "DestinationEquipmentId": 604120420,
+        "ExchangeGroupId": 4,
+        "Id": 604120420,
+        "Name": "カプリコンのシューズの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのシューズを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604120420
+    },
+    {
+        "DestinationEquipmentId": 604220420,
+        "ExchangeGroupId": 4,
+        "Id": 604220420,
+        "Name": "カプリコンのイヤモニの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのイヤモニを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604220420
+    },
+    {
+        "DestinationEquipmentId": 604320420,
+        "ExchangeGroupId": 4,
+        "Id": 604320420,
+        "Name": "カプリコンのエチケットの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、カプリコンのエチケットを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 604320420
+    },
+    {
+        "DestinationEquipmentId": 605030530,
+        "ExchangeGroupId": 5,
+        "Id": 605030530,
+        "Name": "アクエリアスのブック / ノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのブック / ノートを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605030530
+    },
+    {
+        "DestinationEquipmentId": 605050530,
+        "ExchangeGroupId": 5,
+        "Id": 605050530,
+        "Name": "アクエリアスのウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのウォレットを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605050530
+    },
+    {
+        "DestinationEquipmentId": 605060530,
+        "ExchangeGroupId": 5,
+        "Id": 605060530,
+        "Name": "アクエリアスのアクセサリの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのアクセサリを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605040530
+    },
+    {
+        "DestinationEquipmentId": 605110530,
+        "ExchangeGroupId": 5,
+        "Id": 605110530,
+        "Name": "アクエリアスのウエアの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのウエアを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605110530
+    },
+    {
+        "DestinationEquipmentId": 605210530,
+        "ExchangeGroupId": 5,
+        "Id": 605210530,
+        "Name": "アクエリアスのマイクの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのマイクを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605210530
+    },
+    {
+        "DestinationEquipmentId": 605310530,
+        "ExchangeGroupId": 5,
+        "Id": 605310530,
+        "Name": "アクエリアスのキーホルダーの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、アクエリアスのキーホルダーを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 605310530
+    },
+    {
+        "DestinationEquipmentId": 606030640,
+        "ExchangeGroupId": 6,
+        "Id": 606030640,
+        "Name": "パイシーズのブック / ノートの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのブック / ノートを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606030640
+    },
+    {
+        "DestinationEquipmentId": 606040640,
+        "ExchangeGroupId": 6,
+        "Id": 606040640,
+        "Name": "パイシーズのバッグの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのバッグを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606060640
+    },
+    {
+        "DestinationEquipmentId": 606050640,
+        "ExchangeGroupId": 6,
+        "Id": 606050640,
+        "Name": "パイシーズのウォレットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのウォレットを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606050640
+    },
+    {
+        "DestinationEquipmentId": 606060640,
+        "ExchangeGroupId": 6,
+        "Id": 606060640,
+        "Name": "パイシーズのアクセサリの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのアクセサリを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606040640
+    },
+    {
+        "DestinationEquipmentId": 606110640,
+        "ExchangeGroupId": 6,
+        "Id": 606110640,
+        "Name": "パイシーズのウエアの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのウエアを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606110640
+    },
+    {
+        "DestinationEquipmentId": 606120640,
+        "ExchangeGroupId": 6,
+        "Id": 606120640,
+        "Name": "パイシーズのシューズの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのシューズを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606120640
+    },
+    {
+        "DestinationEquipmentId": 606210640,
+        "ExchangeGroupId": 6,
+        "Id": 606210640,
+        "Name": "パイシーズのマイクの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのマイクを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606210640
+    },
+    {
+        "DestinationEquipmentId": 606220640,
+        "ExchangeGroupId": 6,
+        "Id": 606220640,
+        "Name": "パイシーズのイヤモニの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのイヤモニを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606220640
+    },
+    {
+        "DestinationEquipmentId": 606310640,
+        "ExchangeGroupId": 6,
+        "Id": 606310640,
+        "Name": "パイシーズのキーホルダーの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのキーホルダーを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606310640
+    },
+    {
+        "DestinationEquipmentId": 606320640,
+        "ExchangeGroupId": 6,
+        "Id": 606320640,
+        "Name": "パイシーズのエチケットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、パイシーズのエチケットを入手可能\n(センターRank50以上でセット可能)",
+        "ThumbnailId": 606320640
+    },
+    {
+        "DestinationEquipmentId": 607030720,
+        "ExchangeGroupId": 7,
+        "Id": 607030720,
+        "Name": "アリエスのブック / ノートの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのブック / ノートを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607030720
+    },
+    {
+        "DestinationEquipmentId": 607040720,
+        "ExchangeGroupId": 7,
+        "Id": 607040720,
+        "Name": "アリエスのバッグの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのバッグを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607060720
+    },
+    {
+        "DestinationEquipmentId": 607060720,
+        "ExchangeGroupId": 7,
+        "Id": 607060720,
+        "Name": "アリエスのアクセサリの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのアクセサリを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607040720
+    },
+    {
+        "DestinationEquipmentId": 607120720,
+        "ExchangeGroupId": 7,
+        "Id": 607120720,
+        "Name": "アリエスのシューズの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのシューズを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607120720
+    },
+    {
+        "DestinationEquipmentId": 607220720,
+        "ExchangeGroupId": 7,
+        "Id": 607220720,
+        "Name": "アリエスのイヤモニの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのイヤモニを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607220720
+    },
+    {
+        "DestinationEquipmentId": 607320720,
+        "ExchangeGroupId": 7,
+        "Id": 607320720,
+        "Name": "アリエスのエチケットの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、アリエスのエチケットを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 607320720
+    },
+    {
+        "DestinationEquipmentId": 608030830,
+        "ExchangeGroupId": 8,
+        "Id": 608030830,
+        "Name": "トーラスのブック / ノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのブック / ノートを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608030830
+    },
+    {
+        "DestinationEquipmentId": 608050830,
+        "ExchangeGroupId": 8,
+        "Id": 608050830,
+        "Name": "トーラスのウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのウォレットを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608050830
+    },
+    {
+        "DestinationEquipmentId": 608060830,
+        "ExchangeGroupId": 8,
+        "Id": 608060830,
+        "Name": "トーラスのアクセサリの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのアクセサリを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608040830
+    },
+    {
+        "DestinationEquipmentId": 608110830,
+        "ExchangeGroupId": 8,
+        "Id": 608110830,
+        "Name": "トーラスのウエアの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのウエアを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608110830
+    },
+    {
+        "DestinationEquipmentId": 608210830,
+        "ExchangeGroupId": 8,
+        "Id": 608210830,
+        "Name": "トーラスのマイクの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのマイクを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608210830
+    },
+    {
+        "DestinationEquipmentId": 608310830,
+        "ExchangeGroupId": 8,
+        "Id": 608310830,
+        "Name": "トーラスのキーホルダーの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、トーラスのキーホルダーを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 608310830
+    },
+    {
+        "DestinationEquipmentId": 609030940,
+        "ExchangeGroupId": 9,
+        "Id": 609030940,
+        "Name": "ジェミニのブック / ノートの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのブック / ノートを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609030940
+    },
+    {
+        "DestinationEquipmentId": 609040940,
+        "ExchangeGroupId": 9,
+        "Id": 609040940,
+        "Name": "ジェミニのバッグの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのバッグを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609060940
+    },
+    {
+        "DestinationEquipmentId": 609050940,
+        "ExchangeGroupId": 9,
+        "Id": 609050940,
+        "Name": "ジェミニのウォレットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのウォレットを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609050940
+    },
+    {
+        "DestinationEquipmentId": 609060940,
+        "ExchangeGroupId": 9,
+        "Id": 609060940,
+        "Name": "ジェミニのアクセサリの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのアクセサリを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609040940
+    },
+    {
+        "DestinationEquipmentId": 609110940,
+        "ExchangeGroupId": 9,
+        "Id": 609110940,
+        "Name": "ジェミニのウエアの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのウエアを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609110940
+    },
+    {
+        "DestinationEquipmentId": 609120940,
+        "ExchangeGroupId": 9,
+        "Id": 609120940,
+        "Name": "ジェミニのシューズの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのシューズを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609120940
+    },
+    {
+        "DestinationEquipmentId": 609210940,
+        "ExchangeGroupId": 9,
+        "Id": 609210940,
+        "Name": "ジェミニのマイクの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのマイクを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609210940
+    },
+    {
+        "DestinationEquipmentId": 609220940,
+        "ExchangeGroupId": 9,
+        "Id": 609220940,
+        "Name": "ジェミニのイヤモニの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのイヤモニを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609220940
+    },
+    {
+        "DestinationEquipmentId": 609310940,
+        "ExchangeGroupId": 9,
+        "Id": 609310940,
+        "Name": "ジェミニのキーホルダーの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのキーホルダーを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609310940
+    },
+    {
+        "DestinationEquipmentId": 609320940,
+        "ExchangeGroupId": 9,
+        "Id": 609320940,
+        "Name": "ジェミニのエチケットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ジェミニのエチケットを入手可能\n(センターRank70以上でセット可能)",
+        "ThumbnailId": 609320940
+    },
+    {
+        "DestinationEquipmentId": 610031020,
+        "ExchangeGroupId": 10,
+        "Id": 610031020,
+        "Name": "キャンサーのブック / ノートの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのブック / ノートを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610031020
+    },
+    {
+        "DestinationEquipmentId": 610041020,
+        "ExchangeGroupId": 10,
+        "Id": 610041020,
+        "Name": "キャンサーのバッグの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのバッグを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610061020
+    },
+    {
+        "DestinationEquipmentId": 610061020,
+        "ExchangeGroupId": 10,
+        "Id": 610061020,
+        "Name": "キャンサーのアクセサリの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのアクセサリを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610041020
+    },
+    {
+        "DestinationEquipmentId": 610121020,
+        "ExchangeGroupId": 10,
+        "Id": 610121020,
+        "Name": "キャンサーのシューズの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのシューズを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610121020
+    },
+    {
+        "DestinationEquipmentId": 610221020,
+        "ExchangeGroupId": 10,
+        "Id": 610221020,
+        "Name": "キャンサーのイヤモニの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのイヤモニを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610221020
+    },
+    {
+        "DestinationEquipmentId": 610321020,
+        "ExchangeGroupId": 10,
+        "Id": 610321020,
+        "Name": "キャンサーのエチケットの欠片",
+        "NecessaryMoney": 250000,
+        "NecessaryNumber": 20,
+        "Text": "欠片20個を合成することで、キャンサーのエチケットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 610321020
+    },
+    {
+        "DestinationEquipmentId": 611031130,
+        "ExchangeGroupId": 11,
+        "Id": 611031130,
+        "Name": "レオのブック / ノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのブック / ノートを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611031130
+    },
+    {
+        "DestinationEquipmentId": 611051130,
+        "ExchangeGroupId": 11,
+        "Id": 611051130,
+        "Name": "レオのウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのウォレットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611051130
+    },
+    {
+        "DestinationEquipmentId": 611061130,
+        "ExchangeGroupId": 11,
+        "Id": 611061130,
+        "Name": "レオのアクセサリの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのアクセサリを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611041130
+    },
+    {
+        "DestinationEquipmentId": 611111130,
+        "ExchangeGroupId": 11,
+        "Id": 611111130,
+        "Name": "レオのウエアの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのウエアを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611111130
+    },
+    {
+        "DestinationEquipmentId": 611211130,
+        "ExchangeGroupId": 11,
+        "Id": 611211130,
+        "Name": "レオのマイクの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのマイクを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611211130
+    },
+    {
+        "DestinationEquipmentId": 611311130,
+        "ExchangeGroupId": 11,
+        "Id": 611311130,
+        "Name": "レオのキーホルダーの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、レオのキーホルダーを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 611311130
+    },
+    {
+        "DestinationEquipmentId": 612031240,
+        "ExchangeGroupId": 12,
+        "Id": 612031240,
+        "Name": "ヴァーゴのブック / ノートの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのブック / ノートを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612031240
+    },
+    {
+        "DestinationEquipmentId": 612041240,
+        "ExchangeGroupId": 12,
+        "Id": 612041240,
+        "Name": "ヴァーゴのバッグの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのバッグを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612061240
+    },
+    {
+        "DestinationEquipmentId": 612051240,
+        "ExchangeGroupId": 12,
+        "Id": 612051240,
+        "Name": "ヴァーゴのウォレットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのウォレットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612051240
+    },
+    {
+        "DestinationEquipmentId": 612061240,
+        "ExchangeGroupId": 12,
+        "Id": 612061240,
+        "Name": "ヴァーゴのアクセサリの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのアクセサリを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612041240
+    },
+    {
+        "DestinationEquipmentId": 612111240,
+        "ExchangeGroupId": 12,
+        "Id": 612111240,
+        "Name": "ヴァーゴのウエアの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのウエアを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612111240
+    },
+    {
+        "DestinationEquipmentId": 612121240,
+        "ExchangeGroupId": 12,
+        "Id": 612121240,
+        "Name": "ヴァーゴのシューズの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのシューズを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612121240
+    },
+    {
+        "DestinationEquipmentId": 612211240,
+        "ExchangeGroupId": 12,
+        "Id": 612211240,
+        "Name": "ヴァーゴのマイクの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのマイクを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612211240
+    },
+    {
+        "DestinationEquipmentId": 612221240,
+        "ExchangeGroupId": 12,
+        "Id": 612221240,
+        "Name": "ヴァーゴのイヤモニの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのイヤモニを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612221240
+    },
+    {
+        "DestinationEquipmentId": 612311240,
+        "ExchangeGroupId": 12,
+        "Id": 612311240,
+        "Name": "ヴァーゴのキーホルダーの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのキーホルダーを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612311240
+    },
+    {
+        "DestinationEquipmentId": 612321240,
+        "ExchangeGroupId": 12,
+        "Id": 612321240,
+        "Name": "ヴァーゴのエチケットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、ヴァーゴのエチケットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 612321240
+    },
+    {
+        "DestinationEquipmentId": 613031350,
+        "ExchangeGroupId": 13,
+        "Id": 613031350,
+        "Name": "スターリーのブック / ノートの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのブック / ノートを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613031350
+    },
+    {
+        "DestinationEquipmentId": 613041350,
+        "ExchangeGroupId": 13,
+        "Id": 613041350,
+        "Name": "スターリーのバッグの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのバッグを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613061350
+    },
+    {
+        "DestinationEquipmentId": 613051350,
+        "ExchangeGroupId": 13,
+        "Id": 613051350,
+        "Name": "スターリーのウォレットの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのウォレットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613051350
+    },
+    {
+        "DestinationEquipmentId": 613061350,
+        "ExchangeGroupId": 13,
+        "Id": 613061350,
+        "Name": "スターリーのアクセサリの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのアクセサリを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613041350
+    },
+    {
+        "DestinationEquipmentId": 613121350,
+        "ExchangeGroupId": 13,
+        "Id": 613121350,
+        "Name": "スターリーのシューズの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのシューズを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613121350
+    },
+    {
+        "DestinationEquipmentId": 613221350,
+        "ExchangeGroupId": 13,
+        "Id": 613221350,
+        "Name": "スターリーのイヤモニの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのイヤモニを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613221350
+    },
+    {
+        "DestinationEquipmentId": 613321350,
+        "ExchangeGroupId": 13,
+        "Id": 613321350,
+        "Name": "スターリーのエチケットの欠片",
+        "NecessaryMoney": 1000000,
+        "NecessaryNumber": 70,
+        "Text": "欠片70個を合成することで、スターリーのエチケットを入手可能\n(センターRank90以上でセット可能)",
+        "ThumbnailId": 613321350
+    },
+    {
+        "DestinationEquipmentId": 701030230,
+        "ExchangeGroupId": 14,
+        "Id": 701030230,
+        "Name": "花柄のノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、花柄のノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701030230
+    },
+    {
+        "DestinationEquipmentId": 701040230,
+        "ExchangeGroupId": 14,
+        "Id": 701040230,
+        "Name": "ウサギポーチの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ウサギポーチを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701040230
+    },
+    {
+        "DestinationEquipmentId": 701050230,
+        "ExchangeGroupId": 14,
+        "Id": 701050230,
+        "Name": "金魚のがまぐちの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、金魚のがまぐちを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701050230
+    },
+    {
+        "DestinationEquipmentId": 701060230,
+        "ExchangeGroupId": 14,
+        "Id": 701060230,
+        "Name": "カエルのヘアピンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、カエルのヘアピンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701060230
+    },
+    {
+        "DestinationEquipmentId": 701120230,
+        "ExchangeGroupId": 14,
+        "Id": 701120230,
+        "Name": "イチゴのシューズの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、イチゴのシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701120230
+    },
+    {
+        "DestinationEquipmentId": 701220230,
+        "ExchangeGroupId": 14,
+        "Id": 701220230,
+        "Name": "ブルーベリーのイヤモニの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ブルーベリーのイヤモニを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701220230
+    },
+    {
+        "DestinationEquipmentId": 701320230,
+        "ExchangeGroupId": 14,
+        "Id": 701320230,
+        "Name": "プリンのエチケットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、プリンのエチケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 701320230
+    },
+    {
+        "DestinationEquipmentId": 702040340,
+        "ExchangeGroupId": 14,
+        "Id": 702040340,
+        "Name": "10thバスラ記念グッズの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、10thバスラ記念グッズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 702040340
+    },
+    {
+        "DestinationEquipmentId": 703040230,
+        "ExchangeGroupId": 14,
+        "Id": 703040230,
+        "Name": "フルーツバッグの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツバッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703040230
+    },
+    {
+        "DestinationEquipmentId": 703050230,
+        "ExchangeGroupId": 14,
+        "Id": 703050230,
+        "Name": "フルーツウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703050230
+    },
+    {
+        "DestinationEquipmentId": 703060230,
+        "ExchangeGroupId": 14,
+        "Id": 703060230,
+        "Name": "フルーツヘアピンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツヘアピンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703060230
+    },
+    {
+        "DestinationEquipmentId": 703120230,
+        "ExchangeGroupId": 14,
+        "Id": 703120230,
+        "Name": "フルーツシューズの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703120230
+    },
+    {
+        "DestinationEquipmentId": 703220230,
+        "ExchangeGroupId": 14,
+        "Id": 703220230,
+        "Name": "フルーツイヤモニの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツイヤモニを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703220230
+    },
+    {
+        "DestinationEquipmentId": 703320230,
+        "ExchangeGroupId": 14,
+        "Id": 703320230,
+        "Name": "フルーツエチケットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、フルーツエチケットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 703320230
+    },
+    {
+        "DestinationEquipmentId": 704030230,
+        "ExchangeGroupId": 14,
+        "Id": 704030230,
+        "Name": "ピアノノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704030230
+    },
+    {
+        "DestinationEquipmentId": 704040230,
+        "ExchangeGroupId": 14,
+        "Id": 704040230,
+        "Name": "ピアノバッグの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノバッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704040230
+    },
+    {
+        "DestinationEquipmentId": 704050230,
+        "ExchangeGroupId": 14,
+        "Id": 704050230,
+        "Name": "ピアノウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704050230
+    },
+    {
+        "DestinationEquipmentId": 704060230,
+        "ExchangeGroupId": 14,
+        "Id": 704060230,
+        "Name": "ピアノヘアピンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノヘアピンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704060230
+    },
+    {
+        "DestinationEquipmentId": 704120230,
+        "ExchangeGroupId": 14,
+        "Id": 704120230,
+        "Name": "ピアノスニーカーの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノスニーカーを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704120230
+    },
+    {
+        "DestinationEquipmentId": 704220230,
+        "ExchangeGroupId": 14,
+        "Id": 704220230,
+        "Name": "ピアノイヤホンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノイヤホンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704220230
+    },
+    {
+        "DestinationEquipmentId": 704320230,
+        "ExchangeGroupId": 14,
+        "Id": 704320230,
+        "Name": "ピアノハンカチの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、ピアノハンカチを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 704320230
+    },
+    {
+        "DestinationEquipmentId": 705030230,
+        "ExchangeGroupId": 14,
+        "Id": 705030230,
+        "Name": "和風の花和綴じノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花和綴じノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705030230
+    },
+    {
+        "DestinationEquipmentId": 705040230,
+        "ExchangeGroupId": 14,
+        "Id": 705040230,
+        "Name": "和風の花バッグの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花バッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705040230
+    },
+    {
+        "DestinationEquipmentId": 705050230,
+        "ExchangeGroupId": 14,
+        "Id": 705050230,
+        "Name": "和風の花財布の欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花財布を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705050230
+    },
+    {
+        "DestinationEquipmentId": 705060230,
+        "ExchangeGroupId": 14,
+        "Id": 705060230,
+        "Name": "和風の花髪飾りの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花髪飾りを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705060230
+    },
+    {
+        "DestinationEquipmentId": 705120230,
+        "ExchangeGroupId": 14,
+        "Id": 705120230,
+        "Name": "和風の花下駄の欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花下駄を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705120230
+    },
+    {
+        "DestinationEquipmentId": 705220230,
+        "ExchangeGroupId": 14,
+        "Id": 705220230,
+        "Name": "和風の花ヘッドホンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花ヘッドホンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705220230
+    },
+    {
+        "DestinationEquipmentId": 705320230,
+        "ExchangeGroupId": 14,
+        "Id": 705320230,
+        "Name": "和風の花手ぬぐいの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和風の花手ぬぐいを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 705320230
+    },
+    {
+        "DestinationEquipmentId": 706030340,
+        "ExchangeGroupId": 14,
+        "Id": 706030340,
+        "Name": "4thAnniversary前夜祭ブック/ノートの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、4thAnniversary前夜祭ブック/ノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 706030340
+    },
+    {
+        "DestinationEquipmentId": 706050340,
+        "ExchangeGroupId": 14,
+        "Id": 706050340,
+        "Name": "3rdAnniversary前夜祭ウォレットの欠片",
+        "NecessaryMoney": 750000,
+        "NecessaryNumber": 50,
+        "Text": "欠片50個を合成することで、3rdAnniversary前夜祭ウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 706050340
+    },
+    {
+        "DestinationEquipmentId": 707030230,
+        "ExchangeGroupId": 14,
+        "Id": 707030230,
+        "Name": "バスケットノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707030230
+    },
+    {
+        "DestinationEquipmentId": 707040230,
+        "ExchangeGroupId": 14,
+        "Id": 707040230,
+        "Name": "バスケットバッグの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットバッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707040230
+    },
+    {
+        "DestinationEquipmentId": 707050230,
+        "ExchangeGroupId": 14,
+        "Id": 707050230,
+        "Name": "バスケットウォレットの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットウォレットを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707050230
+    },
+    {
+        "DestinationEquipmentId": 707060230,
+        "ExchangeGroupId": 14,
+        "Id": 707060230,
+        "Name": "バスケットヘアクリップの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットヘアクリップを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707060230
+    },
+    {
+        "DestinationEquipmentId": 707120230,
+        "ExchangeGroupId": 14,
+        "Id": 707120230,
+        "Name": "バスケットシューズの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットシューズを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707120230
+    },
+    {
+        "DestinationEquipmentId": 707220230,
+        "ExchangeGroupId": 14,
+        "Id": 707220230,
+        "Name": "バスケットイヤホンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットイヤホンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707220230
+    },
+    {
+        "DestinationEquipmentId": 707320230,
+        "ExchangeGroupId": 14,
+        "Id": 707320230,
+        "Name": "バスケットタオルの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、バスケットタオルを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 707320230
+    },
+    {
+        "DestinationEquipmentId": 708030230,
+        "ExchangeGroupId": 14,
+        "Id": 708030230,
+        "Name": "和菓子ノートの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子ノートを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708030230
+    },
+    {
+        "DestinationEquipmentId": 708040230,
+        "ExchangeGroupId": 14,
+        "Id": 708040230,
+        "Name": "和菓子バッグの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子バッグを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708040230
+    },
+    {
+        "DestinationEquipmentId": 708050230,
+        "ExchangeGroupId": 14,
+        "Id": 708050230,
+        "Name": "和菓子財布の欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子財布を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708050230
+    },
+    {
+        "DestinationEquipmentId": 708060230,
+        "ExchangeGroupId": 14,
+        "Id": 708060230,
+        "Name": "和菓子髪飾りの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子髪飾りを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708060230
+    },
+    {
+        "DestinationEquipmentId": 708120230,
+        "ExchangeGroupId": 14,
+        "Id": 708120230,
+        "Name": "和菓子下駄の欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子下駄を入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708120230
+    },
+    {
+        "DestinationEquipmentId": 708220230,
+        "ExchangeGroupId": 14,
+        "Id": 708220230,
+        "Name": "和菓子ヘッドホンの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子ヘッドホンを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708220230
+    },
+    {
+        "DestinationEquipmentId": 708320230,
+        "ExchangeGroupId": 14,
+        "Id": 708320230,
+        "Name": "和菓子ハンドタオルの欠片",
+        "NecessaryMoney": 500000,
+        "NecessaryNumber": 30,
+        "Text": "欠片30個を合成することで、和菓子ハンドタオルを入手可能\n(センターRank30以上でセット可能)",
+        "ThumbnailId": 708320230
+    }
+]

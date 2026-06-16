@@ -1,0 +1,415 @@
+[
+    {
+        "EnhanceItemQuantity": 80,
+        "HighEnhanceItemQuantity": 0,
+        "Id": 1,
+        "Level": 2,
+        "MoneyQuantity": 500
+    },
+    {
+        "EnhanceItemQuantity": 84,
+        "HighEnhanceItemQuantity": 0,
+        "Id": 2,
+        "Level": 3,
+        "MoneyQuantity": 1000
+    },
+    {
+        "EnhanceItemQuantity": 88,
+        "HighEnhanceItemQuantity": 0,
+        "Id": 3,
+        "Level": 4,
+        "MoneyQuantity": 1500
+    },
+    {
+        "EnhanceItemQuantity": 93,
+        "HighEnhanceItemQuantity": 0,
+        "Id": 4,
+        "Level": 5,
+        "MoneyQuantity": 2000
+    },
+    {
+        "EnhanceItemQuantity": 98,
+        "HighEnhanceItemQuantity": 1,
+        "Id": 5,
+        "Level": 6,
+        "MoneyQuantity": 2500
+    },
+    {
+        "EnhanceItemQuantity": 103,
+        "HighEnhanceItemQuantity": 1,
+        "Id": 6,
+        "Level": 7,
+        "MoneyQuantity": 3000
+    },
+    {
+        "EnhanceItemQuantity": 108,
+        "HighEnhanceItemQuantity": 1,
+        "Id": 7,
+        "Level": 8,
+        "MoneyQuantity": 3500
+    },
+    {
+        "EnhanceItemQuantity": 113,
+        "HighEnhanceItemQuantity": 2,
+        "Id": 8,
+        "Level": 9,
+        "MoneyQuantity": 4000
+    },
+    {
+        "EnhanceItemQuantity": 118,
+        "HighEnhanceItemQuantity": 2,
+        "Id": 9,
+        "Level": 10,
+        "MoneyQuantity": 4500
+    },
+    {
+        "EnhanceItemQuantity": 123,
+        "HighEnhanceItemQuantity": 2,
+        "Id": 10,
+        "Level": 11,
+        "MoneyQuantity": 5000
+    },
+    {
+        "EnhanceItemQuantity": 129,
+        "HighEnhanceItemQuantity": 3,
+        "Id": 11,
+        "Level": 12,
+        "MoneyQuantity": 5500
+    },
+    {
+        "EnhanceItemQuantity": 135,
+        "HighEnhanceItemQuantity": 3,
+        "Id": 12,
+        "Level": 13,
+        "MoneyQuantity": 6000
+    },
+    {
+        "EnhanceItemQuantity": 141,
+        "HighEnhanceItemQuantity": 3,
+        "Id": 13,
+        "Level": 14,
+        "MoneyQuantity": 7000
+    },
+    {
+        "EnhanceItemQuantity": 147,
+        "HighEnhanceItemQuantity": 4,
+        "Id": 14,
+        "Level": 15,
+        "MoneyQuantity": 8000
+    },
+    {
+        "EnhanceItemQuantity": 153,
+        "HighEnhanceItemQuantity": 4,
+        "Id": 15,
+        "Level": 16,
+        "MoneyQuantity": 9000
+    },
+    {
+        "EnhanceItemQuantity": 159,
+        "HighEnhanceItemQuantity": 4,
+        "Id": 16,
+        "Level": 17,
+        "MoneyQuantity": 10000
+    },
+    {
+        "EnhanceItemQuantity": 166,
+        "HighEnhanceItemQuantity": 5,
+        "Id": 17,
+        "Level": 18,
+        "MoneyQuantity": 12000
+    },
+    {
+        "EnhanceItemQuantity": 173,
+        "HighEnhanceItemQuantity": 5,
+        "Id": 18,
+        "Level": 19,
+        "MoneyQuantity": 14000
+    },
+    {
+        "EnhanceItemQuantity": 180,
+        "HighEnhanceItemQuantity": 5,
+        "Id": 19,
+        "Level": 20,
+        "MoneyQuantity": 16000
+    },
+    {
+        "EnhanceItemQuantity": 187,
+        "HighEnhanceItemQuantity": 6,
+        "Id": 20,
+        "Level": 21,
+        "MoneyQuantity": 18000
+    },
+    {
+        "EnhanceItemQuantity": 195,
+        "HighEnhanceItemQuantity": 6,
+        "Id": 21,
+        "Level": 22,
+        "MoneyQuantity": 21000
+    },
+    {
+        "EnhanceItemQuantity": 203,
+        "HighEnhanceItemQuantity": 6,
+        "Id": 22,
+        "Level": 23,
+        "MoneyQuantity": 24000
+    },
+    {
+        "EnhanceItemQuantity": 211,
+        "HighEnhanceItemQuantity": 7,
+        "Id": 23,
+        "Level": 24,
+        "MoneyQuantity": 28000
+    },
+    {
+        "EnhanceItemQuantity": 219,
+        "HighEnhanceItemQuantity": 7,
+        "Id": 24,
+        "Level": 25,
+        "MoneyQuantity": 32000
+    },
+    {
+        "EnhanceItemQuantity": 228,
+        "HighEnhanceItemQuantity": 7,
+        "Id": 25,
+        "Level": 26,
+        "MoneyQuantity": 37000
+    },
+    {
+        "EnhanceItemQuantity": 237,
+        "HighEnhanceItemQuantity": 8,
+        "Id": 26,
+        "Level": 27,
+        "MoneyQuantity": 43000
+    },
+    {
+        "EnhanceItemQuantity": 246,
+        "HighEnhanceItemQuantity": 8,
+        "Id": 27,
+        "Level": 28,
+        "MoneyQuantity": 50000
+    },
+    {
+        "EnhanceItemQuantity": 256,
+        "HighEnhanceItemQuantity": 8,
+        "Id": 28,
+        "Level": 29,
+        "MoneyQuantity": 58000
+    },
+    {
+        "EnhanceItemQuantity": 266,
+        "HighEnhanceItemQuantity": 9,
+        "Id": 29,
+        "Level": 30,
+        "MoneyQuantity": 67000
+    },
+    {
+        "EnhanceItemQuantity": 276,
+        "HighEnhanceItemQuantity": 9,
+        "Id": 30,
+        "Level": 31,
+        "MoneyQuantity": 78000
+    },
+    {
+        "EnhanceItemQuantity": 287,
+        "HighEnhanceItemQuantity": 9,
+        "Id": 31,
+        "Level": 32,
+        "MoneyQuantity": 90000
+    },
+    {
+        "EnhanceItemQuantity": 298,
+        "HighEnhanceItemQuantity": 10,
+        "Id": 32,
+        "Level": 33,
+        "MoneyQuantity": 105000
+    },
+    {
+        "EnhanceItemQuantity": 309,
+        "HighEnhanceItemQuantity": 10,
+        "Id": 33,
+        "Level": 34,
+        "MoneyQuantity": 125000
+    },
+    {
+        "EnhanceItemQuantity": 321,
+        "HighEnhanceItemQuantity": 10,
+        "Id": 34,
+        "Level": 35,
+        "MoneyQuantity": 150000
+    },
+    {
+        "EnhanceItemQuantity": 333,
+        "HighEnhanceItemQuantity": 11,
+        "Id": 35,
+        "Level": 36,
+        "MoneyQuantity": 180000
+    },
+    {
+        "EnhanceItemQuantity": 346,
+        "HighEnhanceItemQuantity": 11,
+        "Id": 36,
+        "Level": 37,
+        "MoneyQuantity": 220000
+    },
+    {
+        "EnhanceItemQuantity": 359,
+        "HighEnhanceItemQuantity": 11,
+        "Id": 37,
+        "Level": 38,
+        "MoneyQuantity": 260000
+    },
+    {
+        "EnhanceItemQuantity": 373,
+        "HighEnhanceItemQuantity": 12,
+        "Id": 38,
+        "Level": 39,
+        "MoneyQuantity": 310000
+    },
+    {
+        "EnhanceItemQuantity": 387,
+        "HighEnhanceItemQuantity": 12,
+        "Id": 39,
+        "Level": 40,
+        "MoneyQuantity": 370000
+    },
+    {
+        "EnhanceItemQuantity": 402,
+        "HighEnhanceItemQuantity": 12,
+        "Id": 40,
+        "Level": 41,
+        "MoneyQuantity": 440000
+    },
+    {
+        "EnhanceItemQuantity": 417,
+        "HighEnhanceItemQuantity": 13,
+        "Id": 41,
+        "Level": 42,
+        "MoneyQuantity": 530000
+    },
+    {
+        "EnhanceItemQuantity": 433,
+        "HighEnhanceItemQuantity": 13,
+        "Id": 42,
+        "Level": 43,
+        "MoneyQuantity": 640000
+    },
+    {
+        "EnhanceItemQuantity": 449,
+        "HighEnhanceItemQuantity": 13,
+        "Id": 43,
+        "Level": 44,
+        "MoneyQuantity": 770000
+    },
+    {
+        "EnhanceItemQuantity": 466,
+        "HighEnhanceItemQuantity": 14,
+        "Id": 44,
+        "Level": 45,
+        "MoneyQuantity": 930000
+    },
+    {
+        "EnhanceItemQuantity": 484,
+        "HighEnhanceItemQuantity": 14,
+        "Id": 45,
+        "Level": 46,
+        "MoneyQuantity": 1120000
+    },
+    {
+        "EnhanceItemQuantity": 502,
+        "HighEnhanceItemQuantity": 14,
+        "Id": 46,
+        "Level": 47,
+        "MoneyQuantity": 1350000
+    },
+    {
+        "EnhanceItemQuantity": 521,
+        "HighEnhanceItemQuantity": 15,
+        "Id": 47,
+        "Level": 48,
+        "MoneyQuantity": 1630000
+    },
+    {
+        "EnhanceItemQuantity": 541,
+        "HighEnhanceItemQuantity": 15,
+        "Id": 48,
+        "Level": 49,
+        "MoneyQuantity": 1980000
+    },
+    {
+        "EnhanceItemQuantity": 562,
+        "HighEnhanceItemQuantity": 15,
+        "Id": 49,
+        "Level": 50,
+        "MoneyQuantity": 2500000
+    },
+    {
+        "EnhanceItemQuantity": 590,
+        "HighEnhanceItemQuantity": 16,
+        "Id": 50,
+        "Level": 51,
+        "MoneyQuantity": 3000000
+    },
+    {
+        "EnhanceItemQuantity": 619,
+        "HighEnhanceItemQuantity": 16,
+        "Id": 51,
+        "Level": 52,
+        "MoneyQuantity": 3600000
+    },
+    {
+        "EnhanceItemQuantity": 649,
+        "HighEnhanceItemQuantity": 16,
+        "Id": 52,
+        "Level": 53,
+        "MoneyQuantity": 4320000
+    },
+    {
+        "EnhanceItemQuantity": 681,
+        "HighEnhanceItemQuantity": 17,
+        "Id": 53,
+        "Level": 54,
+        "MoneyQuantity": 5184000
+    },
+    {
+        "EnhanceItemQuantity": 715,
+        "HighEnhanceItemQuantity": 17,
+        "Id": 54,
+        "Level": 55,
+        "MoneyQuantity": 6220800
+    },
+    {
+        "EnhanceItemQuantity": 750,
+        "HighEnhanceItemQuantity": 17,
+        "Id": 55,
+        "Level": 56,
+        "MoneyQuantity": 7464960
+    },
+    {
+        "EnhanceItemQuantity": 787,
+        "HighEnhanceItemQuantity": 18,
+        "Id": 56,
+        "Level": 57,
+        "MoneyQuantity": 8957952
+    },
+    {
+        "EnhanceItemQuantity": 826,
+        "HighEnhanceItemQuantity": 18,
+        "Id": 57,
+        "Level": 58,
+        "MoneyQuantity": 10749542
+    },
+    {
+        "EnhanceItemQuantity": 867,
+        "HighEnhanceItemQuantity": 18,
+        "Id": 58,
+        "Level": 59,
+        "MoneyQuantity": 12899450
+    },
+    {
+        "EnhanceItemQuantity": 910,
+        "HighEnhanceItemQuantity": 19,
+        "Id": 59,
+        "Level": 60,
+        "MoneyQuantity": 15479340
+    }
+]

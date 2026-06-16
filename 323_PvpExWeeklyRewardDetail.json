@@ -1,0 +1,646 @@
+[
+    {
+        "Id": 10010101,
+        "ItemId": 190000030,
+        "ItemQuantity": 5000,
+        "ItemType": 190,
+        "WeeklyRewardId": 100101
+    },
+    {
+        "Id": 10010102,
+        "ItemId": 111031002,
+        "ItemQuantity": 50,
+        "ItemType": 111,
+        "WeeklyRewardId": 100101
+    },
+    {
+        "Id": 10010103,
+        "ItemId": 111031001,
+        "ItemQuantity": 500,
+        "ItemType": 111,
+        "WeeklyRewardId": 100101
+    },
+    {
+        "Id": 10010201,
+        "ItemId": 190000030,
+        "ItemQuantity": 4600,
+        "ItemType": 190,
+        "WeeklyRewardId": 100102
+    },
+    {
+        "Id": 10010202,
+        "ItemId": 111031002,
+        "ItemQuantity": 45,
+        "ItemType": 111,
+        "WeeklyRewardId": 100102
+    },
+    {
+        "Id": 10010203,
+        "ItemId": 111031001,
+        "ItemQuantity": 475,
+        "ItemType": 111,
+        "WeeklyRewardId": 100102
+    },
+    {
+        "Id": 10010301,
+        "ItemId": 190000030,
+        "ItemQuantity": 4200,
+        "ItemType": 190,
+        "WeeklyRewardId": 100103
+    },
+    {
+        "Id": 10010302,
+        "ItemId": 111031002,
+        "ItemQuantity": 40,
+        "ItemType": 111,
+        "WeeklyRewardId": 100103
+    },
+    {
+        "Id": 10010303,
+        "ItemId": 111031001,
+        "ItemQuantity": 450,
+        "ItemType": 111,
+        "WeeklyRewardId": 100103
+    },
+    {
+        "Id": 10010401,
+        "ItemId": 190000030,
+        "ItemQuantity": 4000,
+        "ItemType": 190,
+        "WeeklyRewardId": 100104
+    },
+    {
+        "Id": 10010402,
+        "ItemId": 111031002,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "WeeklyRewardId": 100104
+    },
+    {
+        "Id": 10010403,
+        "ItemId": 111031001,
+        "ItemQuantity": 425,
+        "ItemType": 111,
+        "WeeklyRewardId": 100104
+    },
+    {
+        "Id": 10010501,
+        "ItemId": 190000030,
+        "ItemQuantity": 3800,
+        "ItemType": 190,
+        "WeeklyRewardId": 100105
+    },
+    {
+        "Id": 10010502,
+        "ItemId": 111031002,
+        "ItemQuantity": 35,
+        "ItemType": 111,
+        "WeeklyRewardId": 100105
+    },
+    {
+        "Id": 10010503,
+        "ItemId": 111031001,
+        "ItemQuantity": 425,
+        "ItemType": 111,
+        "WeeklyRewardId": 100105
+    },
+    {
+        "Id": 10010601,
+        "ItemId": 190000030,
+        "ItemQuantity": 3650,
+        "ItemType": 190,
+        "WeeklyRewardId": 100106
+    },
+    {
+        "Id": 10010602,
+        "ItemId": 111031002,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "WeeklyRewardId": 100106
+    },
+    {
+        "Id": 10010603,
+        "ItemId": 111031001,
+        "ItemQuantity": 400,
+        "ItemType": 111,
+        "WeeklyRewardId": 100106
+    },
+    {
+        "Id": 10010701,
+        "ItemId": 190000030,
+        "ItemQuantity": 3500,
+        "ItemType": 190,
+        "WeeklyRewardId": 100107
+    },
+    {
+        "Id": 10010702,
+        "ItemId": 111031002,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "WeeklyRewardId": 100107
+    },
+    {
+        "Id": 10010703,
+        "ItemId": 111031001,
+        "ItemQuantity": 400,
+        "ItemType": 111,
+        "WeeklyRewardId": 100107
+    },
+    {
+        "Id": 10010801,
+        "ItemId": 190000030,
+        "ItemQuantity": 3400,
+        "ItemType": 190,
+        "WeeklyRewardId": 100108
+    },
+    {
+        "Id": 10010802,
+        "ItemId": 111031002,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "WeeklyRewardId": 100108
+    },
+    {
+        "Id": 10010803,
+        "ItemId": 111031001,
+        "ItemQuantity": 375,
+        "ItemType": 111,
+        "WeeklyRewardId": 100108
+    },
+    {
+        "Id": 10010901,
+        "ItemId": 190000030,
+        "ItemQuantity": 3300,
+        "ItemType": 190,
+        "WeeklyRewardId": 100109
+    },
+    {
+        "Id": 10010902,
+        "ItemId": 111031002,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "WeeklyRewardId": 100109
+    },
+    {
+        "Id": 10010903,
+        "ItemId": 111031001,
+        "ItemQuantity": 375,
+        "ItemType": 111,
+        "WeeklyRewardId": 100109
+    },
+    {
+        "Id": 10011001,
+        "ItemId": 190000030,
+        "ItemQuantity": 3200,
+        "ItemType": 190,
+        "WeeklyRewardId": 100110
+    },
+    {
+        "Id": 10011002,
+        "ItemId": 111031002,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "WeeklyRewardId": 100110
+    },
+    {
+        "Id": 10011003,
+        "ItemId": 111031001,
+        "ItemQuantity": 350,
+        "ItemType": 111,
+        "WeeklyRewardId": 100110
+    },
+    {
+        "Id": 10011101,
+        "ItemId": 190000030,
+        "ItemQuantity": 3100,
+        "ItemType": 190,
+        "WeeklyRewardId": 100111
+    },
+    {
+        "Id": 10011102,
+        "ItemId": 111031002,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "WeeklyRewardId": 100111
+    },
+    {
+        "Id": 10011103,
+        "ItemId": 111031001,
+        "ItemQuantity": 325,
+        "ItemType": 111,
+        "WeeklyRewardId": 100111
+    },
+    {
+        "Id": 10011201,
+        "ItemId": 190000030,
+        "ItemQuantity": 3000,
+        "ItemType": 190,
+        "WeeklyRewardId": 100112
+    },
+    {
+        "Id": 10011202,
+        "ItemId": 111031002,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "WeeklyRewardId": 100112
+    },
+    {
+        "Id": 10011203,
+        "ItemId": 111031001,
+        "ItemQuantity": 325,
+        "ItemType": 111,
+        "WeeklyRewardId": 100112
+    },
+    {
+        "Id": 10011301,
+        "ItemId": 190000030,
+        "ItemQuantity": 2900,
+        "ItemType": 190,
+        "WeeklyRewardId": 100113
+    },
+    {
+        "Id": 10011302,
+        "ItemId": 111031002,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "WeeklyRewardId": 100113
+    },
+    {
+        "Id": 10011303,
+        "ItemId": 111031001,
+        "ItemQuantity": 325,
+        "ItemType": 111,
+        "WeeklyRewardId": 100113
+    },
+    {
+        "Id": 10011401,
+        "ItemId": 190000030,
+        "ItemQuantity": 2800,
+        "ItemType": 190,
+        "WeeklyRewardId": 100114
+    },
+    {
+        "Id": 10011402,
+        "ItemId": 111031002,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "WeeklyRewardId": 100114
+    },
+    {
+        "Id": 10011403,
+        "ItemId": 111031001,
+        "ItemQuantity": 325,
+        "ItemType": 111,
+        "WeeklyRewardId": 100114
+    },
+    {
+        "Id": 10011501,
+        "ItemId": 190000030,
+        "ItemQuantity": 2700,
+        "ItemType": 190,
+        "WeeklyRewardId": 100115
+    },
+    {
+        "Id": 10011502,
+        "ItemId": 111031002,
+        "ItemQuantity": 25,
+        "ItemType": 111,
+        "WeeklyRewardId": 100115
+    },
+    {
+        "Id": 10011503,
+        "ItemId": 111031001,
+        "ItemQuantity": 325,
+        "ItemType": 111,
+        "WeeklyRewardId": 100115
+    },
+    {
+        "Id": 10011601,
+        "ItemId": 190000030,
+        "ItemQuantity": 2650,
+        "ItemType": 190,
+        "WeeklyRewardId": 100116
+    },
+    {
+        "Id": 10011602,
+        "ItemId": 111031002,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "WeeklyRewardId": 100116
+    },
+    {
+        "Id": 10011603,
+        "ItemId": 111031001,
+        "ItemQuantity": 300,
+        "ItemType": 111,
+        "WeeklyRewardId": 100116
+    },
+    {
+        "Id": 10011701,
+        "ItemId": 190000030,
+        "ItemQuantity": 2600,
+        "ItemType": 190,
+        "WeeklyRewardId": 100117
+    },
+    {
+        "Id": 10011702,
+        "ItemId": 111031002,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "WeeklyRewardId": 100117
+    },
+    {
+        "Id": 10011703,
+        "ItemId": 111031001,
+        "ItemQuantity": 300,
+        "ItemType": 111,
+        "WeeklyRewardId": 100117
+    },
+    {
+        "Id": 10011801,
+        "ItemId": 190000030,
+        "ItemQuantity": 2550,
+        "ItemType": 190,
+        "WeeklyRewardId": 100118
+    },
+    {
+        "Id": 10011802,
+        "ItemId": 111031002,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "WeeklyRewardId": 100118
+    },
+    {
+        "Id": 10011803,
+        "ItemId": 111031001,
+        "ItemQuantity": 300,
+        "ItemType": 111,
+        "WeeklyRewardId": 100118
+    },
+    {
+        "Id": 10011901,
+        "ItemId": 190000030,
+        "ItemQuantity": 2500,
+        "ItemType": 190,
+        "WeeklyRewardId": 100119
+    },
+    {
+        "Id": 10011902,
+        "ItemId": 111031002,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "WeeklyRewardId": 100119
+    },
+    {
+        "Id": 10011903,
+        "ItemId": 111031001,
+        "ItemQuantity": 300,
+        "ItemType": 111,
+        "WeeklyRewardId": 100119
+    },
+    {
+        "Id": 10012001,
+        "ItemId": 190000030,
+        "ItemQuantity": 2450,
+        "ItemType": 190,
+        "WeeklyRewardId": 100120
+    },
+    {
+        "Id": 10012002,
+        "ItemId": 111031002,
+        "ItemQuantity": 20,
+        "ItemType": 111,
+        "WeeklyRewardId": 100120
+    },
+    {
+        "Id": 10012003,
+        "ItemId": 111031001,
+        "ItemQuantity": 300,
+        "ItemType": 111,
+        "WeeklyRewardId": 100120
+    },
+    {
+        "Id": 10012101,
+        "ItemId": 190000030,
+        "ItemQuantity": 2350,
+        "ItemType": 190,
+        "WeeklyRewardId": 100121
+    },
+    {
+        "Id": 10012102,
+        "ItemId": 111031002,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "WeeklyRewardId": 100121
+    },
+    {
+        "Id": 10012103,
+        "ItemId": 111031001,
+        "ItemQuantity": 280,
+        "ItemType": 111,
+        "WeeklyRewardId": 100121
+    },
+    {
+        "Id": 10012201,
+        "ItemId": 190000030,
+        "ItemQuantity": 2250,
+        "ItemType": 190,
+        "WeeklyRewardId": 100122
+    },
+    {
+        "Id": 10012202,
+        "ItemId": 111031002,
+        "ItemQuantity": 12,
+        "ItemType": 111,
+        "WeeklyRewardId": 100122
+    },
+    {
+        "Id": 10012203,
+        "ItemId": 111031001,
+        "ItemQuantity": 280,
+        "ItemType": 111,
+        "WeeklyRewardId": 100122
+    },
+    {
+        "Id": 10012301,
+        "ItemId": 190000030,
+        "ItemQuantity": 2150,
+        "ItemType": 190,
+        "WeeklyRewardId": 100123
+    },
+    {
+        "Id": 10012302,
+        "ItemId": 111031002,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "WeeklyRewardId": 100123
+    },
+    {
+        "Id": 10012303,
+        "ItemId": 111031001,
+        "ItemQuantity": 260,
+        "ItemType": 111,
+        "WeeklyRewardId": 100123
+    },
+    {
+        "Id": 10012401,
+        "ItemId": 190000030,
+        "ItemQuantity": 2050,
+        "ItemType": 190,
+        "WeeklyRewardId": 100124
+    },
+    {
+        "Id": 10012402,
+        "ItemId": 111031002,
+        "ItemQuantity": 10,
+        "ItemType": 111,
+        "WeeklyRewardId": 100124
+    },
+    {
+        "Id": 10012403,
+        "ItemId": 111031001,
+        "ItemQuantity": 260,
+        "ItemType": 111,
+        "WeeklyRewardId": 100124
+    },
+    {
+        "Id": 10012501,
+        "ItemId": 190000030,
+        "ItemQuantity": 1950,
+        "ItemType": 190,
+        "WeeklyRewardId": 100125
+    },
+    {
+        "Id": 10012502,
+        "ItemId": 111031001,
+        "ItemQuantity": 240,
+        "ItemType": 111,
+        "WeeklyRewardId": 100125
+    },
+    {
+        "Id": 10012601,
+        "ItemId": 190000030,
+        "ItemQuantity": 1850,
+        "ItemType": 190,
+        "WeeklyRewardId": 100126
+    },
+    {
+        "Id": 10012602,
+        "ItemId": 111031001,
+        "ItemQuantity": 240,
+        "ItemType": 111,
+        "WeeklyRewardId": 100126
+    },
+    {
+        "Id": 10012701,
+        "ItemId": 190000030,
+        "ItemQuantity": 1750,
+        "ItemType": 190,
+        "WeeklyRewardId": 100127
+    },
+    {
+        "Id": 10012702,
+        "ItemId": 111031001,
+        "ItemQuantity": 220,
+        "ItemType": 111,
+        "WeeklyRewardId": 100127
+    },
+    {
+        "Id": 10012801,
+        "ItemId": 190000030,
+        "ItemQuantity": 1650,
+        "ItemType": 190,
+        "WeeklyRewardId": 100128
+    },
+    {
+        "Id": 10012802,
+        "ItemId": 111031001,
+        "ItemQuantity": 220,
+        "ItemType": 111,
+        "WeeklyRewardId": 100128
+    },
+    {
+        "Id": 10012901,
+        "ItemId": 190000030,
+        "ItemQuantity": 1550,
+        "ItemType": 190,
+        "WeeklyRewardId": 100129
+    },
+    {
+        "Id": 10012902,
+        "ItemId": 111031001,
+        "ItemQuantity": 220,
+        "ItemType": 111,
+        "WeeklyRewardId": 100129
+    },
+    {
+        "Id": 10013001,
+        "ItemId": 190000030,
+        "ItemQuantity": 1450,
+        "ItemType": 190,
+        "WeeklyRewardId": 100130
+    },
+    {
+        "Id": 10013002,
+        "ItemId": 111031001,
+        "ItemQuantity": 200,
+        "ItemType": 111,
+        "WeeklyRewardId": 100130
+    },
+    {
+        "Id": 10013101,
+        "ItemId": 190000030,
+        "ItemQuantity": 1350,
+        "ItemType": 190,
+        "WeeklyRewardId": 100131
+    },
+    {
+        "Id": 10013102,
+        "ItemId": 111031001,
+        "ItemQuantity": 200,
+        "ItemType": 111,
+        "WeeklyRewardId": 100131
+    },
+    {
+        "Id": 10013201,
+        "ItemId": 190000030,
+        "ItemQuantity": 1250,
+        "ItemType": 190,
+        "WeeklyRewardId": 100132
+    },
+    {
+        "Id": 10013202,
+        "ItemId": 111031001,
+        "ItemQuantity": 150,
+        "ItemType": 111,
+        "WeeklyRewardId": 100132
+    },
+    {
+        "Id": 10013301,
+        "ItemId": 190000030,
+        "ItemQuantity": 1150,
+        "ItemType": 190,
+        "WeeklyRewardId": 100133
+    },
+    {
+        "Id": 10013302,
+        "ItemId": 111031001,
+        "ItemQuantity": 100,
+        "ItemType": 111,
+        "WeeklyRewardId": 100133
+    },
+    {
+        "Id": 10013401,
+        "ItemId": 190000030,
+        "ItemQuantity": 1050,
+        "ItemType": 190,
+        "WeeklyRewardId": 100134
+    },
+    {
+        "Id": 10013402,
+        "ItemId": 111031001,
+        "ItemQuantity": 100,
+        "ItemType": 111,
+        "WeeklyRewardId": 100134
+    }
+]

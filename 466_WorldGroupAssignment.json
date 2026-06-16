@@ -1,0 +1,3506 @@
+[
+    {
+        "Id": 1,
+        "StartSeasonId": 0,
+        "UniversalId": 1,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 2,
+        "StartSeasonId": 0,
+        "UniversalId": 1,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 3,
+        "StartSeasonId": 0,
+        "UniversalId": 1,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 4,
+        "StartSeasonId": 0,
+        "UniversalId": 1,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 5,
+        "StartSeasonId": 0,
+        "UniversalId": 2,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 6,
+        "StartSeasonId": 0,
+        "UniversalId": 2,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 7,
+        "StartSeasonId": 0,
+        "UniversalId": 2,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 8,
+        "StartSeasonId": 0,
+        "UniversalId": 2,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 9,
+        "StartSeasonId": 0,
+        "UniversalId": 3,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 10,
+        "StartSeasonId": 0,
+        "UniversalId": 3,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 11,
+        "StartSeasonId": 0,
+        "UniversalId": 3,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 12,
+        "StartSeasonId": 0,
+        "UniversalId": 3,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 13,
+        "StartSeasonId": 0,
+        "UniversalId": 4,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 14,
+        "StartSeasonId": 0,
+        "UniversalId": 4,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 15,
+        "StartSeasonId": 0,
+        "UniversalId": 4,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 16,
+        "StartSeasonId": 0,
+        "UniversalId": 4,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 17,
+        "StartSeasonId": 0,
+        "UniversalId": 5,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 18,
+        "StartSeasonId": 0,
+        "UniversalId": 5,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 19,
+        "StartSeasonId": 0,
+        "UniversalId": 5,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 20,
+        "StartSeasonId": 0,
+        "UniversalId": 5,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 21,
+        "StartSeasonId": 0,
+        "UniversalId": 6,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 22,
+        "StartSeasonId": 0,
+        "UniversalId": 6,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 23,
+        "StartSeasonId": 0,
+        "UniversalId": 6,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 24,
+        "StartSeasonId": 0,
+        "UniversalId": 6,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 25,
+        "StartSeasonId": 0,
+        "UniversalId": 7,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 26,
+        "StartSeasonId": 0,
+        "UniversalId": 7,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 27,
+        "StartSeasonId": 0,
+        "UniversalId": 7,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 28,
+        "StartSeasonId": 0,
+        "UniversalId": 7,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 29,
+        "StartSeasonId": 0,
+        "UniversalId": 8,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 30,
+        "StartSeasonId": 0,
+        "UniversalId": 8,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 31,
+        "StartSeasonId": 0,
+        "UniversalId": 8,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 32,
+        "StartSeasonId": 0,
+        "UniversalId": 8,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 33,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 34,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 35,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 36,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 37,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 38,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 39,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 40,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 41,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 42,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 43,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 44,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 45,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 46,
+        "StartSeasonId": 6,
+        "UniversalId": 11,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 47,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 48,
+        "StartSeasonId": 6,
+        "UniversalId": 12,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 49,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 50,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 51,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 52,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 53,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 54,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 55,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 56,
+        "StartSeasonId": 6,
+        "UniversalId": 13,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 57,
+        "StartSeasonId": 6,
+        "UniversalId": 14,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 58,
+        "StartSeasonId": 6,
+        "UniversalId": 14,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 59,
+        "StartSeasonId": 6,
+        "UniversalId": 14,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 60,
+        "StartSeasonId": 6,
+        "UniversalId": 14,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 61,
+        "StartSeasonId": 6,
+        "UniversalId": 15,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 62,
+        "StartSeasonId": 6,
+        "UniversalId": 15,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 63,
+        "StartSeasonId": 6,
+        "UniversalId": 15,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 64,
+        "StartSeasonId": 6,
+        "UniversalId": 15,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 65,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 66,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 67,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 68,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 69,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 70,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 71,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 72,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 73,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 74,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 75,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 76,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 77,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 78,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 79,
+        "StartSeasonId": 9,
+        "UniversalId": 16,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 80,
+        "StartSeasonId": 9,
+        "UniversalId": 17,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 81,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 82,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 83,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 84,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 85,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 86,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 87,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 88,
+        "StartSeasonId": 9,
+        "UniversalId": 18,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 89,
+        "StartSeasonId": 9,
+        "UniversalId": 19,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 90,
+        "StartSeasonId": 9,
+        "UniversalId": 19,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 91,
+        "StartSeasonId": 9,
+        "UniversalId": 19,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 92,
+        "StartSeasonId": 9,
+        "UniversalId": 19,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 93,
+        "StartSeasonId": 9,
+        "UniversalId": 20,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 94,
+        "StartSeasonId": 9,
+        "UniversalId": 20,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 95,
+        "StartSeasonId": 9,
+        "UniversalId": 20,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 96,
+        "StartSeasonId": 9,
+        "UniversalId": 20,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 97,
+        "StartSeasonId": 9,
+        "UniversalId": 21,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 98,
+        "StartSeasonId": 9,
+        "UniversalId": 21,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 99,
+        "StartSeasonId": 9,
+        "UniversalId": 21,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 100,
+        "StartSeasonId": 9,
+        "UniversalId": 21,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 101,
+        "StartSeasonId": 9,
+        "UniversalId": 22,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 102,
+        "StartSeasonId": 9,
+        "UniversalId": 22,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 103,
+        "StartSeasonId": 9,
+        "UniversalId": 22,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 104,
+        "StartSeasonId": 9,
+        "UniversalId": 22,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 105,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 106,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 107,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 108,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 109,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 110,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 111,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 112,
+        "StartSeasonId": 14,
+        "UniversalId": 23,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 113,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 114,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 115,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 116,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 117,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 118,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 119,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 120,
+        "StartSeasonId": 14,
+        "UniversalId": 24,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 121,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 122,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 123,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 124,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 125,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 126,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 127,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 128,
+        "StartSeasonId": 14,
+        "UniversalId": 25,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 129,
+        "StartSeasonId": 14,
+        "UniversalId": 26,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 130,
+        "StartSeasonId": 14,
+        "UniversalId": 26,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 131,
+        "StartSeasonId": 14,
+        "UniversalId": 26,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 132,
+        "StartSeasonId": 14,
+        "UniversalId": 26,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 133,
+        "StartSeasonId": 14,
+        "UniversalId": 27,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 134,
+        "StartSeasonId": 14,
+        "UniversalId": 27,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 135,
+        "StartSeasonId": 14,
+        "UniversalId": 27,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 136,
+        "StartSeasonId": 14,
+        "UniversalId": 27,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 137,
+        "StartSeasonId": 14,
+        "UniversalId": 28,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 138,
+        "StartSeasonId": 14,
+        "UniversalId": 28,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 139,
+        "StartSeasonId": 14,
+        "UniversalId": 28,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 140,
+        "StartSeasonId": 14,
+        "UniversalId": 28,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 141,
+        "StartSeasonId": 14,
+        "UniversalId": 29,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 142,
+        "StartSeasonId": 14,
+        "UniversalId": 29,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 143,
+        "StartSeasonId": 14,
+        "UniversalId": 29,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 144,
+        "StartSeasonId": 14,
+        "UniversalId": 29,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 145,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 146,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 147,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 148,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 149,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 150,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 151,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 152,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 153,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 154,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 155,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 156,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 157,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 158,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 159,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 160,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 161,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 162,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 163,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 164,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 165,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 166,
+        "StartSeasonId": 19,
+        "UniversalId": 30,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 167,
+        "StartSeasonId": 19,
+        "UniversalId": 31,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 168,
+        "StartSeasonId": 19,
+        "UniversalId": 32,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 169,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 170,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 171,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 172,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 173,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 174,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 175,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 176,
+        "StartSeasonId": 19,
+        "UniversalId": 33,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 177,
+        "StartSeasonId": 19,
+        "UniversalId": 34,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 178,
+        "StartSeasonId": 19,
+        "UniversalId": 34,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 179,
+        "StartSeasonId": 19,
+        "UniversalId": 34,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 180,
+        "StartSeasonId": 19,
+        "UniversalId": 34,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 181,
+        "StartSeasonId": 19,
+        "UniversalId": 35,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 182,
+        "StartSeasonId": 19,
+        "UniversalId": 35,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 183,
+        "StartSeasonId": 19,
+        "UniversalId": 35,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 184,
+        "StartSeasonId": 19,
+        "UniversalId": 35,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 185,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 186,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 187,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 188,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 189,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 190,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 191,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 192,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 193,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 194,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 195,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 196,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 197,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 198,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 199,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 200,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 201,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 202,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 203,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 204,
+        "StartSeasonId": 20,
+        "UniversalId": 38,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 205,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 206,
+        "StartSeasonId": 20,
+        "UniversalId": 36,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 207,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 208,
+        "StartSeasonId": 20,
+        "UniversalId": 37,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 209,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 210,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 211,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 212,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 213,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 214,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 215,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 216,
+        "StartSeasonId": 20,
+        "UniversalId": 39,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 217,
+        "StartSeasonId": 20,
+        "UniversalId": 40,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 218,
+        "StartSeasonId": 20,
+        "UniversalId": 40,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 219,
+        "StartSeasonId": 20,
+        "UniversalId": 40,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 220,
+        "StartSeasonId": 20,
+        "UniversalId": 40,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 221,
+        "StartSeasonId": 20,
+        "UniversalId": 41,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 222,
+        "StartSeasonId": 20,
+        "UniversalId": 41,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 223,
+        "StartSeasonId": 20,
+        "UniversalId": 41,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 224,
+        "StartSeasonId": 20,
+        "UniversalId": 41,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 225,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 226,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 227,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 228,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 229,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 230,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 231,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 232,
+        "StartSeasonId": 22,
+        "UniversalId": 23,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 233,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 234,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 235,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 236,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 237,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 238,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 239,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 240,
+        "StartSeasonId": 22,
+        "UniversalId": 24,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 241,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 242,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 243,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 244,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 245,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 246,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 247,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 248,
+        "StartSeasonId": 22,
+        "UniversalId": 25,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 249,
+        "StartSeasonId": 22,
+        "UniversalId": 26,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 250,
+        "StartSeasonId": 22,
+        "UniversalId": 26,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 251,
+        "StartSeasonId": 22,
+        "UniversalId": 26,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 252,
+        "StartSeasonId": 22,
+        "UniversalId": 26,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 253,
+        "StartSeasonId": 22,
+        "UniversalId": 27,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 254,
+        "StartSeasonId": 22,
+        "UniversalId": 27,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 255,
+        "StartSeasonId": 22,
+        "UniversalId": 27,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 256,
+        "StartSeasonId": 22,
+        "UniversalId": 27,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 257,
+        "StartSeasonId": 22,
+        "UniversalId": 28,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 258,
+        "StartSeasonId": 22,
+        "UniversalId": 28,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 259,
+        "StartSeasonId": 22,
+        "UniversalId": 28,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 260,
+        "StartSeasonId": 22,
+        "UniversalId": 28,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 261,
+        "StartSeasonId": 22,
+        "UniversalId": 29,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 262,
+        "StartSeasonId": 22,
+        "UniversalId": 29,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 263,
+        "StartSeasonId": 22,
+        "UniversalId": 29,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 264,
+        "StartSeasonId": 22,
+        "UniversalId": 29,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 265,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 266,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 267,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 268,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 269,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 270,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 271,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 272,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 273,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 274,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 275,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 276,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 277,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 278,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 279,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 280,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 281,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 282,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 283,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 284,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 285,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 286,
+        "StartSeasonId": 23,
+        "UniversalId": 43,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 287,
+        "StartSeasonId": 23,
+        "UniversalId": 42,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 288,
+        "StartSeasonId": 23,
+        "UniversalId": 44,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 289,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 290,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 291,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 292,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 293,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 294,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 295,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 296,
+        "StartSeasonId": 23,
+        "UniversalId": 45,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 297,
+        "StartSeasonId": 23,
+        "UniversalId": 46,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 298,
+        "StartSeasonId": 23,
+        "UniversalId": 46,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 299,
+        "StartSeasonId": 23,
+        "UniversalId": 46,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 300,
+        "StartSeasonId": 23,
+        "UniversalId": 46,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 301,
+        "StartSeasonId": 23,
+        "UniversalId": 47,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 302,
+        "StartSeasonId": 23,
+        "UniversalId": 47,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 303,
+        "StartSeasonId": 23,
+        "UniversalId": 47,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 304,
+        "StartSeasonId": 23,
+        "UniversalId": 47,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 305,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 306,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 307,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 308,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 309,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 310,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 311,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 312,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 313,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 314,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 315,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 316,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 317,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 318,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 319,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 320,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 321,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 322,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 323,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 324,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 325,
+        "StartSeasonId": 24,
+        "UniversalId": 49,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 326,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 327,
+        "StartSeasonId": 24,
+        "UniversalId": 50,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 328,
+        "StartSeasonId": 24,
+        "UniversalId": 48,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 329,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 330,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 331,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 332,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 333,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 334,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 335,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 336,
+        "StartSeasonId": 24,
+        "UniversalId": 51,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 337,
+        "StartSeasonId": 24,
+        "UniversalId": 52,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 338,
+        "StartSeasonId": 24,
+        "UniversalId": 52,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 339,
+        "StartSeasonId": 24,
+        "UniversalId": 52,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 340,
+        "StartSeasonId": 24,
+        "UniversalId": 52,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 341,
+        "StartSeasonId": 24,
+        "UniversalId": 53,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 342,
+        "StartSeasonId": 24,
+        "UniversalId": 53,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 343,
+        "StartSeasonId": 24,
+        "UniversalId": 53,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 344,
+        "StartSeasonId": 24,
+        "UniversalId": 53,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 345,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 346,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 347,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 348,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 349,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 350,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 351,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 352,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 353,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 354,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 355,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 356,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 357,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 358,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 359,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 360,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 361,
+        "StartSeasonId": 25,
+        "UniversalId": 54,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 362,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 363,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 364,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 365,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 366,
+        "StartSeasonId": 25,
+        "UniversalId": 55,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 367,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 368,
+        "StartSeasonId": 25,
+        "UniversalId": 56,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 369,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 370,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 371,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 372,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 373,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 374,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 375,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 376,
+        "StartSeasonId": 25,
+        "UniversalId": 57,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 377,
+        "StartSeasonId": 25,
+        "UniversalId": 58,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 378,
+        "StartSeasonId": 25,
+        "UniversalId": 58,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 379,
+        "StartSeasonId": 25,
+        "UniversalId": 58,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 380,
+        "StartSeasonId": 25,
+        "UniversalId": 58,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 381,
+        "StartSeasonId": 25,
+        "UniversalId": 59,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 382,
+        "StartSeasonId": 25,
+        "UniversalId": 59,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 383,
+        "StartSeasonId": 25,
+        "UniversalId": 59,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 384,
+        "StartSeasonId": 25,
+        "UniversalId": 59,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 385,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 386,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 387,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 388,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 389,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 390,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 391,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 392,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 393,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 394,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 395,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 396,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 397,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 398,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 399,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 400,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 401,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 402,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 403,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 404,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 405,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 406,
+        "StartSeasonId": 26,
+        "UniversalId": 60,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 407,
+        "StartSeasonId": 26,
+        "UniversalId": 61,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 408,
+        "StartSeasonId": 26,
+        "UniversalId": 62,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 409,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 410,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 411,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 412,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 413,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 414,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 415,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 416,
+        "StartSeasonId": 26,
+        "UniversalId": 63,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 417,
+        "StartSeasonId": 26,
+        "UniversalId": 64,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 418,
+        "StartSeasonId": 26,
+        "UniversalId": 64,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 419,
+        "StartSeasonId": 26,
+        "UniversalId": 64,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 420,
+        "StartSeasonId": 26,
+        "UniversalId": 64,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 421,
+        "StartSeasonId": 26,
+        "UniversalId": 65,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 422,
+        "StartSeasonId": 26,
+        "UniversalId": 65,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 423,
+        "StartSeasonId": 26,
+        "UniversalId": 65,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 424,
+        "StartSeasonId": 26,
+        "UniversalId": 65,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 425,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 426,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 427,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 428,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 429,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 430,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 431,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 432,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 433,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 434,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 435,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 436,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 437,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 438,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 439,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 440,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 441,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 442,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 443,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 444,
+        "StartSeasonId": 27,
+        "UniversalId": 68,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 445,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 446,
+        "StartSeasonId": 27,
+        "UniversalId": 66,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 447,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 448,
+        "StartSeasonId": 27,
+        "UniversalId": 67,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 449,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 450,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 451,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 452,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 453,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 454,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 455,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 456,
+        "StartSeasonId": 27,
+        "UniversalId": 69,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 457,
+        "StartSeasonId": 27,
+        "UniversalId": 70,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 458,
+        "StartSeasonId": 27,
+        "UniversalId": 70,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 459,
+        "StartSeasonId": 27,
+        "UniversalId": 70,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 460,
+        "StartSeasonId": 27,
+        "UniversalId": 70,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 461,
+        "StartSeasonId": 27,
+        "UniversalId": 71,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 462,
+        "StartSeasonId": 27,
+        "UniversalId": 71,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 463,
+        "StartSeasonId": 27,
+        "UniversalId": 71,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 464,
+        "StartSeasonId": 27,
+        "UniversalId": 71,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 465,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 466,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 467,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 468,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 469,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 470,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 471,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 472,
+        "StartSeasonId": 28,
+        "UniversalId": 72,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 473,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 474,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 475,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 476,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 477,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 478,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 479,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 480,
+        "StartSeasonId": 28,
+        "UniversalId": 73,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 481,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 482,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 483,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 484,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 485,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 486,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 487,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 488,
+        "StartSeasonId": 28,
+        "UniversalId": 74,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 489,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 490,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 491,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 492,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 493,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 494,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 495,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 496,
+        "StartSeasonId": 28,
+        "UniversalId": 75,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 497,
+        "StartSeasonId": 28,
+        "UniversalId": 76,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 498,
+        "StartSeasonId": 28,
+        "UniversalId": 76,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 499,
+        "StartSeasonId": 28,
+        "UniversalId": 76,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 500,
+        "StartSeasonId": 28,
+        "UniversalId": 76,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 501,
+        "StartSeasonId": 28,
+        "UniversalId": 77,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 502,
+        "StartSeasonId": 28,
+        "UniversalId": 77,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 503,
+        "StartSeasonId": 28,
+        "UniversalId": 77,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 504,
+        "StartSeasonId": 28,
+        "UniversalId": 77,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 505,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 506,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 507,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 508,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 509,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 510,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 511,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 512,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 513,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 514,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 515,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 516,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 517,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 518,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 519,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 520,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 521,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 522,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 523,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 524,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 525,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 526,
+        "StartSeasonId": 29,
+        "UniversalId": 79,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 527,
+        "StartSeasonId": 29,
+        "UniversalId": 78,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 528,
+        "StartSeasonId": 29,
+        "UniversalId": 80,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 529,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 530,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 531,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 532,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 533,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 534,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 535,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 536,
+        "StartSeasonId": 29,
+        "UniversalId": 81,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 537,
+        "StartSeasonId": 29,
+        "UniversalId": 83,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 538,
+        "StartSeasonId": 29,
+        "UniversalId": 83,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 539,
+        "StartSeasonId": 29,
+        "UniversalId": 82,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 540,
+        "StartSeasonId": 29,
+        "UniversalId": 82,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 541,
+        "StartSeasonId": 29,
+        "UniversalId": 83,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 542,
+        "StartSeasonId": 29,
+        "UniversalId": 82,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 543,
+        "StartSeasonId": 29,
+        "UniversalId": 83,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 544,
+        "StartSeasonId": 29,
+        "UniversalId": 82,
+        "WorldGroupId": 40
+    },
+    {
+        "Id": 545,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 546,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 547,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 548,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 549,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 550,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 551,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 552,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 553,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 554,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 555,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 556,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 557,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 558,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 559,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 560,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 561,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 562,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 563,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 564,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 565,
+        "StartSeasonId": 30,
+        "UniversalId": 85,
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 566,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 567,
+        "StartSeasonId": 30,
+        "UniversalId": 86,
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 568,
+        "StartSeasonId": 30,
+        "UniversalId": 84,
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 569,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 570,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 571,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 572,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 573,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 574,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 575,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 576,
+        "StartSeasonId": 30,
+        "UniversalId": 87,
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 577,
+        "StartSeasonId": 30,
+        "UniversalId": 88,
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 578,
+        "StartSeasonId": 30,
+        "UniversalId": 88,
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 579,
+        "StartSeasonId": 30,
+        "UniversalId": 88,
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 580,
+        "StartSeasonId": 30,
+        "UniversalId": 88,
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 581,
+        "StartSeasonId": 30,
+        "UniversalId": 89,
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 582,
+        "StartSeasonId": 30,
+        "UniversalId": 89,
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 583,
+        "StartSeasonId": 30,
+        "UniversalId": 89,
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 584,
+        "StartSeasonId": 30,
+        "UniversalId": 89,
+        "WorldGroupId": 40
+    }
+]

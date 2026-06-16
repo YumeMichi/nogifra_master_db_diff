@@ -1,0 +1,46 @@
+[
+    {
+        "Id": 1,
+        "Name": "初期トレーニング",
+        "PriorityItemId": 111100005,
+        "PriorityItemQuantity": 1,
+        "PriorityItemType": 111,
+        "UseItemId": 0,
+        "UseItemQuantity": 5000,
+        "UseItemType": 102,
+        "VipCondition": 0
+    },
+    {
+        "Id": 2,
+        "Name": "基礎トレーニング",
+        "PriorityItemId": 111100006,
+        "PriorityItemQuantity": 1,
+        "PriorityItemType": 111,
+        "UseItemId": 0,
+        "UseItemQuantity": 20,
+        "UseItemType": 101,
+        "VipCondition": 0
+    },
+    {
+        "Id": 3,
+        "Name": "応用トレーニング",
+        "PriorityItemId": 111100007,
+        "PriorityItemQuantity": 1,
+        "PriorityItemType": 111,
+        "UseItemId": 0,
+        "UseItemQuantity": 60,
+        "UseItemType": 101,
+        "VipCondition": 11
+    },
+    {
+        "Id": 4,
+        "Name": "スペシャルトレーニング",
+        "PriorityItemId": 0,
+        "PriorityItemQuantity": 200,
+        "PriorityItemType": 101,
+        "UseItemId": 0,
+        "UseItemQuantity": 200,
+        "UseItemType": 101,
+        "VipCondition": 12
+    }
+]

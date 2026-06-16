@@ -1,0 +1,212 @@
+[
+    {
+        "Id": 900101,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 900101,
+        "Quantity": 3000
+    },
+    {
+        "Id": 900102,
+        "ItemId": 111020001,
+        "ItemType": 111,
+        "LotRewardSettingId": 900102,
+        "Quantity": 200
+    },
+    {
+        "Id": 900103,
+        "ItemId": 111040004,
+        "ItemType": 111,
+        "LotRewardSettingId": 900103,
+        "Quantity": 10
+    },
+    {
+        "Id": 900201,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 900201,
+        "Quantity": 10000
+    },
+    {
+        "Id": 900202,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 900202,
+        "Quantity": 5
+    },
+    {
+        "Id": 900203,
+        "ItemId": 111040005,
+        "ItemType": 111,
+        "LotRewardSettingId": 900203,
+        "Quantity": 10
+    },
+    {
+        "Id": 900301,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 900301,
+        "Quantity": 30000
+    },
+    {
+        "Id": 900302,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 900302,
+        "Quantity": 10
+    },
+    {
+        "Id": 900303,
+        "ItemId": 111040006,
+        "ItemType": 111,
+        "LotRewardSettingId": 900303,
+        "Quantity": 10
+    },
+    {
+        "Id": 900401,
+        "ItemId": 111040006,
+        "ItemType": 111,
+        "LotRewardSettingId": 900401,
+        "Quantity": 5
+    },
+    {
+        "Id": 900402,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 900402,
+        "Quantity": 10
+    },
+    {
+        "Id": 900403,
+        "ItemId": 111040008,
+        "ItemType": 111,
+        "LotRewardSettingId": 900403,
+        "Quantity": 1
+    },
+    {
+        "Id": 901101,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 901101,
+        "Quantity": 6000
+    },
+    {
+        "Id": 901102,
+        "ItemId": 111020001,
+        "ItemType": 111,
+        "LotRewardSettingId": 901102,
+        "Quantity": 400
+    },
+    {
+        "Id": 901103,
+        "ItemId": 111040004,
+        "ItemType": 111,
+        "LotRewardSettingId": 901103,
+        "Quantity": 20
+    },
+    {
+        "Id": 901201,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 901201,
+        "Quantity": 20000
+    },
+    {
+        "Id": 901202,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 901202,
+        "Quantity": 10
+    },
+    {
+        "Id": 901203,
+        "ItemId": 111040005,
+        "ItemType": 111,
+        "LotRewardSettingId": 901203,
+        "Quantity": 20
+    },
+    {
+        "Id": 901401,
+        "ItemId": 111040006,
+        "ItemType": 111,
+        "LotRewardSettingId": 901401,
+        "Quantity": 10
+    },
+    {
+        "Id": 901402,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 901402,
+        "Quantity": 20
+    },
+    {
+        "Id": 901403,
+        "ItemId": 111040008,
+        "ItemType": 111,
+        "LotRewardSettingId": 901403,
+        "Quantity": 2
+    },
+    {
+        "Id": 90210101,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 902101,
+        "Quantity": 5
+    },
+    {
+        "Id": 90210201,
+        "ItemId": 111100010,
+        "ItemType": 111,
+        "LotRewardSettingId": 902102,
+        "Quantity": 5
+    },
+    {
+        "Id": 90210301,
+        "ItemId": 111040008,
+        "ItemType": 111,
+        "LotRewardSettingId": 902103,
+        "Quantity": 1
+    },
+    {
+        "Id": 90220101,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 902201,
+        "Quantity": 10000
+    },
+    {
+        "Id": 90220201,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "LotRewardSettingId": 902202,
+        "Quantity": 5
+    },
+    {
+        "Id": 90220301,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "LotRewardSettingId": 902203,
+        "Quantity": 5
+    },
+    {
+        "Id": 90230101,
+        "ItemId": 0,
+        "ItemType": 102,
+        "LotRewardSettingId": 902301,
+        "Quantity": 3000
+    },
+    {
+        "Id": 90230201,
+        "ItemId": 111020001,
+        "ItemType": 111,
+        "LotRewardSettingId": 902302,
+        "Quantity": 200
+    },
+    {
+        "Id": 90230301,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "LotRewardSettingId": 902303,
+        "Quantity": 3
+    }
+]

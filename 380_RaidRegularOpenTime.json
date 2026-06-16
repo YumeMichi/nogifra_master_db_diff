@@ -1,0 +1,16 @@
+[
+    {
+        "EndHour": 13,
+        "EndMinute": 59,
+        "Id": 1,
+        "StartHour": 12,
+        "StartMinute": 0
+    },
+    {
+        "EndHour": 20,
+        "EndMinute": 59,
+        "Id": 2,
+        "StartHour": 19,
+        "StartMinute": 0
+    }
+]

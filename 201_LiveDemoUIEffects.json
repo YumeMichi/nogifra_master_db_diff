@@ -1,0 +1,26 @@
+[
+    {
+        "BattleMusicId": 1024301,
+        "Id": 1,
+        "MessageId": "MiniTitle",
+        "Path": "DlcAssets/Effects/Overture_1stAnniv/Eff_Overture_1stAnniv_001/Eff_Overture_1stAnniv_001"
+    },
+    {
+        "BattleMusicId": 1024301,
+        "Id": 2,
+        "MessageId": "StartLogo",
+        "Path": "DlcAssets/Effects/Overture_1stAnniv/Eff_Overture_1stAnniv_002/Eff_Overture_1stAnniv_002"
+    },
+    {
+        "BattleMusicId": 1024302,
+        "Id": 3,
+        "MessageId": "MiniTitle",
+        "Path": "DlcAssets/Effects/Overture_2ndAnniv/Eff_Overture_2ndAnniv_001/Eff_Overture_2ndAnniv_001"
+    },
+    {
+        "BattleMusicId": 1024302,
+        "Id": 4,
+        "MessageId": "StartLogo",
+        "Path": "DlcAssets/Effects/Overture_2ndAnniv/Eff_Overture_2ndAnniv_002/Eff_Overture_2ndAnniv_002"
+    }
+]

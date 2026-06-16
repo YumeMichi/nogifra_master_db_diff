@@ -1,0 +1,947 @@
+[
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610041,
+        "Id": 61004101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610041,
+        "Id": 61004102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610041,
+        "Id": 61004103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610041,
+        "Id": 61004104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610041,
+        "Id": 61004105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610041,
+        "Id": 61004106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610041,
+        "Id": 61004107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610041,
+        "Id": 61004108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610041,
+        "Id": 61004109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610041,
+        "Id": 61004110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610041,
+        "Id": 61004111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610041,
+        "Id": 61004112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610041,
+        "Id": 61004113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610041,
+        "Id": 61004114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610041,
+        "Id": 61004115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610051,
+        "Id": 61005101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610051,
+        "Id": 61005102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610051,
+        "Id": 61005103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610051,
+        "Id": 61005104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610051,
+        "Id": 61005105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610051,
+        "Id": 61005106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610051,
+        "Id": 61005107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610051,
+        "Id": 61005108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610051,
+        "Id": 61005109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610051,
+        "Id": 61005110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610051,
+        "Id": 61005111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610051,
+        "Id": 61005112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610051,
+        "Id": 61005113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610051,
+        "Id": 61005114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610051,
+        "Id": 61005115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610061,
+        "Id": 61006101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610061,
+        "Id": 61006102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610061,
+        "Id": 61006103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610061,
+        "Id": 61006104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610061,
+        "Id": 61006105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610061,
+        "Id": 61006106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610061,
+        "Id": 61006107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610061,
+        "Id": 61006108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610061,
+        "Id": 61006109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610061,
+        "Id": 61006110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610061,
+        "Id": 61006111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610061,
+        "Id": 61006112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610061,
+        "Id": 61006113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610061,
+        "Id": 61006114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610061,
+        "Id": 61006115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610071,
+        "Id": 61007101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610071,
+        "Id": 61007102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610071,
+        "Id": 61007103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610071,
+        "Id": 61007104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610071,
+        "Id": 61007105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610071,
+        "Id": 61007106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610071,
+        "Id": 61007107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610071,
+        "Id": 61007108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610071,
+        "Id": 61007109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610071,
+        "Id": 61007110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610071,
+        "Id": 61007111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610071,
+        "Id": 61007112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610071,
+        "Id": 61007113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610071,
+        "Id": 61007114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610071,
+        "Id": 61007115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610081,
+        "Id": 61008101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610081,
+        "Id": 61008102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610081,
+        "Id": 61008103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610081,
+        "Id": 61008104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610081,
+        "Id": 61008105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610081,
+        "Id": 61008106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610081,
+        "Id": 61008107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610081,
+        "Id": 61008108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610081,
+        "Id": 61008109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610081,
+        "Id": 61008110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610081,
+        "Id": 61008111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610081,
+        "Id": 61008112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610081,
+        "Id": 61008113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610081,
+        "Id": 61008114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610081,
+        "Id": 61008115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610091,
+        "Id": 61009101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610091,
+        "Id": 61009102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610091,
+        "Id": 61009103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610091,
+        "Id": 61009104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610091,
+        "Id": 61009105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610091,
+        "Id": 61009106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610091,
+        "Id": 61009107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610091,
+        "Id": 61009108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610091,
+        "Id": 61009109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610091,
+        "Id": 61009110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610091,
+        "Id": 61009111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610091,
+        "Id": 61009112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610091,
+        "Id": 61009113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610091,
+        "Id": 61009114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610091,
+        "Id": 61009115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610101,
+        "Id": 61010101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610101,
+        "Id": 61010102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610101,
+        "Id": 61010103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610101,
+        "Id": 61010104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610101,
+        "Id": 61010105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610101,
+        "Id": 61010106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610101,
+        "Id": 61010107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610101,
+        "Id": 61010108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610101,
+        "Id": 61010109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610101,
+        "Id": 61010110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610101,
+        "Id": 61010111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610101,
+        "Id": 61010112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610101,
+        "Id": 61010113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610101,
+        "Id": 61010114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610101,
+        "Id": 61010115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610111,
+        "Id": 61011101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610111,
+        "Id": 61011102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610111,
+        "Id": 61011103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610111,
+        "Id": 61011104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610111,
+        "Id": 61011105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610111,
+        "Id": 61011106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610111,
+        "Id": 61011107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610111,
+        "Id": 61011108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610111,
+        "Id": 61011109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610111,
+        "Id": 61011110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610111,
+        "Id": 61011111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610111,
+        "Id": 61011112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610111,
+        "Id": 61011113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610111,
+        "Id": 61011114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610111,
+        "Id": 61011115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 1,
+        "GuildEventId": 610121,
+        "Id": 61012101,
+        "ToRanking": 1,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 2,
+        "GuildEventId": 610121,
+        "Id": 61012102,
+        "ToRanking": 2,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 3,
+        "GuildEventId": 610121,
+        "Id": 61012103,
+        "ToRanking": 3,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 4,
+        "GuildEventId": 610121,
+        "Id": 61012104,
+        "ToRanking": 5,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 6,
+        "GuildEventId": 610121,
+        "Id": 61012105,
+        "ToRanking": 10,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 11,
+        "GuildEventId": 610121,
+        "Id": 61012106,
+        "ToRanking": 20,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 21,
+        "GuildEventId": 610121,
+        "Id": 61012107,
+        "ToRanking": 30,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 31,
+        "GuildEventId": 610121,
+        "Id": 61012108,
+        "ToRanking": 50,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 51,
+        "GuildEventId": 610121,
+        "Id": 61012109,
+        "ToRanking": 70,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 71,
+        "GuildEventId": 610121,
+        "Id": 61012110,
+        "ToRanking": 100,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 101,
+        "GuildEventId": 610121,
+        "Id": 61012111,
+        "ToRanking": 150,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 151,
+        "GuildEventId": 610121,
+        "Id": 61012112,
+        "ToRanking": 200,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 201,
+        "GuildEventId": 610121,
+        "Id": 61012113,
+        "ToRanking": 300,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 301,
+        "GuildEventId": 610121,
+        "Id": 61012114,
+        "ToRanking": 500,
+        "VisibleRankingBorder": true
+    },
+    {
+        "FromRanking": 501,
+        "GuildEventId": 610121,
+        "Id": 61012115,
+        "ToRanking": 9999,
+        "VisibleRankingBorder": true
+    }
+]

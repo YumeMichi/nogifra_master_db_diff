@@ -1,0 +1,1058 @@
+[
+    {
+        "CharacterId": 101,
+        "CueName": "101_chara_sys_3005",
+        "Id": 10101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 101,
+        "CueName": "101_chara_sys_3008",
+        "Id": 10103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 101,
+        "CueName": "101_chara_sys_3021",
+        "Id": 10104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 106,
+        "CueName": "106_chara_sys_3005",
+        "Id": 10601,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 106,
+        "CueName": "106_chara_sys_3008",
+        "Id": 10603,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 106,
+        "CueName": "106_chara_sys_3021",
+        "Id": 10604,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 112,
+        "CueName": "112_chara_sys_3005",
+        "Id": 11201,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 112,
+        "CueName": "112_chara_sys_3008",
+        "Id": 11203,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 112,
+        "CueName": "112_chara_sys_3021",
+        "Id": 11204,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 115,
+        "CueName": "115_chara_sys_3005",
+        "Id": 11501,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 115,
+        "CueName": "115_chara_sys_3008",
+        "Id": 11503,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 115,
+        "CueName": "115_chara_sys_3021",
+        "Id": 11504,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 121,
+        "CueName": "121_chara_sys_3005",
+        "Id": 12101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 121,
+        "CueName": "121_chara_sys_3008",
+        "Id": 12103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 121,
+        "CueName": "121_chara_sys_3021",
+        "Id": 12104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 124,
+        "CueName": "124_chara_sys_3005",
+        "Id": 12401,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 124,
+        "CueName": "124_chara_sys_3008",
+        "Id": 12403,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 124,
+        "CueName": "124_chara_sys_3021",
+        "Id": 12404,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 126,
+        "CueName": "126_chara_sys_3005",
+        "Id": 12601,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 126,
+        "CueName": "126_chara_sys_3008",
+        "Id": 12603,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 126,
+        "CueName": "126_chara_sys_3021",
+        "Id": 12604,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 127,
+        "CueName": "127_chara_sys_3005",
+        "Id": 12701,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 127,
+        "CueName": "127_chara_sys_3008",
+        "Id": 12703,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 127,
+        "CueName": "127_chara_sys_3021",
+        "Id": 12704,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 128,
+        "CueName": "128_chara_sys_3005",
+        "Id": 12801,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 128,
+        "CueName": "128_chara_sys_3008",
+        "Id": 12803,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 128,
+        "CueName": "128_chara_sys_3021",
+        "Id": 12804,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 130,
+        "CueName": "130_chara_sys_3005",
+        "Id": 13001,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 130,
+        "CueName": "130_chara_sys_3008",
+        "Id": 13003,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 130,
+        "CueName": "130_chara_sys_3021",
+        "Id": 13004,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 131,
+        "CueName": "131_chara_sys_3005",
+        "Id": 13101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 131,
+        "CueName": "131_chara_sys_3008",
+        "Id": 13103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 131,
+        "CueName": "131_chara_sys_3021",
+        "Id": 13104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 132,
+        "CueName": "132_chara_sys_3005",
+        "Id": 13201,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 132,
+        "CueName": "132_chara_sys_3008",
+        "Id": 13203,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 132,
+        "CueName": "132_chara_sys_3021",
+        "Id": 13204,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 133,
+        "CueName": "133_chara_sys_3005",
+        "Id": 13301,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 133,
+        "CueName": "133_chara_sys_3008",
+        "Id": 13303,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 133,
+        "CueName": "133_chara_sys_3021",
+        "Id": 13304,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 134,
+        "CueName": "134_chara_sys_3005",
+        "Id": 13401,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 134,
+        "CueName": "134_chara_sys_3008",
+        "Id": 13403,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 134,
+        "CueName": "134_chara_sys_3021",
+        "Id": 13404,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 135,
+        "CueName": "135_chara_sys_3005",
+        "Id": 13501,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 135,
+        "CueName": "135_chara_sys_3008",
+        "Id": 13503,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 135,
+        "CueName": "135_chara_sys_3021",
+        "Id": 13504,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 136,
+        "CueName": "136_chara_sys_3005",
+        "Id": 13601,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 136,
+        "CueName": "136_chara_sys_3008",
+        "Id": 13603,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 136,
+        "CueName": "136_chara_sys_3021",
+        "Id": 13604,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 137,
+        "CueName": "137_chara_sys_3005",
+        "Id": 13701,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 137,
+        "CueName": "137_chara_sys_3008",
+        "Id": 13703,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 137,
+        "CueName": "137_chara_sys_3021",
+        "Id": 13704,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 138,
+        "CueName": "138_chara_sys_3005",
+        "Id": 13801,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 138,
+        "CueName": "138_chara_sys_3008",
+        "Id": 13803,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 138,
+        "CueName": "138_chara_sys_3021",
+        "Id": 13804,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 139,
+        "CueName": "139_chara_sys_3005",
+        "Id": 13901,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 139,
+        "CueName": "139_chara_sys_3008",
+        "Id": 13903,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 139,
+        "CueName": "139_chara_sys_3021",
+        "Id": 13904,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 140,
+        "CueName": "140_chara_sys_3005",
+        "Id": 14001,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 140,
+        "CueName": "140_chara_sys_3008",
+        "Id": 14003,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 140,
+        "CueName": "140_chara_sys_3021",
+        "Id": 14004,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 141,
+        "CueName": "141_chara_sys_3005",
+        "Id": 14101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 141,
+        "CueName": "141_chara_sys_3008",
+        "Id": 14103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 141,
+        "CueName": "141_chara_sys_3021",
+        "Id": 14104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 142,
+        "CueName": "142_chara_sys_3005",
+        "Id": 14201,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 142,
+        "CueName": "142_chara_sys_3008",
+        "Id": 14203,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 142,
+        "CueName": "142_chara_sys_3021",
+        "Id": 14204,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 143,
+        "CueName": "143_chara_sys_3005",
+        "Id": 14301,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 143,
+        "CueName": "143_chara_sys_3008",
+        "Id": 14303,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 143,
+        "CueName": "143_chara_sys_3021",
+        "Id": 14304,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 144,
+        "CueName": "144_chara_sys_3005",
+        "Id": 14401,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 144,
+        "CueName": "144_chara_sys_3008",
+        "Id": 14403,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 144,
+        "CueName": "144_chara_sys_3021",
+        "Id": 14404,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 145,
+        "CueName": "145_chara_sys_3005",
+        "Id": 14501,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 145,
+        "CueName": "145_chara_sys_3008",
+        "Id": 14503,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 145,
+        "CueName": "145_chara_sys_3021",
+        "Id": 14504,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 146,
+        "CueName": "146_chara_sys_3005",
+        "Id": 14601,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 146,
+        "CueName": "146_chara_sys_3008",
+        "Id": 14603,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 146,
+        "CueName": "146_chara_sys_3021",
+        "Id": 14604,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 147,
+        "CueName": "147_chara_sys_3005",
+        "Id": 14701,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 147,
+        "CueName": "147_chara_sys_3008",
+        "Id": 14703,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 147,
+        "CueName": "147_chara_sys_3021",
+        "Id": 14704,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 148,
+        "CueName": "148_chara_sys_3005",
+        "Id": 14801,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 148,
+        "CueName": "148_chara_sys_3008",
+        "Id": 14803,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 148,
+        "CueName": "148_chara_sys_3021",
+        "Id": 14804,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 149,
+        "CueName": "149_chara_sys_3005",
+        "Id": 14901,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 149,
+        "CueName": "149_chara_sys_3008",
+        "Id": 14903,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 149,
+        "CueName": "149_chara_sys_3021",
+        "Id": 14904,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 150,
+        "CueName": "150_chara_sys_3005",
+        "Id": 15001,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 150,
+        "CueName": "150_chara_sys_3008",
+        "Id": 15003,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 150,
+        "CueName": "150_chara_sys_3021",
+        "Id": 15004,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 151,
+        "CueName": "151_chara_sys_3005",
+        "Id": 15101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 151,
+        "CueName": "151_chara_sys_3008",
+        "Id": 15103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 151,
+        "CueName": "151_chara_sys_3021",
+        "Id": 15104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 152,
+        "CueName": "152_chara_sys_3005",
+        "Id": 15201,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 152,
+        "CueName": "152_chara_sys_3008",
+        "Id": 15203,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 152,
+        "CueName": "152_chara_sys_3021",
+        "Id": 15204,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 153,
+        "CueName": "153_chara_sys_3005",
+        "Id": 15301,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 153,
+        "CueName": "153_chara_sys_3008",
+        "Id": 15303,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 153,
+        "CueName": "153_chara_sys_3021",
+        "Id": 15304,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 154,
+        "CueName": "154_chara_sys_3005",
+        "Id": 15401,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 154,
+        "CueName": "154_chara_sys_3008",
+        "Id": 15403,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 154,
+        "CueName": "154_chara_sys_3021",
+        "Id": 15404,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 155,
+        "CueName": "155_chara_sys_3005",
+        "Id": 15501,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 155,
+        "CueName": "155_chara_sys_3008",
+        "Id": 15503,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 155,
+        "CueName": "155_chara_sys_3021",
+        "Id": 15504,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 156,
+        "CueName": "156_chara_sys_3005",
+        "Id": 15601,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 156,
+        "CueName": "156_chara_sys_3008",
+        "Id": 15603,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 156,
+        "CueName": "156_chara_sys_3021",
+        "Id": 15604,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 157,
+        "CueName": "157_chara_sys_3005",
+        "Id": 15701,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 157,
+        "CueName": "157_chara_sys_3008",
+        "Id": 15703,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 157,
+        "CueName": "157_chara_sys_3021",
+        "Id": 15704,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 158,
+        "CueName": "158_chara_sys_3005",
+        "Id": 15801,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 158,
+        "CueName": "158_chara_sys_3008",
+        "Id": 15803,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 158,
+        "CueName": "158_chara_sys_3021",
+        "Id": 15804,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 159,
+        "CueName": "159_chara_sys_3005",
+        "Id": 15901,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 159,
+        "CueName": "159_chara_sys_3008",
+        "Id": 15903,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 159,
+        "CueName": "159_chara_sys_3021",
+        "Id": 15904,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 160,
+        "CueName": "160_chara_sys_3005",
+        "Id": 16001,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 160,
+        "CueName": "160_chara_sys_3008",
+        "Id": 16003,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 160,
+        "CueName": "160_chara_sys_3021",
+        "Id": 16004,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_07",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 161,
+        "CueName": "161_chara_sys_3005",
+        "Id": 16101,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 161,
+        "CueName": "161_chara_sys_3008",
+        "Id": 16103,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 161,
+        "CueName": "161_chara_sys_3021",
+        "Id": 16104,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_06",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 162,
+        "CueName": "162_chara_sys_3005",
+        "Id": 16201,
+        "Message": "やった～",
+        "Motion3dName": "Idle_03",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 162,
+        "CueName": "162_chara_sys_3008",
+        "Id": 16203,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 162,
+        "CueName": "162_chara_sys_3021",
+        "Id": 16204,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_15",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 163,
+        "CueName": "163_chara_sys_3005",
+        "Id": 16301,
+        "Message": "やった～",
+        "Motion3dName": "Idle_16",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 163,
+        "CueName": "163_chara_sys_3008",
+        "Id": 16303,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 163,
+        "CueName": "163_chara_sys_3021",
+        "Id": 16304,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_09",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 164,
+        "CueName": "164_chara_sys_3005",
+        "Id": 16401,
+        "Message": "やった～",
+        "Motion3dName": "Idle_18",
+        "ReactionType": 1
+    },
+    {
+        "CharacterId": 164,
+        "CueName": "164_chara_sys_3008",
+        "Id": 16403,
+        "Message": "ありがとう♪",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    },
+    {
+        "CharacterId": 164,
+        "CueName": "164_chara_sys_3021",
+        "Id": 16404,
+        "Message": "えへへ",
+        "Motion3dName": "Idle_08",
+        "ReactionType": 2
+    }
+]

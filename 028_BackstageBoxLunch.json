@@ -1,0 +1,74 @@
+[
+    {
+        "ConsumableItemId": 111141101,
+        "Id": 1,
+        "ManagementPriority": 6,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 30000,
+        "NeedsItemType": 102,
+        "OpenVipLevel": 0,
+        "RecoveryGaugePoint": 300,
+        "StatusUpRate": 0,
+        "TopPriority": 0
+    },
+    {
+        "ConsumableItemId": 111141102,
+        "Id": 2,
+        "ManagementPriority": 5,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 60000,
+        "NeedsItemType": 102,
+        "OpenVipLevel": 0,
+        "RecoveryGaugePoint": 600,
+        "StatusUpRate": 0,
+        "TopPriority": 0
+    },
+    {
+        "ConsumableItemId": 111141103,
+        "Id": 3,
+        "ManagementPriority": 4,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 100000,
+        "NeedsItemType": 102,
+        "OpenVipLevel": 0,
+        "RecoveryGaugePoint": 1000,
+        "StatusUpRate": 0,
+        "TopPriority": 0
+    },
+    {
+        "ConsumableItemId": 111141201,
+        "Id": 4,
+        "ManagementPriority": 3,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 500000,
+        "NeedsItemType": 102,
+        "OpenVipLevel": 2,
+        "RecoveryGaugePoint": 2000,
+        "StatusUpRate": 0.5,
+        "TopPriority": 3
+    },
+    {
+        "ConsumableItemId": 111141202,
+        "Id": 5,
+        "ManagementPriority": 2,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 30,
+        "NeedsItemType": 101,
+        "OpenVipLevel": 4,
+        "RecoveryGaugePoint": 5000,
+        "StatusUpRate": 3,
+        "TopPriority": 2
+    },
+    {
+        "ConsumableItemId": 111141203,
+        "Id": 6,
+        "ManagementPriority": 1,
+        "NeedsItemId": 0,
+        "NeedsItemQuantity": 50,
+        "NeedsItemType": 101,
+        "OpenVipLevel": 6,
+        "RecoveryGaugePoint": 10000,
+        "StatusUpRate": 5,
+        "TopPriority": 1
+    }
+]

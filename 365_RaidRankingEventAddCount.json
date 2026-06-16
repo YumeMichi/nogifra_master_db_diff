@@ -1,0 +1,62 @@
+[
+    {
+        "Id": 1,
+        "RangeEnd": 5,
+        "RangeStart": 1,
+        "RequiredCoinQuantity": 30
+    },
+    {
+        "Id": 2,
+        "RangeEnd": 8,
+        "RangeStart": 6,
+        "RequiredCoinQuantity": 40
+    },
+    {
+        "Id": 3,
+        "RangeEnd": 11,
+        "RangeStart": 9,
+        "RequiredCoinQuantity": 50
+    },
+    {
+        "Id": 4,
+        "RangeEnd": 14,
+        "RangeStart": 12,
+        "RequiredCoinQuantity": 70
+    },
+    {
+        "Id": 5,
+        "RangeEnd": 16,
+        "RangeStart": 15,
+        "RequiredCoinQuantity": 90
+    },
+    {
+        "Id": 6,
+        "RangeEnd": 18,
+        "RangeStart": 17,
+        "RequiredCoinQuantity": 120
+    },
+    {
+        "Id": 7,
+        "RangeEnd": 20,
+        "RangeStart": 19,
+        "RequiredCoinQuantity": 150
+    },
+    {
+        "Id": 8,
+        "RangeEnd": 22,
+        "RangeStart": 21,
+        "RequiredCoinQuantity": 200
+    },
+    {
+        "Id": 9,
+        "RangeEnd": 24,
+        "RangeStart": 23,
+        "RequiredCoinQuantity": 250
+    },
+    {
+        "Id": 10,
+        "RangeEnd": 0,
+        "RangeStart": 25,
+        "RequiredCoinQuantity": 300
+    }
+]

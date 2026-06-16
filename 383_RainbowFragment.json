@@ -1,0 +1,77 @@
+[
+    {
+        "ConsumableItemId": 111160001,
+        "Id": 1,
+        "TargetRarity": 1
+    },
+    {
+        "ConsumableItemId": 111160002,
+        "Id": 2,
+        "TargetRarity": 2
+    },
+    {
+        "ConsumableItemId": 111160003,
+        "Id": 3,
+        "TargetRarity": 3
+    },
+    {
+        "ConsumableItemId": 111160004,
+        "Id": 4,
+        "TargetRarity": 4
+    },
+    {
+        "ConsumableItemId": 111160999,
+        "Id": 5,
+        "TargetRarity": 99
+    },
+    {
+        "ConsumableItemId": 111160005,
+        "Id": 6,
+        "TargetRarity": 5
+    },
+    {
+        "ConsumableItemId": 111160006,
+        "Id": 7,
+        "TargetRarity": 6
+    },
+    {
+        "ConsumableItemId": 111161002,
+        "Id": 101,
+        "TargetRarity": 101
+    },
+    {
+        "ConsumableItemId": 111161003,
+        "Id": 102,
+        "TargetRarity": 102
+    },
+    {
+        "ConsumableItemId": 111161004,
+        "Id": 103,
+        "TargetRarity": 103
+    },
+    {
+        "ConsumableItemId": 111161999,
+        "Id": 104,
+        "TargetRarity": 199
+    },
+    {
+        "ConsumableItemId": 111161002,
+        "Id": 202,
+        "TargetRarity": 202
+    },
+    {
+        "ConsumableItemId": 111161003,
+        "Id": 203,
+        "TargetRarity": 203
+    },
+    {
+        "ConsumableItemId": 111161004,
+        "Id": 204,
+        "TargetRarity": 204
+    },
+    {
+        "ConsumableItemId": 111161999,
+        "Id": 299,
+        "TargetRarity": 299
+    }
+]

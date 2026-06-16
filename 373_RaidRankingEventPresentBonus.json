@@ -1,0 +1,110 @@
+[
+    {
+        "DropUpRate": 0.2,
+        "Id": 1000111,
+        "ItemId": 0,
+        "ItemQuantity": 300000,
+        "ItemType": 102,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100011
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000112,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 101,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100011
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000113,
+        "ItemId": 190102031,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100011
+    },
+    {
+        "DropUpRate": 0.2,
+        "Id": 1000121,
+        "ItemId": 0,
+        "ItemQuantity": 1000000,
+        "ItemType": 102,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100012
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000122,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 101,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100012
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000123,
+        "ItemId": 190102031,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100012
+    },
+    {
+        "DropUpRate": 0.2,
+        "Id": 1000411,
+        "ItemId": 0,
+        "ItemQuantity": 300000,
+        "ItemType": 102,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100041
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000412,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 101,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100041
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000413,
+        "ItemId": 190102004,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "LimitCount": 5,
+        "PresentBonusGroupId": 100041
+    },
+    {
+        "DropUpRate": 0.2,
+        "Id": 1000421,
+        "ItemId": 0,
+        "ItemQuantity": 1000000,
+        "ItemType": 102,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100042
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000422,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 101,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100042
+    },
+    {
+        "DropUpRate": 1,
+        "Id": 1000423,
+        "ItemId": 190102004,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "LimitCount": 10,
+        "PresentBonusGroupId": 100042
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "ChatType": 1,
+        "Id": 1,
+        "WordLimit": 255
+    },
+    {
+        "ChatType": 2,
+        "Id": 2,
+        "WordLimit": 255
+    },
+    {
+        "ChatType": 3,
+        "Id": 3,
+        "WordLimit": 255
+    },
+    {
+        "ChatType": 4,
+        "Id": 4,
+        "WordLimit": 255
+    },
+    {
+        "ChatType": 5,
+        "Id": 5,
+        "WordLimit": 120
+    }
+]

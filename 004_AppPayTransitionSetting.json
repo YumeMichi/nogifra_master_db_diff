@@ -1,0 +1,11 @@
+[
+    {
+        "DescriptionText": "アプリペイで商品を購入する際に必要となる識別IDです",
+        "EndAt": "2100-12-10T15:00:00+09:00",
+        "Id": 100,
+        "ResourceId": 400001,
+        "StartAt": "2025-12-10T15:00:00+09:00",
+        "TitleText": "アプリペイ識別ID",
+        "TransitionUrl": ""
+    }
+]

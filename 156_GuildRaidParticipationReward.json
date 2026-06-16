@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "RewardItemId": 0,
+        "RewardQuantity": 10,
+        "RewardType": 160
+    },
+    {
+        "Id": 2,
+        "RewardItemId": 8,
+        "RewardQuantity": 10,
+        "RewardType": 190
+    },
+    {
+        "Id": 3,
+        "RewardItemId": 13,
+        "RewardQuantity": 20,
+        "RewardType": 190
+    }
+]

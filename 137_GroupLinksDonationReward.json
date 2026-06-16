@@ -1,0 +1,22 @@
+[
+    {
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "Id": 10001,
+        "IsDefault": true,
+        "ItemId": 7,
+        "ItemQuantity": 5,
+        "ItemType": 190,
+        "Priority": 1,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "Id": 10002,
+        "IsDefault": true,
+        "ItemId": 190000019,
+        "ItemQuantity": 3,
+        "ItemType": 190,
+        "Priority": 2,
+        "StartAt": "2022-08-03T05:00:00+09:00"
+    }
+]

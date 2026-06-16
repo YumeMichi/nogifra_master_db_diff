@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "RangeEnd": 2,
+        "RangeStart": 1,
+        "RequiredCoinQuantity": 50
+    },
+    {
+        "Id": 2,
+        "RangeEnd": 4,
+        "RangeStart": 3,
+        "RequiredCoinQuantity": 100
+    },
+    {
+        "Id": 3,
+        "RangeEnd": 6,
+        "RangeStart": 5,
+        "RequiredCoinQuantity": 150
+    },
+    {
+        "Id": 4,
+        "RangeEnd": 8,
+        "RangeStart": 7,
+        "RequiredCoinQuantity": 200
+    },
+    {
+        "Id": 5,
+        "RangeEnd": 10,
+        "RangeStart": 9,
+        "RequiredCoinQuantity": 250
+    },
+    {
+        "Id": 6,
+        "RangeEnd": 12,
+        "RangeStart": 11,
+        "RequiredCoinQuantity": 300
+    },
+    {
+        "Id": 7,
+        "RangeEnd": 14,
+        "RangeStart": 13,
+        "RequiredCoinQuantity": 400
+    },
+    {
+        "Id": 8,
+        "RangeEnd": 0,
+        "RangeStart": 15,
+        "RequiredCoinQuantity": 500
+    }
+]

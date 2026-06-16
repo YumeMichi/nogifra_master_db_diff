@@ -1,0 +1,79 @@
+[
+    {
+        "BonusType": 1,
+        "BonusValue": 50,
+        "DayOfWeek": 25,
+        "Id": 1,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 1,
+        "BonusValue": 150,
+        "DayOfWeek": 34,
+        "Id": 2,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 2,
+        "BonusValue": 150,
+        "DayOfWeek": 16,
+        "Id": 3,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 3,
+        "BonusValue": 100,
+        "DayOfWeek": 68,
+        "Id": 4,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 4,
+        "BonusValue": 100,
+        "DayOfWeek": 65,
+        "Id": 5,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 5,
+        "BonusValue": 100,
+        "DayOfWeek": 42,
+        "Id": 6,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 1,
+        "BonusValue": 300,
+        "DayOfWeek": 0,
+        "Id": 7,
+        "WeekdaySetId": 1
+    },
+    {
+        "BonusType": 1,
+        "BonusValue": 300,
+        "DayOfWeek": 127,
+        "Id": 2001,
+        "WeekdaySetId": 2
+    },
+    {
+        "BonusType": 5,
+        "BonusValue": 100,
+        "DayOfWeek": 127,
+        "Id": 2002,
+        "WeekdaySetId": 2
+    },
+    {
+        "BonusType": 1,
+        "BonusValue": 300,
+        "DayOfWeek": 127,
+        "Id": 3001,
+        "WeekdaySetId": 3
+    },
+    {
+        "BonusType": 5,
+        "BonusValue": 200,
+        "DayOfWeek": 127,
+        "Id": 3002,
+        "WeekdaySetId": 3
+    }
+]

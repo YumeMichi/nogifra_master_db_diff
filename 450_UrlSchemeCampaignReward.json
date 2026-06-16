@@ -1,0 +1,380 @@
+[
+    {
+        "CampaignId": 1,
+        "Id": 11,
+        "ItemId": 111081005,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 2,
+        "Id": 21,
+        "ItemId": 111100004,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 3,
+        "Id": 31,
+        "ItemId": 111100009,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 4,
+        "Id": 41,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 5,
+        "Id": 51,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 6,
+        "Id": 61,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 7,
+        "Id": 71,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 8,
+        "Id": 81,
+        "ItemId": 0,
+        "ItemQuantity": 1,
+        "ItemType": 102
+    },
+    {
+        "CampaignId": 9,
+        "Id": 91,
+        "ItemId": 111110120,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 10,
+        "Id": 101,
+        "ItemId": 111110113,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 11,
+        "Id": 111,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 12,
+        "Id": 121,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 13,
+        "Id": 131,
+        "ItemId": 0,
+        "ItemQuantity": 4600,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 14,
+        "Id": 141,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 15,
+        "Id": 151,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 16,
+        "Id": 161,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 17,
+        "Id": 171,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 18,
+        "Id": 181,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 19,
+        "Id": 191,
+        "ItemId": 111110118,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 20,
+        "Id": 201,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 21,
+        "Id": 211,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 22,
+        "Id": 221,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 23,
+        "Id": 231,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 24,
+        "Id": 241,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 25,
+        "Id": 251,
+        "ItemId": 0,
+        "ItemQuantity": 460,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 26,
+        "Id": 261,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 27,
+        "Id": 271,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 28,
+        "Id": 281,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 29,
+        "Id": 291,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 30,
+        "Id": 301,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 31,
+        "Id": 311,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 32,
+        "Id": 321,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 33,
+        "Id": 331,
+        "ItemId": 111110124,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 34,
+        "Id": 332,
+        "ItemId": 111040662,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 35,
+        "Id": 351,
+        "ItemId": 111040663,
+        "ItemQuantity": 1,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 36,
+        "Id": 361,
+        "ItemId": 111110112,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 37,
+        "Id": 371,
+        "ItemId": 111110115,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 38,
+        "Id": 381,
+        "ItemId": 111081006,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 39,
+        "Id": 391,
+        "ItemId": 111100009,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 40,
+        "Id": 401,
+        "ItemId": 111081006,
+        "ItemQuantity": 15,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 41,
+        "Id": 411,
+        "ItemId": 111100010,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 42,
+        "Id": 421,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 43,
+        "Id": 431,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 44,
+        "Id": 441,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    },
+    {
+        "CampaignId": 45,
+        "Id": 451,
+        "ItemId": 111110101,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 46,
+        "Id": 461,
+        "ItemId": 111100007,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 47,
+        "Id": 471,
+        "ItemId": 111100007,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 48,
+        "Id": 481,
+        "ItemId": 111110121,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 49,
+        "Id": 491,
+        "ItemId": 111110106,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 50,
+        "Id": 501,
+        "ItemId": 111110142,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 51,
+        "Id": 511,
+        "ItemId": 190100022,
+        "ItemQuantity": 10,
+        "ItemType": 190
+    },
+    {
+        "CampaignId": 52,
+        "Id": 521,
+        "ItemId": 111110147,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "CampaignId": 53,
+        "Id": 531,
+        "ItemId": 190100024,
+        "ItemQuantity": 10,
+        "ItemType": 190
+    },
+    {
+        "CampaignId": 54,
+        "Id": 541,
+        "ItemId": 0,
+        "ItemQuantity": 3000,
+        "ItemType": 104
+    }
+]

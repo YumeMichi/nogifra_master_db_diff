@@ -1,0 +1,1520 @@
+[
+    {
+        "DiffFromPrevExp": 0,
+        "EvolutionCount": 0,
+        "Id": 1,
+        "Rank": 1
+    },
+    {
+        "DiffFromPrevExp": 60,
+        "EvolutionCount": 0,
+        "Id": 2,
+        "Rank": 2
+    },
+    {
+        "DiffFromPrevExp": 74,
+        "EvolutionCount": 0,
+        "Id": 3,
+        "Rank": 3
+    },
+    {
+        "DiffFromPrevExp": 125,
+        "EvolutionCount": 0,
+        "Id": 4,
+        "Rank": 4
+    },
+    {
+        "DiffFromPrevExp": 214,
+        "EvolutionCount": 0,
+        "Id": 5,
+        "Rank": 5
+    },
+    {
+        "DiffFromPrevExp": 345,
+        "EvolutionCount": 0,
+        "Id": 6,
+        "Rank": 6
+    },
+    {
+        "DiffFromPrevExp": 539,
+        "EvolutionCount": 0,
+        "Id": 7,
+        "Rank": 7
+    },
+    {
+        "DiffFromPrevExp": 773,
+        "EvolutionCount": 0,
+        "Id": 8,
+        "Rank": 8
+    },
+    {
+        "DiffFromPrevExp": 1028,
+        "EvolutionCount": 0,
+        "Id": 9,
+        "Rank": 9
+    },
+    {
+        "DiffFromPrevExp": 1335,
+        "EvolutionCount": 0,
+        "Id": 10,
+        "Rank": 10
+    },
+    {
+        "DiffFromPrevExp": 1725,
+        "EvolutionCount": 0,
+        "Id": 11,
+        "Rank": 11
+    },
+    {
+        "DiffFromPrevExp": 2208,
+        "EvolutionCount": 0,
+        "Id": 12,
+        "Rank": 12
+    },
+    {
+        "DiffFromPrevExp": 2832,
+        "EvolutionCount": 0,
+        "Id": 13,
+        "Rank": 13
+    },
+    {
+        "DiffFromPrevExp": 3780,
+        "EvolutionCount": 0,
+        "Id": 14,
+        "Rank": 14
+    },
+    {
+        "DiffFromPrevExp": 5239,
+        "EvolutionCount": 0,
+        "Id": 15,
+        "Rank": 15
+    },
+    {
+        "DiffFromPrevExp": 7257,
+        "EvolutionCount": 0,
+        "Id": 16,
+        "Rank": 16
+    },
+    {
+        "DiffFromPrevExp": 10081,
+        "EvolutionCount": 0,
+        "Id": 17,
+        "Rank": 17
+    },
+    {
+        "DiffFromPrevExp": 13209,
+        "EvolutionCount": 0,
+        "Id": 18,
+        "Rank": 18
+    },
+    {
+        "DiffFromPrevExp": 16852,
+        "EvolutionCount": 0,
+        "Id": 19,
+        "Rank": 19
+    },
+    {
+        "DiffFromPrevExp": 22372,
+        "EvolutionCount": 0,
+        "Id": 20,
+        "Rank": 20
+    },
+    {
+        "DiffFromPrevExp": 32448,
+        "EvolutionCount": 0,
+        "Id": 21,
+        "Rank": 21
+    },
+    {
+        "DiffFromPrevExp": 46088,
+        "EvolutionCount": 0,
+        "Id": 22,
+        "Rank": 22
+    },
+    {
+        "DiffFromPrevExp": 62768,
+        "EvolutionCount": 0,
+        "Id": 23,
+        "Rank": 23
+    },
+    {
+        "DiffFromPrevExp": 84194,
+        "EvolutionCount": 0,
+        "Id": 24,
+        "Rank": 24
+    },
+    {
+        "DiffFromPrevExp": 111583,
+        "EvolutionCount": 0,
+        "Id": 25,
+        "Rank": 25
+    },
+    {
+        "DiffFromPrevExp": 145699,
+        "EvolutionCount": 0,
+        "Id": 26,
+        "Rank": 26
+    },
+    {
+        "DiffFromPrevExp": 187244,
+        "EvolutionCount": 0,
+        "Id": 27,
+        "Rank": 27
+    },
+    {
+        "DiffFromPrevExp": 234729,
+        "EvolutionCount": 0,
+        "Id": 28,
+        "Rank": 28
+    },
+    {
+        "DiffFromPrevExp": 283003,
+        "EvolutionCount": 0,
+        "Id": 29,
+        "Rank": 29
+    },
+    {
+        "DiffFromPrevExp": 336855,
+        "EvolutionCount": 0,
+        "Id": 30,
+        "Rank": 30
+    },
+    {
+        "DiffFromPrevExp": 396275,
+        "EvolutionCount": 0,
+        "Id": 31,
+        "Rank": 31
+    },
+    {
+        "DiffFromPrevExp": 461213,
+        "EvolutionCount": 0,
+        "Id": 32,
+        "Rank": 32
+    },
+    {
+        "DiffFromPrevExp": 531582,
+        "EvolutionCount": 0,
+        "Id": 33,
+        "Rank": 33
+    },
+    {
+        "DiffFromPrevExp": 607267,
+        "EvolutionCount": 0,
+        "Id": 34,
+        "Rank": 34
+    },
+    {
+        "DiffFromPrevExp": 688127,
+        "EvolutionCount": 0,
+        "Id": 35,
+        "Rank": 35
+    },
+    {
+        "DiffFromPrevExp": 774001,
+        "EvolutionCount": 0,
+        "Id": 36,
+        "Rank": 36
+    },
+    {
+        "DiffFromPrevExp": 864712,
+        "EvolutionCount": 0,
+        "Id": 37,
+        "Rank": 37
+    },
+    {
+        "DiffFromPrevExp": 960073,
+        "EvolutionCount": 0,
+        "Id": 38,
+        "Rank": 38
+    },
+    {
+        "DiffFromPrevExp": 1059888,
+        "EvolutionCount": 0,
+        "Id": 39,
+        "Rank": 39
+    },
+    {
+        "DiffFromPrevExp": 1125770,
+        "EvolutionCount": 0,
+        "Id": 40,
+        "Rank": 40
+    },
+    {
+        "DiffFromPrevExp": 1216230,
+        "EvolutionCount": 0,
+        "Id": 41,
+        "Rank": 41
+    },
+    {
+        "DiffFromPrevExp": 1311410,
+        "EvolutionCount": 0,
+        "Id": 42,
+        "Rank": 42
+    },
+    {
+        "DiffFromPrevExp": 1411430,
+        "EvolutionCount": 0,
+        "Id": 43,
+        "Rank": 43
+    },
+    {
+        "DiffFromPrevExp": 1516410,
+        "EvolutionCount": 0,
+        "Id": 44,
+        "Rank": 44
+    },
+    {
+        "DiffFromPrevExp": 1626470,
+        "EvolutionCount": 0,
+        "Id": 45,
+        "Rank": 45
+    },
+    {
+        "DiffFromPrevExp": 1741730,
+        "EvolutionCount": 0,
+        "Id": 46,
+        "Rank": 46
+    },
+    {
+        "DiffFromPrevExp": 1862310,
+        "EvolutionCount": 0,
+        "Id": 47,
+        "Rank": 47
+    },
+    {
+        "DiffFromPrevExp": 1988330,
+        "EvolutionCount": 0,
+        "Id": 48,
+        "Rank": 48
+    },
+    {
+        "DiffFromPrevExp": 2119910,
+        "EvolutionCount": 0,
+        "Id": 49,
+        "Rank": 49
+    },
+    {
+        "DiffFromPrevExp": 2257170,
+        "EvolutionCount": 0,
+        "Id": 50,
+        "Rank": 50
+    },
+    {
+        "DiffFromPrevExp": 2400230,
+        "EvolutionCount": 0,
+        "Id": 51,
+        "Rank": 51
+    },
+    {
+        "DiffFromPrevExp": 2549210,
+        "EvolutionCount": 0,
+        "Id": 52,
+        "Rank": 52
+    },
+    {
+        "DiffFromPrevExp": 2704230,
+        "EvolutionCount": 0,
+        "Id": 53,
+        "Rank": 53
+    },
+    {
+        "DiffFromPrevExp": 2865410,
+        "EvolutionCount": 0,
+        "Id": 54,
+        "Rank": 54
+    },
+    {
+        "DiffFromPrevExp": 3032870,
+        "EvolutionCount": 0,
+        "Id": 55,
+        "Rank": 55
+    },
+    {
+        "DiffFromPrevExp": 3206730,
+        "EvolutionCount": 0,
+        "Id": 56,
+        "Rank": 56
+    },
+    {
+        "DiffFromPrevExp": 3387110,
+        "EvolutionCount": 0,
+        "Id": 57,
+        "Rank": 57
+    },
+    {
+        "DiffFromPrevExp": 3574130,
+        "EvolutionCount": 0,
+        "Id": 58,
+        "Rank": 58
+    },
+    {
+        "DiffFromPrevExp": 3767910,
+        "EvolutionCount": 0,
+        "Id": 59,
+        "Rank": 59
+    },
+    {
+        "DiffFromPrevExp": 3968570,
+        "EvolutionCount": 0,
+        "Id": 60,
+        "Rank": 60
+    },
+    {
+        "DiffFromPrevExp": 4176230,
+        "EvolutionCount": 0,
+        "Id": 61,
+        "Rank": 61
+    },
+    {
+        "DiffFromPrevExp": 4391010,
+        "EvolutionCount": 0,
+        "Id": 62,
+        "Rank": 62
+    },
+    {
+        "DiffFromPrevExp": 4613030,
+        "EvolutionCount": 0,
+        "Id": 63,
+        "Rank": 63
+    },
+    {
+        "DiffFromPrevExp": 4842410,
+        "EvolutionCount": 0,
+        "Id": 64,
+        "Rank": 64
+    },
+    {
+        "DiffFromPrevExp": 5079270,
+        "EvolutionCount": 0,
+        "Id": 65,
+        "Rank": 65
+    },
+    {
+        "DiffFromPrevExp": 5323730,
+        "EvolutionCount": 0,
+        "Id": 66,
+        "Rank": 66
+    },
+    {
+        "DiffFromPrevExp": 5575910,
+        "EvolutionCount": 0,
+        "Id": 67,
+        "Rank": 67
+    },
+    {
+        "DiffFromPrevExp": 5835930,
+        "EvolutionCount": 0,
+        "Id": 68,
+        "Rank": 68
+    },
+    {
+        "DiffFromPrevExp": 6103910,
+        "EvolutionCount": 0,
+        "Id": 69,
+        "Rank": 69
+    },
+    {
+        "DiffFromPrevExp": 6379970,
+        "EvolutionCount": 0,
+        "Id": 70,
+        "Rank": 70
+    },
+    {
+        "DiffFromPrevExp": 6664230,
+        "EvolutionCount": 0,
+        "Id": 71,
+        "Rank": 71
+    },
+    {
+        "DiffFromPrevExp": 8072310,
+        "EvolutionCount": 0,
+        "Id": 72,
+        "Rank": 72
+    },
+    {
+        "DiffFromPrevExp": 9199740,
+        "EvolutionCount": 0,
+        "Id": 73,
+        "Rank": 73
+    },
+    {
+        "DiffFromPrevExp": 10394940,
+        "EvolutionCount": 0,
+        "Id": 74,
+        "Rank": 74
+    },
+    {
+        "DiffFromPrevExp": 11956320,
+        "EvolutionCount": 0,
+        "Id": 75,
+        "Rank": 75
+    },
+    {
+        "DiffFromPrevExp": 13582400,
+        "EvolutionCount": 0,
+        "Id": 76,
+        "Rank": 76
+    },
+    {
+        "DiffFromPrevExp": 14971860,
+        "EvolutionCount": 0,
+        "Id": 77,
+        "Rank": 77
+    },
+    {
+        "DiffFromPrevExp": 16923480,
+        "EvolutionCount": 0,
+        "Id": 78,
+        "Rank": 78
+    },
+    {
+        "DiffFromPrevExp": 18036150,
+        "EvolutionCount": 0,
+        "Id": 79,
+        "Rank": 79
+    },
+    {
+        "DiffFromPrevExp": 19908830,
+        "EvolutionCount": 0,
+        "Id": 80,
+        "Rank": 80
+    },
+    {
+        "DiffFromPrevExp": 22040550,
+        "EvolutionCount": 0,
+        "Id": 81,
+        "Rank": 81
+    },
+    {
+        "DiffFromPrevExp": 25230400,
+        "EvolutionCount": 0,
+        "Id": 82,
+        "Rank": 82
+    },
+    {
+        "DiffFromPrevExp": 27477540,
+        "EvolutionCount": 0,
+        "Id": 83,
+        "Rank": 83
+    },
+    {
+        "DiffFromPrevExp": 29681190,
+        "EvolutionCount": 0,
+        "Id": 84,
+        "Rank": 84
+    },
+    {
+        "DiffFromPrevExp": 31240580,
+        "EvolutionCount": 0,
+        "Id": 85,
+        "Rank": 85
+    },
+    {
+        "DiffFromPrevExp": 33355010,
+        "EvolutionCount": 0,
+        "Id": 86,
+        "Rank": 86
+    },
+    {
+        "DiffFromPrevExp": 35423810,
+        "EvolutionCount": 0,
+        "Id": 87,
+        "Rank": 87
+    },
+    {
+        "DiffFromPrevExp": 38846350,
+        "EvolutionCount": 0,
+        "Id": 88,
+        "Rank": 88
+    },
+    {
+        "DiffFromPrevExp": 42822020,
+        "EvolutionCount": 0,
+        "Id": 89,
+        "Rank": 89
+    },
+    {
+        "DiffFromPrevExp": 46250240,
+        "EvolutionCount": 0,
+        "Id": 90,
+        "Rank": 90
+    },
+    {
+        "DiffFromPrevExp": 54216524,
+        "EvolutionCount": 0,
+        "Id": 91,
+        "Rank": 91
+    },
+    {
+        "DiffFromPrevExp": 62810761,
+        "EvolutionCount": 0,
+        "Id": 92,
+        "Rank": 92
+    },
+    {
+        "DiffFromPrevExp": 70222696,
+        "EvolutionCount": 0,
+        "Id": 93,
+        "Rank": 93
+    },
+    {
+        "DiffFromPrevExp": 78266900,
+        "EvolutionCount": 0,
+        "Id": 94,
+        "Rank": 94
+    },
+    {
+        "DiffFromPrevExp": 86257784,
+        "EvolutionCount": 0,
+        "Id": 95,
+        "Rank": 95
+    },
+    {
+        "DiffFromPrevExp": 93809592,
+        "EvolutionCount": 0,
+        "Id": 96,
+        "Rank": 96
+    },
+    {
+        "DiffFromPrevExp": 99436406,
+        "EvolutionCount": 0,
+        "Id": 97,
+        "Rank": 97
+    },
+    {
+        "DiffFromPrevExp": 108270820,
+        "EvolutionCount": 0,
+        "Id": 98,
+        "Rank": 98
+    },
+    {
+        "DiffFromPrevExp": 117805958,
+        "EvolutionCount": 0,
+        "Id": 99,
+        "Rank": 99
+    },
+    {
+        "DiffFromPrevExp": 128258945,
+        "EvolutionCount": 0,
+        "Id": 100,
+        "Rank": 100
+    },
+    {
+        "DiffFromPrevExp": 0,
+        "EvolutionCount": 1,
+        "Id": 101,
+        "Rank": 100
+    },
+    {
+        "DiffFromPrevExp": 141143315,
+        "EvolutionCount": 1,
+        "Id": 102,
+        "Rank": 101
+    },
+    {
+        "DiffFromPrevExp": 155351736,
+        "EvolutionCount": 1,
+        "Id": 103,
+        "Rank": 102
+    },
+    {
+        "DiffFromPrevExp": 171023275,
+        "EvolutionCount": 1,
+        "Id": 104,
+        "Rank": 103
+    },
+    {
+        "DiffFromPrevExp": 188311917,
+        "EvolutionCount": 1,
+        "Id": 105,
+        "Rank": 104
+    },
+    {
+        "DiffFromPrevExp": 207388197,
+        "EvolutionCount": 1,
+        "Id": 106,
+        "Rank": 105
+    },
+    {
+        "DiffFromPrevExp": 228441014,
+        "EvolutionCount": 1,
+        "Id": 107,
+        "Rank": 106
+    },
+    {
+        "DiffFromPrevExp": 251679651,
+        "EvolutionCount": 1,
+        "Id": 108,
+        "Rank": 107
+    },
+    {
+        "DiffFromPrevExp": 277336018,
+        "EvolutionCount": 1,
+        "Id": 109,
+        "Rank": 108
+    },
+    {
+        "DiffFromPrevExp": 305667148,
+        "EvolutionCount": 1,
+        "Id": 110,
+        "Rank": 109
+    },
+    {
+        "DiffFromPrevExp": 336957974,
+        "EvolutionCount": 1,
+        "Id": 111,
+        "Rank": 110
+    },
+    {
+        "DiffFromPrevExp": 371524421,
+        "EvolutionCount": 1,
+        "Id": 112,
+        "Rank": 111
+    },
+    {
+        "DiffFromPrevExp": 409716843,
+        "EvolutionCount": 1,
+        "Id": 113,
+        "Rank": 112
+    },
+    {
+        "DiffFromPrevExp": 451923850,
+        "EvolutionCount": 1,
+        "Id": 114,
+        "Rank": 113
+    },
+    {
+        "DiffFromPrevExp": 498576574,
+        "EvolutionCount": 1,
+        "Id": 115,
+        "Rank": 114
+    },
+    {
+        "DiffFromPrevExp": 550153410,
+        "EvolutionCount": 1,
+        "Id": 116,
+        "Rank": 115
+    },
+    {
+        "DiffFromPrevExp": 607185307,
+        "EvolutionCount": 1,
+        "Id": 117,
+        "Rank": 116
+    },
+    {
+        "DiffFromPrevExp": 670261652,
+        "EvolutionCount": 1,
+        "Id": 118,
+        "Rank": 117
+    },
+    {
+        "DiffFromPrevExp": 740036837,
+        "EvolutionCount": 1,
+        "Id": 119,
+        "Rank": 118
+    },
+    {
+        "DiffFromPrevExp": 817237566,
+        "EvolutionCount": 1,
+        "Id": 120,
+        "Rank": 119
+    },
+    {
+        "DiffFromPrevExp": 902671010,
+        "EvolutionCount": 1,
+        "Id": 121,
+        "Rank": 120
+    },
+    {
+        "DiffFromPrevExp": 997233894,
+        "EvolutionCount": 1,
+        "Id": 122,
+        "Rank": 121
+    },
+    {
+        "DiffFromPrevExp": 1101922629,
+        "EvolutionCount": 1,
+        "Id": 123,
+        "Rank": 122
+    },
+    {
+        "DiffFromPrevExp": 1217844617,
+        "EvolutionCount": 1,
+        "Id": 124,
+        "Rank": 123
+    },
+    {
+        "DiffFromPrevExp": 1346230859,
+        "EvolutionCount": 1,
+        "Id": 125,
+        "Rank": 124
+    },
+    {
+        "DiffFromPrevExp": 1488450024,
+        "EvolutionCount": 1,
+        "Id": 126,
+        "Rank": 125
+    },
+    {
+        "DiffFromPrevExp": 1646024150,
+        "EvolutionCount": 1,
+        "Id": 127,
+        "Rank": 126
+    },
+    {
+        "DiffFromPrevExp": 1820646171,
+        "EvolutionCount": 1,
+        "Id": 128,
+        "Rank": 127
+    },
+    {
+        "DiffFromPrevExp": 2014199483,
+        "EvolutionCount": 1,
+        "Id": 129,
+        "Rank": 128
+    },
+    {
+        "DiffFromPrevExp": 2228779795,
+        "EvolutionCount": 1,
+        "Id": 130,
+        "Rank": 129
+    },
+    {
+        "DiffFromPrevExp": 2466719535,
+        "EvolutionCount": 1,
+        "Id": 131,
+        "Rank": 130
+    },
+    {
+        "DiffFromPrevExp": 2730615114,
+        "EvolutionCount": 1,
+        "Id": 132,
+        "Rank": 131
+    },
+    {
+        "DiffFromPrevExp": 3023357387,
+        "EvolutionCount": 1,
+        "Id": 133,
+        "Rank": 132
+    },
+    {
+        "DiffFromPrevExp": 3348165704,
+        "EvolutionCount": 1,
+        "Id": 134,
+        "Rank": 133
+    },
+    {
+        "DiffFromPrevExp": 3708625963,
+        "EvolutionCount": 1,
+        "Id": 135,
+        "Rank": 134
+    },
+    {
+        "DiffFromPrevExp": 4108733163,
+        "EvolutionCount": 1,
+        "Id": 136,
+        "Rank": 135
+    },
+    {
+        "DiffFromPrevExp": 4552938985,
+        "EvolutionCount": 1,
+        "Id": 137,
+        "Rank": 136
+    },
+    {
+        "DiffFromPrevExp": 5046205015,
+        "EvolutionCount": 1,
+        "Id": 138,
+        "Rank": 137
+    },
+    {
+        "DiffFromPrevExp": 5594062286,
+        "EvolutionCount": 1,
+        "Id": 139,
+        "Rank": 138
+    },
+    {
+        "DiffFromPrevExp": 6202677900,
+        "EvolutionCount": 1,
+        "Id": 140,
+        "Rank": 139
+    },
+    {
+        "DiffFromPrevExp": 6878929596,
+        "EvolutionCount": 1,
+        "Id": 141,
+        "Rank": 140
+    },
+    {
+        "DiffFromPrevExp": 7630489223,
+        "EvolutionCount": 1,
+        "Id": 142,
+        "Rank": 141
+    },
+    {
+        "DiffFromPrevExp": 8465916195,
+        "EvolutionCount": 1,
+        "Id": 143,
+        "Rank": 142
+    },
+    {
+        "DiffFromPrevExp": 9394762161,
+        "EvolutionCount": 1,
+        "Id": 144,
+        "Rank": 143
+    },
+    {
+        "DiffFromPrevExp": 10427688241,
+        "EvolutionCount": 1,
+        "Id": 145,
+        "Rank": 144
+    },
+    {
+        "DiffFromPrevExp": 11576596373,
+        "EvolutionCount": 1,
+        "Id": 146,
+        "Rank": 145
+    },
+    {
+        "DiffFromPrevExp": 12854776504,
+        "EvolutionCount": 1,
+        "Id": 147,
+        "Rank": 146
+    },
+    {
+        "DiffFromPrevExp": 14277071561,
+        "EvolutionCount": 1,
+        "Id": 148,
+        "Rank": 147
+    },
+    {
+        "DiffFromPrevExp": 15860062397,
+        "EvolutionCount": 1,
+        "Id": 149,
+        "Rank": 148
+    },
+    {
+        "DiffFromPrevExp": 17622275168,
+        "EvolutionCount": 1,
+        "Id": 150,
+        "Rank": 149
+    },
+    {
+        "DiffFromPrevExp": 19584413914,
+        "EvolutionCount": 1,
+        "Id": 151,
+        "Rank": 150
+    },
+    {
+        "DiffFromPrevExp": 0,
+        "EvolutionCount": 2,
+        "Id": 152,
+        "Rank": 150
+    },
+    {
+        "DiffFromPrevExp": 20959450134,
+        "EvolutionCount": 2,
+        "Id": 153,
+        "Rank": 151
+    },
+    {
+        "DiffFromPrevExp": 22435755811,
+        "EvolutionCount": 2,
+        "Id": 154,
+        "Rank": 152
+    },
+    {
+        "DiffFromPrevExp": 24021108141,
+        "EvolutionCount": 2,
+        "Id": 155,
+        "Rank": 153
+    },
+    {
+        "DiffFromPrevExp": 25723904371,
+        "EvolutionCount": 2,
+        "Id": 156,
+        "Rank": 154
+    },
+    {
+        "DiffFromPrevExp": 27553212942,
+        "EvolutionCount": 2,
+        "Id": 157,
+        "Rank": 155
+    },
+    {
+        "DiffFromPrevExp": 29518828985,
+        "EvolutionCount": 2,
+        "Id": 158,
+        "Rank": 156
+    },
+    {
+        "DiffFromPrevExp": 31631334550,
+        "EvolutionCount": 2,
+        "Id": 159,
+        "Rank": 157
+    },
+    {
+        "DiffFromPrevExp": 33902163984,
+        "EvolutionCount": 2,
+        "Id": 160,
+        "Rank": 158
+    },
+    {
+        "DiffFromPrevExp": 36343674908,
+        "EvolutionCount": 2,
+        "Id": 161,
+        "Rank": 159
+    },
+    {
+        "DiffFromPrevExp": 38969225294,
+        "EvolutionCount": 2,
+        "Id": 162,
+        "Rank": 160
+    },
+    {
+        "DiffFromPrevExp": 41793257170,
+        "EvolutionCount": 2,
+        "Id": 163,
+        "Rank": 161
+    },
+    {
+        "DiffFromPrevExp": 44831387554,
+        "EvolutionCount": 2,
+        "Id": 164,
+        "Rank": 162
+    },
+    {
+        "DiffFromPrevExp": 48100507244,
+        "EvolutionCount": 2,
+        "Id": 165,
+        "Rank": 163
+    },
+    {
+        "DiffFromPrevExp": 51618888172,
+        "EvolutionCount": 2,
+        "Id": 166,
+        "Rank": 164
+    },
+    {
+        "DiffFromPrevExp": 55406300082,
+        "EvolutionCount": 2,
+        "Id": 167,
+        "Rank": 165
+    },
+    {
+        "DiffFromPrevExp": 59484137369,
+        "EvolutionCount": 2,
+        "Id": 168,
+        "Rank": 166
+    },
+    {
+        "DiffFromPrevExp": 63875556979,
+        "EvolutionCount": 2,
+        "Id": 169,
+        "Rank": 167
+    },
+    {
+        "DiffFromPrevExp": 68605628373,
+        "EvolutionCount": 2,
+        "Id": 170,
+        "Rank": 168
+    },
+    {
+        "DiffFromPrevExp": 73701496633,
+        "EvolutionCount": 2,
+        "Id": 171,
+        "Rank": 169
+    },
+    {
+        "DiffFromPrevExp": 79192559897,
+        "EvolutionCount": 2,
+        "Id": 172,
+        "Rank": 170
+    },
+    {
+        "DiffFromPrevExp": 85110662415,
+        "EvolutionCount": 2,
+        "Id": 173,
+        "Rank": 171
+    },
+    {
+        "DiffFromPrevExp": 91490304640,
+        "EvolutionCount": 2,
+        "Id": 174,
+        "Rank": 172
+    },
+    {
+        "DiffFromPrevExp": 98368871902,
+        "EvolutionCount": 2,
+        "Id": 175,
+        "Rank": 173
+    },
+    {
+        "DiffFromPrevExp": 105786883348,
+        "EvolutionCount": 2,
+        "Id": 176,
+        "Rank": 174
+    },
+    {
+        "DiffFromPrevExp": 113788262995,
+        "EvolutionCount": 2,
+        "Id": 177,
+        "Rank": 175
+    },
+    {
+        "DiffFromPrevExp": 122420634922,
+        "EvolutionCount": 2,
+        "Id": 178,
+        "Rank": 176
+    },
+    {
+        "DiffFromPrevExp": 131735644795,
+        "EvolutionCount": 2,
+        "Id": 179,
+        "Rank": 177
+    },
+    {
+        "DiffFromPrevExp": 141789310154,
+        "EvolutionCount": 2,
+        "Id": 180,
+        "Rank": 178
+    },
+    {
+        "DiffFromPrevExp": 152642402089,
+        "EvolutionCount": 2,
+        "Id": 181,
+        "Rank": 179
+    },
+    {
+        "DiffFromPrevExp": 164360861205,
+        "EvolutionCount": 2,
+        "Id": 182,
+        "Rank": 180
+    },
+    {
+        "DiffFromPrevExp": 177016251037,
+        "EvolutionCount": 2,
+        "Id": 183,
+        "Rank": 181
+    },
+    {
+        "DiffFromPrevExp": 190686252372,
+        "EvolutionCount": 2,
+        "Id": 184,
+        "Rank": 182
+    },
+    {
+        "DiffFromPrevExp": 205455202272,
+        "EvolutionCount": 2,
+        "Id": 185,
+        "Rank": 183
+    },
+    {
+        "DiffFromPrevExp": 221414681951,
+        "EvolutionCount": 2,
+        "Id": 186,
+        "Rank": 184
+    },
+    {
+        "DiffFromPrevExp": 238664158040,
+        "EvolutionCount": 2,
+        "Id": 187,
+        "Rank": 185
+    },
+    {
+        "DiffFromPrevExp": 257311682230,
+        "EvolutionCount": 2,
+        "Id": 188,
+        "Rank": 186
+    },
+    {
+        "DiffFromPrevExp": 277474654737,
+        "EvolutionCount": 2,
+        "Id": 189,
+        "Rank": 187
+    },
+    {
+        "DiffFromPrevExp": 299280657574,
+        "EvolutionCount": 2,
+        "Id": 190,
+        "Rank": 188
+    },
+    {
+        "DiffFromPrevExp": 322868364166,
+        "EvolutionCount": 2,
+        "Id": 191,
+        "Rank": 189
+    },
+    {
+        "DiffFromPrevExp": 348388532499,
+        "EvolutionCount": 2,
+        "Id": 192,
+        "Rank": 190
+    },
+    {
+        "DiffFromPrevExp": 376005089667,
+        "EvolutionCount": 2,
+        "Id": 193,
+        "Rank": 191
+    },
+    {
+        "DiffFromPrevExp": 405896316444,
+        "EvolutionCount": 2,
+        "Id": 194,
+        "Rank": 192
+    },
+    {
+        "DiffFromPrevExp": 438256141351,
+        "EvolutionCount": 2,
+        "Id": 195,
+        "Rank": 193
+    },
+    {
+        "DiffFromPrevExp": 473295554590,
+        "EvolutionCount": 2,
+        "Id": 196,
+        "Rank": 194
+    },
+    {
+        "DiffFromPrevExp": 511244153245,
+        "EvolutionCount": 2,
+        "Id": 197,
+        "Rank": 195
+    },
+    {
+        "DiffFromPrevExp": 552351830235,
+        "EvolutionCount": 2,
+        "Id": 198,
+        "Rank": 196
+    },
+    {
+        "DiffFromPrevExp": 596890620744,
+        "EvolutionCount": 2,
+        "Id": 199,
+        "Rank": 197
+    },
+    {
+        "DiffFromPrevExp": 645156721176,
+        "EvolutionCount": 2,
+        "Id": 200,
+        "Rank": 198
+    },
+    {
+        "DiffFromPrevExp": 697472697167,
+        "EvolutionCount": 2,
+        "Id": 201,
+        "Rank": 199
+    },
+    {
+        "DiffFromPrevExp": 754189898804,
+        "EvolutionCount": 2,
+        "Id": 202,
+        "Rank": 200
+    },
+    {
+        "DiffFromPrevExp": 0,
+        "EvolutionCount": 3,
+        "Id": 203,
+        "Rank": 200
+    },
+    {
+        "DiffFromPrevExp": 815691102981,
+        "EvolutionCount": 3,
+        "Id": 204,
+        "Rank": 201
+    },
+    {
+        "DiffFromPrevExp": 882393404789,
+        "EvolutionCount": 3,
+        "Id": 205,
+        "Rank": 202
+    },
+    {
+        "DiffFromPrevExp": 954751382002,
+        "EvolutionCount": 3,
+        "Id": 206,
+        "Rank": 203
+    },
+    {
+        "DiffFromPrevExp": 1033260559085,
+        "EvolutionCount": 3,
+        "Id": 207,
+        "Rank": 204
+    },
+    {
+        "DiffFromPrevExp": 1118461199784,
+        "EvolutionCount": 3,
+        "Id": 208,
+        "Rank": 205
+    },
+    {
+        "DiffFromPrevExp": 1210942460231,
+        "EvolutionCount": 3,
+        "Id": 209,
+        "Rank": 206
+    },
+    {
+        "DiffFromPrevExp": 1311346937683,
+        "EvolutionCount": 3,
+        "Id": 210,
+        "Rank": 207
+    },
+    {
+        "DiffFromPrevExp": 1420375653502,
+        "EvolutionCount": 3,
+        "Id": 211,
+        "Rank": 208
+    },
+    {
+        "DiffFromPrevExp": 1538793512850,
+        "EvolutionCount": 3,
+        "Id": 212,
+        "Rank": 209
+    },
+    {
+        "DiffFromPrevExp": 1667435287812,
+        "EvolutionCount": 3,
+        "Id": 213,
+        "Rank": 210
+    },
+    {
+        "DiffFromPrevExp": 1807212175349,
+        "EvolutionCount": 3,
+        "Id": 214,
+        "Rank": 211
+    },
+    {
+        "DiffFromPrevExp": 1959118986646,
+        "EvolutionCount": 3,
+        "Id": 215,
+        "Rank": 212
+    },
+    {
+        "DiffFromPrevExp": 2124242030110,
+        "EvolutionCount": 3,
+        "Id": 216,
+        "Rank": 213
+    },
+    {
+        "DiffFromPrevExp": 2303767756556,
+        "EvolutionCount": 3,
+        "Id": 217,
+        "Rank": 214
+    },
+    {
+        "DiffFromPrevExp": 2498992242031,
+        "EvolutionCount": 3,
+        "Id": 218,
+        "Rank": 215
+    },
+    {
+        "DiffFromPrevExp": 2711331591389,
+        "EvolutionCount": 3,
+        "Id": 219,
+        "Rank": 216
+    },
+    {
+        "DiffFromPrevExp": 2942333354129,
+        "EvolutionCount": 3,
+        "Id": 220,
+        "Rank": 217
+    },
+    {
+        "DiffFromPrevExp": 3193689053341,
+        "EvolutionCount": 3,
+        "Id": 221,
+        "Rank": 218
+    },
+    {
+        "DiffFromPrevExp": 3467247938848,
+        "EvolutionCount": 3,
+        "Id": 222,
+        "Rank": 219
+    },
+    {
+        "DiffFromPrevExp": 3765032086987,
+        "EvolutionCount": 3,
+        "Id": 223,
+        "Rank": 220
+    },
+    {
+        "DiffFromPrevExp": 4089252981973,
+        "EvolutionCount": 3,
+        "Id": 224,
+        "Rank": 221
+    },
+    {
+        "DiffFromPrevExp": 4442329727630,
+        "EvolutionCount": 3,
+        "Id": 225,
+        "Rank": 222
+    },
+    {
+        "DiffFromPrevExp": 4826909053527,
+        "EvolutionCount": 3,
+        "Id": 226,
+        "Rank": 223
+    },
+    {
+        "DiffFromPrevExp": 5245887296435,
+        "EvolutionCount": 3,
+        "Id": 227,
+        "Rank": 224
+    },
+    {
+        "DiffFromPrevExp": 5702434556665,
+        "EvolutionCount": 3,
+        "Id": 228,
+        "Rank": 225
+    },
+    {
+        "DiffFromPrevExp": 6200021249434,
+        "EvolutionCount": 3,
+        "Id": 229,
+        "Rank": 226
+    },
+    {
+        "DiffFromPrevExp": 6742447294192,
+        "EvolutionCount": 3,
+        "Id": 230,
+        "Rank": 227
+    },
+    {
+        "DiffFromPrevExp": 7333874210011,
+        "EvolutionCount": 3,
+        "Id": 231,
+        "Rank": 228
+    },
+    {
+        "DiffFromPrevExp": 7978860412977,
+        "EvolutionCount": 3,
+        "Id": 232,
+        "Rank": 229
+    },
+    {
+        "DiffFromPrevExp": 8682400042312,
+        "EvolutionCount": 3,
+        "Id": 233,
+        "Rank": 230
+    },
+    {
+        "DiffFromPrevExp": 9449965676019,
+        "EvolutionCount": 3,
+        "Id": 234,
+        "Rank": 231
+    },
+    {
+        "DiffFromPrevExp": 10287555334512,
+        "EvolutionCount": 3,
+        "Id": 235,
+        "Rank": 232
+    },
+    {
+        "DiffFromPrevExp": 11201744212391,
+        "EvolutionCount": 3,
+        "Id": 236,
+        "Rank": 233
+    },
+    {
+        "DiffFromPrevExp": 12199741624675,
+        "EvolutionCount": 3,
+        "Id": 237,
+        "Rank": 234
+    },
+    {
+        "DiffFromPrevExp": 13289453704880,
+        "EvolutionCount": 3,
+        "Id": 238,
+        "Rank": 235
+    },
+    {
+        "DiffFromPrevExp": 14479552448894,
+        "EvolutionCount": 3,
+        "Id": 239,
+        "Rank": 236
+    },
+    {
+        "DiffFromPrevExp": 15779551761214,
+        "EvolutionCount": 3,
+        "Id": 240,
+        "Rank": 237
+    },
+    {
+        "DiffFromPrevExp": 17199891229503,
+        "EvolutionCount": 3,
+        "Id": 241,
+        "Rank": 238
+    },
+    {
+        "DiffFromPrevExp": 18752028430229,
+        "EvolutionCount": 3,
+        "Id": 242,
+        "Rank": 239
+    },
+    {
+        "DiffFromPrevExp": 20448540653318,
+        "EvolutionCount": 3,
+        "Id": 243,
+        "Rank": 240
+    },
+    {
+        "DiffFromPrevExp": 22303237028068,
+        "EvolutionCount": 3,
+        "Id": 244,
+        "Rank": 241
+    },
+    {
+        "DiffFromPrevExp": 24331282137158,
+        "EvolutionCount": 3,
+        "Id": 245,
+        "Rank": 242
+    },
+    {
+        "DiffFromPrevExp": 26549332321497,
+        "EvolutionCount": 3,
+        "Id": 246,
+        "Rank": 243
+    },
+    {
+        "DiffFromPrevExp": 28975686007177,
+        "EvolutionCount": 3,
+        "Id": 247,
+        "Rank": 244
+    },
+    {
+        "DiffFromPrevExp": 31630449528336,
+        "EvolutionCount": 3,
+        "Id": 248,
+        "Rank": 245
+    },
+    {
+        "DiffFromPrevExp": 34535720077820,
+        "EvolutionCount": 3,
+        "Id": 249,
+        "Rank": 246
+    },
+    {
+        "DiffFromPrevExp": 37715787592910,
+        "EvolutionCount": 3,
+        "Id": 250,
+        "Rank": 247
+    },
+    {
+        "DiffFromPrevExp": 41197357577976,
+        "EvolutionCount": 3,
+        "Id": 251,
+        "Rank": 248
+    },
+    {
+        "DiffFromPrevExp": 45009797081867,
+        "EvolutionCount": 3,
+        "Id": 252,
+        "Rank": 249
+    },
+    {
+        "DiffFromPrevExp": 49185406287555,
+        "EvolutionCount": 3,
+        "Id": 253,
+        "Rank": 250
+    }
+]

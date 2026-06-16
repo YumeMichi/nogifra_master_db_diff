@@ -1,0 +1,330 @@
+[
+    {
+        "Id": 1,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "Start",
+        "ReturnPointViewName": "TutorialStepMoviePlayer",
+        "StepType": 1
+    },
+    {
+        "Id": 10,
+        "IsBackgroundDownload": true,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 10
+    },
+    {
+        "Id": 51,
+        "IsBackgroundDownload": true,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 51
+    },
+    {
+        "Id": 100,
+        "IsBackgroundDownload": true,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 100
+    },
+    {
+        "Id": 101,
+        "IsBackgroundDownload": true,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 101
+    },
+    {
+        "Id": 110,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 110
+    },
+    {
+        "Id": 120,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 120
+    },
+    {
+        "Id": 200,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "Start",
+        "ReturnPointViewName": "TutorialProduce",
+        "StepType": 200
+    },
+    {
+        "Id": 210,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 210
+    },
+    {
+        "Id": 240,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 240
+    },
+    {
+        "Id": 250,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "Start",
+        "ReturnPointViewName": "TutorialStepMoviePlayer",
+        "StepType": 250
+    },
+    {
+        "Id": 300,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 300
+    },
+    {
+        "Id": 301,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 301
+    },
+    {
+        "Id": 311,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "Start",
+        "ReturnPointViewName": "TutorialHome",
+        "StepType": 311
+    },
+    {
+        "Id": 312,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 312
+    },
+    {
+        "Id": 313,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 313
+    },
+    {
+        "Id": 314,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 314
+    },
+    {
+        "Id": 315,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 315
+    },
+    {
+        "Id": 316,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 316
+    },
+    {
+        "Id": 320,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 320
+    },
+    {
+        "Id": 321,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 321
+    },
+    {
+        "Id": 330,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 330
+    },
+    {
+        "Id": 400,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "MemberJoin2",
+        "ReturnPointViewName": "TutorialMember",
+        "StepType": 400
+    },
+    {
+        "Id": 401,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 401
+    },
+    {
+        "Id": 500,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "ProduceGuide",
+        "ReturnPointViewName": "TutorialMember",
+        "StepType": 500
+    },
+    {
+        "Id": 510,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 510
+    },
+    {
+        "Id": 511,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 511
+    },
+    {
+        "Id": 520,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 520
+    },
+    {
+        "Id": 530,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 530
+    },
+    {
+        "Id": 540,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 540
+    },
+    {
+        "Id": 600,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 600
+    },
+    {
+        "Id": 610,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 610
+    },
+    {
+        "Id": 620,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "ProduceGuide",
+        "ReturnPointViewName": "TutorialBattle",
+        "StepType": 620
+    },
+    {
+        "Id": 640,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 640
+    },
+    {
+        "Id": 700,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "ProduceGuide",
+        "ReturnPointViewName": "TutorialBattle",
+        "StepType": 700
+    },
+    {
+        "Id": 701,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 701
+    },
+    {
+        "Id": 702,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 702
+    },
+    {
+        "Id": 750,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": true,
+        "PlayerInitializeFileName": "ProduceGuide",
+        "ReturnPointViewName": "TutorialMember",
+        "StepType": 750
+    },
+    {
+        "Id": 751,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 751
+    },
+    {
+        "Id": 752,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 752
+    },
+    {
+        "Id": 1000,
+        "IsBackgroundDownload": false,
+        "IsReturnPoint": false,
+        "PlayerInitializeFileName": "",
+        "ReturnPointViewName": "",
+        "StepType": 1000
+    }
+]

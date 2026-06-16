@@ -1,0 +1,30 @@
+[
+    {
+        "EndAt": "2026-01-04T04:59:59+09:00",
+        "Id": 2001,
+        "ResourceId": "Campaign",
+        "StartAt": "2025-12-28T05:00:00+09:00",
+        "WeekdaySetId": 2
+    },
+    {
+        "EndAt": "2026-05-29T04:59:59+09:00",
+        "Id": 2002,
+        "ResourceId": "Campaign",
+        "StartAt": "2026-05-19T05:00:00+09:00",
+        "WeekdaySetId": 2
+    },
+    {
+        "EndAt": "2025-05-19T04:59:59+09:00",
+        "Id": 2003,
+        "ResourceId": "Campaign",
+        "StartAt": "2025-05-17T05:00:00+09:00",
+        "WeekdaySetId": 2
+    },
+    {
+        "EndAt": "2026-03-21T04:59:59+09:00",
+        "Id": 3001,
+        "ResourceId": "Campaign",
+        "StartAt": "2026-03-12T05:00:00+09:00",
+        "WeekdaySetId": 3
+    }
+]

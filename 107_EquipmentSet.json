@@ -1,0 +1,182 @@
+[
+    {
+        "GradeType": 6,
+        "Id": 1,
+        "Name": "リーブラシリーズ",
+        "SetCustomizeValue": 10000
+    },
+    {
+        "GradeType": 7,
+        "Id": 2,
+        "Name": "スコーピオシリーズ",
+        "SetCustomizeValue": 20000
+    },
+    {
+        "GradeType": 8,
+        "Id": 3,
+        "Name": "サジタリアスシリーズ",
+        "SetCustomizeValue": 30000
+    },
+    {
+        "GradeType": 6,
+        "Id": 4,
+        "Name": "カプリコンシリーズ",
+        "SetCustomizeValue": 40000
+    },
+    {
+        "GradeType": 7,
+        "Id": 5,
+        "Name": "アクエリアスシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 8,
+        "Id": 6,
+        "Name": "パイシーズシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 6,
+        "Id": 7,
+        "Name": "アリエスシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 8,
+        "Name": "トーラスシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 8,
+        "Id": 9,
+        "Name": "ジェミニシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 6,
+        "Id": 10,
+        "Name": "キャンサーシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 11,
+        "Name": "レオシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 8,
+        "Id": 12,
+        "Name": "ヴァーゴシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 9,
+        "Id": 13,
+        "Name": "スターリーシリーズ",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 14,
+        "Name": "ミュージックser. Rank40",
+        "SetCustomizeValue": 20000
+    },
+    {
+        "GradeType": 7,
+        "Id": 15,
+        "Name": "ミュージックser. Rank60",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 16,
+        "Name": "ミュージックser. Rank80",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 17,
+        "Name": "ミュージックser. Rank100",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 18,
+        "Name": "和風ser. Rank40",
+        "SetCustomizeValue": 20000
+    },
+    {
+        "GradeType": 7,
+        "Id": 19,
+        "Name": "和風ser. Rank60",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 20,
+        "Name": "和風ser. Rank80",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 21,
+        "Name": "和風ser. Rank100",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 22,
+        "Name": "スポーツser. Rank40",
+        "SetCustomizeValue": 20000
+    },
+    {
+        "GradeType": 7,
+        "Id": 23,
+        "Name": "スポーツser. Rank60",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 24,
+        "Name": "スポーツser. Rank80",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 25,
+        "Name": "スポーツser. Rank100",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 26,
+        "Name": "和菓子ser. Rank40",
+        "SetCustomizeValue": 20000
+    },
+    {
+        "GradeType": 7,
+        "Id": 27,
+        "Name": "和菓子ser. Rank60",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 28,
+        "Name": "和菓子ser. Rank80",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 7,
+        "Id": 29,
+        "Name": "和菓子ser. Rank100",
+        "SetCustomizeValue": 500000
+    },
+    {
+        "GradeType": 10,
+        "Id": 30,
+        "Name": "ロマンスシリーズ",
+        "SetCustomizeValue": 500000
+    }
+]

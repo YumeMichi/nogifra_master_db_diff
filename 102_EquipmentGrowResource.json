@@ -1,0 +1,1752 @@
+[
+    {
+        "GrowLevel": 1,
+        "Id": 1,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 250
+    },
+    {
+        "GrowLevel": 2,
+        "Id": 2,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 300
+    },
+    {
+        "GrowLevel": 3,
+        "Id": 3,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 360
+    },
+    {
+        "GrowLevel": 4,
+        "Id": 4,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 440
+    },
+    {
+        "GrowLevel": 5,
+        "Id": 5,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 530
+    },
+    {
+        "GrowLevel": 6,
+        "Id": 6,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 640
+    },
+    {
+        "GrowLevel": 7,
+        "Id": 7,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 770
+    },
+    {
+        "GrowLevel": 8,
+        "Id": 8,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 930
+    },
+    {
+        "GrowLevel": 9,
+        "Id": 9,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 1120
+    },
+    {
+        "GrowLevel": 10,
+        "Id": 10,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 0,
+        "NecessaryMoney": 1350
+    },
+    {
+        "GrowLevel": 11,
+        "Id": 11,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 1,
+        "NecessaryMoney": 1620
+    },
+    {
+        "GrowLevel": 12,
+        "Id": 12,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 2,
+        "NecessaryMoney": 1950
+    },
+    {
+        "GrowLevel": 13,
+        "Id": 13,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 4,
+        "NecessaryMoney": 2340
+    },
+    {
+        "GrowLevel": 14,
+        "Id": 14,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 5,
+        "NecessaryMoney": 2810
+    },
+    {
+        "GrowLevel": 15,
+        "Id": 15,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 7,
+        "NecessaryMoney": 3380
+    },
+    {
+        "GrowLevel": 16,
+        "Id": 16,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 8,
+        "NecessaryMoney": 4060
+    },
+    {
+        "GrowLevel": 17,
+        "Id": 17,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 10,
+        "NecessaryMoney": 4880
+    },
+    {
+        "GrowLevel": 18,
+        "Id": 18,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 12,
+        "NecessaryMoney": 5860
+    },
+    {
+        "GrowLevel": 19,
+        "Id": 19,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 13,
+        "NecessaryMoney": 7040
+    },
+    {
+        "GrowLevel": 20,
+        "Id": 20,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 15,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 21,
+        "Id": 21,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 17,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 22,
+        "Id": 22,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 18,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 23,
+        "Id": 23,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 20,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 24,
+        "Id": 24,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 22,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 25,
+        "Id": 25,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 24,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 26,
+        "Id": 26,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 26,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 27,
+        "Id": 27,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 28,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 28,
+        "Id": 28,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 30,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 29,
+        "Id": 29,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 32,
+        "NecessaryMoney": 10000
+    },
+    {
+        "GrowLevel": 30,
+        "Id": 30,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 34,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 31,
+        "Id": 31,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 36,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 32,
+        "Id": 32,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 38,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 33,
+        "Id": 33,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 41,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 34,
+        "Id": 34,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 43,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 35,
+        "Id": 35,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 45,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 36,
+        "Id": 36,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 47,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 37,
+        "Id": 37,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 50,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 38,
+        "Id": 38,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 52,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 39,
+        "Id": 39,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 54,
+        "NecessaryMoney": 20000
+    },
+    {
+        "GrowLevel": 40,
+        "Id": 40,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 57,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 41,
+        "Id": 41,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 59,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 42,
+        "Id": 42,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 62,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 43,
+        "Id": 43,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 64,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 44,
+        "Id": 44,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 67,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 45,
+        "Id": 45,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 70,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 46,
+        "Id": 46,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 72,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 47,
+        "Id": 47,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 75,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 48,
+        "Id": 48,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 78,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 49,
+        "Id": 49,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 80,
+        "NecessaryMoney": 30000
+    },
+    {
+        "GrowLevel": 50,
+        "Id": 50,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 83,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 51,
+        "Id": 51,
+        "NecessaryMaterialCrystal": 10,
+        "NecessaryMaterialStone": 86,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 52,
+        "Id": 52,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 89,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 53,
+        "Id": 53,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 92,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 54,
+        "Id": 54,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 95,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 55,
+        "Id": 55,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 98,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 56,
+        "Id": 56,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 101,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 57,
+        "Id": 57,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 104,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 58,
+        "Id": 58,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 107,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 59,
+        "Id": 59,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 110,
+        "NecessaryMoney": 40000
+    },
+    {
+        "GrowLevel": 60,
+        "Id": 60,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 113,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 61,
+        "Id": 61,
+        "NecessaryMaterialCrystal": 10,
+        "NecessaryMaterialStone": 116,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 62,
+        "Id": 62,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 120,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 63,
+        "Id": 63,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 123,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 64,
+        "Id": 64,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 126,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 65,
+        "Id": 65,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 130,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 66,
+        "Id": 66,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 133,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 67,
+        "Id": 67,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 136,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 68,
+        "Id": 68,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 140,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 69,
+        "Id": 69,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 143,
+        "NecessaryMoney": 50000
+    },
+    {
+        "GrowLevel": 70,
+        "Id": 70,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 147,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 71,
+        "Id": 71,
+        "NecessaryMaterialCrystal": 20,
+        "NecessaryMaterialStone": 151,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 72,
+        "Id": 72,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 154,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 73,
+        "Id": 73,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 158,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 74,
+        "Id": 74,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 161,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 75,
+        "Id": 75,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 165,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 76,
+        "Id": 76,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 169,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 77,
+        "Id": 77,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 173,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 78,
+        "Id": 78,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 177,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 79,
+        "Id": 79,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 180,
+        "NecessaryMoney": 60000
+    },
+    {
+        "GrowLevel": 80,
+        "Id": 80,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 184,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 81,
+        "Id": 81,
+        "NecessaryMaterialCrystal": 30,
+        "NecessaryMaterialStone": 188,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 82,
+        "Id": 82,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 192,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 83,
+        "Id": 83,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 196,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 84,
+        "Id": 84,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 200,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 85,
+        "Id": 85,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 204,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 86,
+        "Id": 86,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 208,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 87,
+        "Id": 87,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 213,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 88,
+        "Id": 88,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 217,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 89,
+        "Id": 89,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 221,
+        "NecessaryMoney": 70000
+    },
+    {
+        "GrowLevel": 90,
+        "Id": 90,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 225,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 91,
+        "Id": 91,
+        "NecessaryMaterialCrystal": 50,
+        "NecessaryMaterialStone": 230,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 92,
+        "Id": 92,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 234,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 93,
+        "Id": 93,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 238,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 94,
+        "Id": 94,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 243,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 95,
+        "Id": 95,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 247,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 96,
+        "Id": 96,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 252,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 97,
+        "Id": 97,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 256,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 98,
+        "Id": 98,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 261,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 99,
+        "Id": 99,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 265,
+        "NecessaryMoney": 80000
+    },
+    {
+        "GrowLevel": 100,
+        "Id": 100,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 270,
+        "NecessaryMoney": 90000
+    },
+    {
+        "GrowLevel": 101,
+        "Id": 101,
+        "NecessaryMaterialCrystal": 50,
+        "NecessaryMaterialStone": 274,
+        "NecessaryMoney": 90000
+    },
+    {
+        "GrowLevel": 102,
+        "Id": 102,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 278,
+        "NecessaryMoney": 90000
+    },
+    {
+        "GrowLevel": 103,
+        "Id": 103,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 282,
+        "NecessaryMoney": 90000
+    },
+    {
+        "GrowLevel": 104,
+        "Id": 104,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 286,
+        "NecessaryMoney": 90000
+    },
+    {
+        "GrowLevel": 105,
+        "Id": 105,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 289,
+        "NecessaryMoney": 120000
+    },
+    {
+        "GrowLevel": 106,
+        "Id": 106,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 293,
+        "NecessaryMoney": 120000
+    },
+    {
+        "GrowLevel": 107,
+        "Id": 107,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 297,
+        "NecessaryMoney": 120000
+    },
+    {
+        "GrowLevel": 108,
+        "Id": 108,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 300,
+        "NecessaryMoney": 120000
+    },
+    {
+        "GrowLevel": 109,
+        "Id": 109,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 304,
+        "NecessaryMoney": 120000
+    },
+    {
+        "GrowLevel": 110,
+        "Id": 110,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 307,
+        "NecessaryMoney": 150000
+    },
+    {
+        "GrowLevel": 111,
+        "Id": 111,
+        "NecessaryMaterialCrystal": 50,
+        "NecessaryMaterialStone": 310,
+        "NecessaryMoney": 150000
+    },
+    {
+        "GrowLevel": 112,
+        "Id": 112,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 313,
+        "NecessaryMoney": 150000
+    },
+    {
+        "GrowLevel": 113,
+        "Id": 113,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 316,
+        "NecessaryMoney": 150000
+    },
+    {
+        "GrowLevel": 114,
+        "Id": 114,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 319,
+        "NecessaryMoney": 150000
+    },
+    {
+        "GrowLevel": 115,
+        "Id": 115,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 322,
+        "NecessaryMoney": 200000
+    },
+    {
+        "GrowLevel": 116,
+        "Id": 116,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 325,
+        "NecessaryMoney": 200000
+    },
+    {
+        "GrowLevel": 117,
+        "Id": 117,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 328,
+        "NecessaryMoney": 200000
+    },
+    {
+        "GrowLevel": 118,
+        "Id": 118,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 331,
+        "NecessaryMoney": 200000
+    },
+    {
+        "GrowLevel": 119,
+        "Id": 119,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 334,
+        "NecessaryMoney": 200000
+    },
+    {
+        "GrowLevel": 120,
+        "Id": 120,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 336,
+        "NecessaryMoney": 250000
+    },
+    {
+        "GrowLevel": 121,
+        "Id": 121,
+        "NecessaryMaterialCrystal": 60,
+        "NecessaryMaterialStone": 339,
+        "NecessaryMoney": 250000
+    },
+    {
+        "GrowLevel": 122,
+        "Id": 122,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 342,
+        "NecessaryMoney": 250000
+    },
+    {
+        "GrowLevel": 123,
+        "Id": 123,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 344,
+        "NecessaryMoney": 250000
+    },
+    {
+        "GrowLevel": 124,
+        "Id": 124,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 346,
+        "NecessaryMoney": 250000
+    },
+    {
+        "GrowLevel": 125,
+        "Id": 125,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 349,
+        "NecessaryMoney": 300000
+    },
+    {
+        "GrowLevel": 126,
+        "Id": 126,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 351,
+        "NecessaryMoney": 300000
+    },
+    {
+        "GrowLevel": 127,
+        "Id": 127,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 354,
+        "NecessaryMoney": 300000
+    },
+    {
+        "GrowLevel": 128,
+        "Id": 128,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 356,
+        "NecessaryMoney": 300000
+    },
+    {
+        "GrowLevel": 129,
+        "Id": 129,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 358,
+        "NecessaryMoney": 300000
+    },
+    {
+        "GrowLevel": 130,
+        "Id": 130,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 360,
+        "NecessaryMoney": 350000
+    },
+    {
+        "GrowLevel": 131,
+        "Id": 131,
+        "NecessaryMaterialCrystal": 60,
+        "NecessaryMaterialStone": 363,
+        "NecessaryMoney": 350000
+    },
+    {
+        "GrowLevel": 132,
+        "Id": 132,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 365,
+        "NecessaryMoney": 350000
+    },
+    {
+        "GrowLevel": 133,
+        "Id": 133,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 367,
+        "NecessaryMoney": 350000
+    },
+    {
+        "GrowLevel": 134,
+        "Id": 134,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 369,
+        "NecessaryMoney": 350000
+    },
+    {
+        "GrowLevel": 135,
+        "Id": 135,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 371,
+        "NecessaryMoney": 400000
+    },
+    {
+        "GrowLevel": 136,
+        "Id": 136,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 373,
+        "NecessaryMoney": 400000
+    },
+    {
+        "GrowLevel": 137,
+        "Id": 137,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 375,
+        "NecessaryMoney": 400000
+    },
+    {
+        "GrowLevel": 138,
+        "Id": 138,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 377,
+        "NecessaryMoney": 400000
+    },
+    {
+        "GrowLevel": 139,
+        "Id": 139,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 379,
+        "NecessaryMoney": 400000
+    },
+    {
+        "GrowLevel": 140,
+        "Id": 140,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 381,
+        "NecessaryMoney": 450000
+    },
+    {
+        "GrowLevel": 141,
+        "Id": 141,
+        "NecessaryMaterialCrystal": 70,
+        "NecessaryMaterialStone": 383,
+        "NecessaryMoney": 450000
+    },
+    {
+        "GrowLevel": 142,
+        "Id": 142,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 385,
+        "NecessaryMoney": 450000
+    },
+    {
+        "GrowLevel": 143,
+        "Id": 143,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 387,
+        "NecessaryMoney": 450000
+    },
+    {
+        "GrowLevel": 144,
+        "Id": 144,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 388,
+        "NecessaryMoney": 450000
+    },
+    {
+        "GrowLevel": 145,
+        "Id": 145,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 390,
+        "NecessaryMoney": 500000
+    },
+    {
+        "GrowLevel": 146,
+        "Id": 146,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 392,
+        "NecessaryMoney": 500000
+    },
+    {
+        "GrowLevel": 147,
+        "Id": 147,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 394,
+        "NecessaryMoney": 500000
+    },
+    {
+        "GrowLevel": 148,
+        "Id": 148,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 396,
+        "NecessaryMoney": 500000
+    },
+    {
+        "GrowLevel": 149,
+        "Id": 149,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 397,
+        "NecessaryMoney": 500000
+    },
+    {
+        "GrowLevel": 150,
+        "Id": 150,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 399,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 151,
+        "Id": 151,
+        "NecessaryMaterialCrystal": 70,
+        "NecessaryMaterialStone": 401,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 152,
+        "Id": 152,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 402,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 153,
+        "Id": 153,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 404,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 154,
+        "Id": 154,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 406,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 155,
+        "Id": 155,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 407,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 156,
+        "Id": 156,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 409,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 157,
+        "Id": 157,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 410,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 158,
+        "Id": 158,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 412,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 159,
+        "Id": 159,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 414,
+        "NecessaryMoney": 600000
+    },
+    {
+        "GrowLevel": 160,
+        "Id": 160,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 415,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 161,
+        "Id": 161,
+        "NecessaryMaterialCrystal": 80,
+        "NecessaryMaterialStone": 417,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 162,
+        "Id": 162,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 418,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 163,
+        "Id": 163,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 420,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 164,
+        "Id": 164,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 421,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 165,
+        "Id": 165,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 423,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 166,
+        "Id": 166,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 424,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 167,
+        "Id": 167,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 426,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 168,
+        "Id": 168,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 427,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 169,
+        "Id": 169,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 429,
+        "NecessaryMoney": 700000
+    },
+    {
+        "GrowLevel": 170,
+        "Id": 170,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 430,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 171,
+        "Id": 171,
+        "NecessaryMaterialCrystal": 80,
+        "NecessaryMaterialStone": 431,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 172,
+        "Id": 172,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 433,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 173,
+        "Id": 173,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 434,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 174,
+        "Id": 174,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 436,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 175,
+        "Id": 175,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 437,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 176,
+        "Id": 176,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 438,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 177,
+        "Id": 177,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 440,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 178,
+        "Id": 178,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 441,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 179,
+        "Id": 179,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 442,
+        "NecessaryMoney": 800000
+    },
+    {
+        "GrowLevel": 180,
+        "Id": 180,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 444,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 181,
+        "Id": 181,
+        "NecessaryMaterialCrystal": 80,
+        "NecessaryMaterialStone": 445,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 182,
+        "Id": 182,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 446,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 183,
+        "Id": 183,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 448,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 184,
+        "Id": 184,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 449,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 185,
+        "Id": 185,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 450,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 186,
+        "Id": 186,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 452,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 187,
+        "Id": 187,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 453,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 188,
+        "Id": 188,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 454,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 189,
+        "Id": 189,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 455,
+        "NecessaryMoney": 900000
+    },
+    {
+        "GrowLevel": 190,
+        "Id": 190,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 457,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 191,
+        "Id": 191,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 458,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 192,
+        "Id": 192,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 459,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 193,
+        "Id": 193,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 460,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 194,
+        "Id": 194,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 462,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 195,
+        "Id": 195,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 463,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 196,
+        "Id": 196,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 464,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 197,
+        "Id": 197,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 465,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 198,
+        "Id": 198,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 467,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 199,
+        "Id": 199,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 468,
+        "NecessaryMoney": 1000000
+    },
+    {
+        "GrowLevel": 200,
+        "Id": 200,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 469,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 201,
+        "Id": 201,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 470,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 202,
+        "Id": 202,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 472,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 203,
+        "Id": 203,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 473,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 204,
+        "Id": 204,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 474,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 205,
+        "Id": 205,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 475,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 206,
+        "Id": 206,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 476,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 207,
+        "Id": 207,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 477,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 208,
+        "Id": 208,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 479,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 209,
+        "Id": 209,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 480,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 210,
+        "Id": 210,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 481,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 211,
+        "Id": 211,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 482,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 212,
+        "Id": 212,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 483,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 213,
+        "Id": 213,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 485,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 214,
+        "Id": 214,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 486,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 215,
+        "Id": 215,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 487,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 216,
+        "Id": 216,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 488,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 217,
+        "Id": 217,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 489,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 218,
+        "Id": 218,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 490,
+        "NecessaryMoney": 1200000
+    },
+    {
+        "GrowLevel": 219,
+        "Id": 219,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 491,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 220,
+        "Id": 220,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 493,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 221,
+        "Id": 221,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 494,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 222,
+        "Id": 222,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 495,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 223,
+        "Id": 223,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 496,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 224,
+        "Id": 224,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 497,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 225,
+        "Id": 225,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 498,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 226,
+        "Id": 226,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 499,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 227,
+        "Id": 227,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 500,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 228,
+        "Id": 228,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 502,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 229,
+        "Id": 229,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 503,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 230,
+        "Id": 230,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 504,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 231,
+        "Id": 231,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 505,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 232,
+        "Id": 232,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 506,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 233,
+        "Id": 233,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 507,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 234,
+        "Id": 234,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 508,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 235,
+        "Id": 235,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 509,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 236,
+        "Id": 236,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 510,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 237,
+        "Id": 237,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 511,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 238,
+        "Id": 238,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 513,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 239,
+        "Id": 239,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 514,
+        "NecessaryMoney": 1500000
+    },
+    {
+        "GrowLevel": 240,
+        "Id": 240,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 515,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 241,
+        "Id": 241,
+        "NecessaryMaterialCrystal": 100,
+        "NecessaryMaterialStone": 516,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 242,
+        "Id": 242,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 517,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 243,
+        "Id": 243,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 518,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 244,
+        "Id": 244,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 519,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 245,
+        "Id": 245,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 520,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 246,
+        "Id": 246,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 521,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 247,
+        "Id": 247,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 522,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 248,
+        "Id": 248,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 523,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 249,
+        "Id": 249,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 525,
+        "NecessaryMoney": 2000000
+    },
+    {
+        "GrowLevel": 250,
+        "Id": 250,
+        "NecessaryMaterialCrystal": 0,
+        "NecessaryMaterialStone": 526,
+        "NecessaryMoney": 2000000
+    }
+]

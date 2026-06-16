@@ -1,0 +1,92 @@
+[
+    {
+        "Id": 1,
+        "ResistanceParameterType": 1,
+        "StateId": 2001
+    },
+    {
+        "Id": 2,
+        "ResistanceParameterType": 2,
+        "StateId": 2002
+    },
+    {
+        "Id": 3,
+        "ResistanceParameterType": 3,
+        "StateId": 2003
+    },
+    {
+        "Id": 4,
+        "ResistanceParameterType": 4,
+        "StateId": 2004
+    },
+    {
+        "Id": 5,
+        "ResistanceParameterType": 5,
+        "StateId": 2005
+    },
+    {
+        "Id": 6,
+        "ResistanceParameterType": 6,
+        "StateId": 2006
+    },
+    {
+        "Id": 7,
+        "ResistanceParameterType": 7,
+        "StateId": 3001
+    },
+    {
+        "Id": 8,
+        "ResistanceParameterType": 8,
+        "StateId": 3002
+    },
+    {
+        "Id": 9,
+        "ResistanceParameterType": 9,
+        "StateId": 3003
+    },
+    {
+        "Id": 10,
+        "ResistanceParameterType": 10,
+        "StateId": 3004
+    },
+    {
+        "Id": 11,
+        "ResistanceParameterType": 11,
+        "StateId": 3005
+    },
+    {
+        "Id": 12,
+        "ResistanceParameterType": 12,
+        "StateId": 3006
+    },
+    {
+        "Id": 13,
+        "ResistanceParameterType": 13,
+        "StateId": 3007
+    },
+    {
+        "Id": 14,
+        "ResistanceParameterType": 14,
+        "StateId": 3008
+    },
+    {
+        "Id": 15,
+        "ResistanceParameterType": 15,
+        "StateId": 3009
+    },
+    {
+        "Id": 16,
+        "ResistanceParameterType": 16,
+        "StateId": 3010
+    },
+    {
+        "Id": 17,
+        "ResistanceParameterType": 17,
+        "StateId": 3011
+    },
+    {
+        "Id": 18,
+        "ResistanceParameterType": 18,
+        "StateId": 3012
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "DlcAssetType": 1,
+        "ItemType": 200,
+        "Path": "StageMainAnimations/{1}/{0}/*"
+    },
+    {
+        "DlcAssetType": 1,
+        "ItemType": 200,
+        "Path": "StageSubAnimations/{2}/{0}/*"
+    },
+    {
+        "DlcAssetType": 1,
+        "ItemType": 200,
+        "Path": "Animations/{0}/*"
+    },
+    {
+        "DlcAssetType": 3,
+        "ItemType": 200,
+        "Path": "Sounds/BGM/{0}*"
+    },
+    {
+        "DlcAssetType": 1,
+        "ItemType": 240,
+        "Path": "Textures/Still/{0}/*"
+    }
+]

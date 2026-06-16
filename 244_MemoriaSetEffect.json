@@ -1,0 +1,66 @@
+[
+    {
+        "AddType": 1,
+        "Id": 100,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 100,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10001,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10001,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10002,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10002,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10003,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10003,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10004,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10004,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10005,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10005,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10006,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10006,
+        "Value": 0.12
+    },
+    {
+        "AddType": 1,
+        "Id": 10007,
+        "ParameterType": 7,
+        "SetCount": 2,
+        "SetId": 10007,
+        "Value": 0.12
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 1,
+        "ItemType": 111,
+        "Quantity": 6,
+        "ResourceItemId": 111090001,
+        "TargetItemId": 111090002
+    },
+    {
+        "Id": 2,
+        "ItemType": 102,
+        "Quantity": 300000,
+        "ResourceItemId": 0,
+        "TargetItemId": 111090002
+    },
+    {
+        "Id": 3,
+        "ItemType": 111,
+        "Quantity": 6,
+        "ResourceItemId": 111090002,
+        "TargetItemId": 111090003
+    },
+    {
+        "Id": 4,
+        "ItemType": 101,
+        "Quantity": 50,
+        "ResourceItemId": 0,
+        "TargetItemId": 111090003
+    },
+    {
+        "Id": 10001,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111081003,
+        "TargetItemId": 111081004
+    },
+    {
+        "Id": 10002,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111081004,
+        "TargetItemId": 111081005
+    },
+    {
+        "Id": 10003,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111081005,
+        "TargetItemId": 111081006
+    },
+    {
+        "Id": 10004,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111081006,
+        "TargetItemId": 111081024
+    },
+    {
+        "Id": 10005,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111081024,
+        "TargetItemId": 111081049
+    },
+    {
+        "Id": 10006,
+        "ItemType": 111,
+        "Quantity": 10,
+        "ResourceItemId": 111081114,
+        "TargetItemId": 111081115
+    },
+    {
+        "Id": 20001,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111160001,
+        "TargetItemId": 111160002
+    },
+    {
+        "Id": 20002,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111160002,
+        "TargetItemId": 111160003
+    },
+    {
+        "Id": 20003,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111160003,
+        "TargetItemId": 111160004
+    },
+    {
+        "Id": 20004,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111160004,
+        "TargetItemId": 111160005
+    },
+    {
+        "Id": 20005,
+        "ItemType": 111,
+        "Quantity": 5,
+        "ResourceItemId": 111160005,
+        "TargetItemId": 111160006
+    }
+]

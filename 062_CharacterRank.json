@@ -1,0 +1,157 @@
+[
+    {
+        "Id": 1,
+        "Name": "D3",
+        "Rank": 0
+    },
+    {
+        "Id": 2,
+        "Name": "D2",
+        "Rank": 1
+    },
+    {
+        "Id": 3,
+        "Name": "D1",
+        "Rank": 2
+    },
+    {
+        "Id": 4,
+        "Name": "C3",
+        "Rank": 3
+    },
+    {
+        "Id": 5,
+        "Name": "C2",
+        "Rank": 4
+    },
+    {
+        "Id": 6,
+        "Name": "C1",
+        "Rank": 5
+    },
+    {
+        "Id": 7,
+        "Name": "B3",
+        "Rank": 6
+    },
+    {
+        "Id": 8,
+        "Name": "B2",
+        "Rank": 7
+    },
+    {
+        "Id": 9,
+        "Name": "B1",
+        "Rank": 8
+    },
+    {
+        "Id": 10,
+        "Name": "A3",
+        "Rank": 9
+    },
+    {
+        "Id": 11,
+        "Name": "A2",
+        "Rank": 10
+    },
+    {
+        "Id": 12,
+        "Name": "A1",
+        "Rank": 11
+    },
+    {
+        "Id": 13,
+        "Name": "S3",
+        "Rank": 12
+    },
+    {
+        "Id": 14,
+        "Name": "S2",
+        "Rank": 13
+    },
+    {
+        "Id": 15,
+        "Name": "S1",
+        "Rank": 14
+    },
+    {
+        "Id": 16,
+        "Name": "SS3",
+        "Rank": 15
+    },
+    {
+        "Id": 17,
+        "Name": "SS2",
+        "Rank": 16
+    },
+    {
+        "Id": 18,
+        "Name": "SS1",
+        "Rank": 17
+    },
+    {
+        "Id": 19,
+        "Name": "SSS3",
+        "Rank": 18
+    },
+    {
+        "Id": 20,
+        "Name": "SSS2",
+        "Rank": 19
+    },
+    {
+        "Id": 21,
+        "Name": "SSS1",
+        "Rank": 20
+    },
+    {
+        "Id": 22,
+        "Name": "EX1",
+        "Rank": 21
+    },
+    {
+        "Id": 23,
+        "Name": "EX2",
+        "Rank": 22
+    },
+    {
+        "Id": 24,
+        "Name": "EX3",
+        "Rank": 23
+    },
+    {
+        "Id": 25,
+        "Name": "EX4",
+        "Rank": 24
+    },
+    {
+        "Id": 26,
+        "Name": "EX5",
+        "Rank": 25
+    },
+    {
+        "Id": 27,
+        "Name": "EX6",
+        "Rank": 26
+    },
+    {
+        "Id": 28,
+        "Name": "EX7",
+        "Rank": 27
+    },
+    {
+        "Id": 29,
+        "Name": "EX8",
+        "Rank": 28
+    },
+    {
+        "Id": 30,
+        "Name": "EX9",
+        "Rank": 29
+    },
+    {
+        "Id": 31,
+        "Name": "EX10",
+        "Rank": 30
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "EffectType": 11,
+        "FilterType": 1,
+        "Id": 1
+    },
+    {
+        "EffectType": 13,
+        "FilterType": 2,
+        "Id": 3
+    },
+    {
+        "EffectType": 14,
+        "FilterType": 2,
+        "Id": 4
+    },
+    {
+        "EffectType": 21,
+        "FilterType": 2,
+        "Id": 10
+    },
+    {
+        "EffectType": 30,
+        "FilterType": 1,
+        "Id": 14
+    },
+    {
+        "EffectType": 31,
+        "FilterType": 1,
+        "Id": 15
+    },
+    {
+        "EffectType": 32,
+        "FilterType": 1,
+        "Id": 16
+    },
+    {
+        "EffectType": 33,
+        "FilterType": 1,
+        "Id": 17
+    },
+    {
+        "EffectType": 40,
+        "FilterType": 2,
+        "Id": 18
+    },
+    {
+        "EffectType": 51,
+        "FilterType": 3,
+        "Id": 19
+    },
+    {
+        "EffectType": 52,
+        "FilterType": 3,
+        "Id": 20
+    },
+    {
+        "EffectType": 152,
+        "FilterType": 1,
+        "Id": 36
+    }
+]

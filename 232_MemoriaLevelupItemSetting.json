@@ -1,0 +1,345 @@
+[
+    {
+        "CrystalQuantity": 0,
+        "Id": 1,
+        "Level": 2,
+        "MoneyQuantity": 500,
+        "StoneQuantity": 80
+    },
+    {
+        "CrystalQuantity": 0,
+        "Id": 2,
+        "Level": 3,
+        "MoneyQuantity": 1000,
+        "StoneQuantity": 84
+    },
+    {
+        "CrystalQuantity": 0,
+        "Id": 3,
+        "Level": 4,
+        "MoneyQuantity": 1500,
+        "StoneQuantity": 88
+    },
+    {
+        "CrystalQuantity": 0,
+        "Id": 4,
+        "Level": 5,
+        "MoneyQuantity": 2000,
+        "StoneQuantity": 93
+    },
+    {
+        "CrystalQuantity": 1,
+        "Id": 5,
+        "Level": 6,
+        "MoneyQuantity": 2500,
+        "StoneQuantity": 98
+    },
+    {
+        "CrystalQuantity": 1,
+        "Id": 6,
+        "Level": 7,
+        "MoneyQuantity": 3000,
+        "StoneQuantity": 103
+    },
+    {
+        "CrystalQuantity": 1,
+        "Id": 7,
+        "Level": 8,
+        "MoneyQuantity": 3500,
+        "StoneQuantity": 108
+    },
+    {
+        "CrystalQuantity": 2,
+        "Id": 8,
+        "Level": 9,
+        "MoneyQuantity": 4000,
+        "StoneQuantity": 113
+    },
+    {
+        "CrystalQuantity": 2,
+        "Id": 9,
+        "Level": 10,
+        "MoneyQuantity": 4500,
+        "StoneQuantity": 118
+    },
+    {
+        "CrystalQuantity": 2,
+        "Id": 10,
+        "Level": 11,
+        "MoneyQuantity": 5000,
+        "StoneQuantity": 123
+    },
+    {
+        "CrystalQuantity": 3,
+        "Id": 11,
+        "Level": 12,
+        "MoneyQuantity": 5500,
+        "StoneQuantity": 129
+    },
+    {
+        "CrystalQuantity": 3,
+        "Id": 12,
+        "Level": 13,
+        "MoneyQuantity": 6000,
+        "StoneQuantity": 135
+    },
+    {
+        "CrystalQuantity": 3,
+        "Id": 13,
+        "Level": 14,
+        "MoneyQuantity": 7000,
+        "StoneQuantity": 141
+    },
+    {
+        "CrystalQuantity": 4,
+        "Id": 14,
+        "Level": 15,
+        "MoneyQuantity": 8000,
+        "StoneQuantity": 147
+    },
+    {
+        "CrystalQuantity": 4,
+        "Id": 15,
+        "Level": 16,
+        "MoneyQuantity": 9000,
+        "StoneQuantity": 153
+    },
+    {
+        "CrystalQuantity": 4,
+        "Id": 16,
+        "Level": 17,
+        "MoneyQuantity": 10000,
+        "StoneQuantity": 159
+    },
+    {
+        "CrystalQuantity": 5,
+        "Id": 17,
+        "Level": 18,
+        "MoneyQuantity": 12000,
+        "StoneQuantity": 166
+    },
+    {
+        "CrystalQuantity": 5,
+        "Id": 18,
+        "Level": 19,
+        "MoneyQuantity": 14000,
+        "StoneQuantity": 173
+    },
+    {
+        "CrystalQuantity": 5,
+        "Id": 19,
+        "Level": 20,
+        "MoneyQuantity": 16000,
+        "StoneQuantity": 180
+    },
+    {
+        "CrystalQuantity": 6,
+        "Id": 20,
+        "Level": 21,
+        "MoneyQuantity": 18000,
+        "StoneQuantity": 187
+    },
+    {
+        "CrystalQuantity": 6,
+        "Id": 21,
+        "Level": 22,
+        "MoneyQuantity": 21000,
+        "StoneQuantity": 195
+    },
+    {
+        "CrystalQuantity": 6,
+        "Id": 22,
+        "Level": 23,
+        "MoneyQuantity": 24000,
+        "StoneQuantity": 203
+    },
+    {
+        "CrystalQuantity": 7,
+        "Id": 23,
+        "Level": 24,
+        "MoneyQuantity": 28000,
+        "StoneQuantity": 211
+    },
+    {
+        "CrystalQuantity": 7,
+        "Id": 24,
+        "Level": 25,
+        "MoneyQuantity": 32000,
+        "StoneQuantity": 219
+    },
+    {
+        "CrystalQuantity": 7,
+        "Id": 25,
+        "Level": 26,
+        "MoneyQuantity": 37000,
+        "StoneQuantity": 228
+    },
+    {
+        "CrystalQuantity": 8,
+        "Id": 26,
+        "Level": 27,
+        "MoneyQuantity": 43000,
+        "StoneQuantity": 237
+    },
+    {
+        "CrystalQuantity": 8,
+        "Id": 27,
+        "Level": 28,
+        "MoneyQuantity": 50000,
+        "StoneQuantity": 246
+    },
+    {
+        "CrystalQuantity": 8,
+        "Id": 28,
+        "Level": 29,
+        "MoneyQuantity": 58000,
+        "StoneQuantity": 256
+    },
+    {
+        "CrystalQuantity": 9,
+        "Id": 29,
+        "Level": 30,
+        "MoneyQuantity": 67000,
+        "StoneQuantity": 266
+    },
+    {
+        "CrystalQuantity": 9,
+        "Id": 30,
+        "Level": 31,
+        "MoneyQuantity": 78000,
+        "StoneQuantity": 276
+    },
+    {
+        "CrystalQuantity": 9,
+        "Id": 31,
+        "Level": 32,
+        "MoneyQuantity": 90000,
+        "StoneQuantity": 287
+    },
+    {
+        "CrystalQuantity": 10,
+        "Id": 32,
+        "Level": 33,
+        "MoneyQuantity": 105000,
+        "StoneQuantity": 298
+    },
+    {
+        "CrystalQuantity": 10,
+        "Id": 33,
+        "Level": 34,
+        "MoneyQuantity": 125000,
+        "StoneQuantity": 309
+    },
+    {
+        "CrystalQuantity": 10,
+        "Id": 34,
+        "Level": 35,
+        "MoneyQuantity": 150000,
+        "StoneQuantity": 321
+    },
+    {
+        "CrystalQuantity": 11,
+        "Id": 35,
+        "Level": 36,
+        "MoneyQuantity": 180000,
+        "StoneQuantity": 333
+    },
+    {
+        "CrystalQuantity": 11,
+        "Id": 36,
+        "Level": 37,
+        "MoneyQuantity": 220000,
+        "StoneQuantity": 346
+    },
+    {
+        "CrystalQuantity": 11,
+        "Id": 37,
+        "Level": 38,
+        "MoneyQuantity": 260000,
+        "StoneQuantity": 359
+    },
+    {
+        "CrystalQuantity": 12,
+        "Id": 38,
+        "Level": 39,
+        "MoneyQuantity": 310000,
+        "StoneQuantity": 373
+    },
+    {
+        "CrystalQuantity": 12,
+        "Id": 39,
+        "Level": 40,
+        "MoneyQuantity": 370000,
+        "StoneQuantity": 387
+    },
+    {
+        "CrystalQuantity": 12,
+        "Id": 40,
+        "Level": 41,
+        "MoneyQuantity": 440000,
+        "StoneQuantity": 402
+    },
+    {
+        "CrystalQuantity": 13,
+        "Id": 41,
+        "Level": 42,
+        "MoneyQuantity": 530000,
+        "StoneQuantity": 417
+    },
+    {
+        "CrystalQuantity": 13,
+        "Id": 42,
+        "Level": 43,
+        "MoneyQuantity": 640000,
+        "StoneQuantity": 433
+    },
+    {
+        "CrystalQuantity": 13,
+        "Id": 43,
+        "Level": 44,
+        "MoneyQuantity": 770000,
+        "StoneQuantity": 449
+    },
+    {
+        "CrystalQuantity": 14,
+        "Id": 44,
+        "Level": 45,
+        "MoneyQuantity": 930000,
+        "StoneQuantity": 466
+    },
+    {
+        "CrystalQuantity": 14,
+        "Id": 45,
+        "Level": 46,
+        "MoneyQuantity": 1120000,
+        "StoneQuantity": 484
+    },
+    {
+        "CrystalQuantity": 14,
+        "Id": 46,
+        "Level": 47,
+        "MoneyQuantity": 1350000,
+        "StoneQuantity": 502
+    },
+    {
+        "CrystalQuantity": 15,
+        "Id": 47,
+        "Level": 48,
+        "MoneyQuantity": 1630000,
+        "StoneQuantity": 521
+    },
+    {
+        "CrystalQuantity": 15,
+        "Id": 48,
+        "Level": 49,
+        "MoneyQuantity": 1980000,
+        "StoneQuantity": 541
+    },
+    {
+        "CrystalQuantity": 20,
+        "Id": 49,
+        "Level": 50,
+        "MoneyQuantity": 2500000,
+        "StoneQuantity": 562
+    }
+]

@@ -1,0 +1,1472 @@
+[
+    {
+        "AfterEquipmentId": 100111460,
+        "BeforeEquipmentId": 100111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 100111460
+    },
+    {
+        "AfterEquipmentId": 100211460,
+        "BeforeEquipmentId": 100211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 100211460
+    },
+    {
+        "AfterEquipmentId": 100311460,
+        "BeforeEquipmentId": 100311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 100311460
+    },
+    {
+        "AfterEquipmentId": 101111460,
+        "BeforeEquipmentId": 101111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 101111460
+    },
+    {
+        "AfterEquipmentId": 101211460,
+        "BeforeEquipmentId": 101211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 101211460
+    },
+    {
+        "AfterEquipmentId": 101311460,
+        "BeforeEquipmentId": 101311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 101311460
+    },
+    {
+        "AfterEquipmentId": 102111460,
+        "BeforeEquipmentId": 102111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 102111460
+    },
+    {
+        "AfterEquipmentId": 102311460,
+        "BeforeEquipmentId": 102311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 102311460
+    },
+    {
+        "AfterEquipmentId": 106111460,
+        "BeforeEquipmentId": 106111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 106111460
+    },
+    {
+        "AfterEquipmentId": 106211460,
+        "BeforeEquipmentId": 106211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 106211460
+    },
+    {
+        "AfterEquipmentId": 106311460,
+        "BeforeEquipmentId": 106311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 106311460
+    },
+    {
+        "AfterEquipmentId": 110111460,
+        "BeforeEquipmentId": 110111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 110111460
+    },
+    {
+        "AfterEquipmentId": 110311460,
+        "BeforeEquipmentId": 110311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 110311460
+    },
+    {
+        "AfterEquipmentId": 112111460,
+        "BeforeEquipmentId": 112111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 112111460
+    },
+    {
+        "AfterEquipmentId": 112211460,
+        "BeforeEquipmentId": 112211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 112211460
+    },
+    {
+        "AfterEquipmentId": 112311460,
+        "BeforeEquipmentId": 112311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 112311460
+    },
+    {
+        "AfterEquipmentId": 113211460,
+        "BeforeEquipmentId": 113211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 113211460
+    },
+    {
+        "AfterEquipmentId": 113311460,
+        "BeforeEquipmentId": 113311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 113311460
+    },
+    {
+        "AfterEquipmentId": 114211460,
+        "BeforeEquipmentId": 114211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 114211460
+    },
+    {
+        "AfterEquipmentId": 115111460,
+        "BeforeEquipmentId": 115111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 115111460
+    },
+    {
+        "AfterEquipmentId": 115211460,
+        "BeforeEquipmentId": 115211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 115211460
+    },
+    {
+        "AfterEquipmentId": 115311460,
+        "BeforeEquipmentId": 115311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 115311460
+    },
+    {
+        "AfterEquipmentId": 117111460,
+        "BeforeEquipmentId": 117111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 117111460
+    },
+    {
+        "AfterEquipmentId": 118111460,
+        "BeforeEquipmentId": 118111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 118111460
+    },
+    {
+        "AfterEquipmentId": 118311460,
+        "BeforeEquipmentId": 118311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 118311460
+    },
+    {
+        "AfterEquipmentId": 120211460,
+        "BeforeEquipmentId": 120211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 120211460
+    },
+    {
+        "AfterEquipmentId": 120311460,
+        "BeforeEquipmentId": 120311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 120311460
+    },
+    {
+        "AfterEquipmentId": 121111460,
+        "BeforeEquipmentId": 121111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 121111460
+    },
+    {
+        "AfterEquipmentId": 121211460,
+        "BeforeEquipmentId": 121211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 121211460
+    },
+    {
+        "AfterEquipmentId": 121311460,
+        "BeforeEquipmentId": 121311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 121311460
+    },
+    {
+        "AfterEquipmentId": 122111460,
+        "BeforeEquipmentId": 122111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 122111460
+    },
+    {
+        "AfterEquipmentId": 122211460,
+        "BeforeEquipmentId": 122211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 122211460
+    },
+    {
+        "AfterEquipmentId": 124111460,
+        "BeforeEquipmentId": 124111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 124111460
+    },
+    {
+        "AfterEquipmentId": 124211460,
+        "BeforeEquipmentId": 124211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 124211460
+    },
+    {
+        "AfterEquipmentId": 124311460,
+        "BeforeEquipmentId": 124311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 124311460
+    },
+    {
+        "AfterEquipmentId": 125111460,
+        "BeforeEquipmentId": 125111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 125111460
+    },
+    {
+        "AfterEquipmentId": 126111460,
+        "BeforeEquipmentId": 126111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 126111460
+    },
+    {
+        "AfterEquipmentId": 126111461,
+        "BeforeEquipmentId": 126111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 126111461
+    },
+    {
+        "AfterEquipmentId": 126211460,
+        "BeforeEquipmentId": 126211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 126211460
+    },
+    {
+        "AfterEquipmentId": 126311460,
+        "BeforeEquipmentId": 126311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 126311460
+    },
+    {
+        "AfterEquipmentId": 126311461,
+        "BeforeEquipmentId": 126311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 126311461
+    },
+    {
+        "AfterEquipmentId": 127111460,
+        "BeforeEquipmentId": 127111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 127111460
+    },
+    {
+        "AfterEquipmentId": 127211460,
+        "BeforeEquipmentId": 127211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 127211460
+    },
+    {
+        "AfterEquipmentId": 127311460,
+        "BeforeEquipmentId": 127311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 127311460
+    },
+    {
+        "AfterEquipmentId": 127311461,
+        "BeforeEquipmentId": 127311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 127311461
+    },
+    {
+        "AfterEquipmentId": 127311462,
+        "BeforeEquipmentId": 127311352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 127311462
+    },
+    {
+        "AfterEquipmentId": 128111460,
+        "BeforeEquipmentId": 128111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 128111460
+    },
+    {
+        "AfterEquipmentId": 128211460,
+        "BeforeEquipmentId": 128211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 128211460
+    },
+    {
+        "AfterEquipmentId": 128211461,
+        "BeforeEquipmentId": 128211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 128211461
+    },
+    {
+        "AfterEquipmentId": 128311460,
+        "BeforeEquipmentId": 128311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 128311460
+    },
+    {
+        "AfterEquipmentId": 128311461,
+        "BeforeEquipmentId": 128311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 128311461
+    },
+    {
+        "AfterEquipmentId": 129311460,
+        "BeforeEquipmentId": 129311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 129311460
+    },
+    {
+        "AfterEquipmentId": 130111460,
+        "BeforeEquipmentId": 130111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 130111460
+    },
+    {
+        "AfterEquipmentId": 130111461,
+        "BeforeEquipmentId": 130111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 130111461
+    },
+    {
+        "AfterEquipmentId": 130211460,
+        "BeforeEquipmentId": 130211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 130211460
+    },
+    {
+        "AfterEquipmentId": 130311460,
+        "BeforeEquipmentId": 130311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 130311460
+    },
+    {
+        "AfterEquipmentId": 130311461,
+        "BeforeEquipmentId": 130311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 130311461
+    },
+    {
+        "AfterEquipmentId": 131111460,
+        "BeforeEquipmentId": 131111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 131111460
+    },
+    {
+        "AfterEquipmentId": 131211460,
+        "BeforeEquipmentId": 131211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 131211460
+    },
+    {
+        "AfterEquipmentId": 131211461,
+        "BeforeEquipmentId": 131211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 131211461
+    },
+    {
+        "AfterEquipmentId": 131311460,
+        "BeforeEquipmentId": 131311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 131311460
+    },
+    {
+        "AfterEquipmentId": 132111460,
+        "BeforeEquipmentId": 132111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 132111460
+    },
+    {
+        "AfterEquipmentId": 132211460,
+        "BeforeEquipmentId": 132211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 132211460
+    },
+    {
+        "AfterEquipmentId": 132211461,
+        "BeforeEquipmentId": 132211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 132211461
+    },
+    {
+        "AfterEquipmentId": 132311460,
+        "BeforeEquipmentId": 132311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 132311460
+    },
+    {
+        "AfterEquipmentId": 133111460,
+        "BeforeEquipmentId": 133111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 133111460
+    },
+    {
+        "AfterEquipmentId": 133111461,
+        "BeforeEquipmentId": 133111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 133111461
+    },
+    {
+        "AfterEquipmentId": 133211460,
+        "BeforeEquipmentId": 133211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 133211460
+    },
+    {
+        "AfterEquipmentId": 133311460,
+        "BeforeEquipmentId": 133311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 133311460
+    },
+    {
+        "AfterEquipmentId": 134111460,
+        "BeforeEquipmentId": 134111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 134111460
+    },
+    {
+        "AfterEquipmentId": 134211460,
+        "BeforeEquipmentId": 134211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 134211460
+    },
+    {
+        "AfterEquipmentId": 134311460,
+        "BeforeEquipmentId": 134311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 134311460
+    },
+    {
+        "AfterEquipmentId": 134311461,
+        "BeforeEquipmentId": 134311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 134311461
+    },
+    {
+        "AfterEquipmentId": 135111460,
+        "BeforeEquipmentId": 135111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 135111460
+    },
+    {
+        "AfterEquipmentId": 135211460,
+        "BeforeEquipmentId": 135211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 135211460
+    },
+    {
+        "AfterEquipmentId": 135211461,
+        "BeforeEquipmentId": 135211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 135211461
+    },
+    {
+        "AfterEquipmentId": 135311460,
+        "BeforeEquipmentId": 135311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 135311460
+    },
+    {
+        "AfterEquipmentId": 136111460,
+        "BeforeEquipmentId": 136111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 136111460
+    },
+    {
+        "AfterEquipmentId": 136111461,
+        "BeforeEquipmentId": 136111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 136111461
+    },
+    {
+        "AfterEquipmentId": 136211460,
+        "BeforeEquipmentId": 136211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 136211460
+    },
+    {
+        "AfterEquipmentId": 136211461,
+        "BeforeEquipmentId": 136211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 136211461
+    },
+    {
+        "AfterEquipmentId": 136311460,
+        "BeforeEquipmentId": 136311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 136311460
+    },
+    {
+        "AfterEquipmentId": 137111460,
+        "BeforeEquipmentId": 137111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 137111460
+    },
+    {
+        "AfterEquipmentId": 137111461,
+        "BeforeEquipmentId": 137111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 137111461
+    },
+    {
+        "AfterEquipmentId": 137211460,
+        "BeforeEquipmentId": 137211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 137211460
+    },
+    {
+        "AfterEquipmentId": 137311460,
+        "BeforeEquipmentId": 137311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 137311460
+    },
+    {
+        "AfterEquipmentId": 138111460,
+        "BeforeEquipmentId": 138111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 138111460
+    },
+    {
+        "AfterEquipmentId": 138111461,
+        "BeforeEquipmentId": 138111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 138111461
+    },
+    {
+        "AfterEquipmentId": 138211460,
+        "BeforeEquipmentId": 138211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 138211460
+    },
+    {
+        "AfterEquipmentId": 138311460,
+        "BeforeEquipmentId": 138311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 138311460
+    },
+    {
+        "AfterEquipmentId": 138311461,
+        "BeforeEquipmentId": 138311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 138311461
+    },
+    {
+        "AfterEquipmentId": 139111460,
+        "BeforeEquipmentId": 139111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 139111460
+    },
+    {
+        "AfterEquipmentId": 139211460,
+        "BeforeEquipmentId": 139211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 139211460
+    },
+    {
+        "AfterEquipmentId": 139211461,
+        "BeforeEquipmentId": 139211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 139211461
+    },
+    {
+        "AfterEquipmentId": 139311460,
+        "BeforeEquipmentId": 139311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 139311460
+    },
+    {
+        "AfterEquipmentId": 139311461,
+        "BeforeEquipmentId": 139311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 139311461
+    },
+    {
+        "AfterEquipmentId": 140111460,
+        "BeforeEquipmentId": 140111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 140111460
+    },
+    {
+        "AfterEquipmentId": 140211460,
+        "BeforeEquipmentId": 140211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 140211460
+    },
+    {
+        "AfterEquipmentId": 140311460,
+        "BeforeEquipmentId": 140311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 140311460
+    },
+    {
+        "AfterEquipmentId": 141111460,
+        "BeforeEquipmentId": 141111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 141111460
+    },
+    {
+        "AfterEquipmentId": 141211460,
+        "BeforeEquipmentId": 141211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 141211460
+    },
+    {
+        "AfterEquipmentId": 141211461,
+        "BeforeEquipmentId": 141211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 141211461
+    },
+    {
+        "AfterEquipmentId": 141311460,
+        "BeforeEquipmentId": 141311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 141311460
+    },
+    {
+        "AfterEquipmentId": 141311461,
+        "BeforeEquipmentId": 141311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 141311461
+    },
+    {
+        "AfterEquipmentId": 142111460,
+        "BeforeEquipmentId": 142111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 142111460
+    },
+    {
+        "AfterEquipmentId": 142211460,
+        "BeforeEquipmentId": 142211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 142211460
+    },
+    {
+        "AfterEquipmentId": 142311460,
+        "BeforeEquipmentId": 142311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 142311460
+    },
+    {
+        "AfterEquipmentId": 143111460,
+        "BeforeEquipmentId": 143111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 143111460
+    },
+    {
+        "AfterEquipmentId": 143111461,
+        "BeforeEquipmentId": 143111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 143111461
+    },
+    {
+        "AfterEquipmentId": 143211460,
+        "BeforeEquipmentId": 143211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 143211460
+    },
+    {
+        "AfterEquipmentId": 143211461,
+        "BeforeEquipmentId": 143211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 143211461
+    },
+    {
+        "AfterEquipmentId": 143311460,
+        "BeforeEquipmentId": 143311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 143311460
+    },
+    {
+        "AfterEquipmentId": 144111460,
+        "BeforeEquipmentId": 144111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 144111460
+    },
+    {
+        "AfterEquipmentId": 144211460,
+        "BeforeEquipmentId": 144211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 144211460
+    },
+    {
+        "AfterEquipmentId": 144211461,
+        "BeforeEquipmentId": 144211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 144211461
+    },
+    {
+        "AfterEquipmentId": 144311460,
+        "BeforeEquipmentId": 144311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 144311460
+    },
+    {
+        "AfterEquipmentId": 145111460,
+        "BeforeEquipmentId": 145111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 145111460
+    },
+    {
+        "AfterEquipmentId": 145111461,
+        "BeforeEquipmentId": 145111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 145111461
+    },
+    {
+        "AfterEquipmentId": 145111462,
+        "BeforeEquipmentId": 145111352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 145111462
+    },
+    {
+        "AfterEquipmentId": 145211460,
+        "BeforeEquipmentId": 145211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 145211460
+    },
+    {
+        "AfterEquipmentId": 145311460,
+        "BeforeEquipmentId": 145311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 145311460
+    },
+    {
+        "AfterEquipmentId": 146111460,
+        "BeforeEquipmentId": 146111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 146111460
+    },
+    {
+        "AfterEquipmentId": 146111461,
+        "BeforeEquipmentId": 146111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 146111461
+    },
+    {
+        "AfterEquipmentId": 146111462,
+        "BeforeEquipmentId": 146111352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 146111462
+    },
+    {
+        "AfterEquipmentId": 146211460,
+        "BeforeEquipmentId": 146211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 146211460
+    },
+    {
+        "AfterEquipmentId": 146311460,
+        "BeforeEquipmentId": 146311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 146311460
+    },
+    {
+        "AfterEquipmentId": 147111460,
+        "BeforeEquipmentId": 147111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 147111460
+    },
+    {
+        "AfterEquipmentId": 147211460,
+        "BeforeEquipmentId": 147211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 147211460
+    },
+    {
+        "AfterEquipmentId": 147311460,
+        "BeforeEquipmentId": 147311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 147311460
+    },
+    {
+        "AfterEquipmentId": 148111460,
+        "BeforeEquipmentId": 148111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 148111460
+    },
+    {
+        "AfterEquipmentId": 148211460,
+        "BeforeEquipmentId": 148211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 148211460
+    },
+    {
+        "AfterEquipmentId": 148211461,
+        "BeforeEquipmentId": 148211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 148211461
+    },
+    {
+        "AfterEquipmentId": 148311460,
+        "BeforeEquipmentId": 148311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 148311460
+    },
+    {
+        "AfterEquipmentId": 148311461,
+        "BeforeEquipmentId": 148311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 148311461
+    },
+    {
+        "AfterEquipmentId": 149111460,
+        "BeforeEquipmentId": 149111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 149111460
+    },
+    {
+        "AfterEquipmentId": 149211460,
+        "BeforeEquipmentId": 149211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 149211460
+    },
+    {
+        "AfterEquipmentId": 149211461,
+        "BeforeEquipmentId": 149211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 149211461
+    },
+    {
+        "AfterEquipmentId": 149311460,
+        "BeforeEquipmentId": 149311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 149311460
+    },
+    {
+        "AfterEquipmentId": 149311461,
+        "BeforeEquipmentId": 149311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 149311461
+    },
+    {
+        "AfterEquipmentId": 150111460,
+        "BeforeEquipmentId": 150111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 150111460
+    },
+    {
+        "AfterEquipmentId": 150111461,
+        "BeforeEquipmentId": 150111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 150111461
+    },
+    {
+        "AfterEquipmentId": 150211460,
+        "BeforeEquipmentId": 150211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 150211460
+    },
+    {
+        "AfterEquipmentId": 150211461,
+        "BeforeEquipmentId": 150211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 150211461
+    },
+    {
+        "AfterEquipmentId": 150311460,
+        "BeforeEquipmentId": 150311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 150311460
+    },
+    {
+        "AfterEquipmentId": 151111460,
+        "BeforeEquipmentId": 151111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 151111460
+    },
+    {
+        "AfterEquipmentId": 151111461,
+        "BeforeEquipmentId": 151111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 151111461
+    },
+    {
+        "AfterEquipmentId": 151211460,
+        "BeforeEquipmentId": 151211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 151211460
+    },
+    {
+        "AfterEquipmentId": 151311460,
+        "BeforeEquipmentId": 151311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 151311460
+    },
+    {
+        "AfterEquipmentId": 151311461,
+        "BeforeEquipmentId": 151311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 151311461
+    },
+    {
+        "AfterEquipmentId": 152111460,
+        "BeforeEquipmentId": 152111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 152111460
+    },
+    {
+        "AfterEquipmentId": 152111461,
+        "BeforeEquipmentId": 152111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 152111461
+    },
+    {
+        "AfterEquipmentId": 152111462,
+        "BeforeEquipmentId": 152111352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 152111462
+    },
+    {
+        "AfterEquipmentId": 152211460,
+        "BeforeEquipmentId": 152211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 152211460
+    },
+    {
+        "AfterEquipmentId": 152311460,
+        "BeforeEquipmentId": 152311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 152311460
+    },
+    {
+        "AfterEquipmentId": 153111460,
+        "BeforeEquipmentId": 153111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 153111460
+    },
+    {
+        "AfterEquipmentId": 153211460,
+        "BeforeEquipmentId": 153211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 153211460
+    },
+    {
+        "AfterEquipmentId": 153311460,
+        "BeforeEquipmentId": 153311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 153311460
+    },
+    {
+        "AfterEquipmentId": 153311461,
+        "BeforeEquipmentId": 153311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 153311461
+    },
+    {
+        "AfterEquipmentId": 153311462,
+        "BeforeEquipmentId": 153311352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 153311462
+    },
+    {
+        "AfterEquipmentId": 154111460,
+        "BeforeEquipmentId": 154111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 154111460
+    },
+    {
+        "AfterEquipmentId": 154111461,
+        "BeforeEquipmentId": 154111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 154111461
+    },
+    {
+        "AfterEquipmentId": 154211460,
+        "BeforeEquipmentId": 154211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 154211460
+    },
+    {
+        "AfterEquipmentId": 154311460,
+        "BeforeEquipmentId": 154311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 154311460
+    },
+    {
+        "AfterEquipmentId": 154311461,
+        "BeforeEquipmentId": 154311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 154311461
+    },
+    {
+        "AfterEquipmentId": 155111460,
+        "BeforeEquipmentId": 155111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 155111460
+    },
+    {
+        "AfterEquipmentId": 155211460,
+        "BeforeEquipmentId": 155211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 155211460
+    },
+    {
+        "AfterEquipmentId": 155211461,
+        "BeforeEquipmentId": 155211341,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 155211461
+    },
+    {
+        "AfterEquipmentId": 155311460,
+        "BeforeEquipmentId": 155311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 155311460
+    },
+    {
+        "AfterEquipmentId": 155311461,
+        "BeforeEquipmentId": 155311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 155311461
+    },
+    {
+        "AfterEquipmentId": 156111460,
+        "BeforeEquipmentId": 156111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 156111460
+    },
+    {
+        "AfterEquipmentId": 156211460,
+        "BeforeEquipmentId": 156211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 156211460
+    },
+    {
+        "AfterEquipmentId": 156311460,
+        "BeforeEquipmentId": 156311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 156311460
+    },
+    {
+        "AfterEquipmentId": 156311461,
+        "BeforeEquipmentId": 156311341,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 156311461
+    },
+    {
+        "AfterEquipmentId": 156311462,
+        "BeforeEquipmentId": 156311352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 156311462
+    },
+    {
+        "AfterEquipmentId": 157111460,
+        "BeforeEquipmentId": 157111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 157111460
+    },
+    {
+        "AfterEquipmentId": 157111461,
+        "BeforeEquipmentId": 157111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 157111461
+    },
+    {
+        "AfterEquipmentId": 157211460,
+        "BeforeEquipmentId": 157211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 157211460
+    },
+    {
+        "AfterEquipmentId": 157311460,
+        "BeforeEquipmentId": 157311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 157311460
+    },
+    {
+        "AfterEquipmentId": 157311461,
+        "BeforeEquipmentId": 157311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 157311461
+    },
+    {
+        "AfterEquipmentId": 158111460,
+        "BeforeEquipmentId": 158111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 158111460
+    },
+    {
+        "AfterEquipmentId": 158111461,
+        "BeforeEquipmentId": 158111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 158111461
+    },
+    {
+        "AfterEquipmentId": 158211460,
+        "BeforeEquipmentId": 158211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 158211460
+    },
+    {
+        "AfterEquipmentId": 158211461,
+        "BeforeEquipmentId": 158211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 158211461
+    },
+    {
+        "AfterEquipmentId": 158311460,
+        "BeforeEquipmentId": 158311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 158311460
+    },
+    {
+        "AfterEquipmentId": 159111460,
+        "BeforeEquipmentId": 159111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 159111460
+    },
+    {
+        "AfterEquipmentId": 159111461,
+        "BeforeEquipmentId": 159111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 159111461
+    },
+    {
+        "AfterEquipmentId": 159211460,
+        "BeforeEquipmentId": 159211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 159211460
+    },
+    {
+        "AfterEquipmentId": 159211461,
+        "BeforeEquipmentId": 159211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 159211461
+    },
+    {
+        "AfterEquipmentId": 159311460,
+        "BeforeEquipmentId": 159311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 159311460
+    },
+    {
+        "AfterEquipmentId": 160111460,
+        "BeforeEquipmentId": 160111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 160111460
+    },
+    {
+        "AfterEquipmentId": 160111461,
+        "BeforeEquipmentId": 160111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 160111461
+    },
+    {
+        "AfterEquipmentId": 160211460,
+        "BeforeEquipmentId": 160211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 160211460
+    },
+    {
+        "AfterEquipmentId": 160311460,
+        "BeforeEquipmentId": 160311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 160311460
+    },
+    {
+        "AfterEquipmentId": 160311461,
+        "BeforeEquipmentId": 160311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 160311461
+    },
+    {
+        "AfterEquipmentId": 161111460,
+        "BeforeEquipmentId": 161111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 161111460
+    },
+    {
+        "AfterEquipmentId": 161211460,
+        "BeforeEquipmentId": 161211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 161211460
+    },
+    {
+        "AfterEquipmentId": 161211461,
+        "BeforeEquipmentId": 161211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 161211461
+    },
+    {
+        "AfterEquipmentId": 161211462,
+        "BeforeEquipmentId": 161211352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 161211462
+    },
+    {
+        "AfterEquipmentId": 161311460,
+        "BeforeEquipmentId": 161311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 161311460
+    },
+    {
+        "AfterEquipmentId": 162111460,
+        "BeforeEquipmentId": 162111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 162111460
+    },
+    {
+        "AfterEquipmentId": 162211460,
+        "BeforeEquipmentId": 162211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 162211460
+    },
+    {
+        "AfterEquipmentId": 162211461,
+        "BeforeEquipmentId": 162211341,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 162211461
+    },
+    {
+        "AfterEquipmentId": 162211462,
+        "BeforeEquipmentId": 162211352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 162211462
+    },
+    {
+        "AfterEquipmentId": 162311460,
+        "BeforeEquipmentId": 162311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 162311460
+    },
+    {
+        "AfterEquipmentId": 163111460,
+        "BeforeEquipmentId": 163111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 163111460
+    },
+    {
+        "AfterEquipmentId": 163211460,
+        "BeforeEquipmentId": 163211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 163211460
+    },
+    {
+        "AfterEquipmentId": 163311460,
+        "BeforeEquipmentId": 163311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 163311460
+    },
+    {
+        "AfterEquipmentId": 163311461,
+        "BeforeEquipmentId": 163311351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 163311461
+    },
+    {
+        "AfterEquipmentId": 163311462,
+        "BeforeEquipmentId": 163311352,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 163311462
+    },
+    {
+        "AfterEquipmentId": 164111460,
+        "BeforeEquipmentId": 164111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 164111460
+    },
+    {
+        "AfterEquipmentId": 164111461,
+        "BeforeEquipmentId": 164111351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 164111461
+    },
+    {
+        "AfterEquipmentId": 164211460,
+        "BeforeEquipmentId": 164211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 164211460
+    },
+    {
+        "AfterEquipmentId": 164211461,
+        "BeforeEquipmentId": 164211351,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 164211461
+    },
+    {
+        "AfterEquipmentId": 164311460,
+        "BeforeEquipmentId": 164311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 164311460
+    },
+    {
+        "AfterEquipmentId": 165111460,
+        "BeforeEquipmentId": 165111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 165111460
+    },
+    {
+        "AfterEquipmentId": 165311460,
+        "BeforeEquipmentId": 165311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 165311460
+    },
+    {
+        "AfterEquipmentId": 166111460,
+        "BeforeEquipmentId": 166111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 166111460
+    },
+    {
+        "AfterEquipmentId": 166211460,
+        "BeforeEquipmentId": 166211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 166211460
+    },
+    {
+        "AfterEquipmentId": 168111460,
+        "BeforeEquipmentId": 168111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 168111460
+    },
+    {
+        "AfterEquipmentId": 168311460,
+        "BeforeEquipmentId": 168311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 168311460
+    },
+    {
+        "AfterEquipmentId": 169111460,
+        "BeforeEquipmentId": 169111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 169111460
+    },
+    {
+        "AfterEquipmentId": 169211460,
+        "BeforeEquipmentId": 169211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 169211460
+    },
+    {
+        "AfterEquipmentId": 170211460,
+        "BeforeEquipmentId": 170211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 170211460
+    },
+    {
+        "AfterEquipmentId": 170311460,
+        "BeforeEquipmentId": 170311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 170311460
+    },
+    {
+        "AfterEquipmentId": 171111460,
+        "BeforeEquipmentId": 171111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 171111460
+    },
+    {
+        "AfterEquipmentId": 171311460,
+        "BeforeEquipmentId": 171311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 171311460
+    },
+    {
+        "AfterEquipmentId": 172111460,
+        "BeforeEquipmentId": 172111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 172111460
+    },
+    {
+        "AfterEquipmentId": 172211460,
+        "BeforeEquipmentId": 172211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 172211460
+    },
+    {
+        "AfterEquipmentId": 173211460,
+        "BeforeEquipmentId": 173211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 173211460
+    },
+    {
+        "AfterEquipmentId": 173311460,
+        "BeforeEquipmentId": 173311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 173311460
+    },
+    {
+        "AfterEquipmentId": 174111460,
+        "BeforeEquipmentId": 174111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 174111460
+    },
+    {
+        "AfterEquipmentId": 174311460,
+        "BeforeEquipmentId": 174311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 174311460
+    },
+    {
+        "AfterEquipmentId": 175111460,
+        "BeforeEquipmentId": 175111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 175111460
+    },
+    {
+        "AfterEquipmentId": 175211460,
+        "BeforeEquipmentId": 175211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 175211460
+    },
+    {
+        "AfterEquipmentId": 501311460,
+        "BeforeEquipmentId": 501311350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 501311460
+    },
+    {
+        "AfterEquipmentId": 502211460,
+        "BeforeEquipmentId": 502211350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 502211460
+    },
+    {
+        "AfterEquipmentId": 503111460,
+        "BeforeEquipmentId": 503111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 503111460
+    },
+    {
+        "AfterEquipmentId": 504111460,
+        "BeforeEquipmentId": 504111350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 504111460
+    },
+    {
+        "AfterEquipmentId": 614031460,
+        "BeforeEquipmentId": 613031350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614031460
+    },
+    {
+        "AfterEquipmentId": 614041460,
+        "BeforeEquipmentId": 613061350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614041460
+    },
+    {
+        "AfterEquipmentId": 614051460,
+        "BeforeEquipmentId": 613051350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614051460
+    },
+    {
+        "AfterEquipmentId": 614061460,
+        "BeforeEquipmentId": 613041350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614061460
+    },
+    {
+        "AfterEquipmentId": 614121460,
+        "BeforeEquipmentId": 613121350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614121460
+    },
+    {
+        "AfterEquipmentId": 614221460,
+        "BeforeEquipmentId": 613221350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614221460
+    },
+    {
+        "AfterEquipmentId": 614321460,
+        "BeforeEquipmentId": 613321350,
+        "EquipmentSpecialEvolutionResourceGroupId": 1000,
+        "Id": 614321460
+    }
+]

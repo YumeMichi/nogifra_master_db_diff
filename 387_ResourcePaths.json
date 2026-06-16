@@ -1,0 +1,834 @@
+[
+    {
+        "Path": "Textures/AppPayBanner/{0}/{0}_AppPayBanner.png",
+        "_key": "0"
+    },
+    {
+        "Path": "Textures/BonusShopBanner/{0}/{0}_BonusShopBanner.png",
+        "_key": "1"
+    },
+    {
+        "Path": "Textures/BonusShopIcon/{0}/{0}_BonusShopIcon.png",
+        "_key": "2"
+    },
+    {
+        "Path": "DlcAssets/ScriptableObjects/ResourcePath/SpriteAtlasPaths/SpriteAtlasPaths",
+        "_key": "3"
+    },
+    {
+        "Path": "DELTA_SOUND",
+        "_key": "4"
+    },
+    {
+        "Path": "SE",
+        "_key": "5"
+    },
+    {
+        "Path": "DlcAssets/Effects/{0}/{1}/{2}",
+        "_key": "6"
+    },
+    {
+        "Path": "DlcAssets/Effects/Common/Eff_Common_0001/eff_common_0001",
+        "_key": "7"
+    },
+    {
+        "Path": "Adventure/Scenarios/{0}/{0}.asset",
+        "_key": "8"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/{0}/{0}_ItemThumbnail",
+        "_key": "9"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/{0}/{0}_ItemThumbnail_Mini",
+        "_key": "10"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentThumbnails/{0}/{0}_EquipmentThumbnail",
+        "_key": "11"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentThumbnails/{0}/{0}_EquipmentThumbnail",
+        "_key": "12"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentBase/{0}/{0}_EquipmentBase",
+        "_key": "13"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentFragmentBase/{0}/{0}_EquipmentFragmentBase",
+        "_key": "14"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentFrame/{0}/{0}_EquipmentFrame",
+        "_key": "15"
+    },
+    {
+        "Path": "DlcAssets/Textures/EquipmentFragmentFrame/{0}/{0}_EquipmentFragmentFrame",
+        "_key": "16"
+    },
+    {
+        "Path": "DlcAssets/Textures/AvatarLarge/{0}/{0}_AvatarLarge",
+        "_key": "17"
+    },
+    {
+        "Path": "DlcAssets/Textures/AvatarThumbnails/{0}/{0}_AvatarThumbnail",
+        "_key": "18"
+    },
+    {
+        "Path": "DlcAssets/Textures/Emblem/{0}/{0}_Emblem",
+        "_key": "19"
+    },
+    {
+        "Path": "DlcAssets/Textures/ProfileThumbnails/{0}/{0}_ProfleThumbnail",
+        "_key": "20"
+    },
+    {
+        "Path": "DlcAssets/Textures/ProfileFrame/{0}/{0}_ProfileFrame",
+        "_key": "21"
+    },
+    {
+        "Path": "DlcAssets/Units/Accessory_hand/{0}/{0}",
+        "_key": "22"
+    },
+    {
+        "Path": "DlcAssets/Units/Accessory_ear/{0}/{0}",
+        "_key": "23"
+    },
+    {
+        "Path": "DlcAssets/Stages/Sub/{0}/bgMod_{0}",
+        "_key": "24"
+    },
+    {
+        "Path": "DlcAssets/Units/Costume/{0}_g/{0}_g",
+        "_key": "25"
+    },
+    {
+        "Path": "DlcAssets/Units/Costume/{0}_s/{0}_s",
+        "_key": "26"
+    },
+    {
+        "Path": "DlcAssets/Units/Face/Fac_{0}/Fac_{0}",
+        "_key": "27"
+    },
+    {
+        "Path": "DlcAssets/Units/Face/{0}/{0}",
+        "_key": "28"
+    },
+    {
+        "Path": "DlcAssets/Units/Hair/Har_{0}_001/Har_{0}_001",
+        "_key": "29"
+    },
+    {
+        "Path": "DlcAssets/Units/Hair/{0}/{0}",
+        "_key": "30"
+    },
+    {
+        "Path": "DlcAssets/Units/Other/TemplateAvatar/Avatar",
+        "_key": "31"
+    },
+    {
+        "Path": "DlcAssets/Units/CostumeMaterials/{0}/{0}",
+        "_key": "32"
+    },
+    {
+        "Path": "DlcAssets/StageMainAnimations/{0}/{1}/{1}",
+        "_key": "33"
+    },
+    {
+        "Path": "DlcAssets/StageSubAnimations/{0}/{1}/TL_{1}_Sub",
+        "_key": "34"
+    },
+    {
+        "Path": "DlcAssets/StageSubAnimations/{0}/{1}/StageOverrideInfo_{1}_Sub",
+        "_key": "35"
+    },
+    {
+        "Path": "DlcAssets/Animations/{0}/{0}_mini_{1}/{0}_mini_{1}_tl",
+        "_key": "36"
+    },
+    {
+        "Path": "DlcAssets/Animations/{0}/{0}_long_{1}/{0}_long_{1}_tl",
+        "_key": "37"
+    },
+    {
+        "Path": "DlcAssets/Animations/{0}/{0}_panier_{1}/{0}_panier_{1}_tl",
+        "_key": "38"
+    },
+    {
+        "Path": "DlcAssets/Textures/ProduceCampaignCalender/{0}/ProduceCampaignCalender_{0}",
+        "_key": "39"
+    },
+    {
+        "Path": "DlcAssets/Textures/StatusEffects/{0}/{0}",
+        "_key": "40"
+    },
+    {
+        "Path": "DlcAssets/Textures/BattleSkillThumbnails/{0}/{0}_BattleSkillThumbnail",
+        "_key": "41"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildThumbnails/{0}/{0}_GuildThumbnail",
+        "_key": "42"
+    },
+    {
+        "Path": "DlcAssets/Textures/MemoriaThumbnails/{0}/{0}_MemoriaThumbnail",
+        "_key": "43"
+    },
+    {
+        "Path": "DlcAssets/Textures/Still/{0}/{0}_Still",
+        "_key": "44"
+    },
+    {
+        "Path": "Textures/Shop/Menus/{0}/{0}_ShopSideMenuBanner.png",
+        "_key": "45"
+    },
+    {
+        "Path": "Textures/Shop/Articles/{0}/{0}_SpecialPanel.png",
+        "_key": "46"
+    },
+    {
+        "Path": "Textures/Shop/Articles/{0}/{0}_WeeklyPanel.png",
+        "_key": "47"
+    },
+    {
+        "Path": "Textures/Shop/Articles/{0}/{0}_MonthlyPanel.png",
+        "_key": "48"
+    },
+    {
+        "Path": "Textures/Shop/Bundle/{0}/{0}_Bundle.png",
+        "_key": "49"
+    },
+    {
+        "Path": "DlcAssets/Textures/CharacterName/{0}/{0}_CharacterName",
+        "_key": "50"
+    },
+    {
+        "Path": "DlcAssets/Textures/CharacterThumbnails/{0}/{0}_CharacterThumbnail",
+        "_key": "51"
+    },
+    {
+        "Path": "DlcAssets/AnimatorControllers/Idle/{0}_mini/{0}_mini",
+        "_key": "52"
+    },
+    {
+        "Path": "DlcAssets/AnimatorControllers/Idle/{0}_long/{0}_long",
+        "_key": "53"
+    },
+    {
+        "Path": "DlcAssets/AnimatorControllers/Idle/{0}_normal/{0}_normal",
+        "_key": "54"
+    },
+    {
+        "Path": "DlcAssets/AnimatorControllers/Idle/{0}_panier/{0}_panier",
+        "_key": "55"
+    },
+    {
+        "Path": "Voices/{0}/{0}",
+        "_key": "56"
+    },
+    {
+        "Path": "DlcAssets/Textures/JacketThumbnails/{0}/{0}_JacketThumbnail",
+        "_key": "57"
+    },
+    {
+        "Path": "Textures/Gacha/Menu/{0}_GachaBanner.png",
+        "_key": "58"
+    },
+    {
+        "Path": "Textures/Gacha/{0}.png",
+        "_key": "59"
+    },
+    {
+        "Path": "Textures/Gacha/{0}.png",
+        "_key": "60"
+    },
+    {
+        "Path": "Textures/Gacha/{0}.png",
+        "_key": "61"
+    },
+    {
+        "Path": "Movies/CommonBg/Gacha/{0}.usm",
+        "_key": "62"
+    },
+    {
+        "Path": "Textures/Gacha/{0}.png",
+        "_key": "63"
+    },
+    {
+        "Path": "DlcAssets/Textures/LoginBonusTitle/{0}/loginbonustitle_{0}_jp",
+        "_key": "64"
+    },
+    {
+        "Path": "DlcAssets/Textures/LoginBonusTitle/{0}/loginbonustitle_{0}_en",
+        "_key": "65"
+    },
+    {
+        "Path": "Textures/LoginBonusBg/{0}/{0}_LoginBonusBg.png",
+        "_key": "66"
+    },
+    {
+        "Path": "Textures/EventNews/Shop/{0}/{0}_EventNewsShop.png",
+        "_key": "67"
+    },
+    {
+        "Path": "Textures/EventNews/OutsideApp/{0}/{0}_EventNewsOutsideApp.png",
+        "_key": "68"
+    },
+    {
+        "Path": "DlcAssets/Textures/CostumeThemeThumbnails/{0}/{0}_CostumeThemeThumbnail",
+        "_key": "69"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_HairstyleThumbnail",
+        "_key": "70"
+    },
+    {
+        "Path": "DlcAssets/Textures/Still/{0}/{0}_Still",
+        "_key": "71"
+    },
+    {
+        "Path": "DlcAssets/Textures/StillThumbnails/{0}/{0}_StillThumbnail",
+        "_key": "72"
+    },
+    {
+        "Path": "DlcAssets/Textures/StillThumbnails/{0}/{0}_StillMiddle",
+        "_key": "73"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/PlayerSignin/PlayerSigninResponse.json",
+        "_key": "74"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/PlayerInitialize/{0}.json",
+        "_key": "75"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/MainUnit/UnitTypes.json",
+        "_key": "76"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/Present/{0}.json",
+        "_key": "77"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/DeckEdit/{0}.json",
+        "_key": "78"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/OpenUnit/{0}.json",
+        "_key": "79"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/UnitEquipmentSet/{0}.json",
+        "_key": "80"
+    },
+    {
+        "Path": "DlcAssets/Textures/Tips/{0}/{0}_TipsBanner",
+        "_key": "81"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/Produce/TutorialBattle_{0}.json",
+        "_key": "82"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/Produce/TutorialBattle_{0}_{1}.json",
+        "_key": "83"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/Produce/TutorialModel_{0}.json",
+        "_key": "84"
+    },
+    {
+        "Path": "DlcAssets/TextAssets/Tutorial/Member/TutorialMember_{0}.json",
+        "_key": "85"
+    },
+    {
+        "Path": "Adventure/Scenarios/{0}/{0}.asset",
+        "_key": "86"
+    },
+    {
+        "Path": "DlcAssets/Tutorial/Sequence/ScriptableObjects/TutorialList",
+        "_key": "87"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_IconFrameThumbnail",
+        "_key": "88"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_EmblemThumbnail",
+        "_key": "89"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_EmblemThumbnail_2",
+        "_key": "90"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_EquipmentThumbnail",
+        "_key": "91"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_EquipmentSetFragmentThumbnail",
+        "_key": "92"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_CostumeThumbnail",
+        "_key": "93"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_HairstyleThumbnail",
+        "_key": "94"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_MovieThumbnail",
+        "_key": "95"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_MusicThumbnail",
+        "_key": "96"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_StillThumbnail",
+        "_key": "97"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_VoiceThumbnail",
+        "_key": "98"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_MemoriaFragmentThumbnail",
+        "_key": "99"
+    },
+    {
+        "Path": "DlcAssets/Textures/FlowerStand/{0}/{0}_FlowerStand",
+        "_key": "100"
+    },
+    {
+        "Path": "stage_tvstudio_001",
+        "_key": "101"
+    },
+    {
+        "Path": "switch_cameras",
+        "_key": "102"
+    },
+    {
+        "Path": "idle_basic_guild_raid_001",
+        "_key": "103"
+    },
+    {
+        "Path": "DlcAssets/Units/FaceMaterials/{0}/{0}",
+        "_key": "104"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBanner.png",
+        "_key": "105"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBanner_1st.png",
+        "_key": "106"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBanner_half.png",
+        "_key": "107"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBanner_2nd.png",
+        "_key": "108"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBg.png",
+        "_key": "109"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBg_1st.png",
+        "_key": "110"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBg_half.png",
+        "_key": "111"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{0}_GameEventBg_2nd.png",
+        "_key": "112"
+    },
+    {
+        "Path": "Textures/EventTips/{0}/{0}_EventTipsBanner_{1}.png",
+        "_key": "113"
+    },
+    {
+        "Path": "DlcAssets/Units/Costume/{0}/{0}",
+        "_key": "114"
+    },
+    {
+        "Path": "Textures/CharacterArchive{1}/{0}/{0}_CharacterArchive{1}_Select",
+        "_key": "115"
+    },
+    {
+        "Path": "Movies/CharacterArchive{1}/{0}/{0}_CharacterArchive{1}.usm",
+        "_key": "116"
+    },
+    {
+        "Path": "Textures/CharacterArchive{1}/{0}/{0}_CharacterArchive{1}",
+        "_key": "117"
+    },
+    {
+        "Path": "Textures/CharacterArchiveBG{1}/{0}/{0}_CharacterArchiveBG{1}_1",
+        "_key": "118"
+    },
+    {
+        "Path": "Textures/CharacterArchiveBG{1}/{0}/{0}_CharacterArchiveBG{1}_2",
+        "_key": "119"
+    },
+    {
+        "Path": "Textures/CharacterArchiveBG{1}/{0}/{0}_CharacterArchiveBG{1}_3",
+        "_key": "120"
+    },
+    {
+        "Path": "Textures/ArchiveRule/{0}/{0}_ArchiveRule",
+        "_key": "121"
+    },
+    {
+        "Path": "DlcAssets/Animations/{0}/{0}_{1}/{0}_{1}_tl",
+        "_key": "122"
+    },
+    {
+        "Path": "DlcAssets/ScriptableObjects/BGMLipSyncData/{0}/{0}.asset",
+        "_key": "123"
+    },
+    {
+        "Path": "DlcAssets/ScriptableObjects/VoiceLipSyncData/{0}/{0}.asset",
+        "_key": "124"
+    },
+    {
+        "Path": "DlcAssets/Textures/CharacterAutograph/{0}/{0}_CharacterAutograph.png",
+        "_key": "125"
+    },
+    {
+        "Path": "DlcAssets/Textures/CharacterAutograph/{0}/{0}_CharacterAutographRule.png",
+        "_key": "126"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildBattleMap/{0}/{0}_GuildBattleMap_Base",
+        "_key": "127"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildBattleMap/{0}/{0}_GuildBattleMap_Landmark_Large_{1}",
+        "_key": "128"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildBattleMap/{0}/{0}_GuildBattleMap_Landmark_Medium_{1}",
+        "_key": "129"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildBattleMap/{0}/{0}_GuildBattleMap_Landmark_Small_{1}",
+        "_key": "130"
+    },
+    {
+        "Path": "Movies/Gvg/BattleStatus/{0}.usm",
+        "_key": "131"
+    },
+    {
+        "Path": "DlcAssets/Textures/CenterSelect/{0}/{0}_CenterSelect",
+        "_key": "132"
+    },
+    {
+        "Path": "Movies/CenterSelect/{0}/{0}_CenterSelect.usm",
+        "_key": "133"
+    },
+    {
+        "Path": "DlcAssets/Textures/MovieThumbnails/{0}/{0}_MovieThumbnail",
+        "_key": "134"
+    },
+    {
+        "Path": "BGM/{0}",
+        "_key": "135"
+    },
+    {
+        "Path": "Adventure/Avatar/{0}/{0}_Sad.png",
+        "_key": "136"
+    },
+    {
+        "Path": "DlcAssets/Textures/MusicTitle/{0}/{0}_MusicTitle",
+        "_key": "137"
+    },
+    {
+        "Path": "DlcAssets/Textures/MusicTitleThumbnails/{0}/{0}_MusicTitleThumbnail",
+        "_key": "138"
+    },
+    {
+        "Path": "Movies/Test/stage_change_avatar.usm",
+        "_key": "139"
+    },
+    {
+        "Path": "Movies/Title/Title_{0:D2}.usm",
+        "_key": "140"
+    },
+    {
+        "Path": "Voices/vo_Title/vo_Title",
+        "_key": "141"
+    },
+    {
+        "Path": "Textures/CharacterTitle/{0}/{0}_CharacterTitle",
+        "_key": "142"
+    },
+    {
+        "Path": "Textures/CharacterTitle/{0}/{0}_CharacterTitle_BG",
+        "_key": "143"
+    },
+    {
+        "Path": "DlcAssets/AnimatorControllers/lipSync/LipSyncPattern01/LipSyncPattern01",
+        "_key": "144"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/{0}/{0}/{0}",
+        "_key": "145"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/{0}/{0}_mini/{0}_mini",
+        "_key": "146"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/{0}/{0}_long/{0}_long",
+        "_key": "147"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/{0}/{0}_panier/{0}_panier",
+        "_key": "148"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/Idle_00/Idle_00/Idle_00",
+        "_key": "149"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/Idle_00/Idle_00_mini/Idle_00_mini",
+        "_key": "150"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/Idle_00/Idle_00_long/Idle_00_long",
+        "_key": "151"
+    },
+    {
+        "Path": "DlcAssets/IdleAnimations/Idle_00/Idle_00_panier/Idle_00_panier",
+        "_key": "152"
+    },
+    {
+        "Path": "Textures/CampaignMissionBanner/{0}/{0}_CampaignMissionBanner.png",
+        "_key": "153"
+    },
+    {
+        "Path": "Idle_00",
+        "_key": "154"
+    },
+    {
+        "Path": "DlcAssets/Textures/GuildBattleMap/{0}/{0}_GuildBattleMap_Base_Night",
+        "_key": "155"
+    },
+    {
+        "Path": "Textures/StageUpPass/Menus/{0}/{0}_StageUpPassBanner.png",
+        "_key": "156"
+    },
+    {
+        "Path": "Textures/StageUpPass/Articles/{0}/{0}_StageUpPassPanel.png",
+        "_key": "157"
+    },
+    {
+        "Path": "Textures/CampaignMissionIcon/{0}/{0}_CampaignMissionIcon.png",
+        "_key": "158"
+    },
+    {
+        "Path": "Textures/DailyChargeBonusIcon/{0}/{0}_DailyChargeBonusIcon.png",
+        "_key": "159"
+    },
+    {
+        "Path": "Textures/EventNews/Information/{0}/{0}_EventNewsInformation.png",
+        "_key": "160"
+    },
+    {
+        "Path": "DlcAssets/Textures/Stamp/{0}/{0}_Stamp",
+        "_key": "161"
+    },
+    {
+        "Path": "Textures/PresentParty/{0}/{0}_PresentPartyTitle.png",
+        "_key": "162"
+    },
+    {
+        "Path": "Textures/PresentParty/{0}/{0}_PresentPartyBackground.png",
+        "_key": "163"
+    },
+    {
+        "Path": "Textures/PresentParty/{0}/{0}_PresentPartyBackground_{1}.png",
+        "_key": "164"
+    },
+    {
+        "Path": "DlcAssets/Textures/GroupLinksGacha/{0}/{0}_GroupLinksGachaLineup",
+        "_key": "165"
+    },
+    {
+        "Path": "DlcAssets/Textures/FracolleBoardBackground/{0}/{0}_FracolleBoardBackground",
+        "_key": "166"
+    },
+    {
+        "Path": "DlcAssets/Textures/FracolleBoardBanner/{0}/{0}_FracolleBoardBanner",
+        "_key": "167"
+    },
+    {
+        "Path": "DlcAssets/Textures/GroupLinksThumbnails/{0}/{0}_GroupLinksThumbnail",
+        "_key": "168"
+    },
+    {
+        "Path": "DlcAssets/Prefab/FracolleBoard/{0}/{0}_FracolleBoard",
+        "_key": "169"
+    },
+    {
+        "Path": "DlcAssets/Textures/ItemThumbnails/Symbol/Symbol_ArchiveThumbnail",
+        "_key": "170"
+    },
+    {
+        "Path": "Textures/Gacha/LoginMovieInfo/{0}/{0}_LoginMovieInfo.png",
+        "_key": "171"
+    },
+    {
+        "Path": "Movies/AvatarMovie/{0}/{0}_AvatarMovie_Short.usm",
+        "_key": "172"
+    },
+    {
+        "Path": "Movies/AvatarMovie/{0}/{0}_AvatarMovie_Long.usm",
+        "_key": "173"
+    },
+    {
+        "Path": "Textures/CharacterName/{0}/{0}_CharacterNameCursive",
+        "_key": "174"
+    },
+    {
+        "Path": "DlcAssets/Textures/CharacterArchiveThumbnails/{0}/{0}_CharacterArchiveThumbnail_{1:D3}",
+        "_key": "175"
+    },
+    {
+        "Path": "Textures/ProfileBackground/{0}/{0}_ProfileBackground",
+        "_key": "176"
+    },
+    {
+        "Path": "Textures/ProfileBackgroundThumbnails/{0}/{0}_ProfileBackgroundThumbnail",
+        "_key": "177"
+    },
+    {
+        "Path": "Textures/CharacterName/{0}/{0}_CharacterNameVertical",
+        "_key": "178"
+    },
+    {
+        "Path": "Textures/CharacterName/{0}/{0}_CharacterNameFutura",
+        "_key": "179"
+    },
+    {
+        "Path": "Textures/CharacterName/{0}/{0}_CharacterNameVerticalFirst",
+        "_key": "180"
+    },
+    {
+        "Path": "Textures/CharacterName/{0}/{0}_CharacterNameVerticalLast",
+        "_key": "181"
+    },
+    {
+        "Path": "Textures/LoginBonusThumbnails/{0}/{0}_LoginBonusThumbnail.png",
+        "_key": "182"
+    },
+    {
+        "Path": "Textures/PickUpMissionIcon/{0}/{0}_PickUpMissionIcon.png",
+        "_key": "183"
+    },
+    {
+        "Path": "Textures/PickUpMissionBanner/{0}/{0}_PickUpMissionBanner.png",
+        "_key": "184"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{1}_QuestThumbnail.png",
+        "_key": "185"
+    },
+    {
+        "Path": "Textures/DailyChargeBonusExIcon/{0}/{0}_DailyChargeBonusExIcon.png",
+        "_key": "186"
+    },
+    {
+        "Path": "Textures/DailyChargeBonusExBanner/{0}/{0}_DailyChargeBonusExBanner.png",
+        "_key": "187"
+    },
+    {
+        "Path": "Textures/LoginBonusLotteryBoxThumbnails/{0}/{0}_LoginBonusLotteryBoxThumbnail.png",
+        "_key": "188"
+    },
+    {
+        "Path": "Textures/PresentParty/{0}/{0}_PresentPartyIcon.png",
+        "_key": "189"
+    },
+    {
+        "Path": "Textures/LimitedGacha/{0}/{1}.png",
+        "_key": "190"
+    },
+    {
+        "Path": "Textures/LimitedGacha/{0}/{0}_LimitedGachaBanner.png",
+        "_key": "191"
+    },
+    {
+        "Path": "Textures/LimitedGachaIcon/{0}/{0}_LimitedGachaIcon.png",
+        "_key": "192"
+    },
+    {
+        "Path": "DlcAssets/Textures/SubUnitMemoriaThumbnails/{0}/{0}_SubUnitMemoriaThumbnail",
+        "_key": "193"
+    },
+    {
+        "Path": "Textures/GameEvent/{0}/{1}_AreaEventBanner.png",
+        "_key": "194"
+    },
+    {
+        "Path": "DlcAssets/UIEffects/Emblem/{0}/{0}_EmblemEffect.prefab",
+        "_key": "195"
+    },
+    {
+        "Path": "Textures/AwardLiveHomeFrame/{0}/{0}_AwardLiveHomeFrame.png",
+        "_key": "196"
+    },
+    {
+        "Path": "Textures/AwardLiveProfileFrame/{0}/{0}_AwardLiveProfileFrame.png",
+        "_key": "197"
+    },
+    {
+        "Path": "DlcAssets/StageMainAnimations/{0}/{1}/{1}",
+        "_key": "198"
+    },
+    {
+        "Path": "stage_studio_001",
+        "_key": "199"
+    },
+    {
+        "Path": "DlcAssets/Textures/VipServiceBanner/VipServiceBanner/VipServiceBanner.png",
+        "_key": "200"
+    },
+    {
+        "Path": "DlcAssets/Textures/AvatarLarge/{0}/{0}_AvatarLarge_{1}",
+        "_key": "201"
+    },
+    {
+        "Path": "DlcAssets/Textures/AvatarThumbnails/{0}/{0}_AvatarThumbnail_{1}",
+        "_key": "202"
+    },
+    {
+        "Path": "Movies/CenterMovie/{0}/{0}_CenterMovie_{1}.usm",
+        "_key": "203"
+    },
+    {
+        "Path": "DlcAssets/Textures/CenterSelect/{0}/{0}_CenterSelect_{1}",
+        "_key": "204"
+    },
+    {
+        "Path": "Movies/CenterSelect/{0}/{0}_CenterSelect_{1}.usm",
+        "_key": "205"
+    },
+    {
+        "Path": "DlcAssets/Textures/CenterSelectThumbnails/{0}/{0}_CenterSelectThumbnail",
+        "_key": "206"
+    },
+    {
+        "Path": "DlcAssets/Textures/CenterSelectThumbnails/{0}/{0}_CenterSelectThumbnail_{1}",
+        "_key": "207"
+    }
+]

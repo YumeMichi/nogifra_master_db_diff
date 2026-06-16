@@ -1,0 +1,5482 @@
+[
+    {
+        "CharacterRankSkillId": 10101,
+        "Id": 10101,
+        "PassiveSkillId": 310101
+    },
+    {
+        "CharacterRankSkillId": 10102,
+        "Id": 10102,
+        "PassiveSkillId": 310102
+    },
+    {
+        "CharacterRankSkillId": 10103,
+        "Id": 10103,
+        "PassiveSkillId": 310103
+    },
+    {
+        "CharacterRankSkillId": 10104,
+        "Id": 10104,
+        "PassiveSkillId": 310104
+    },
+    {
+        "CharacterRankSkillId": 10105,
+        "Id": 10105,
+        "PassiveSkillId": 310105
+    },
+    {
+        "CharacterRankSkillId": 10106,
+        "Id": 10106,
+        "PassiveSkillId": 310106
+    },
+    {
+        "CharacterRankSkillId": 10107,
+        "Id": 10107,
+        "PassiveSkillId": 310107
+    },
+    {
+        "CharacterRankSkillId": 10108,
+        "Id": 10108,
+        "PassiveSkillId": 310108
+    },
+    {
+        "CharacterRankSkillId": 10109,
+        "Id": 10109,
+        "PassiveSkillId": 310109
+    },
+    {
+        "CharacterRankSkillId": 10110,
+        "Id": 10110,
+        "PassiveSkillId": 310110
+    },
+    {
+        "CharacterRankSkillId": 10111,
+        "Id": 10111,
+        "PassiveSkillId": 310111
+    },
+    {
+        "CharacterRankSkillId": 10112,
+        "Id": 10112,
+        "PassiveSkillId": 310112
+    },
+    {
+        "CharacterRankSkillId": 10113,
+        "Id": 10113,
+        "PassiveSkillId": 310113
+    },
+    {
+        "CharacterRankSkillId": 10201,
+        "Id": 10201,
+        "PassiveSkillId": 310201
+    },
+    {
+        "CharacterRankSkillId": 10202,
+        "Id": 10202,
+        "PassiveSkillId": 310202
+    },
+    {
+        "CharacterRankSkillId": 10203,
+        "Id": 10203,
+        "PassiveSkillId": 310203
+    },
+    {
+        "CharacterRankSkillId": 10204,
+        "Id": 10204,
+        "PassiveSkillId": 310204
+    },
+    {
+        "CharacterRankSkillId": 10205,
+        "Id": 10205,
+        "PassiveSkillId": 310205
+    },
+    {
+        "CharacterRankSkillId": 10206,
+        "Id": 10206,
+        "PassiveSkillId": 310206
+    },
+    {
+        "CharacterRankSkillId": 10207,
+        "Id": 10207,
+        "PassiveSkillId": 310207
+    },
+    {
+        "CharacterRankSkillId": 10208,
+        "Id": 10208,
+        "PassiveSkillId": 310208
+    },
+    {
+        "CharacterRankSkillId": 10209,
+        "Id": 10209,
+        "PassiveSkillId": 310209
+    },
+    {
+        "CharacterRankSkillId": 10601,
+        "Id": 10601,
+        "PassiveSkillId": 310601
+    },
+    {
+        "CharacterRankSkillId": 10602,
+        "Id": 10602,
+        "PassiveSkillId": 310602
+    },
+    {
+        "CharacterRankSkillId": 10603,
+        "Id": 10603,
+        "PassiveSkillId": 310603
+    },
+    {
+        "CharacterRankSkillId": 10604,
+        "Id": 10604,
+        "PassiveSkillId": 310604
+    },
+    {
+        "CharacterRankSkillId": 10605,
+        "Id": 10605,
+        "PassiveSkillId": 310605
+    },
+    {
+        "CharacterRankSkillId": 10606,
+        "Id": 10606,
+        "PassiveSkillId": 310606
+    },
+    {
+        "CharacterRankSkillId": 10607,
+        "Id": 10607,
+        "PassiveSkillId": 310607
+    },
+    {
+        "CharacterRankSkillId": 10608,
+        "Id": 10608,
+        "PassiveSkillId": 310608
+    },
+    {
+        "CharacterRankSkillId": 10609,
+        "Id": 10609,
+        "PassiveSkillId": 310609
+    },
+    {
+        "CharacterRankSkillId": 10610,
+        "Id": 10610,
+        "PassiveSkillId": 310610
+    },
+    {
+        "CharacterRankSkillId": 10611,
+        "Id": 10611,
+        "PassiveSkillId": 310611
+    },
+    {
+        "CharacterRankSkillId": 10612,
+        "Id": 10612,
+        "PassiveSkillId": 310612
+    },
+    {
+        "CharacterRankSkillId": 10613,
+        "Id": 10613,
+        "PassiveSkillId": 310613
+    },
+    {
+        "CharacterRankSkillId": 11001,
+        "Id": 11001,
+        "PassiveSkillId": 311001
+    },
+    {
+        "CharacterRankSkillId": 11002,
+        "Id": 11002,
+        "PassiveSkillId": 311002
+    },
+    {
+        "CharacterRankSkillId": 11003,
+        "Id": 11003,
+        "PassiveSkillId": 311003
+    },
+    {
+        "CharacterRankSkillId": 11005,
+        "Id": 11005,
+        "PassiveSkillId": 311005
+    },
+    {
+        "CharacterRankSkillId": 11006,
+        "Id": 11006,
+        "PassiveSkillId": 311006
+    },
+    {
+        "CharacterRankSkillId": 11007,
+        "Id": 11007,
+        "PassiveSkillId": 311007
+    },
+    {
+        "CharacterRankSkillId": 11008,
+        "Id": 11008,
+        "PassiveSkillId": 311008
+    },
+    {
+        "CharacterRankSkillId": 11201,
+        "Id": 11201,
+        "PassiveSkillId": 311201
+    },
+    {
+        "CharacterRankSkillId": 11202,
+        "Id": 11202,
+        "PassiveSkillId": 311202
+    },
+    {
+        "CharacterRankSkillId": 11203,
+        "Id": 11203,
+        "PassiveSkillId": 311203
+    },
+    {
+        "CharacterRankSkillId": 11204,
+        "Id": 11204,
+        "PassiveSkillId": 311204
+    },
+    {
+        "CharacterRankSkillId": 11205,
+        "Id": 11205,
+        "PassiveSkillId": 311205
+    },
+    {
+        "CharacterRankSkillId": 11206,
+        "Id": 11206,
+        "PassiveSkillId": 311206
+    },
+    {
+        "CharacterRankSkillId": 11207,
+        "Id": 11207,
+        "PassiveSkillId": 311207
+    },
+    {
+        "CharacterRankSkillId": 11208,
+        "Id": 11208,
+        "PassiveSkillId": 311208
+    },
+    {
+        "CharacterRankSkillId": 11209,
+        "Id": 11209,
+        "PassiveSkillId": 311209
+    },
+    {
+        "CharacterRankSkillId": 11210,
+        "Id": 11210,
+        "PassiveSkillId": 311210
+    },
+    {
+        "CharacterRankSkillId": 11211,
+        "Id": 11211,
+        "PassiveSkillId": 311211
+    },
+    {
+        "CharacterRankSkillId": 11301,
+        "Id": 11301,
+        "PassiveSkillId": 311301
+    },
+    {
+        "CharacterRankSkillId": 11302,
+        "Id": 11302,
+        "PassiveSkillId": 311302
+    },
+    {
+        "CharacterRankSkillId": 11303,
+        "Id": 11303,
+        "PassiveSkillId": 311303
+    },
+    {
+        "CharacterRankSkillId": 11304,
+        "Id": 11304,
+        "PassiveSkillId": 311304
+    },
+    {
+        "CharacterRankSkillId": 11305,
+        "Id": 11305,
+        "PassiveSkillId": 311305
+    },
+    {
+        "CharacterRankSkillId": 11306,
+        "Id": 11306,
+        "PassiveSkillId": 311306
+    },
+    {
+        "CharacterRankSkillId": 11307,
+        "Id": 11307,
+        "PassiveSkillId": 311307
+    },
+    {
+        "CharacterRankSkillId": 11308,
+        "Id": 11308,
+        "PassiveSkillId": 311308
+    },
+    {
+        "CharacterRankSkillId": 11309,
+        "Id": 11309,
+        "PassiveSkillId": 311309
+    },
+    {
+        "CharacterRankSkillId": 11401,
+        "Id": 11401,
+        "PassiveSkillId": 311401
+    },
+    {
+        "CharacterRankSkillId": 11402,
+        "Id": 11402,
+        "PassiveSkillId": 311402
+    },
+    {
+        "CharacterRankSkillId": 11403,
+        "Id": 11403,
+        "PassiveSkillId": 311403
+    },
+    {
+        "CharacterRankSkillId": 11405,
+        "Id": 11405,
+        "PassiveSkillId": 311405
+    },
+    {
+        "CharacterRankSkillId": 11406,
+        "Id": 11406,
+        "PassiveSkillId": 311406
+    },
+    {
+        "CharacterRankSkillId": 11407,
+        "Id": 11407,
+        "PassiveSkillId": 311407
+    },
+    {
+        "CharacterRankSkillId": 11408,
+        "Id": 11408,
+        "PassiveSkillId": 311408
+    },
+    {
+        "CharacterRankSkillId": 11501,
+        "Id": 11501,
+        "PassiveSkillId": 311501
+    },
+    {
+        "CharacterRankSkillId": 11502,
+        "Id": 11502,
+        "PassiveSkillId": 311502
+    },
+    {
+        "CharacterRankSkillId": 11503,
+        "Id": 11503,
+        "PassiveSkillId": 311503
+    },
+    {
+        "CharacterRankSkillId": 11504,
+        "Id": 11504,
+        "PassiveSkillId": 311504
+    },
+    {
+        "CharacterRankSkillId": 11505,
+        "Id": 11505,
+        "PassiveSkillId": 311505
+    },
+    {
+        "CharacterRankSkillId": 11506,
+        "Id": 11506,
+        "PassiveSkillId": 311506
+    },
+    {
+        "CharacterRankSkillId": 11507,
+        "Id": 11507,
+        "PassiveSkillId": 311507
+    },
+    {
+        "CharacterRankSkillId": 11508,
+        "Id": 11508,
+        "PassiveSkillId": 311508
+    },
+    {
+        "CharacterRankSkillId": 11509,
+        "Id": 11509,
+        "PassiveSkillId": 311509
+    },
+    {
+        "CharacterRankSkillId": 11510,
+        "Id": 11510,
+        "PassiveSkillId": 311510
+    },
+    {
+        "CharacterRankSkillId": 11511,
+        "Id": 11511,
+        "PassiveSkillId": 311511
+    },
+    {
+        "CharacterRankSkillId": 11701,
+        "Id": 11701,
+        "PassiveSkillId": 311701
+    },
+    {
+        "CharacterRankSkillId": 11702,
+        "Id": 11702,
+        "PassiveSkillId": 311702
+    },
+    {
+        "CharacterRankSkillId": 11703,
+        "Id": 11703,
+        "PassiveSkillId": 311703
+    },
+    {
+        "CharacterRankSkillId": 11705,
+        "Id": 11705,
+        "PassiveSkillId": 311705
+    },
+    {
+        "CharacterRankSkillId": 11706,
+        "Id": 11706,
+        "PassiveSkillId": 311706
+    },
+    {
+        "CharacterRankSkillId": 11707,
+        "Id": 11707,
+        "PassiveSkillId": 311707
+    },
+    {
+        "CharacterRankSkillId": 11708,
+        "Id": 11708,
+        "PassiveSkillId": 311708
+    },
+    {
+        "CharacterRankSkillId": 11801,
+        "Id": 11801,
+        "PassiveSkillId": 311801
+    },
+    {
+        "CharacterRankSkillId": 11802,
+        "Id": 11802,
+        "PassiveSkillId": 311802
+    },
+    {
+        "CharacterRankSkillId": 11803,
+        "Id": 11803,
+        "PassiveSkillId": 311803
+    },
+    {
+        "CharacterRankSkillId": 11804,
+        "Id": 11804,
+        "PassiveSkillId": 311804
+    },
+    {
+        "CharacterRankSkillId": 11805,
+        "Id": 11805,
+        "PassiveSkillId": 311805
+    },
+    {
+        "CharacterRankSkillId": 11806,
+        "Id": 11806,
+        "PassiveSkillId": 311806
+    },
+    {
+        "CharacterRankSkillId": 11807,
+        "Id": 11807,
+        "PassiveSkillId": 311807
+    },
+    {
+        "CharacterRankSkillId": 11808,
+        "Id": 11808,
+        "PassiveSkillId": 311808
+    },
+    {
+        "CharacterRankSkillId": 11809,
+        "Id": 11809,
+        "PassiveSkillId": 311809
+    },
+    {
+        "CharacterRankSkillId": 12001,
+        "Id": 12001,
+        "PassiveSkillId": 312001
+    },
+    {
+        "CharacterRankSkillId": 12002,
+        "Id": 12002,
+        "PassiveSkillId": 312002
+    },
+    {
+        "CharacterRankSkillId": 12003,
+        "Id": 12003,
+        "PassiveSkillId": 312003
+    },
+    {
+        "CharacterRankSkillId": 12004,
+        "Id": 12004,
+        "PassiveSkillId": 312004
+    },
+    {
+        "CharacterRankSkillId": 12005,
+        "Id": 12005,
+        "PassiveSkillId": 312005
+    },
+    {
+        "CharacterRankSkillId": 12006,
+        "Id": 12006,
+        "PassiveSkillId": 312006
+    },
+    {
+        "CharacterRankSkillId": 12007,
+        "Id": 12007,
+        "PassiveSkillId": 312007
+    },
+    {
+        "CharacterRankSkillId": 12008,
+        "Id": 12008,
+        "PassiveSkillId": 312008
+    },
+    {
+        "CharacterRankSkillId": 12009,
+        "Id": 12009,
+        "PassiveSkillId": 312009
+    },
+    {
+        "CharacterRankSkillId": 12101,
+        "Id": 12101,
+        "PassiveSkillId": 312101
+    },
+    {
+        "CharacterRankSkillId": 12102,
+        "Id": 12102,
+        "PassiveSkillId": 312102
+    },
+    {
+        "CharacterRankSkillId": 12103,
+        "Id": 12103,
+        "PassiveSkillId": 312103
+    },
+    {
+        "CharacterRankSkillId": 12104,
+        "Id": 12104,
+        "PassiveSkillId": 312104
+    },
+    {
+        "CharacterRankSkillId": 12105,
+        "Id": 12105,
+        "PassiveSkillId": 312105
+    },
+    {
+        "CharacterRankSkillId": 12106,
+        "Id": 12106,
+        "PassiveSkillId": 312106
+    },
+    {
+        "CharacterRankSkillId": 12107,
+        "Id": 12107,
+        "PassiveSkillId": 312107
+    },
+    {
+        "CharacterRankSkillId": 12108,
+        "Id": 12108,
+        "PassiveSkillId": 312108
+    },
+    {
+        "CharacterRankSkillId": 12109,
+        "Id": 12109,
+        "PassiveSkillId": 312109
+    },
+    {
+        "CharacterRankSkillId": 12110,
+        "Id": 12110,
+        "PassiveSkillId": 312110
+    },
+    {
+        "CharacterRankSkillId": 12111,
+        "Id": 12111,
+        "PassiveSkillId": 312111
+    },
+    {
+        "CharacterRankSkillId": 12112,
+        "Id": 12112,
+        "PassiveSkillId": 312112
+    },
+    {
+        "CharacterRankSkillId": 12113,
+        "Id": 12113,
+        "PassiveSkillId": 312113
+    },
+    {
+        "CharacterRankSkillId": 12201,
+        "Id": 12201,
+        "PassiveSkillId": 312201
+    },
+    {
+        "CharacterRankSkillId": 12202,
+        "Id": 12202,
+        "PassiveSkillId": 312202
+    },
+    {
+        "CharacterRankSkillId": 12203,
+        "Id": 12203,
+        "PassiveSkillId": 312203
+    },
+    {
+        "CharacterRankSkillId": 12204,
+        "Id": 12204,
+        "PassiveSkillId": 312204
+    },
+    {
+        "CharacterRankSkillId": 12205,
+        "Id": 12205,
+        "PassiveSkillId": 312205
+    },
+    {
+        "CharacterRankSkillId": 12206,
+        "Id": 12206,
+        "PassiveSkillId": 312206
+    },
+    {
+        "CharacterRankSkillId": 12207,
+        "Id": 12207,
+        "PassiveSkillId": 312207
+    },
+    {
+        "CharacterRankSkillId": 12208,
+        "Id": 12208,
+        "PassiveSkillId": 312208
+    },
+    {
+        "CharacterRankSkillId": 12209,
+        "Id": 12209,
+        "PassiveSkillId": 312209
+    },
+    {
+        "CharacterRankSkillId": 12401,
+        "Id": 12401,
+        "PassiveSkillId": 312401
+    },
+    {
+        "CharacterRankSkillId": 12402,
+        "Id": 12402,
+        "PassiveSkillId": 312402
+    },
+    {
+        "CharacterRankSkillId": 12403,
+        "Id": 12403,
+        "PassiveSkillId": 312403
+    },
+    {
+        "CharacterRankSkillId": 12404,
+        "Id": 12404,
+        "PassiveSkillId": 312404
+    },
+    {
+        "CharacterRankSkillId": 12405,
+        "Id": 12405,
+        "PassiveSkillId": 312405
+    },
+    {
+        "CharacterRankSkillId": 12406,
+        "Id": 12406,
+        "PassiveSkillId": 312406
+    },
+    {
+        "CharacterRankSkillId": 12407,
+        "Id": 12407,
+        "PassiveSkillId": 312407
+    },
+    {
+        "CharacterRankSkillId": 12408,
+        "Id": 12408,
+        "PassiveSkillId": 312408
+    },
+    {
+        "CharacterRankSkillId": 12409,
+        "Id": 12409,
+        "PassiveSkillId": 312409
+    },
+    {
+        "CharacterRankSkillId": 12410,
+        "Id": 12410,
+        "PassiveSkillId": 312410
+    },
+    {
+        "CharacterRankSkillId": 12411,
+        "Id": 12411,
+        "PassiveSkillId": 312411
+    },
+    {
+        "CharacterRankSkillId": 12501,
+        "Id": 12501,
+        "PassiveSkillId": 312501
+    },
+    {
+        "CharacterRankSkillId": 12502,
+        "Id": 12502,
+        "PassiveSkillId": 312502
+    },
+    {
+        "CharacterRankSkillId": 12503,
+        "Id": 12503,
+        "PassiveSkillId": 312503
+    },
+    {
+        "CharacterRankSkillId": 12505,
+        "Id": 12505,
+        "PassiveSkillId": 312505
+    },
+    {
+        "CharacterRankSkillId": 12506,
+        "Id": 12506,
+        "PassiveSkillId": 312506
+    },
+    {
+        "CharacterRankSkillId": 12507,
+        "Id": 12507,
+        "PassiveSkillId": 312507
+    },
+    {
+        "CharacterRankSkillId": 12508,
+        "Id": 12508,
+        "PassiveSkillId": 312508
+    },
+    {
+        "CharacterRankSkillId": 12601,
+        "Id": 12601,
+        "PassiveSkillId": 312601
+    },
+    {
+        "CharacterRankSkillId": 12602,
+        "Id": 12602,
+        "PassiveSkillId": 312602
+    },
+    {
+        "CharacterRankSkillId": 12603,
+        "Id": 12603,
+        "PassiveSkillId": 312603
+    },
+    {
+        "CharacterRankSkillId": 12604,
+        "Id": 12604,
+        "PassiveSkillId": 312604
+    },
+    {
+        "CharacterRankSkillId": 12605,
+        "Id": 12605,
+        "PassiveSkillId": 312605
+    },
+    {
+        "CharacterRankSkillId": 12606,
+        "Id": 12606,
+        "PassiveSkillId": 312606
+    },
+    {
+        "CharacterRankSkillId": 12607,
+        "Id": 12607,
+        "PassiveSkillId": 312607
+    },
+    {
+        "CharacterRankSkillId": 12608,
+        "Id": 12608,
+        "PassiveSkillId": 312608
+    },
+    {
+        "CharacterRankSkillId": 12609,
+        "Id": 12609,
+        "PassiveSkillId": 312609
+    },
+    {
+        "CharacterRankSkillId": 12610,
+        "Id": 12610,
+        "PassiveSkillId": 312610
+    },
+    {
+        "CharacterRankSkillId": 12611,
+        "Id": 12611,
+        "PassiveSkillId": 312611
+    },
+    {
+        "CharacterRankSkillId": 12612,
+        "Id": 12612,
+        "PassiveSkillId": 312612
+    },
+    {
+        "CharacterRankSkillId": 12613,
+        "Id": 12613,
+        "PassiveSkillId": 312613
+    },
+    {
+        "CharacterRankSkillId": 12614,
+        "Id": 12614,
+        "PassiveSkillId": 312614
+    },
+    {
+        "CharacterRankSkillId": 12615,
+        "Id": 12615,
+        "PassiveSkillId": 312615
+    },
+    {
+        "CharacterRankSkillId": 12616,
+        "Id": 12616,
+        "PassiveSkillId": 312616
+    },
+    {
+        "CharacterRankSkillId": 12617,
+        "Id": 12617,
+        "PassiveSkillId": 312617
+    },
+    {
+        "CharacterRankSkillId": 12618,
+        "Id": 12618,
+        "PassiveSkillId": 312618
+    },
+    {
+        "CharacterRankSkillId": 12619,
+        "Id": 12619,
+        "PassiveSkillId": 312619
+    },
+    {
+        "CharacterRankSkillId": 12620,
+        "Id": 12620,
+        "PassiveSkillId": 312620
+    },
+    {
+        "CharacterRankSkillId": 12621,
+        "Id": 12621,
+        "PassiveSkillId": 312621
+    },
+    {
+        "CharacterRankSkillId": 12622,
+        "Id": 12622,
+        "PassiveSkillId": 312622
+    },
+    {
+        "CharacterRankSkillId": 12623,
+        "Id": 12623,
+        "PassiveSkillId": 312623
+    },
+    {
+        "CharacterRankSkillId": 12701,
+        "Id": 12701,
+        "PassiveSkillId": 312701
+    },
+    {
+        "CharacterRankSkillId": 12702,
+        "Id": 12702,
+        "PassiveSkillId": 312702
+    },
+    {
+        "CharacterRankSkillId": 12703,
+        "Id": 12703,
+        "PassiveSkillId": 312703
+    },
+    {
+        "CharacterRankSkillId": 12704,
+        "Id": 12704,
+        "PassiveSkillId": 312704
+    },
+    {
+        "CharacterRankSkillId": 12705,
+        "Id": 12705,
+        "PassiveSkillId": 312705
+    },
+    {
+        "CharacterRankSkillId": 12706,
+        "Id": 12706,
+        "PassiveSkillId": 312706
+    },
+    {
+        "CharacterRankSkillId": 12707,
+        "Id": 12707,
+        "PassiveSkillId": 312707
+    },
+    {
+        "CharacterRankSkillId": 12708,
+        "Id": 12708,
+        "PassiveSkillId": 312708
+    },
+    {
+        "CharacterRankSkillId": 12709,
+        "Id": 12709,
+        "PassiveSkillId": 312709
+    },
+    {
+        "CharacterRankSkillId": 12710,
+        "Id": 12710,
+        "PassiveSkillId": 312710
+    },
+    {
+        "CharacterRankSkillId": 12711,
+        "Id": 12711,
+        "PassiveSkillId": 312711
+    },
+    {
+        "CharacterRankSkillId": 12712,
+        "Id": 12712,
+        "PassiveSkillId": 312712
+    },
+    {
+        "CharacterRankSkillId": 12713,
+        "Id": 12713,
+        "PassiveSkillId": 312713
+    },
+    {
+        "CharacterRankSkillId": 12714,
+        "Id": 12714,
+        "PassiveSkillId": 312714
+    },
+    {
+        "CharacterRankSkillId": 12715,
+        "Id": 12715,
+        "PassiveSkillId": 312715
+    },
+    {
+        "CharacterRankSkillId": 12716,
+        "Id": 12716,
+        "PassiveSkillId": 312716
+    },
+    {
+        "CharacterRankSkillId": 12717,
+        "Id": 12717,
+        "PassiveSkillId": 312717
+    },
+    {
+        "CharacterRankSkillId": 12718,
+        "Id": 12718,
+        "PassiveSkillId": 312718
+    },
+    {
+        "CharacterRankSkillId": 12719,
+        "Id": 12719,
+        "PassiveSkillId": 312719
+    },
+    {
+        "CharacterRankSkillId": 12720,
+        "Id": 12720,
+        "PassiveSkillId": 312720
+    },
+    {
+        "CharacterRankSkillId": 12721,
+        "Id": 12721,
+        "PassiveSkillId": 312721
+    },
+    {
+        "CharacterRankSkillId": 12722,
+        "Id": 12722,
+        "PassiveSkillId": 312722
+    },
+    {
+        "CharacterRankSkillId": 12723,
+        "Id": 12723,
+        "PassiveSkillId": 312723
+    },
+    {
+        "CharacterRankSkillId": 12801,
+        "Id": 12801,
+        "PassiveSkillId": 312801
+    },
+    {
+        "CharacterRankSkillId": 12802,
+        "Id": 12802,
+        "PassiveSkillId": 312802
+    },
+    {
+        "CharacterRankSkillId": 12803,
+        "Id": 12803,
+        "PassiveSkillId": 312803
+    },
+    {
+        "CharacterRankSkillId": 12804,
+        "Id": 12804,
+        "PassiveSkillId": 312804
+    },
+    {
+        "CharacterRankSkillId": 12805,
+        "Id": 12805,
+        "PassiveSkillId": 312805
+    },
+    {
+        "CharacterRankSkillId": 12806,
+        "Id": 12806,
+        "PassiveSkillId": 312806
+    },
+    {
+        "CharacterRankSkillId": 12807,
+        "Id": 12807,
+        "PassiveSkillId": 312807
+    },
+    {
+        "CharacterRankSkillId": 12808,
+        "Id": 12808,
+        "PassiveSkillId": 312808
+    },
+    {
+        "CharacterRankSkillId": 12809,
+        "Id": 12809,
+        "PassiveSkillId": 312809
+    },
+    {
+        "CharacterRankSkillId": 12810,
+        "Id": 12810,
+        "PassiveSkillId": 312810
+    },
+    {
+        "CharacterRankSkillId": 12811,
+        "Id": 12811,
+        "PassiveSkillId": 312811
+    },
+    {
+        "CharacterRankSkillId": 12812,
+        "Id": 12812,
+        "PassiveSkillId": 312812
+    },
+    {
+        "CharacterRankSkillId": 12813,
+        "Id": 12813,
+        "PassiveSkillId": 312813
+    },
+    {
+        "CharacterRankSkillId": 12814,
+        "Id": 12814,
+        "PassiveSkillId": 312814
+    },
+    {
+        "CharacterRankSkillId": 12815,
+        "Id": 12815,
+        "PassiveSkillId": 312815
+    },
+    {
+        "CharacterRankSkillId": 12816,
+        "Id": 12816,
+        "PassiveSkillId": 312816
+    },
+    {
+        "CharacterRankSkillId": 12817,
+        "Id": 12817,
+        "PassiveSkillId": 312817
+    },
+    {
+        "CharacterRankSkillId": 12818,
+        "Id": 12818,
+        "PassiveSkillId": 312818
+    },
+    {
+        "CharacterRankSkillId": 12819,
+        "Id": 12819,
+        "PassiveSkillId": 312819
+    },
+    {
+        "CharacterRankSkillId": 12820,
+        "Id": 12820,
+        "PassiveSkillId": 312820
+    },
+    {
+        "CharacterRankSkillId": 12821,
+        "Id": 12821,
+        "PassiveSkillId": 312821
+    },
+    {
+        "CharacterRankSkillId": 12822,
+        "Id": 12822,
+        "PassiveSkillId": 312822
+    },
+    {
+        "CharacterRankSkillId": 12823,
+        "Id": 12823,
+        "PassiveSkillId": 312823
+    },
+    {
+        "CharacterRankSkillId": 12901,
+        "Id": 12901,
+        "PassiveSkillId": 312901
+    },
+    {
+        "CharacterRankSkillId": 12902,
+        "Id": 12902,
+        "PassiveSkillId": 312902
+    },
+    {
+        "CharacterRankSkillId": 12903,
+        "Id": 12903,
+        "PassiveSkillId": 312903
+    },
+    {
+        "CharacterRankSkillId": 12905,
+        "Id": 12905,
+        "PassiveSkillId": 312905
+    },
+    {
+        "CharacterRankSkillId": 12906,
+        "Id": 12906,
+        "PassiveSkillId": 312906
+    },
+    {
+        "CharacterRankSkillId": 12907,
+        "Id": 12907,
+        "PassiveSkillId": 312907
+    },
+    {
+        "CharacterRankSkillId": 12908,
+        "Id": 12908,
+        "PassiveSkillId": 312908
+    },
+    {
+        "CharacterRankSkillId": 13001,
+        "Id": 13001,
+        "PassiveSkillId": 313001
+    },
+    {
+        "CharacterRankSkillId": 13002,
+        "Id": 13002,
+        "PassiveSkillId": 313002
+    },
+    {
+        "CharacterRankSkillId": 13003,
+        "Id": 13003,
+        "PassiveSkillId": 313003
+    },
+    {
+        "CharacterRankSkillId": 13004,
+        "Id": 13004,
+        "PassiveSkillId": 313004
+    },
+    {
+        "CharacterRankSkillId": 13005,
+        "Id": 13005,
+        "PassiveSkillId": 313005
+    },
+    {
+        "CharacterRankSkillId": 13006,
+        "Id": 13006,
+        "PassiveSkillId": 313006
+    },
+    {
+        "CharacterRankSkillId": 13007,
+        "Id": 13007,
+        "PassiveSkillId": 313007
+    },
+    {
+        "CharacterRankSkillId": 13008,
+        "Id": 13008,
+        "PassiveSkillId": 313008
+    },
+    {
+        "CharacterRankSkillId": 13009,
+        "Id": 13009,
+        "PassiveSkillId": 313009
+    },
+    {
+        "CharacterRankSkillId": 13010,
+        "Id": 13010,
+        "PassiveSkillId": 313010
+    },
+    {
+        "CharacterRankSkillId": 13011,
+        "Id": 13011,
+        "PassiveSkillId": 313011
+    },
+    {
+        "CharacterRankSkillId": 13012,
+        "Id": 13012,
+        "PassiveSkillId": 313012
+    },
+    {
+        "CharacterRankSkillId": 13013,
+        "Id": 13013,
+        "PassiveSkillId": 313013
+    },
+    {
+        "CharacterRankSkillId": 13014,
+        "Id": 13014,
+        "PassiveSkillId": 313014
+    },
+    {
+        "CharacterRankSkillId": 13015,
+        "Id": 13015,
+        "PassiveSkillId": 313015
+    },
+    {
+        "CharacterRankSkillId": 13016,
+        "Id": 13016,
+        "PassiveSkillId": 313016
+    },
+    {
+        "CharacterRankSkillId": 13017,
+        "Id": 13017,
+        "PassiveSkillId": 313017
+    },
+    {
+        "CharacterRankSkillId": 13018,
+        "Id": 13018,
+        "PassiveSkillId": 313018
+    },
+    {
+        "CharacterRankSkillId": 13019,
+        "Id": 13019,
+        "PassiveSkillId": 313019
+    },
+    {
+        "CharacterRankSkillId": 13020,
+        "Id": 13020,
+        "PassiveSkillId": 313020
+    },
+    {
+        "CharacterRankSkillId": 13021,
+        "Id": 13021,
+        "PassiveSkillId": 313021
+    },
+    {
+        "CharacterRankSkillId": 13022,
+        "Id": 13022,
+        "PassiveSkillId": 313022
+    },
+    {
+        "CharacterRankSkillId": 13023,
+        "Id": 13023,
+        "PassiveSkillId": 313023
+    },
+    {
+        "CharacterRankSkillId": 13101,
+        "Id": 13101,
+        "PassiveSkillId": 313101
+    },
+    {
+        "CharacterRankSkillId": 13102,
+        "Id": 13102,
+        "PassiveSkillId": 313102
+    },
+    {
+        "CharacterRankSkillId": 13103,
+        "Id": 13103,
+        "PassiveSkillId": 313103
+    },
+    {
+        "CharacterRankSkillId": 13104,
+        "Id": 13104,
+        "PassiveSkillId": 313104
+    },
+    {
+        "CharacterRankSkillId": 13105,
+        "Id": 13105,
+        "PassiveSkillId": 313105
+    },
+    {
+        "CharacterRankSkillId": 13106,
+        "Id": 13106,
+        "PassiveSkillId": 313106
+    },
+    {
+        "CharacterRankSkillId": 13107,
+        "Id": 13107,
+        "PassiveSkillId": 313107
+    },
+    {
+        "CharacterRankSkillId": 13108,
+        "Id": 13108,
+        "PassiveSkillId": 313108
+    },
+    {
+        "CharacterRankSkillId": 13109,
+        "Id": 13109,
+        "PassiveSkillId": 313109
+    },
+    {
+        "CharacterRankSkillId": 13110,
+        "Id": 13110,
+        "PassiveSkillId": 313110
+    },
+    {
+        "CharacterRankSkillId": 13111,
+        "Id": 13111,
+        "PassiveSkillId": 313111
+    },
+    {
+        "CharacterRankSkillId": 13112,
+        "Id": 13112,
+        "PassiveSkillId": 313112
+    },
+    {
+        "CharacterRankSkillId": 13113,
+        "Id": 13113,
+        "PassiveSkillId": 313113
+    },
+    {
+        "CharacterRankSkillId": 13114,
+        "Id": 13114,
+        "PassiveSkillId": 313114
+    },
+    {
+        "CharacterRankSkillId": 13115,
+        "Id": 13115,
+        "PassiveSkillId": 313115
+    },
+    {
+        "CharacterRankSkillId": 13116,
+        "Id": 13116,
+        "PassiveSkillId": 313116
+    },
+    {
+        "CharacterRankSkillId": 13117,
+        "Id": 13117,
+        "PassiveSkillId": 313117
+    },
+    {
+        "CharacterRankSkillId": 13118,
+        "Id": 13118,
+        "PassiveSkillId": 313118
+    },
+    {
+        "CharacterRankSkillId": 13119,
+        "Id": 13119,
+        "PassiveSkillId": 313119
+    },
+    {
+        "CharacterRankSkillId": 13120,
+        "Id": 13120,
+        "PassiveSkillId": 313120
+    },
+    {
+        "CharacterRankSkillId": 13121,
+        "Id": 13121,
+        "PassiveSkillId": 313121
+    },
+    {
+        "CharacterRankSkillId": 13122,
+        "Id": 13122,
+        "PassiveSkillId": 313122
+    },
+    {
+        "CharacterRankSkillId": 13123,
+        "Id": 13123,
+        "PassiveSkillId": 313123
+    },
+    {
+        "CharacterRankSkillId": 13201,
+        "Id": 13201,
+        "PassiveSkillId": 313201
+    },
+    {
+        "CharacterRankSkillId": 13202,
+        "Id": 13202,
+        "PassiveSkillId": 313202
+    },
+    {
+        "CharacterRankSkillId": 13203,
+        "Id": 13203,
+        "PassiveSkillId": 313203
+    },
+    {
+        "CharacterRankSkillId": 13204,
+        "Id": 13204,
+        "PassiveSkillId": 313204
+    },
+    {
+        "CharacterRankSkillId": 13205,
+        "Id": 13205,
+        "PassiveSkillId": 313205
+    },
+    {
+        "CharacterRankSkillId": 13206,
+        "Id": 13206,
+        "PassiveSkillId": 313206
+    },
+    {
+        "CharacterRankSkillId": 13207,
+        "Id": 13207,
+        "PassiveSkillId": 313207
+    },
+    {
+        "CharacterRankSkillId": 13208,
+        "Id": 13208,
+        "PassiveSkillId": 313208
+    },
+    {
+        "CharacterRankSkillId": 13209,
+        "Id": 13209,
+        "PassiveSkillId": 313209
+    },
+    {
+        "CharacterRankSkillId": 13210,
+        "Id": 13210,
+        "PassiveSkillId": 313210
+    },
+    {
+        "CharacterRankSkillId": 13211,
+        "Id": 13211,
+        "PassiveSkillId": 313211
+    },
+    {
+        "CharacterRankSkillId": 13212,
+        "Id": 13212,
+        "PassiveSkillId": 313212
+    },
+    {
+        "CharacterRankSkillId": 13213,
+        "Id": 13213,
+        "PassiveSkillId": 313213
+    },
+    {
+        "CharacterRankSkillId": 13214,
+        "Id": 13214,
+        "PassiveSkillId": 313214
+    },
+    {
+        "CharacterRankSkillId": 13215,
+        "Id": 13215,
+        "PassiveSkillId": 313215
+    },
+    {
+        "CharacterRankSkillId": 13216,
+        "Id": 13216,
+        "PassiveSkillId": 313216
+    },
+    {
+        "CharacterRankSkillId": 13217,
+        "Id": 13217,
+        "PassiveSkillId": 313217
+    },
+    {
+        "CharacterRankSkillId": 13218,
+        "Id": 13218,
+        "PassiveSkillId": 313218
+    },
+    {
+        "CharacterRankSkillId": 13219,
+        "Id": 13219,
+        "PassiveSkillId": 313219
+    },
+    {
+        "CharacterRankSkillId": 13220,
+        "Id": 13220,
+        "PassiveSkillId": 313220
+    },
+    {
+        "CharacterRankSkillId": 13221,
+        "Id": 13221,
+        "PassiveSkillId": 313221
+    },
+    {
+        "CharacterRankSkillId": 13222,
+        "Id": 13222,
+        "PassiveSkillId": 313222
+    },
+    {
+        "CharacterRankSkillId": 13223,
+        "Id": 13223,
+        "PassiveSkillId": 313223
+    },
+    {
+        "CharacterRankSkillId": 13301,
+        "Id": 13301,
+        "PassiveSkillId": 313301
+    },
+    {
+        "CharacterRankSkillId": 13302,
+        "Id": 13302,
+        "PassiveSkillId": 313302
+    },
+    {
+        "CharacterRankSkillId": 13303,
+        "Id": 13303,
+        "PassiveSkillId": 313303
+    },
+    {
+        "CharacterRankSkillId": 13304,
+        "Id": 13304,
+        "PassiveSkillId": 313304
+    },
+    {
+        "CharacterRankSkillId": 13305,
+        "Id": 13305,
+        "PassiveSkillId": 313305
+    },
+    {
+        "CharacterRankSkillId": 13306,
+        "Id": 13306,
+        "PassiveSkillId": 313306
+    },
+    {
+        "CharacterRankSkillId": 13307,
+        "Id": 13307,
+        "PassiveSkillId": 313307
+    },
+    {
+        "CharacterRankSkillId": 13308,
+        "Id": 13308,
+        "PassiveSkillId": 313308
+    },
+    {
+        "CharacterRankSkillId": 13309,
+        "Id": 13309,
+        "PassiveSkillId": 313309
+    },
+    {
+        "CharacterRankSkillId": 13310,
+        "Id": 13310,
+        "PassiveSkillId": 313310
+    },
+    {
+        "CharacterRankSkillId": 13311,
+        "Id": 13311,
+        "PassiveSkillId": 313311
+    },
+    {
+        "CharacterRankSkillId": 13312,
+        "Id": 13312,
+        "PassiveSkillId": 313312
+    },
+    {
+        "CharacterRankSkillId": 13313,
+        "Id": 13313,
+        "PassiveSkillId": 313313
+    },
+    {
+        "CharacterRankSkillId": 13314,
+        "Id": 13314,
+        "PassiveSkillId": 313314
+    },
+    {
+        "CharacterRankSkillId": 13315,
+        "Id": 13315,
+        "PassiveSkillId": 313315
+    },
+    {
+        "CharacterRankSkillId": 13316,
+        "Id": 13316,
+        "PassiveSkillId": 313316
+    },
+    {
+        "CharacterRankSkillId": 13317,
+        "Id": 13317,
+        "PassiveSkillId": 313317
+    },
+    {
+        "CharacterRankSkillId": 13318,
+        "Id": 13318,
+        "PassiveSkillId": 313318
+    },
+    {
+        "CharacterRankSkillId": 13319,
+        "Id": 13319,
+        "PassiveSkillId": 313319
+    },
+    {
+        "CharacterRankSkillId": 13320,
+        "Id": 13320,
+        "PassiveSkillId": 313320
+    },
+    {
+        "CharacterRankSkillId": 13321,
+        "Id": 13321,
+        "PassiveSkillId": 313321
+    },
+    {
+        "CharacterRankSkillId": 13322,
+        "Id": 13322,
+        "PassiveSkillId": 313322
+    },
+    {
+        "CharacterRankSkillId": 13323,
+        "Id": 13323,
+        "PassiveSkillId": 313323
+    },
+    {
+        "CharacterRankSkillId": 13401,
+        "Id": 13401,
+        "PassiveSkillId": 313401
+    },
+    {
+        "CharacterRankSkillId": 13402,
+        "Id": 13402,
+        "PassiveSkillId": 313402
+    },
+    {
+        "CharacterRankSkillId": 13403,
+        "Id": 13403,
+        "PassiveSkillId": 313403
+    },
+    {
+        "CharacterRankSkillId": 13404,
+        "Id": 13404,
+        "PassiveSkillId": 313404
+    },
+    {
+        "CharacterRankSkillId": 13405,
+        "Id": 13405,
+        "PassiveSkillId": 313405
+    },
+    {
+        "CharacterRankSkillId": 13406,
+        "Id": 13406,
+        "PassiveSkillId": 313406
+    },
+    {
+        "CharacterRankSkillId": 13407,
+        "Id": 13407,
+        "PassiveSkillId": 313407
+    },
+    {
+        "CharacterRankSkillId": 13408,
+        "Id": 13408,
+        "PassiveSkillId": 313408
+    },
+    {
+        "CharacterRankSkillId": 13409,
+        "Id": 13409,
+        "PassiveSkillId": 313409
+    },
+    {
+        "CharacterRankSkillId": 13410,
+        "Id": 13410,
+        "PassiveSkillId": 313410
+    },
+    {
+        "CharacterRankSkillId": 13411,
+        "Id": 13411,
+        "PassiveSkillId": 313411
+    },
+    {
+        "CharacterRankSkillId": 13412,
+        "Id": 13412,
+        "PassiveSkillId": 313412
+    },
+    {
+        "CharacterRankSkillId": 13413,
+        "Id": 13413,
+        "PassiveSkillId": 313413
+    },
+    {
+        "CharacterRankSkillId": 13414,
+        "Id": 13414,
+        "PassiveSkillId": 313414
+    },
+    {
+        "CharacterRankSkillId": 13415,
+        "Id": 13415,
+        "PassiveSkillId": 313415
+    },
+    {
+        "CharacterRankSkillId": 13416,
+        "Id": 13416,
+        "PassiveSkillId": 313416
+    },
+    {
+        "CharacterRankSkillId": 13417,
+        "Id": 13417,
+        "PassiveSkillId": 313417
+    },
+    {
+        "CharacterRankSkillId": 13418,
+        "Id": 13418,
+        "PassiveSkillId": 313418
+    },
+    {
+        "CharacterRankSkillId": 13419,
+        "Id": 13419,
+        "PassiveSkillId": 313419
+    },
+    {
+        "CharacterRankSkillId": 13420,
+        "Id": 13420,
+        "PassiveSkillId": 313420
+    },
+    {
+        "CharacterRankSkillId": 13421,
+        "Id": 13421,
+        "PassiveSkillId": 313421
+    },
+    {
+        "CharacterRankSkillId": 13422,
+        "Id": 13422,
+        "PassiveSkillId": 313422
+    },
+    {
+        "CharacterRankSkillId": 13423,
+        "Id": 13423,
+        "PassiveSkillId": 313423
+    },
+    {
+        "CharacterRankSkillId": 13501,
+        "Id": 13501,
+        "PassiveSkillId": 313501
+    },
+    {
+        "CharacterRankSkillId": 13502,
+        "Id": 13502,
+        "PassiveSkillId": 313502
+    },
+    {
+        "CharacterRankSkillId": 13503,
+        "Id": 13503,
+        "PassiveSkillId": 313503
+    },
+    {
+        "CharacterRankSkillId": 13504,
+        "Id": 13504,
+        "PassiveSkillId": 313504
+    },
+    {
+        "CharacterRankSkillId": 13505,
+        "Id": 13505,
+        "PassiveSkillId": 313505
+    },
+    {
+        "CharacterRankSkillId": 13506,
+        "Id": 13506,
+        "PassiveSkillId": 313506
+    },
+    {
+        "CharacterRankSkillId": 13507,
+        "Id": 13507,
+        "PassiveSkillId": 313507
+    },
+    {
+        "CharacterRankSkillId": 13508,
+        "Id": 13508,
+        "PassiveSkillId": 313508
+    },
+    {
+        "CharacterRankSkillId": 13509,
+        "Id": 13509,
+        "PassiveSkillId": 313509
+    },
+    {
+        "CharacterRankSkillId": 13510,
+        "Id": 13510,
+        "PassiveSkillId": 313510
+    },
+    {
+        "CharacterRankSkillId": 13511,
+        "Id": 13511,
+        "PassiveSkillId": 313511
+    },
+    {
+        "CharacterRankSkillId": 13512,
+        "Id": 13512,
+        "PassiveSkillId": 313512
+    },
+    {
+        "CharacterRankSkillId": 13513,
+        "Id": 13513,
+        "PassiveSkillId": 313513
+    },
+    {
+        "CharacterRankSkillId": 13514,
+        "Id": 13514,
+        "PassiveSkillId": 313514
+    },
+    {
+        "CharacterRankSkillId": 13515,
+        "Id": 13515,
+        "PassiveSkillId": 313515
+    },
+    {
+        "CharacterRankSkillId": 13516,
+        "Id": 13516,
+        "PassiveSkillId": 313516
+    },
+    {
+        "CharacterRankSkillId": 13517,
+        "Id": 13517,
+        "PassiveSkillId": 313517
+    },
+    {
+        "CharacterRankSkillId": 13518,
+        "Id": 13518,
+        "PassiveSkillId": 313518
+    },
+    {
+        "CharacterRankSkillId": 13519,
+        "Id": 13519,
+        "PassiveSkillId": 313519
+    },
+    {
+        "CharacterRankSkillId": 13520,
+        "Id": 13520,
+        "PassiveSkillId": 313520
+    },
+    {
+        "CharacterRankSkillId": 13521,
+        "Id": 13521,
+        "PassiveSkillId": 313521
+    },
+    {
+        "CharacterRankSkillId": 13522,
+        "Id": 13522,
+        "PassiveSkillId": 313522
+    },
+    {
+        "CharacterRankSkillId": 13523,
+        "Id": 13523,
+        "PassiveSkillId": 313523
+    },
+    {
+        "CharacterRankSkillId": 13601,
+        "Id": 13601,
+        "PassiveSkillId": 313601
+    },
+    {
+        "CharacterRankSkillId": 13602,
+        "Id": 13602,
+        "PassiveSkillId": 313602
+    },
+    {
+        "CharacterRankSkillId": 13603,
+        "Id": 13603,
+        "PassiveSkillId": 313603
+    },
+    {
+        "CharacterRankSkillId": 13604,
+        "Id": 13604,
+        "PassiveSkillId": 313604
+    },
+    {
+        "CharacterRankSkillId": 13605,
+        "Id": 13605,
+        "PassiveSkillId": 313605
+    },
+    {
+        "CharacterRankSkillId": 13606,
+        "Id": 13606,
+        "PassiveSkillId": 313606
+    },
+    {
+        "CharacterRankSkillId": 13607,
+        "Id": 13607,
+        "PassiveSkillId": 313607
+    },
+    {
+        "CharacterRankSkillId": 13608,
+        "Id": 13608,
+        "PassiveSkillId": 313608
+    },
+    {
+        "CharacterRankSkillId": 13609,
+        "Id": 13609,
+        "PassiveSkillId": 313609
+    },
+    {
+        "CharacterRankSkillId": 13610,
+        "Id": 13610,
+        "PassiveSkillId": 313610
+    },
+    {
+        "CharacterRankSkillId": 13611,
+        "Id": 13611,
+        "PassiveSkillId": 313611
+    },
+    {
+        "CharacterRankSkillId": 13612,
+        "Id": 13612,
+        "PassiveSkillId": 313612
+    },
+    {
+        "CharacterRankSkillId": 13613,
+        "Id": 13613,
+        "PassiveSkillId": 313613
+    },
+    {
+        "CharacterRankSkillId": 13614,
+        "Id": 13614,
+        "PassiveSkillId": 313614
+    },
+    {
+        "CharacterRankSkillId": 13615,
+        "Id": 13615,
+        "PassiveSkillId": 313615
+    },
+    {
+        "CharacterRankSkillId": 13616,
+        "Id": 13616,
+        "PassiveSkillId": 313616
+    },
+    {
+        "CharacterRankSkillId": 13617,
+        "Id": 13617,
+        "PassiveSkillId": 313617
+    },
+    {
+        "CharacterRankSkillId": 13618,
+        "Id": 13618,
+        "PassiveSkillId": 313618
+    },
+    {
+        "CharacterRankSkillId": 13619,
+        "Id": 13619,
+        "PassiveSkillId": 313619
+    },
+    {
+        "CharacterRankSkillId": 13620,
+        "Id": 13620,
+        "PassiveSkillId": 313620
+    },
+    {
+        "CharacterRankSkillId": 13621,
+        "Id": 13621,
+        "PassiveSkillId": 313621
+    },
+    {
+        "CharacterRankSkillId": 13622,
+        "Id": 13622,
+        "PassiveSkillId": 313622
+    },
+    {
+        "CharacterRankSkillId": 13623,
+        "Id": 13623,
+        "PassiveSkillId": 313623
+    },
+    {
+        "CharacterRankSkillId": 13701,
+        "Id": 13701,
+        "PassiveSkillId": 313701
+    },
+    {
+        "CharacterRankSkillId": 13702,
+        "Id": 13702,
+        "PassiveSkillId": 313702
+    },
+    {
+        "CharacterRankSkillId": 13703,
+        "Id": 13703,
+        "PassiveSkillId": 313703
+    },
+    {
+        "CharacterRankSkillId": 13704,
+        "Id": 13704,
+        "PassiveSkillId": 313704
+    },
+    {
+        "CharacterRankSkillId": 13705,
+        "Id": 13705,
+        "PassiveSkillId": 313705
+    },
+    {
+        "CharacterRankSkillId": 13706,
+        "Id": 13706,
+        "PassiveSkillId": 313706
+    },
+    {
+        "CharacterRankSkillId": 13707,
+        "Id": 13707,
+        "PassiveSkillId": 313707
+    },
+    {
+        "CharacterRankSkillId": 13708,
+        "Id": 13708,
+        "PassiveSkillId": 313708
+    },
+    {
+        "CharacterRankSkillId": 13709,
+        "Id": 13709,
+        "PassiveSkillId": 313709
+    },
+    {
+        "CharacterRankSkillId": 13710,
+        "Id": 13710,
+        "PassiveSkillId": 313710
+    },
+    {
+        "CharacterRankSkillId": 13711,
+        "Id": 13711,
+        "PassiveSkillId": 313711
+    },
+    {
+        "CharacterRankSkillId": 13712,
+        "Id": 13712,
+        "PassiveSkillId": 313712
+    },
+    {
+        "CharacterRankSkillId": 13713,
+        "Id": 13713,
+        "PassiveSkillId": 313713
+    },
+    {
+        "CharacterRankSkillId": 13714,
+        "Id": 13714,
+        "PassiveSkillId": 313714
+    },
+    {
+        "CharacterRankSkillId": 13715,
+        "Id": 13715,
+        "PassiveSkillId": 313715
+    },
+    {
+        "CharacterRankSkillId": 13716,
+        "Id": 13716,
+        "PassiveSkillId": 313716
+    },
+    {
+        "CharacterRankSkillId": 13717,
+        "Id": 13717,
+        "PassiveSkillId": 313717
+    },
+    {
+        "CharacterRankSkillId": 13718,
+        "Id": 13718,
+        "PassiveSkillId": 313718
+    },
+    {
+        "CharacterRankSkillId": 13719,
+        "Id": 13719,
+        "PassiveSkillId": 313719
+    },
+    {
+        "CharacterRankSkillId": 13720,
+        "Id": 13720,
+        "PassiveSkillId": 313720
+    },
+    {
+        "CharacterRankSkillId": 13721,
+        "Id": 13721,
+        "PassiveSkillId": 313721
+    },
+    {
+        "CharacterRankSkillId": 13722,
+        "Id": 13722,
+        "PassiveSkillId": 313722
+    },
+    {
+        "CharacterRankSkillId": 13723,
+        "Id": 13723,
+        "PassiveSkillId": 313723
+    },
+    {
+        "CharacterRankSkillId": 13801,
+        "Id": 13801,
+        "PassiveSkillId": 313801
+    },
+    {
+        "CharacterRankSkillId": 13802,
+        "Id": 13802,
+        "PassiveSkillId": 313802
+    },
+    {
+        "CharacterRankSkillId": 13803,
+        "Id": 13803,
+        "PassiveSkillId": 313803
+    },
+    {
+        "CharacterRankSkillId": 13804,
+        "Id": 13804,
+        "PassiveSkillId": 313804
+    },
+    {
+        "CharacterRankSkillId": 13805,
+        "Id": 13805,
+        "PassiveSkillId": 313805
+    },
+    {
+        "CharacterRankSkillId": 13806,
+        "Id": 13806,
+        "PassiveSkillId": 313806
+    },
+    {
+        "CharacterRankSkillId": 13807,
+        "Id": 13807,
+        "PassiveSkillId": 313807
+    },
+    {
+        "CharacterRankSkillId": 13808,
+        "Id": 13808,
+        "PassiveSkillId": 313808
+    },
+    {
+        "CharacterRankSkillId": 13809,
+        "Id": 13809,
+        "PassiveSkillId": 313809
+    },
+    {
+        "CharacterRankSkillId": 13810,
+        "Id": 13810,
+        "PassiveSkillId": 313810
+    },
+    {
+        "CharacterRankSkillId": 13811,
+        "Id": 13811,
+        "PassiveSkillId": 313811
+    },
+    {
+        "CharacterRankSkillId": 13812,
+        "Id": 13812,
+        "PassiveSkillId": 313812
+    },
+    {
+        "CharacterRankSkillId": 13813,
+        "Id": 13813,
+        "PassiveSkillId": 313813
+    },
+    {
+        "CharacterRankSkillId": 13814,
+        "Id": 13814,
+        "PassiveSkillId": 313814
+    },
+    {
+        "CharacterRankSkillId": 13815,
+        "Id": 13815,
+        "PassiveSkillId": 313815
+    },
+    {
+        "CharacterRankSkillId": 13816,
+        "Id": 13816,
+        "PassiveSkillId": 313816
+    },
+    {
+        "CharacterRankSkillId": 13817,
+        "Id": 13817,
+        "PassiveSkillId": 313817
+    },
+    {
+        "CharacterRankSkillId": 13818,
+        "Id": 13818,
+        "PassiveSkillId": 313818
+    },
+    {
+        "CharacterRankSkillId": 13819,
+        "Id": 13819,
+        "PassiveSkillId": 313819
+    },
+    {
+        "CharacterRankSkillId": 13820,
+        "Id": 13820,
+        "PassiveSkillId": 313820
+    },
+    {
+        "CharacterRankSkillId": 13821,
+        "Id": 13821,
+        "PassiveSkillId": 313821
+    },
+    {
+        "CharacterRankSkillId": 13822,
+        "Id": 13822,
+        "PassiveSkillId": 313822
+    },
+    {
+        "CharacterRankSkillId": 13823,
+        "Id": 13823,
+        "PassiveSkillId": 313823
+    },
+    {
+        "CharacterRankSkillId": 13901,
+        "Id": 13901,
+        "PassiveSkillId": 313901
+    },
+    {
+        "CharacterRankSkillId": 13902,
+        "Id": 13902,
+        "PassiveSkillId": 313902
+    },
+    {
+        "CharacterRankSkillId": 13903,
+        "Id": 13903,
+        "PassiveSkillId": 313903
+    },
+    {
+        "CharacterRankSkillId": 13904,
+        "Id": 13904,
+        "PassiveSkillId": 313904
+    },
+    {
+        "CharacterRankSkillId": 13905,
+        "Id": 13905,
+        "PassiveSkillId": 313905
+    },
+    {
+        "CharacterRankSkillId": 13906,
+        "Id": 13906,
+        "PassiveSkillId": 313906
+    },
+    {
+        "CharacterRankSkillId": 13907,
+        "Id": 13907,
+        "PassiveSkillId": 313907
+    },
+    {
+        "CharacterRankSkillId": 13908,
+        "Id": 13908,
+        "PassiveSkillId": 313908
+    },
+    {
+        "CharacterRankSkillId": 13909,
+        "Id": 13909,
+        "PassiveSkillId": 313909
+    },
+    {
+        "CharacterRankSkillId": 13910,
+        "Id": 13910,
+        "PassiveSkillId": 313910
+    },
+    {
+        "CharacterRankSkillId": 13911,
+        "Id": 13911,
+        "PassiveSkillId": 313911
+    },
+    {
+        "CharacterRankSkillId": 13912,
+        "Id": 13912,
+        "PassiveSkillId": 313912
+    },
+    {
+        "CharacterRankSkillId": 13913,
+        "Id": 13913,
+        "PassiveSkillId": 313913
+    },
+    {
+        "CharacterRankSkillId": 13914,
+        "Id": 13914,
+        "PassiveSkillId": 313914
+    },
+    {
+        "CharacterRankSkillId": 13915,
+        "Id": 13915,
+        "PassiveSkillId": 313915
+    },
+    {
+        "CharacterRankSkillId": 13916,
+        "Id": 13916,
+        "PassiveSkillId": 313916
+    },
+    {
+        "CharacterRankSkillId": 13917,
+        "Id": 13917,
+        "PassiveSkillId": 313917
+    },
+    {
+        "CharacterRankSkillId": 13918,
+        "Id": 13918,
+        "PassiveSkillId": 313918
+    },
+    {
+        "CharacterRankSkillId": 13919,
+        "Id": 13919,
+        "PassiveSkillId": 313919
+    },
+    {
+        "CharacterRankSkillId": 13920,
+        "Id": 13920,
+        "PassiveSkillId": 313920
+    },
+    {
+        "CharacterRankSkillId": 13921,
+        "Id": 13921,
+        "PassiveSkillId": 313921
+    },
+    {
+        "CharacterRankSkillId": 13922,
+        "Id": 13922,
+        "PassiveSkillId": 313922
+    },
+    {
+        "CharacterRankSkillId": 13923,
+        "Id": 13923,
+        "PassiveSkillId": 313923
+    },
+    {
+        "CharacterRankSkillId": 14001,
+        "Id": 14001,
+        "PassiveSkillId": 314001
+    },
+    {
+        "CharacterRankSkillId": 14002,
+        "Id": 14002,
+        "PassiveSkillId": 314002
+    },
+    {
+        "CharacterRankSkillId": 14003,
+        "Id": 14003,
+        "PassiveSkillId": 314003
+    },
+    {
+        "CharacterRankSkillId": 14004,
+        "Id": 14004,
+        "PassiveSkillId": 314004
+    },
+    {
+        "CharacterRankSkillId": 14005,
+        "Id": 14005,
+        "PassiveSkillId": 314005
+    },
+    {
+        "CharacterRankSkillId": 14006,
+        "Id": 14006,
+        "PassiveSkillId": 314006
+    },
+    {
+        "CharacterRankSkillId": 14007,
+        "Id": 14007,
+        "PassiveSkillId": 314007
+    },
+    {
+        "CharacterRankSkillId": 14008,
+        "Id": 14008,
+        "PassiveSkillId": 314008
+    },
+    {
+        "CharacterRankSkillId": 14009,
+        "Id": 14009,
+        "PassiveSkillId": 314009
+    },
+    {
+        "CharacterRankSkillId": 14010,
+        "Id": 14010,
+        "PassiveSkillId": 314010
+    },
+    {
+        "CharacterRankSkillId": 14011,
+        "Id": 14011,
+        "PassiveSkillId": 314011
+    },
+    {
+        "CharacterRankSkillId": 14012,
+        "Id": 14012,
+        "PassiveSkillId": 314012
+    },
+    {
+        "CharacterRankSkillId": 14013,
+        "Id": 14013,
+        "PassiveSkillId": 314013
+    },
+    {
+        "CharacterRankSkillId": 14014,
+        "Id": 14014,
+        "PassiveSkillId": 314014
+    },
+    {
+        "CharacterRankSkillId": 14015,
+        "Id": 14015,
+        "PassiveSkillId": 314015
+    },
+    {
+        "CharacterRankSkillId": 14016,
+        "Id": 14016,
+        "PassiveSkillId": 314016
+    },
+    {
+        "CharacterRankSkillId": 14101,
+        "Id": 14101,
+        "PassiveSkillId": 314101
+    },
+    {
+        "CharacterRankSkillId": 14102,
+        "Id": 14102,
+        "PassiveSkillId": 314102
+    },
+    {
+        "CharacterRankSkillId": 14103,
+        "Id": 14103,
+        "PassiveSkillId": 314103
+    },
+    {
+        "CharacterRankSkillId": 14104,
+        "Id": 14104,
+        "PassiveSkillId": 314104
+    },
+    {
+        "CharacterRankSkillId": 14105,
+        "Id": 14105,
+        "PassiveSkillId": 314105
+    },
+    {
+        "CharacterRankSkillId": 14106,
+        "Id": 14106,
+        "PassiveSkillId": 314106
+    },
+    {
+        "CharacterRankSkillId": 14107,
+        "Id": 14107,
+        "PassiveSkillId": 314107
+    },
+    {
+        "CharacterRankSkillId": 14108,
+        "Id": 14108,
+        "PassiveSkillId": 314108
+    },
+    {
+        "CharacterRankSkillId": 14109,
+        "Id": 14109,
+        "PassiveSkillId": 314109
+    },
+    {
+        "CharacterRankSkillId": 14110,
+        "Id": 14110,
+        "PassiveSkillId": 314110
+    },
+    {
+        "CharacterRankSkillId": 14111,
+        "Id": 14111,
+        "PassiveSkillId": 314111
+    },
+    {
+        "CharacterRankSkillId": 14112,
+        "Id": 14112,
+        "PassiveSkillId": 314112
+    },
+    {
+        "CharacterRankSkillId": 14113,
+        "Id": 14113,
+        "PassiveSkillId": 314113
+    },
+    {
+        "CharacterRankSkillId": 14114,
+        "Id": 14114,
+        "PassiveSkillId": 314114
+    },
+    {
+        "CharacterRankSkillId": 14115,
+        "Id": 14115,
+        "PassiveSkillId": 314115
+    },
+    {
+        "CharacterRankSkillId": 14116,
+        "Id": 14116,
+        "PassiveSkillId": 314116
+    },
+    {
+        "CharacterRankSkillId": 14117,
+        "Id": 14117,
+        "PassiveSkillId": 314117
+    },
+    {
+        "CharacterRankSkillId": 14118,
+        "Id": 14118,
+        "PassiveSkillId": 314118
+    },
+    {
+        "CharacterRankSkillId": 14119,
+        "Id": 14119,
+        "PassiveSkillId": 314119
+    },
+    {
+        "CharacterRankSkillId": 14120,
+        "Id": 14120,
+        "PassiveSkillId": 314120
+    },
+    {
+        "CharacterRankSkillId": 14121,
+        "Id": 14121,
+        "PassiveSkillId": 314121
+    },
+    {
+        "CharacterRankSkillId": 14122,
+        "Id": 14122,
+        "PassiveSkillId": 314122
+    },
+    {
+        "CharacterRankSkillId": 14123,
+        "Id": 14123,
+        "PassiveSkillId": 314123
+    },
+    {
+        "CharacterRankSkillId": 14201,
+        "Id": 14201,
+        "PassiveSkillId": 314201
+    },
+    {
+        "CharacterRankSkillId": 14202,
+        "Id": 14202,
+        "PassiveSkillId": 314202
+    },
+    {
+        "CharacterRankSkillId": 14203,
+        "Id": 14203,
+        "PassiveSkillId": 314203
+    },
+    {
+        "CharacterRankSkillId": 14204,
+        "Id": 14204,
+        "PassiveSkillId": 314204
+    },
+    {
+        "CharacterRankSkillId": 14205,
+        "Id": 14205,
+        "PassiveSkillId": 314205
+    },
+    {
+        "CharacterRankSkillId": 14206,
+        "Id": 14206,
+        "PassiveSkillId": 314206
+    },
+    {
+        "CharacterRankSkillId": 14207,
+        "Id": 14207,
+        "PassiveSkillId": 314207
+    },
+    {
+        "CharacterRankSkillId": 14208,
+        "Id": 14208,
+        "PassiveSkillId": 314208
+    },
+    {
+        "CharacterRankSkillId": 14209,
+        "Id": 14209,
+        "PassiveSkillId": 314209
+    },
+    {
+        "CharacterRankSkillId": 14210,
+        "Id": 14210,
+        "PassiveSkillId": 314210
+    },
+    {
+        "CharacterRankSkillId": 14211,
+        "Id": 14211,
+        "PassiveSkillId": 314211
+    },
+    {
+        "CharacterRankSkillId": 14212,
+        "Id": 14212,
+        "PassiveSkillId": 314212
+    },
+    {
+        "CharacterRankSkillId": 14213,
+        "Id": 14213,
+        "PassiveSkillId": 314213
+    },
+    {
+        "CharacterRankSkillId": 14301,
+        "Id": 14301,
+        "PassiveSkillId": 314301
+    },
+    {
+        "CharacterRankSkillId": 14302,
+        "Id": 14302,
+        "PassiveSkillId": 314302
+    },
+    {
+        "CharacterRankSkillId": 14303,
+        "Id": 14303,
+        "PassiveSkillId": 314303
+    },
+    {
+        "CharacterRankSkillId": 14304,
+        "Id": 14304,
+        "PassiveSkillId": 314304
+    },
+    {
+        "CharacterRankSkillId": 14305,
+        "Id": 14305,
+        "PassiveSkillId": 314305
+    },
+    {
+        "CharacterRankSkillId": 14306,
+        "Id": 14306,
+        "PassiveSkillId": 314306
+    },
+    {
+        "CharacterRankSkillId": 14307,
+        "Id": 14307,
+        "PassiveSkillId": 314307
+    },
+    {
+        "CharacterRankSkillId": 14308,
+        "Id": 14308,
+        "PassiveSkillId": 314308
+    },
+    {
+        "CharacterRankSkillId": 14309,
+        "Id": 14309,
+        "PassiveSkillId": 314309
+    },
+    {
+        "CharacterRankSkillId": 14310,
+        "Id": 14310,
+        "PassiveSkillId": 314310
+    },
+    {
+        "CharacterRankSkillId": 14311,
+        "Id": 14311,
+        "PassiveSkillId": 314311
+    },
+    {
+        "CharacterRankSkillId": 14312,
+        "Id": 14312,
+        "PassiveSkillId": 314312
+    },
+    {
+        "CharacterRankSkillId": 14313,
+        "Id": 14313,
+        "PassiveSkillId": 314313
+    },
+    {
+        "CharacterRankSkillId": 14314,
+        "Id": 14314,
+        "PassiveSkillId": 314314
+    },
+    {
+        "CharacterRankSkillId": 14315,
+        "Id": 14315,
+        "PassiveSkillId": 314315
+    },
+    {
+        "CharacterRankSkillId": 14316,
+        "Id": 14316,
+        "PassiveSkillId": 314316
+    },
+    {
+        "CharacterRankSkillId": 14317,
+        "Id": 14317,
+        "PassiveSkillId": 314317
+    },
+    {
+        "CharacterRankSkillId": 14318,
+        "Id": 14318,
+        "PassiveSkillId": 314318
+    },
+    {
+        "CharacterRankSkillId": 14319,
+        "Id": 14319,
+        "PassiveSkillId": 314319
+    },
+    {
+        "CharacterRankSkillId": 14320,
+        "Id": 14320,
+        "PassiveSkillId": 314320
+    },
+    {
+        "CharacterRankSkillId": 14321,
+        "Id": 14321,
+        "PassiveSkillId": 314321
+    },
+    {
+        "CharacterRankSkillId": 14322,
+        "Id": 14322,
+        "PassiveSkillId": 314322
+    },
+    {
+        "CharacterRankSkillId": 14323,
+        "Id": 14323,
+        "PassiveSkillId": 314323
+    },
+    {
+        "CharacterRankSkillId": 14401,
+        "Id": 14401,
+        "PassiveSkillId": 314401
+    },
+    {
+        "CharacterRankSkillId": 14402,
+        "Id": 14402,
+        "PassiveSkillId": 314402
+    },
+    {
+        "CharacterRankSkillId": 14403,
+        "Id": 14403,
+        "PassiveSkillId": 314403
+    },
+    {
+        "CharacterRankSkillId": 14404,
+        "Id": 14404,
+        "PassiveSkillId": 314404
+    },
+    {
+        "CharacterRankSkillId": 14405,
+        "Id": 14405,
+        "PassiveSkillId": 314405
+    },
+    {
+        "CharacterRankSkillId": 14406,
+        "Id": 14406,
+        "PassiveSkillId": 314406
+    },
+    {
+        "CharacterRankSkillId": 14407,
+        "Id": 14407,
+        "PassiveSkillId": 314407
+    },
+    {
+        "CharacterRankSkillId": 14408,
+        "Id": 14408,
+        "PassiveSkillId": 314408
+    },
+    {
+        "CharacterRankSkillId": 14409,
+        "Id": 14409,
+        "PassiveSkillId": 314409
+    },
+    {
+        "CharacterRankSkillId": 14410,
+        "Id": 14410,
+        "PassiveSkillId": 314410
+    },
+    {
+        "CharacterRankSkillId": 14411,
+        "Id": 14411,
+        "PassiveSkillId": 314411
+    },
+    {
+        "CharacterRankSkillId": 14412,
+        "Id": 14412,
+        "PassiveSkillId": 314412
+    },
+    {
+        "CharacterRankSkillId": 14413,
+        "Id": 14413,
+        "PassiveSkillId": 314413
+    },
+    {
+        "CharacterRankSkillId": 14414,
+        "Id": 14414,
+        "PassiveSkillId": 314414
+    },
+    {
+        "CharacterRankSkillId": 14415,
+        "Id": 14415,
+        "PassiveSkillId": 314415
+    },
+    {
+        "CharacterRankSkillId": 14416,
+        "Id": 14416,
+        "PassiveSkillId": 314416
+    },
+    {
+        "CharacterRankSkillId": 14417,
+        "Id": 14417,
+        "PassiveSkillId": 314417
+    },
+    {
+        "CharacterRankSkillId": 14418,
+        "Id": 14418,
+        "PassiveSkillId": 314418
+    },
+    {
+        "CharacterRankSkillId": 14419,
+        "Id": 14419,
+        "PassiveSkillId": 314419
+    },
+    {
+        "CharacterRankSkillId": 14420,
+        "Id": 14420,
+        "PassiveSkillId": 314420
+    },
+    {
+        "CharacterRankSkillId": 14421,
+        "Id": 14421,
+        "PassiveSkillId": 314421
+    },
+    {
+        "CharacterRankSkillId": 14422,
+        "Id": 14422,
+        "PassiveSkillId": 314422
+    },
+    {
+        "CharacterRankSkillId": 14423,
+        "Id": 14423,
+        "PassiveSkillId": 314423
+    },
+    {
+        "CharacterRankSkillId": 14501,
+        "Id": 14501,
+        "PassiveSkillId": 314501
+    },
+    {
+        "CharacterRankSkillId": 14502,
+        "Id": 14502,
+        "PassiveSkillId": 314502
+    },
+    {
+        "CharacterRankSkillId": 14503,
+        "Id": 14503,
+        "PassiveSkillId": 314503
+    },
+    {
+        "CharacterRankSkillId": 14504,
+        "Id": 14504,
+        "PassiveSkillId": 314504
+    },
+    {
+        "CharacterRankSkillId": 14505,
+        "Id": 14505,
+        "PassiveSkillId": 314505
+    },
+    {
+        "CharacterRankSkillId": 14506,
+        "Id": 14506,
+        "PassiveSkillId": 314506
+    },
+    {
+        "CharacterRankSkillId": 14507,
+        "Id": 14507,
+        "PassiveSkillId": 314507
+    },
+    {
+        "CharacterRankSkillId": 14508,
+        "Id": 14508,
+        "PassiveSkillId": 314508
+    },
+    {
+        "CharacterRankSkillId": 14509,
+        "Id": 14509,
+        "PassiveSkillId": 314509
+    },
+    {
+        "CharacterRankSkillId": 14510,
+        "Id": 14510,
+        "PassiveSkillId": 314510
+    },
+    {
+        "CharacterRankSkillId": 14511,
+        "Id": 14511,
+        "PassiveSkillId": 314511
+    },
+    {
+        "CharacterRankSkillId": 14512,
+        "Id": 14512,
+        "PassiveSkillId": 314512
+    },
+    {
+        "CharacterRankSkillId": 14513,
+        "Id": 14513,
+        "PassiveSkillId": 314513
+    },
+    {
+        "CharacterRankSkillId": 14514,
+        "Id": 14514,
+        "PassiveSkillId": 314514
+    },
+    {
+        "CharacterRankSkillId": 14515,
+        "Id": 14515,
+        "PassiveSkillId": 314515
+    },
+    {
+        "CharacterRankSkillId": 14516,
+        "Id": 14516,
+        "PassiveSkillId": 314516
+    },
+    {
+        "CharacterRankSkillId": 14517,
+        "Id": 14517,
+        "PassiveSkillId": 314517
+    },
+    {
+        "CharacterRankSkillId": 14518,
+        "Id": 14518,
+        "PassiveSkillId": 314518
+    },
+    {
+        "CharacterRankSkillId": 14519,
+        "Id": 14519,
+        "PassiveSkillId": 314519
+    },
+    {
+        "CharacterRankSkillId": 14520,
+        "Id": 14520,
+        "PassiveSkillId": 314520
+    },
+    {
+        "CharacterRankSkillId": 14521,
+        "Id": 14521,
+        "PassiveSkillId": 314521
+    },
+    {
+        "CharacterRankSkillId": 14522,
+        "Id": 14522,
+        "PassiveSkillId": 314522
+    },
+    {
+        "CharacterRankSkillId": 14523,
+        "Id": 14523,
+        "PassiveSkillId": 314523
+    },
+    {
+        "CharacterRankSkillId": 14601,
+        "Id": 14601,
+        "PassiveSkillId": 314601
+    },
+    {
+        "CharacterRankSkillId": 14602,
+        "Id": 14602,
+        "PassiveSkillId": 314602
+    },
+    {
+        "CharacterRankSkillId": 14603,
+        "Id": 14603,
+        "PassiveSkillId": 314603
+    },
+    {
+        "CharacterRankSkillId": 14604,
+        "Id": 14604,
+        "PassiveSkillId": 314604
+    },
+    {
+        "CharacterRankSkillId": 14605,
+        "Id": 14605,
+        "PassiveSkillId": 314605
+    },
+    {
+        "CharacterRankSkillId": 14606,
+        "Id": 14606,
+        "PassiveSkillId": 314606
+    },
+    {
+        "CharacterRankSkillId": 14607,
+        "Id": 14607,
+        "PassiveSkillId": 314607
+    },
+    {
+        "CharacterRankSkillId": 14608,
+        "Id": 14608,
+        "PassiveSkillId": 314608
+    },
+    {
+        "CharacterRankSkillId": 14609,
+        "Id": 14609,
+        "PassiveSkillId": 314609
+    },
+    {
+        "CharacterRankSkillId": 14610,
+        "Id": 14610,
+        "PassiveSkillId": 314610
+    },
+    {
+        "CharacterRankSkillId": 14611,
+        "Id": 14611,
+        "PassiveSkillId": 314611
+    },
+    {
+        "CharacterRankSkillId": 14612,
+        "Id": 14612,
+        "PassiveSkillId": 314612
+    },
+    {
+        "CharacterRankSkillId": 14613,
+        "Id": 14613,
+        "PassiveSkillId": 314613
+    },
+    {
+        "CharacterRankSkillId": 14614,
+        "Id": 14614,
+        "PassiveSkillId": 314614
+    },
+    {
+        "CharacterRankSkillId": 14615,
+        "Id": 14615,
+        "PassiveSkillId": 314615
+    },
+    {
+        "CharacterRankSkillId": 14616,
+        "Id": 14616,
+        "PassiveSkillId": 314616
+    },
+    {
+        "CharacterRankSkillId": 14617,
+        "Id": 14617,
+        "PassiveSkillId": 314617
+    },
+    {
+        "CharacterRankSkillId": 14618,
+        "Id": 14618,
+        "PassiveSkillId": 314618
+    },
+    {
+        "CharacterRankSkillId": 14619,
+        "Id": 14619,
+        "PassiveSkillId": 314619
+    },
+    {
+        "CharacterRankSkillId": 14620,
+        "Id": 14620,
+        "PassiveSkillId": 314620
+    },
+    {
+        "CharacterRankSkillId": 14621,
+        "Id": 14621,
+        "PassiveSkillId": 314621
+    },
+    {
+        "CharacterRankSkillId": 14622,
+        "Id": 14622,
+        "PassiveSkillId": 314622
+    },
+    {
+        "CharacterRankSkillId": 14623,
+        "Id": 14623,
+        "PassiveSkillId": 314623
+    },
+    {
+        "CharacterRankSkillId": 14701,
+        "Id": 14701,
+        "PassiveSkillId": 314701
+    },
+    {
+        "CharacterRankSkillId": 14702,
+        "Id": 14702,
+        "PassiveSkillId": 314702
+    },
+    {
+        "CharacterRankSkillId": 14703,
+        "Id": 14703,
+        "PassiveSkillId": 314703
+    },
+    {
+        "CharacterRankSkillId": 14704,
+        "Id": 14704,
+        "PassiveSkillId": 314704
+    },
+    {
+        "CharacterRankSkillId": 14705,
+        "Id": 14705,
+        "PassiveSkillId": 314705
+    },
+    {
+        "CharacterRankSkillId": 14706,
+        "Id": 14706,
+        "PassiveSkillId": 314706
+    },
+    {
+        "CharacterRankSkillId": 14707,
+        "Id": 14707,
+        "PassiveSkillId": 314707
+    },
+    {
+        "CharacterRankSkillId": 14708,
+        "Id": 14708,
+        "PassiveSkillId": 314708
+    },
+    {
+        "CharacterRankSkillId": 14709,
+        "Id": 14709,
+        "PassiveSkillId": 314709
+    },
+    {
+        "CharacterRankSkillId": 14710,
+        "Id": 14710,
+        "PassiveSkillId": 314710
+    },
+    {
+        "CharacterRankSkillId": 14711,
+        "Id": 14711,
+        "PassiveSkillId": 314711
+    },
+    {
+        "CharacterRankSkillId": 14712,
+        "Id": 14712,
+        "PassiveSkillId": 314712
+    },
+    {
+        "CharacterRankSkillId": 14713,
+        "Id": 14713,
+        "PassiveSkillId": 314713
+    },
+    {
+        "CharacterRankSkillId": 14801,
+        "Id": 14801,
+        "PassiveSkillId": 314801
+    },
+    {
+        "CharacterRankSkillId": 14802,
+        "Id": 14802,
+        "PassiveSkillId": 314802
+    },
+    {
+        "CharacterRankSkillId": 14803,
+        "Id": 14803,
+        "PassiveSkillId": 314803
+    },
+    {
+        "CharacterRankSkillId": 14804,
+        "Id": 14804,
+        "PassiveSkillId": 314804
+    },
+    {
+        "CharacterRankSkillId": 14805,
+        "Id": 14805,
+        "PassiveSkillId": 314805
+    },
+    {
+        "CharacterRankSkillId": 14806,
+        "Id": 14806,
+        "PassiveSkillId": 314806
+    },
+    {
+        "CharacterRankSkillId": 14807,
+        "Id": 14807,
+        "PassiveSkillId": 314807
+    },
+    {
+        "CharacterRankSkillId": 14808,
+        "Id": 14808,
+        "PassiveSkillId": 314808
+    },
+    {
+        "CharacterRankSkillId": 14809,
+        "Id": 14809,
+        "PassiveSkillId": 314809
+    },
+    {
+        "CharacterRankSkillId": 14810,
+        "Id": 14810,
+        "PassiveSkillId": 314810
+    },
+    {
+        "CharacterRankSkillId": 14811,
+        "Id": 14811,
+        "PassiveSkillId": 314811
+    },
+    {
+        "CharacterRankSkillId": 14812,
+        "Id": 14812,
+        "PassiveSkillId": 314812
+    },
+    {
+        "CharacterRankSkillId": 14813,
+        "Id": 14813,
+        "PassiveSkillId": 314813
+    },
+    {
+        "CharacterRankSkillId": 14814,
+        "Id": 14814,
+        "PassiveSkillId": 314814
+    },
+    {
+        "CharacterRankSkillId": 14815,
+        "Id": 14815,
+        "PassiveSkillId": 314815
+    },
+    {
+        "CharacterRankSkillId": 14816,
+        "Id": 14816,
+        "PassiveSkillId": 314816
+    },
+    {
+        "CharacterRankSkillId": 14817,
+        "Id": 14817,
+        "PassiveSkillId": 314817
+    },
+    {
+        "CharacterRankSkillId": 14818,
+        "Id": 14818,
+        "PassiveSkillId": 314818
+    },
+    {
+        "CharacterRankSkillId": 14819,
+        "Id": 14819,
+        "PassiveSkillId": 314819
+    },
+    {
+        "CharacterRankSkillId": 14820,
+        "Id": 14820,
+        "PassiveSkillId": 314820
+    },
+    {
+        "CharacterRankSkillId": 14821,
+        "Id": 14821,
+        "PassiveSkillId": 314821
+    },
+    {
+        "CharacterRankSkillId": 14822,
+        "Id": 14822,
+        "PassiveSkillId": 314822
+    },
+    {
+        "CharacterRankSkillId": 14823,
+        "Id": 14823,
+        "PassiveSkillId": 314823
+    },
+    {
+        "CharacterRankSkillId": 14901,
+        "Id": 14901,
+        "PassiveSkillId": 314901
+    },
+    {
+        "CharacterRankSkillId": 14902,
+        "Id": 14902,
+        "PassiveSkillId": 314902
+    },
+    {
+        "CharacterRankSkillId": 14903,
+        "Id": 14903,
+        "PassiveSkillId": 314903
+    },
+    {
+        "CharacterRankSkillId": 14904,
+        "Id": 14904,
+        "PassiveSkillId": 314904
+    },
+    {
+        "CharacterRankSkillId": 14905,
+        "Id": 14905,
+        "PassiveSkillId": 314905
+    },
+    {
+        "CharacterRankSkillId": 14906,
+        "Id": 14906,
+        "PassiveSkillId": 314906
+    },
+    {
+        "CharacterRankSkillId": 14907,
+        "Id": 14907,
+        "PassiveSkillId": 314907
+    },
+    {
+        "CharacterRankSkillId": 14908,
+        "Id": 14908,
+        "PassiveSkillId": 314908
+    },
+    {
+        "CharacterRankSkillId": 14909,
+        "Id": 14909,
+        "PassiveSkillId": 314909
+    },
+    {
+        "CharacterRankSkillId": 14910,
+        "Id": 14910,
+        "PassiveSkillId": 314910
+    },
+    {
+        "CharacterRankSkillId": 14911,
+        "Id": 14911,
+        "PassiveSkillId": 314911
+    },
+    {
+        "CharacterRankSkillId": 14912,
+        "Id": 14912,
+        "PassiveSkillId": 314912
+    },
+    {
+        "CharacterRankSkillId": 14913,
+        "Id": 14913,
+        "PassiveSkillId": 314913
+    },
+    {
+        "CharacterRankSkillId": 14914,
+        "Id": 14914,
+        "PassiveSkillId": 314914
+    },
+    {
+        "CharacterRankSkillId": 14915,
+        "Id": 14915,
+        "PassiveSkillId": 314915
+    },
+    {
+        "CharacterRankSkillId": 14916,
+        "Id": 14916,
+        "PassiveSkillId": 314916
+    },
+    {
+        "CharacterRankSkillId": 14917,
+        "Id": 14917,
+        "PassiveSkillId": 314917
+    },
+    {
+        "CharacterRankSkillId": 14918,
+        "Id": 14918,
+        "PassiveSkillId": 314918
+    },
+    {
+        "CharacterRankSkillId": 14919,
+        "Id": 14919,
+        "PassiveSkillId": 314919
+    },
+    {
+        "CharacterRankSkillId": 14920,
+        "Id": 14920,
+        "PassiveSkillId": 314920
+    },
+    {
+        "CharacterRankSkillId": 14921,
+        "Id": 14921,
+        "PassiveSkillId": 314921
+    },
+    {
+        "CharacterRankSkillId": 14922,
+        "Id": 14922,
+        "PassiveSkillId": 314922
+    },
+    {
+        "CharacterRankSkillId": 14923,
+        "Id": 14923,
+        "PassiveSkillId": 314923
+    },
+    {
+        "CharacterRankSkillId": 15001,
+        "Id": 15001,
+        "PassiveSkillId": 315001
+    },
+    {
+        "CharacterRankSkillId": 15002,
+        "Id": 15002,
+        "PassiveSkillId": 315002
+    },
+    {
+        "CharacterRankSkillId": 15003,
+        "Id": 15003,
+        "PassiveSkillId": 315003
+    },
+    {
+        "CharacterRankSkillId": 15004,
+        "Id": 15004,
+        "PassiveSkillId": 315004
+    },
+    {
+        "CharacterRankSkillId": 15005,
+        "Id": 15005,
+        "PassiveSkillId": 315005
+    },
+    {
+        "CharacterRankSkillId": 15006,
+        "Id": 15006,
+        "PassiveSkillId": 315006
+    },
+    {
+        "CharacterRankSkillId": 15007,
+        "Id": 15007,
+        "PassiveSkillId": 315007
+    },
+    {
+        "CharacterRankSkillId": 15008,
+        "Id": 15008,
+        "PassiveSkillId": 315008
+    },
+    {
+        "CharacterRankSkillId": 15009,
+        "Id": 15009,
+        "PassiveSkillId": 315009
+    },
+    {
+        "CharacterRankSkillId": 15010,
+        "Id": 15010,
+        "PassiveSkillId": 315010
+    },
+    {
+        "CharacterRankSkillId": 15011,
+        "Id": 15011,
+        "PassiveSkillId": 315011
+    },
+    {
+        "CharacterRankSkillId": 15012,
+        "Id": 15012,
+        "PassiveSkillId": 315012
+    },
+    {
+        "CharacterRankSkillId": 15013,
+        "Id": 15013,
+        "PassiveSkillId": 315013
+    },
+    {
+        "CharacterRankSkillId": 15014,
+        "Id": 15014,
+        "PassiveSkillId": 315014
+    },
+    {
+        "CharacterRankSkillId": 15015,
+        "Id": 15015,
+        "PassiveSkillId": 315015
+    },
+    {
+        "CharacterRankSkillId": 15016,
+        "Id": 15016,
+        "PassiveSkillId": 315016
+    },
+    {
+        "CharacterRankSkillId": 15017,
+        "Id": 15017,
+        "PassiveSkillId": 315017
+    },
+    {
+        "CharacterRankSkillId": 15018,
+        "Id": 15018,
+        "PassiveSkillId": 315018
+    },
+    {
+        "CharacterRankSkillId": 15019,
+        "Id": 15019,
+        "PassiveSkillId": 315019
+    },
+    {
+        "CharacterRankSkillId": 15020,
+        "Id": 15020,
+        "PassiveSkillId": 315020
+    },
+    {
+        "CharacterRankSkillId": 15021,
+        "Id": 15021,
+        "PassiveSkillId": 315021
+    },
+    {
+        "CharacterRankSkillId": 15022,
+        "Id": 15022,
+        "PassiveSkillId": 315022
+    },
+    {
+        "CharacterRankSkillId": 15023,
+        "Id": 15023,
+        "PassiveSkillId": 315023
+    },
+    {
+        "CharacterRankSkillId": 15101,
+        "Id": 15101,
+        "PassiveSkillId": 315101
+    },
+    {
+        "CharacterRankSkillId": 15102,
+        "Id": 15102,
+        "PassiveSkillId": 315102
+    },
+    {
+        "CharacterRankSkillId": 15103,
+        "Id": 15103,
+        "PassiveSkillId": 315103
+    },
+    {
+        "CharacterRankSkillId": 15104,
+        "Id": 15104,
+        "PassiveSkillId": 315104
+    },
+    {
+        "CharacterRankSkillId": 15105,
+        "Id": 15105,
+        "PassiveSkillId": 315105
+    },
+    {
+        "CharacterRankSkillId": 15106,
+        "Id": 15106,
+        "PassiveSkillId": 315106
+    },
+    {
+        "CharacterRankSkillId": 15107,
+        "Id": 15107,
+        "PassiveSkillId": 315107
+    },
+    {
+        "CharacterRankSkillId": 15108,
+        "Id": 15108,
+        "PassiveSkillId": 315108
+    },
+    {
+        "CharacterRankSkillId": 15109,
+        "Id": 15109,
+        "PassiveSkillId": 315109
+    },
+    {
+        "CharacterRankSkillId": 15110,
+        "Id": 15110,
+        "PassiveSkillId": 315110
+    },
+    {
+        "CharacterRankSkillId": 15111,
+        "Id": 15111,
+        "PassiveSkillId": 315111
+    },
+    {
+        "CharacterRankSkillId": 15112,
+        "Id": 15112,
+        "PassiveSkillId": 315112
+    },
+    {
+        "CharacterRankSkillId": 15113,
+        "Id": 15113,
+        "PassiveSkillId": 315113
+    },
+    {
+        "CharacterRankSkillId": 15114,
+        "Id": 15114,
+        "PassiveSkillId": 315114
+    },
+    {
+        "CharacterRankSkillId": 15115,
+        "Id": 15115,
+        "PassiveSkillId": 315115
+    },
+    {
+        "CharacterRankSkillId": 15116,
+        "Id": 15116,
+        "PassiveSkillId": 315116
+    },
+    {
+        "CharacterRankSkillId": 15117,
+        "Id": 15117,
+        "PassiveSkillId": 315117
+    },
+    {
+        "CharacterRankSkillId": 15118,
+        "Id": 15118,
+        "PassiveSkillId": 315118
+    },
+    {
+        "CharacterRankSkillId": 15119,
+        "Id": 15119,
+        "PassiveSkillId": 315119
+    },
+    {
+        "CharacterRankSkillId": 15120,
+        "Id": 15120,
+        "PassiveSkillId": 315120
+    },
+    {
+        "CharacterRankSkillId": 15121,
+        "Id": 15121,
+        "PassiveSkillId": 315121
+    },
+    {
+        "CharacterRankSkillId": 15122,
+        "Id": 15122,
+        "PassiveSkillId": 315122
+    },
+    {
+        "CharacterRankSkillId": 15123,
+        "Id": 15123,
+        "PassiveSkillId": 315123
+    },
+    {
+        "CharacterRankSkillId": 15201,
+        "Id": 15201,
+        "PassiveSkillId": 315201
+    },
+    {
+        "CharacterRankSkillId": 15202,
+        "Id": 15202,
+        "PassiveSkillId": 315202
+    },
+    {
+        "CharacterRankSkillId": 15203,
+        "Id": 15203,
+        "PassiveSkillId": 315203
+    },
+    {
+        "CharacterRankSkillId": 15204,
+        "Id": 15204,
+        "PassiveSkillId": 315204
+    },
+    {
+        "CharacterRankSkillId": 15205,
+        "Id": 15205,
+        "PassiveSkillId": 315205
+    },
+    {
+        "CharacterRankSkillId": 15206,
+        "Id": 15206,
+        "PassiveSkillId": 315206
+    },
+    {
+        "CharacterRankSkillId": 15207,
+        "Id": 15207,
+        "PassiveSkillId": 315207
+    },
+    {
+        "CharacterRankSkillId": 15208,
+        "Id": 15208,
+        "PassiveSkillId": 315208
+    },
+    {
+        "CharacterRankSkillId": 15209,
+        "Id": 15209,
+        "PassiveSkillId": 315209
+    },
+    {
+        "CharacterRankSkillId": 15210,
+        "Id": 15210,
+        "PassiveSkillId": 315210
+    },
+    {
+        "CharacterRankSkillId": 15211,
+        "Id": 15211,
+        "PassiveSkillId": 315211
+    },
+    {
+        "CharacterRankSkillId": 15212,
+        "Id": 15212,
+        "PassiveSkillId": 315212
+    },
+    {
+        "CharacterRankSkillId": 15213,
+        "Id": 15213,
+        "PassiveSkillId": 315213
+    },
+    {
+        "CharacterRankSkillId": 15214,
+        "Id": 15214,
+        "PassiveSkillId": 315214
+    },
+    {
+        "CharacterRankSkillId": 15215,
+        "Id": 15215,
+        "PassiveSkillId": 315215
+    },
+    {
+        "CharacterRankSkillId": 15216,
+        "Id": 15216,
+        "PassiveSkillId": 315216
+    },
+    {
+        "CharacterRankSkillId": 15217,
+        "Id": 15217,
+        "PassiveSkillId": 315217
+    },
+    {
+        "CharacterRankSkillId": 15218,
+        "Id": 15218,
+        "PassiveSkillId": 315218
+    },
+    {
+        "CharacterRankSkillId": 15219,
+        "Id": 15219,
+        "PassiveSkillId": 315219
+    },
+    {
+        "CharacterRankSkillId": 15220,
+        "Id": 15220,
+        "PassiveSkillId": 315220
+    },
+    {
+        "CharacterRankSkillId": 15221,
+        "Id": 15221,
+        "PassiveSkillId": 315221
+    },
+    {
+        "CharacterRankSkillId": 15222,
+        "Id": 15222,
+        "PassiveSkillId": 315222
+    },
+    {
+        "CharacterRankSkillId": 15223,
+        "Id": 15223,
+        "PassiveSkillId": 315223
+    },
+    {
+        "CharacterRankSkillId": 15301,
+        "Id": 15301,
+        "PassiveSkillId": 315301
+    },
+    {
+        "CharacterRankSkillId": 15302,
+        "Id": 15302,
+        "PassiveSkillId": 315302
+    },
+    {
+        "CharacterRankSkillId": 15303,
+        "Id": 15303,
+        "PassiveSkillId": 315303
+    },
+    {
+        "CharacterRankSkillId": 15304,
+        "Id": 15304,
+        "PassiveSkillId": 315304
+    },
+    {
+        "CharacterRankSkillId": 15305,
+        "Id": 15305,
+        "PassiveSkillId": 315305
+    },
+    {
+        "CharacterRankSkillId": 15306,
+        "Id": 15306,
+        "PassiveSkillId": 315306
+    },
+    {
+        "CharacterRankSkillId": 15307,
+        "Id": 15307,
+        "PassiveSkillId": 315307
+    },
+    {
+        "CharacterRankSkillId": 15308,
+        "Id": 15308,
+        "PassiveSkillId": 315308
+    },
+    {
+        "CharacterRankSkillId": 15309,
+        "Id": 15309,
+        "PassiveSkillId": 315309
+    },
+    {
+        "CharacterRankSkillId": 15310,
+        "Id": 15310,
+        "PassiveSkillId": 315310
+    },
+    {
+        "CharacterRankSkillId": 15311,
+        "Id": 15311,
+        "PassiveSkillId": 315311
+    },
+    {
+        "CharacterRankSkillId": 15312,
+        "Id": 15312,
+        "PassiveSkillId": 315312
+    },
+    {
+        "CharacterRankSkillId": 15313,
+        "Id": 15313,
+        "PassiveSkillId": 315313
+    },
+    {
+        "CharacterRankSkillId": 15314,
+        "Id": 15314,
+        "PassiveSkillId": 315314
+    },
+    {
+        "CharacterRankSkillId": 15315,
+        "Id": 15315,
+        "PassiveSkillId": 315315
+    },
+    {
+        "CharacterRankSkillId": 15316,
+        "Id": 15316,
+        "PassiveSkillId": 315316
+    },
+    {
+        "CharacterRankSkillId": 15317,
+        "Id": 15317,
+        "PassiveSkillId": 315317
+    },
+    {
+        "CharacterRankSkillId": 15318,
+        "Id": 15318,
+        "PassiveSkillId": 315318
+    },
+    {
+        "CharacterRankSkillId": 15319,
+        "Id": 15319,
+        "PassiveSkillId": 315319
+    },
+    {
+        "CharacterRankSkillId": 15320,
+        "Id": 15320,
+        "PassiveSkillId": 315320
+    },
+    {
+        "CharacterRankSkillId": 15321,
+        "Id": 15321,
+        "PassiveSkillId": 315321
+    },
+    {
+        "CharacterRankSkillId": 15322,
+        "Id": 15322,
+        "PassiveSkillId": 315322
+    },
+    {
+        "CharacterRankSkillId": 15323,
+        "Id": 15323,
+        "PassiveSkillId": 315323
+    },
+    {
+        "CharacterRankSkillId": 15401,
+        "Id": 15401,
+        "PassiveSkillId": 315401
+    },
+    {
+        "CharacterRankSkillId": 15402,
+        "Id": 15402,
+        "PassiveSkillId": 315402
+    },
+    {
+        "CharacterRankSkillId": 15403,
+        "Id": 15403,
+        "PassiveSkillId": 315403
+    },
+    {
+        "CharacterRankSkillId": 15404,
+        "Id": 15404,
+        "PassiveSkillId": 315404
+    },
+    {
+        "CharacterRankSkillId": 15405,
+        "Id": 15405,
+        "PassiveSkillId": 315405
+    },
+    {
+        "CharacterRankSkillId": 15406,
+        "Id": 15406,
+        "PassiveSkillId": 315406
+    },
+    {
+        "CharacterRankSkillId": 15407,
+        "Id": 15407,
+        "PassiveSkillId": 315407
+    },
+    {
+        "CharacterRankSkillId": 15408,
+        "Id": 15408,
+        "PassiveSkillId": 315408
+    },
+    {
+        "CharacterRankSkillId": 15409,
+        "Id": 15409,
+        "PassiveSkillId": 315409
+    },
+    {
+        "CharacterRankSkillId": 15410,
+        "Id": 15410,
+        "PassiveSkillId": 315410
+    },
+    {
+        "CharacterRankSkillId": 15411,
+        "Id": 15411,
+        "PassiveSkillId": 315411
+    },
+    {
+        "CharacterRankSkillId": 15412,
+        "Id": 15412,
+        "PassiveSkillId": 315412
+    },
+    {
+        "CharacterRankSkillId": 15413,
+        "Id": 15413,
+        "PassiveSkillId": 315413
+    },
+    {
+        "CharacterRankSkillId": 15414,
+        "Id": 15414,
+        "PassiveSkillId": 315414
+    },
+    {
+        "CharacterRankSkillId": 15415,
+        "Id": 15415,
+        "PassiveSkillId": 315415
+    },
+    {
+        "CharacterRankSkillId": 15416,
+        "Id": 15416,
+        "PassiveSkillId": 315416
+    },
+    {
+        "CharacterRankSkillId": 15417,
+        "Id": 15417,
+        "PassiveSkillId": 315417
+    },
+    {
+        "CharacterRankSkillId": 15418,
+        "Id": 15418,
+        "PassiveSkillId": 315418
+    },
+    {
+        "CharacterRankSkillId": 15419,
+        "Id": 15419,
+        "PassiveSkillId": 315419
+    },
+    {
+        "CharacterRankSkillId": 15420,
+        "Id": 15420,
+        "PassiveSkillId": 315420
+    },
+    {
+        "CharacterRankSkillId": 15421,
+        "Id": 15421,
+        "PassiveSkillId": 315421
+    },
+    {
+        "CharacterRankSkillId": 15422,
+        "Id": 15422,
+        "PassiveSkillId": 315422
+    },
+    {
+        "CharacterRankSkillId": 15423,
+        "Id": 15423,
+        "PassiveSkillId": 315423
+    },
+    {
+        "CharacterRankSkillId": 15501,
+        "Id": 15501,
+        "PassiveSkillId": 315501
+    },
+    {
+        "CharacterRankSkillId": 15502,
+        "Id": 15502,
+        "PassiveSkillId": 315502
+    },
+    {
+        "CharacterRankSkillId": 15503,
+        "Id": 15503,
+        "PassiveSkillId": 315503
+    },
+    {
+        "CharacterRankSkillId": 15504,
+        "Id": 15504,
+        "PassiveSkillId": 315504
+    },
+    {
+        "CharacterRankSkillId": 15505,
+        "Id": 15505,
+        "PassiveSkillId": 315505
+    },
+    {
+        "CharacterRankSkillId": 15506,
+        "Id": 15506,
+        "PassiveSkillId": 315506
+    },
+    {
+        "CharacterRankSkillId": 15507,
+        "Id": 15507,
+        "PassiveSkillId": 315507
+    },
+    {
+        "CharacterRankSkillId": 15508,
+        "Id": 15508,
+        "PassiveSkillId": 315508
+    },
+    {
+        "CharacterRankSkillId": 15509,
+        "Id": 15509,
+        "PassiveSkillId": 315509
+    },
+    {
+        "CharacterRankSkillId": 15510,
+        "Id": 15510,
+        "PassiveSkillId": 315510
+    },
+    {
+        "CharacterRankSkillId": 15511,
+        "Id": 15511,
+        "PassiveSkillId": 315511
+    },
+    {
+        "CharacterRankSkillId": 15512,
+        "Id": 15512,
+        "PassiveSkillId": 315512
+    },
+    {
+        "CharacterRankSkillId": 15513,
+        "Id": 15513,
+        "PassiveSkillId": 315513
+    },
+    {
+        "CharacterRankSkillId": 15514,
+        "Id": 15514,
+        "PassiveSkillId": 315514
+    },
+    {
+        "CharacterRankSkillId": 15515,
+        "Id": 15515,
+        "PassiveSkillId": 315515
+    },
+    {
+        "CharacterRankSkillId": 15516,
+        "Id": 15516,
+        "PassiveSkillId": 315516
+    },
+    {
+        "CharacterRankSkillId": 15517,
+        "Id": 15517,
+        "PassiveSkillId": 315517
+    },
+    {
+        "CharacterRankSkillId": 15518,
+        "Id": 15518,
+        "PassiveSkillId": 315518
+    },
+    {
+        "CharacterRankSkillId": 15519,
+        "Id": 15519,
+        "PassiveSkillId": 315519
+    },
+    {
+        "CharacterRankSkillId": 15520,
+        "Id": 15520,
+        "PassiveSkillId": 315520
+    },
+    {
+        "CharacterRankSkillId": 15521,
+        "Id": 15521,
+        "PassiveSkillId": 315521
+    },
+    {
+        "CharacterRankSkillId": 15522,
+        "Id": 15522,
+        "PassiveSkillId": 315522
+    },
+    {
+        "CharacterRankSkillId": 15523,
+        "Id": 15523,
+        "PassiveSkillId": 315523
+    },
+    {
+        "CharacterRankSkillId": 15601,
+        "Id": 15601,
+        "PassiveSkillId": 315601
+    },
+    {
+        "CharacterRankSkillId": 15602,
+        "Id": 15602,
+        "PassiveSkillId": 315602
+    },
+    {
+        "CharacterRankSkillId": 15603,
+        "Id": 15603,
+        "PassiveSkillId": 315603
+    },
+    {
+        "CharacterRankSkillId": 15604,
+        "Id": 15604,
+        "PassiveSkillId": 315604
+    },
+    {
+        "CharacterRankSkillId": 15605,
+        "Id": 15605,
+        "PassiveSkillId": 315605
+    },
+    {
+        "CharacterRankSkillId": 15606,
+        "Id": 15606,
+        "PassiveSkillId": 315606
+    },
+    {
+        "CharacterRankSkillId": 15607,
+        "Id": 15607,
+        "PassiveSkillId": 315607
+    },
+    {
+        "CharacterRankSkillId": 15608,
+        "Id": 15608,
+        "PassiveSkillId": 315608
+    },
+    {
+        "CharacterRankSkillId": 15609,
+        "Id": 15609,
+        "PassiveSkillId": 315609
+    },
+    {
+        "CharacterRankSkillId": 15610,
+        "Id": 15610,
+        "PassiveSkillId": 315610
+    },
+    {
+        "CharacterRankSkillId": 15611,
+        "Id": 15611,
+        "PassiveSkillId": 315611
+    },
+    {
+        "CharacterRankSkillId": 15612,
+        "Id": 15612,
+        "PassiveSkillId": 315612
+    },
+    {
+        "CharacterRankSkillId": 15613,
+        "Id": 15613,
+        "PassiveSkillId": 315613
+    },
+    {
+        "CharacterRankSkillId": 15614,
+        "Id": 15614,
+        "PassiveSkillId": 315614
+    },
+    {
+        "CharacterRankSkillId": 15615,
+        "Id": 15615,
+        "PassiveSkillId": 315615
+    },
+    {
+        "CharacterRankSkillId": 15616,
+        "Id": 15616,
+        "PassiveSkillId": 315616
+    },
+    {
+        "CharacterRankSkillId": 15617,
+        "Id": 15617,
+        "PassiveSkillId": 315617
+    },
+    {
+        "CharacterRankSkillId": 15618,
+        "Id": 15618,
+        "PassiveSkillId": 315618
+    },
+    {
+        "CharacterRankSkillId": 15619,
+        "Id": 15619,
+        "PassiveSkillId": 315619
+    },
+    {
+        "CharacterRankSkillId": 15620,
+        "Id": 15620,
+        "PassiveSkillId": 315620
+    },
+    {
+        "CharacterRankSkillId": 15621,
+        "Id": 15621,
+        "PassiveSkillId": 315621
+    },
+    {
+        "CharacterRankSkillId": 15622,
+        "Id": 15622,
+        "PassiveSkillId": 315622
+    },
+    {
+        "CharacterRankSkillId": 15623,
+        "Id": 15623,
+        "PassiveSkillId": 315623
+    },
+    {
+        "CharacterRankSkillId": 15701,
+        "Id": 15701,
+        "PassiveSkillId": 315701
+    },
+    {
+        "CharacterRankSkillId": 15702,
+        "Id": 15702,
+        "PassiveSkillId": 315702
+    },
+    {
+        "CharacterRankSkillId": 15703,
+        "Id": 15703,
+        "PassiveSkillId": 315703
+    },
+    {
+        "CharacterRankSkillId": 15704,
+        "Id": 15704,
+        "PassiveSkillId": 315704
+    },
+    {
+        "CharacterRankSkillId": 15705,
+        "Id": 15705,
+        "PassiveSkillId": 315705
+    },
+    {
+        "CharacterRankSkillId": 15706,
+        "Id": 15706,
+        "PassiveSkillId": 315706
+    },
+    {
+        "CharacterRankSkillId": 15707,
+        "Id": 15707,
+        "PassiveSkillId": 315707
+    },
+    {
+        "CharacterRankSkillId": 15708,
+        "Id": 15708,
+        "PassiveSkillId": 315708
+    },
+    {
+        "CharacterRankSkillId": 15709,
+        "Id": 15709,
+        "PassiveSkillId": 315709
+    },
+    {
+        "CharacterRankSkillId": 15710,
+        "Id": 15710,
+        "PassiveSkillId": 315710
+    },
+    {
+        "CharacterRankSkillId": 15711,
+        "Id": 15711,
+        "PassiveSkillId": 315711
+    },
+    {
+        "CharacterRankSkillId": 15712,
+        "Id": 15712,
+        "PassiveSkillId": 315712
+    },
+    {
+        "CharacterRankSkillId": 15713,
+        "Id": 15713,
+        "PassiveSkillId": 315713
+    },
+    {
+        "CharacterRankSkillId": 15714,
+        "Id": 15714,
+        "PassiveSkillId": 315714
+    },
+    {
+        "CharacterRankSkillId": 15715,
+        "Id": 15715,
+        "PassiveSkillId": 315715
+    },
+    {
+        "CharacterRankSkillId": 15716,
+        "Id": 15716,
+        "PassiveSkillId": 315716
+    },
+    {
+        "CharacterRankSkillId": 15717,
+        "Id": 15717,
+        "PassiveSkillId": 315717
+    },
+    {
+        "CharacterRankSkillId": 15718,
+        "Id": 15718,
+        "PassiveSkillId": 315718
+    },
+    {
+        "CharacterRankSkillId": 15719,
+        "Id": 15719,
+        "PassiveSkillId": 315719
+    },
+    {
+        "CharacterRankSkillId": 15720,
+        "Id": 15720,
+        "PassiveSkillId": 315720
+    },
+    {
+        "CharacterRankSkillId": 15721,
+        "Id": 15721,
+        "PassiveSkillId": 315721
+    },
+    {
+        "CharacterRankSkillId": 15722,
+        "Id": 15722,
+        "PassiveSkillId": 315722
+    },
+    {
+        "CharacterRankSkillId": 15723,
+        "Id": 15723,
+        "PassiveSkillId": 315723
+    },
+    {
+        "CharacterRankSkillId": 15801,
+        "Id": 15801,
+        "PassiveSkillId": 315801
+    },
+    {
+        "CharacterRankSkillId": 15802,
+        "Id": 15802,
+        "PassiveSkillId": 315802
+    },
+    {
+        "CharacterRankSkillId": 15803,
+        "Id": 15803,
+        "PassiveSkillId": 315803
+    },
+    {
+        "CharacterRankSkillId": 15804,
+        "Id": 15804,
+        "PassiveSkillId": 315804
+    },
+    {
+        "CharacterRankSkillId": 15805,
+        "Id": 15805,
+        "PassiveSkillId": 315805
+    },
+    {
+        "CharacterRankSkillId": 15806,
+        "Id": 15806,
+        "PassiveSkillId": 315806
+    },
+    {
+        "CharacterRankSkillId": 15807,
+        "Id": 15807,
+        "PassiveSkillId": 315807
+    },
+    {
+        "CharacterRankSkillId": 15808,
+        "Id": 15808,
+        "PassiveSkillId": 315808
+    },
+    {
+        "CharacterRankSkillId": 15809,
+        "Id": 15809,
+        "PassiveSkillId": 315809
+    },
+    {
+        "CharacterRankSkillId": 15810,
+        "Id": 15810,
+        "PassiveSkillId": 315810
+    },
+    {
+        "CharacterRankSkillId": 15811,
+        "Id": 15811,
+        "PassiveSkillId": 315811
+    },
+    {
+        "CharacterRankSkillId": 15812,
+        "Id": 15812,
+        "PassiveSkillId": 315812
+    },
+    {
+        "CharacterRankSkillId": 15813,
+        "Id": 15813,
+        "PassiveSkillId": 315813
+    },
+    {
+        "CharacterRankSkillId": 15814,
+        "Id": 15814,
+        "PassiveSkillId": 315814
+    },
+    {
+        "CharacterRankSkillId": 15815,
+        "Id": 15815,
+        "PassiveSkillId": 315815
+    },
+    {
+        "CharacterRankSkillId": 15816,
+        "Id": 15816,
+        "PassiveSkillId": 315816
+    },
+    {
+        "CharacterRankSkillId": 15817,
+        "Id": 15817,
+        "PassiveSkillId": 315817
+    },
+    {
+        "CharacterRankSkillId": 15818,
+        "Id": 15818,
+        "PassiveSkillId": 315818
+    },
+    {
+        "CharacterRankSkillId": 15819,
+        "Id": 15819,
+        "PassiveSkillId": 315819
+    },
+    {
+        "CharacterRankSkillId": 15820,
+        "Id": 15820,
+        "PassiveSkillId": 315820
+    },
+    {
+        "CharacterRankSkillId": 15821,
+        "Id": 15821,
+        "PassiveSkillId": 315821
+    },
+    {
+        "CharacterRankSkillId": 15822,
+        "Id": 15822,
+        "PassiveSkillId": 315822
+    },
+    {
+        "CharacterRankSkillId": 15823,
+        "Id": 15823,
+        "PassiveSkillId": 315823
+    },
+    {
+        "CharacterRankSkillId": 15901,
+        "Id": 15901,
+        "PassiveSkillId": 315901
+    },
+    {
+        "CharacterRankSkillId": 15902,
+        "Id": 15902,
+        "PassiveSkillId": 315902
+    },
+    {
+        "CharacterRankSkillId": 15903,
+        "Id": 15903,
+        "PassiveSkillId": 315903
+    },
+    {
+        "CharacterRankSkillId": 15904,
+        "Id": 15904,
+        "PassiveSkillId": 315904
+    },
+    {
+        "CharacterRankSkillId": 15905,
+        "Id": 15905,
+        "PassiveSkillId": 315905
+    },
+    {
+        "CharacterRankSkillId": 15906,
+        "Id": 15906,
+        "PassiveSkillId": 315906
+    },
+    {
+        "CharacterRankSkillId": 15907,
+        "Id": 15907,
+        "PassiveSkillId": 315907
+    },
+    {
+        "CharacterRankSkillId": 15908,
+        "Id": 15908,
+        "PassiveSkillId": 315908
+    },
+    {
+        "CharacterRankSkillId": 15909,
+        "Id": 15909,
+        "PassiveSkillId": 315909
+    },
+    {
+        "CharacterRankSkillId": 15910,
+        "Id": 15910,
+        "PassiveSkillId": 315910
+    },
+    {
+        "CharacterRankSkillId": 15911,
+        "Id": 15911,
+        "PassiveSkillId": 315911
+    },
+    {
+        "CharacterRankSkillId": 15912,
+        "Id": 15912,
+        "PassiveSkillId": 315912
+    },
+    {
+        "CharacterRankSkillId": 15913,
+        "Id": 15913,
+        "PassiveSkillId": 315913
+    },
+    {
+        "CharacterRankSkillId": 15914,
+        "Id": 15914,
+        "PassiveSkillId": 315914
+    },
+    {
+        "CharacterRankSkillId": 15915,
+        "Id": 15915,
+        "PassiveSkillId": 315915
+    },
+    {
+        "CharacterRankSkillId": 15916,
+        "Id": 15916,
+        "PassiveSkillId": 315916
+    },
+    {
+        "CharacterRankSkillId": 15917,
+        "Id": 15917,
+        "PassiveSkillId": 315917
+    },
+    {
+        "CharacterRankSkillId": 15918,
+        "Id": 15918,
+        "PassiveSkillId": 315918
+    },
+    {
+        "CharacterRankSkillId": 15919,
+        "Id": 15919,
+        "PassiveSkillId": 315919
+    },
+    {
+        "CharacterRankSkillId": 15920,
+        "Id": 15920,
+        "PassiveSkillId": 315920
+    },
+    {
+        "CharacterRankSkillId": 15921,
+        "Id": 15921,
+        "PassiveSkillId": 315921
+    },
+    {
+        "CharacterRankSkillId": 15922,
+        "Id": 15922,
+        "PassiveSkillId": 315922
+    },
+    {
+        "CharacterRankSkillId": 15923,
+        "Id": 15923,
+        "PassiveSkillId": 315923
+    },
+    {
+        "CharacterRankSkillId": 16001,
+        "Id": 16001,
+        "PassiveSkillId": 316001
+    },
+    {
+        "CharacterRankSkillId": 16002,
+        "Id": 16002,
+        "PassiveSkillId": 316002
+    },
+    {
+        "CharacterRankSkillId": 16003,
+        "Id": 16003,
+        "PassiveSkillId": 316003
+    },
+    {
+        "CharacterRankSkillId": 16004,
+        "Id": 16004,
+        "PassiveSkillId": 316004
+    },
+    {
+        "CharacterRankSkillId": 16005,
+        "Id": 16005,
+        "PassiveSkillId": 316005
+    },
+    {
+        "CharacterRankSkillId": 16006,
+        "Id": 16006,
+        "PassiveSkillId": 316006
+    },
+    {
+        "CharacterRankSkillId": 16007,
+        "Id": 16007,
+        "PassiveSkillId": 316007
+    },
+    {
+        "CharacterRankSkillId": 16008,
+        "Id": 16008,
+        "PassiveSkillId": 316008
+    },
+    {
+        "CharacterRankSkillId": 16009,
+        "Id": 16009,
+        "PassiveSkillId": 316009
+    },
+    {
+        "CharacterRankSkillId": 16010,
+        "Id": 16010,
+        "PassiveSkillId": 316010
+    },
+    {
+        "CharacterRankSkillId": 16011,
+        "Id": 16011,
+        "PassiveSkillId": 316011
+    },
+    {
+        "CharacterRankSkillId": 16012,
+        "Id": 16012,
+        "PassiveSkillId": 316012
+    },
+    {
+        "CharacterRankSkillId": 16013,
+        "Id": 16013,
+        "PassiveSkillId": 316013
+    },
+    {
+        "CharacterRankSkillId": 16014,
+        "Id": 16014,
+        "PassiveSkillId": 316014
+    },
+    {
+        "CharacterRankSkillId": 16015,
+        "Id": 16015,
+        "PassiveSkillId": 316015
+    },
+    {
+        "CharacterRankSkillId": 16016,
+        "Id": 16016,
+        "PassiveSkillId": 316016
+    },
+    {
+        "CharacterRankSkillId": 16017,
+        "Id": 16017,
+        "PassiveSkillId": 316017
+    },
+    {
+        "CharacterRankSkillId": 16018,
+        "Id": 16018,
+        "PassiveSkillId": 316018
+    },
+    {
+        "CharacterRankSkillId": 16019,
+        "Id": 16019,
+        "PassiveSkillId": 316019
+    },
+    {
+        "CharacterRankSkillId": 16020,
+        "Id": 16020,
+        "PassiveSkillId": 316020
+    },
+    {
+        "CharacterRankSkillId": 16021,
+        "Id": 16021,
+        "PassiveSkillId": 316021
+    },
+    {
+        "CharacterRankSkillId": 16022,
+        "Id": 16022,
+        "PassiveSkillId": 316022
+    },
+    {
+        "CharacterRankSkillId": 16023,
+        "Id": 16023,
+        "PassiveSkillId": 316023
+    },
+    {
+        "CharacterRankSkillId": 16101,
+        "Id": 16101,
+        "PassiveSkillId": 316101
+    },
+    {
+        "CharacterRankSkillId": 16102,
+        "Id": 16102,
+        "PassiveSkillId": 316102
+    },
+    {
+        "CharacterRankSkillId": 16103,
+        "Id": 16103,
+        "PassiveSkillId": 316103
+    },
+    {
+        "CharacterRankSkillId": 16104,
+        "Id": 16104,
+        "PassiveSkillId": 316104
+    },
+    {
+        "CharacterRankSkillId": 16105,
+        "Id": 16105,
+        "PassiveSkillId": 316105
+    },
+    {
+        "CharacterRankSkillId": 16106,
+        "Id": 16106,
+        "PassiveSkillId": 316106
+    },
+    {
+        "CharacterRankSkillId": 16107,
+        "Id": 16107,
+        "PassiveSkillId": 316107
+    },
+    {
+        "CharacterRankSkillId": 16108,
+        "Id": 16108,
+        "PassiveSkillId": 316108
+    },
+    {
+        "CharacterRankSkillId": 16109,
+        "Id": 16109,
+        "PassiveSkillId": 316109
+    },
+    {
+        "CharacterRankSkillId": 16110,
+        "Id": 16110,
+        "PassiveSkillId": 316110
+    },
+    {
+        "CharacterRankSkillId": 16111,
+        "Id": 16111,
+        "PassiveSkillId": 316111
+    },
+    {
+        "CharacterRankSkillId": 16112,
+        "Id": 16112,
+        "PassiveSkillId": 316112
+    },
+    {
+        "CharacterRankSkillId": 16113,
+        "Id": 16113,
+        "PassiveSkillId": 316113
+    },
+    {
+        "CharacterRankSkillId": 16114,
+        "Id": 16114,
+        "PassiveSkillId": 316114
+    },
+    {
+        "CharacterRankSkillId": 16115,
+        "Id": 16115,
+        "PassiveSkillId": 316115
+    },
+    {
+        "CharacterRankSkillId": 16116,
+        "Id": 16116,
+        "PassiveSkillId": 316116
+    },
+    {
+        "CharacterRankSkillId": 16117,
+        "Id": 16117,
+        "PassiveSkillId": 316117
+    },
+    {
+        "CharacterRankSkillId": 16118,
+        "Id": 16118,
+        "PassiveSkillId": 316118
+    },
+    {
+        "CharacterRankSkillId": 16119,
+        "Id": 16119,
+        "PassiveSkillId": 316119
+    },
+    {
+        "CharacterRankSkillId": 16120,
+        "Id": 16120,
+        "PassiveSkillId": 316120
+    },
+    {
+        "CharacterRankSkillId": 16121,
+        "Id": 16121,
+        "PassiveSkillId": 316121
+    },
+    {
+        "CharacterRankSkillId": 16122,
+        "Id": 16122,
+        "PassiveSkillId": 316122
+    },
+    {
+        "CharacterRankSkillId": 16123,
+        "Id": 16123,
+        "PassiveSkillId": 316123
+    },
+    {
+        "CharacterRankSkillId": 16201,
+        "Id": 16201,
+        "PassiveSkillId": 316201
+    },
+    {
+        "CharacterRankSkillId": 16202,
+        "Id": 16202,
+        "PassiveSkillId": 316202
+    },
+    {
+        "CharacterRankSkillId": 16203,
+        "Id": 16203,
+        "PassiveSkillId": 316203
+    },
+    {
+        "CharacterRankSkillId": 16204,
+        "Id": 16204,
+        "PassiveSkillId": 316204
+    },
+    {
+        "CharacterRankSkillId": 16205,
+        "Id": 16205,
+        "PassiveSkillId": 316205
+    },
+    {
+        "CharacterRankSkillId": 16206,
+        "Id": 16206,
+        "PassiveSkillId": 316206
+    },
+    {
+        "CharacterRankSkillId": 16207,
+        "Id": 16207,
+        "PassiveSkillId": 316207
+    },
+    {
+        "CharacterRankSkillId": 16208,
+        "Id": 16208,
+        "PassiveSkillId": 316208
+    },
+    {
+        "CharacterRankSkillId": 16209,
+        "Id": 16209,
+        "PassiveSkillId": 316209
+    },
+    {
+        "CharacterRankSkillId": 16210,
+        "Id": 16210,
+        "PassiveSkillId": 316212
+    },
+    {
+        "CharacterRankSkillId": 16211,
+        "Id": 16211,
+        "PassiveSkillId": 316210
+    },
+    {
+        "CharacterRankSkillId": 16212,
+        "Id": 16212,
+        "PassiveSkillId": 316211
+    },
+    {
+        "CharacterRankSkillId": 16213,
+        "Id": 16213,
+        "PassiveSkillId": 316213
+    },
+    {
+        "CharacterRankSkillId": 16214,
+        "Id": 16214,
+        "PassiveSkillId": 316214
+    },
+    {
+        "CharacterRankSkillId": 16215,
+        "Id": 16215,
+        "PassiveSkillId": 316215
+    },
+    {
+        "CharacterRankSkillId": 16216,
+        "Id": 16216,
+        "PassiveSkillId": 316216
+    },
+    {
+        "CharacterRankSkillId": 16217,
+        "Id": 16217,
+        "PassiveSkillId": 316217
+    },
+    {
+        "CharacterRankSkillId": 16218,
+        "Id": 16218,
+        "PassiveSkillId": 316218
+    },
+    {
+        "CharacterRankSkillId": 16219,
+        "Id": 16219,
+        "PassiveSkillId": 316219
+    },
+    {
+        "CharacterRankSkillId": 16220,
+        "Id": 16220,
+        "PassiveSkillId": 316220
+    },
+    {
+        "CharacterRankSkillId": 16221,
+        "Id": 16221,
+        "PassiveSkillId": 316221
+    },
+    {
+        "CharacterRankSkillId": 16222,
+        "Id": 16222,
+        "PassiveSkillId": 316222
+    },
+    {
+        "CharacterRankSkillId": 16223,
+        "Id": 16223,
+        "PassiveSkillId": 316223
+    },
+    {
+        "CharacterRankSkillId": 16301,
+        "Id": 16301,
+        "PassiveSkillId": 316301
+    },
+    {
+        "CharacterRankSkillId": 16302,
+        "Id": 16302,
+        "PassiveSkillId": 316302
+    },
+    {
+        "CharacterRankSkillId": 16303,
+        "Id": 16303,
+        "PassiveSkillId": 316303
+    },
+    {
+        "CharacterRankSkillId": 16304,
+        "Id": 16304,
+        "PassiveSkillId": 316304
+    },
+    {
+        "CharacterRankSkillId": 16305,
+        "Id": 16305,
+        "PassiveSkillId": 316305
+    },
+    {
+        "CharacterRankSkillId": 16306,
+        "Id": 16306,
+        "PassiveSkillId": 316306
+    },
+    {
+        "CharacterRankSkillId": 16307,
+        "Id": 16307,
+        "PassiveSkillId": 316307
+    },
+    {
+        "CharacterRankSkillId": 16308,
+        "Id": 16308,
+        "PassiveSkillId": 316308
+    },
+    {
+        "CharacterRankSkillId": 16309,
+        "Id": 16309,
+        "PassiveSkillId": 316309
+    },
+    {
+        "CharacterRankSkillId": 16310,
+        "Id": 16310,
+        "PassiveSkillId": 316310
+    },
+    {
+        "CharacterRankSkillId": 16311,
+        "Id": 16311,
+        "PassiveSkillId": 316311
+    },
+    {
+        "CharacterRankSkillId": 16312,
+        "Id": 16312,
+        "PassiveSkillId": 316312
+    },
+    {
+        "CharacterRankSkillId": 16313,
+        "Id": 16313,
+        "PassiveSkillId": 316313
+    },
+    {
+        "CharacterRankSkillId": 16314,
+        "Id": 16314,
+        "PassiveSkillId": 316314
+    },
+    {
+        "CharacterRankSkillId": 16315,
+        "Id": 16315,
+        "PassiveSkillId": 316315
+    },
+    {
+        "CharacterRankSkillId": 16316,
+        "Id": 16316,
+        "PassiveSkillId": 316316
+    },
+    {
+        "CharacterRankSkillId": 16317,
+        "Id": 16317,
+        "PassiveSkillId": 316317
+    },
+    {
+        "CharacterRankSkillId": 16318,
+        "Id": 16318,
+        "PassiveSkillId": 316318
+    },
+    {
+        "CharacterRankSkillId": 16319,
+        "Id": 16319,
+        "PassiveSkillId": 316319
+    },
+    {
+        "CharacterRankSkillId": 16320,
+        "Id": 16320,
+        "PassiveSkillId": 316320
+    },
+    {
+        "CharacterRankSkillId": 16321,
+        "Id": 16321,
+        "PassiveSkillId": 316321
+    },
+    {
+        "CharacterRankSkillId": 16322,
+        "Id": 16322,
+        "PassiveSkillId": 316322
+    },
+    {
+        "CharacterRankSkillId": 16323,
+        "Id": 16323,
+        "PassiveSkillId": 316323
+    },
+    {
+        "CharacterRankSkillId": 16401,
+        "Id": 16401,
+        "PassiveSkillId": 316401
+    },
+    {
+        "CharacterRankSkillId": 16402,
+        "Id": 16402,
+        "PassiveSkillId": 316402
+    },
+    {
+        "CharacterRankSkillId": 16403,
+        "Id": 16403,
+        "PassiveSkillId": 316403
+    },
+    {
+        "CharacterRankSkillId": 16404,
+        "Id": 16404,
+        "PassiveSkillId": 316404
+    },
+    {
+        "CharacterRankSkillId": 16405,
+        "Id": 16405,
+        "PassiveSkillId": 316405
+    },
+    {
+        "CharacterRankSkillId": 16406,
+        "Id": 16406,
+        "PassiveSkillId": 316406
+    },
+    {
+        "CharacterRankSkillId": 16407,
+        "Id": 16407,
+        "PassiveSkillId": 316407
+    },
+    {
+        "CharacterRankSkillId": 16408,
+        "Id": 16408,
+        "PassiveSkillId": 316408
+    },
+    {
+        "CharacterRankSkillId": 16409,
+        "Id": 16409,
+        "PassiveSkillId": 316409
+    },
+    {
+        "CharacterRankSkillId": 16410,
+        "Id": 16410,
+        "PassiveSkillId": 316410
+    },
+    {
+        "CharacterRankSkillId": 16411,
+        "Id": 16411,
+        "PassiveSkillId": 316411
+    },
+    {
+        "CharacterRankSkillId": 16412,
+        "Id": 16412,
+        "PassiveSkillId": 316412
+    },
+    {
+        "CharacterRankSkillId": 16413,
+        "Id": 16413,
+        "PassiveSkillId": 316413
+    },
+    {
+        "CharacterRankSkillId": 16414,
+        "Id": 16414,
+        "PassiveSkillId": 316414
+    },
+    {
+        "CharacterRankSkillId": 16415,
+        "Id": 16415,
+        "PassiveSkillId": 316415
+    },
+    {
+        "CharacterRankSkillId": 16416,
+        "Id": 16416,
+        "PassiveSkillId": 316416
+    },
+    {
+        "CharacterRankSkillId": 16417,
+        "Id": 16417,
+        "PassiveSkillId": 316417
+    },
+    {
+        "CharacterRankSkillId": 16418,
+        "Id": 16418,
+        "PassiveSkillId": 316418
+    },
+    {
+        "CharacterRankSkillId": 16419,
+        "Id": 16419,
+        "PassiveSkillId": 316419
+    },
+    {
+        "CharacterRankSkillId": 16420,
+        "Id": 16420,
+        "PassiveSkillId": 316420
+    },
+    {
+        "CharacterRankSkillId": 16421,
+        "Id": 16421,
+        "PassiveSkillId": 316421
+    },
+    {
+        "CharacterRankSkillId": 16422,
+        "Id": 16422,
+        "PassiveSkillId": 316422
+    },
+    {
+        "CharacterRankSkillId": 16423,
+        "Id": 16423,
+        "PassiveSkillId": 316423
+    },
+    {
+        "CharacterRankSkillId": 16501,
+        "Id": 16501,
+        "PassiveSkillId": 316501
+    },
+    {
+        "CharacterRankSkillId": 16502,
+        "Id": 16502,
+        "PassiveSkillId": 316502
+    },
+    {
+        "CharacterRankSkillId": 16503,
+        "Id": 16503,
+        "PassiveSkillId": 316503
+    },
+    {
+        "CharacterRankSkillId": 16504,
+        "Id": 16504,
+        "PassiveSkillId": 316504
+    },
+    {
+        "CharacterRankSkillId": 16505,
+        "Id": 16505,
+        "PassiveSkillId": 316505
+    },
+    {
+        "CharacterRankSkillId": 16506,
+        "Id": 16506,
+        "PassiveSkillId": 316506
+    },
+    {
+        "CharacterRankSkillId": 16507,
+        "Id": 16507,
+        "PassiveSkillId": 316507
+    },
+    {
+        "CharacterRankSkillId": 16508,
+        "Id": 16508,
+        "PassiveSkillId": 316508
+    },
+    {
+        "CharacterRankSkillId": 16509,
+        "Id": 16509,
+        "PassiveSkillId": 316509
+    },
+    {
+        "CharacterRankSkillId": 16601,
+        "Id": 16601,
+        "PassiveSkillId": 316601
+    },
+    {
+        "CharacterRankSkillId": 16602,
+        "Id": 16602,
+        "PassiveSkillId": 316602
+    },
+    {
+        "CharacterRankSkillId": 16603,
+        "Id": 16603,
+        "PassiveSkillId": 316603
+    },
+    {
+        "CharacterRankSkillId": 16604,
+        "Id": 16604,
+        "PassiveSkillId": 316604
+    },
+    {
+        "CharacterRankSkillId": 16605,
+        "Id": 16605,
+        "PassiveSkillId": 316605
+    },
+    {
+        "CharacterRankSkillId": 16606,
+        "Id": 16606,
+        "PassiveSkillId": 316606
+    },
+    {
+        "CharacterRankSkillId": 16607,
+        "Id": 16607,
+        "PassiveSkillId": 316607
+    },
+    {
+        "CharacterRankSkillId": 16608,
+        "Id": 16608,
+        "PassiveSkillId": 316608
+    },
+    {
+        "CharacterRankSkillId": 16609,
+        "Id": 16609,
+        "PassiveSkillId": 316609
+    },
+    {
+        "CharacterRankSkillId": 16701,
+        "Id": 16701,
+        "PassiveSkillId": 316701
+    },
+    {
+        "CharacterRankSkillId": 16702,
+        "Id": 16702,
+        "PassiveSkillId": 316702
+    },
+    {
+        "CharacterRankSkillId": 16703,
+        "Id": 16703,
+        "PassiveSkillId": 316703
+    },
+    {
+        "CharacterRankSkillId": 16705,
+        "Id": 16705,
+        "PassiveSkillId": 316705
+    },
+    {
+        "CharacterRankSkillId": 16706,
+        "Id": 16706,
+        "PassiveSkillId": 316706
+    },
+    {
+        "CharacterRankSkillId": 16707,
+        "Id": 16707,
+        "PassiveSkillId": 316707
+    },
+    {
+        "CharacterRankSkillId": 16708,
+        "Id": 16708,
+        "PassiveSkillId": 316708
+    },
+    {
+        "CharacterRankSkillId": 16801,
+        "Id": 16801,
+        "PassiveSkillId": 316801
+    },
+    {
+        "CharacterRankSkillId": 16802,
+        "Id": 16802,
+        "PassiveSkillId": 316802
+    },
+    {
+        "CharacterRankSkillId": 16803,
+        "Id": 16803,
+        "PassiveSkillId": 316803
+    },
+    {
+        "CharacterRankSkillId": 16804,
+        "Id": 16804,
+        "PassiveSkillId": 316804
+    },
+    {
+        "CharacterRankSkillId": 16805,
+        "Id": 16805,
+        "PassiveSkillId": 316805
+    },
+    {
+        "CharacterRankSkillId": 16806,
+        "Id": 16806,
+        "PassiveSkillId": 316806
+    },
+    {
+        "CharacterRankSkillId": 16807,
+        "Id": 16807,
+        "PassiveSkillId": 316807
+    },
+    {
+        "CharacterRankSkillId": 16808,
+        "Id": 16808,
+        "PassiveSkillId": 316808
+    },
+    {
+        "CharacterRankSkillId": 16809,
+        "Id": 16809,
+        "PassiveSkillId": 316809
+    },
+    {
+        "CharacterRankSkillId": 16901,
+        "Id": 16901,
+        "PassiveSkillId": 316901
+    },
+    {
+        "CharacterRankSkillId": 16902,
+        "Id": 16902,
+        "PassiveSkillId": 316902
+    },
+    {
+        "CharacterRankSkillId": 16903,
+        "Id": 16903,
+        "PassiveSkillId": 316903
+    },
+    {
+        "CharacterRankSkillId": 16904,
+        "Id": 16904,
+        "PassiveSkillId": 316904
+    },
+    {
+        "CharacterRankSkillId": 16905,
+        "Id": 16905,
+        "PassiveSkillId": 316905
+    },
+    {
+        "CharacterRankSkillId": 16906,
+        "Id": 16906,
+        "PassiveSkillId": 316906
+    },
+    {
+        "CharacterRankSkillId": 16907,
+        "Id": 16907,
+        "PassiveSkillId": 316907
+    },
+    {
+        "CharacterRankSkillId": 16908,
+        "Id": 16908,
+        "PassiveSkillId": 316908
+    },
+    {
+        "CharacterRankSkillId": 16909,
+        "Id": 16909,
+        "PassiveSkillId": 316909
+    },
+    {
+        "CharacterRankSkillId": 17001,
+        "Id": 17001,
+        "PassiveSkillId": 317001
+    },
+    {
+        "CharacterRankSkillId": 17002,
+        "Id": 17002,
+        "PassiveSkillId": 317002
+    },
+    {
+        "CharacterRankSkillId": 17003,
+        "Id": 17003,
+        "PassiveSkillId": 317003
+    },
+    {
+        "CharacterRankSkillId": 17004,
+        "Id": 17004,
+        "PassiveSkillId": 317004
+    },
+    {
+        "CharacterRankSkillId": 17005,
+        "Id": 17005,
+        "PassiveSkillId": 317005
+    },
+    {
+        "CharacterRankSkillId": 17006,
+        "Id": 17006,
+        "PassiveSkillId": 317006
+    },
+    {
+        "CharacterRankSkillId": 17007,
+        "Id": 17007,
+        "PassiveSkillId": 317007
+    },
+    {
+        "CharacterRankSkillId": 17008,
+        "Id": 17008,
+        "PassiveSkillId": 317008
+    },
+    {
+        "CharacterRankSkillId": 17009,
+        "Id": 17009,
+        "PassiveSkillId": 317009
+    },
+    {
+        "CharacterRankSkillId": 17101,
+        "Id": 17101,
+        "PassiveSkillId": 317101
+    },
+    {
+        "CharacterRankSkillId": 17102,
+        "Id": 17102,
+        "PassiveSkillId": 317102
+    },
+    {
+        "CharacterRankSkillId": 17103,
+        "Id": 17103,
+        "PassiveSkillId": 317103
+    },
+    {
+        "CharacterRankSkillId": 17104,
+        "Id": 17104,
+        "PassiveSkillId": 317104
+    },
+    {
+        "CharacterRankSkillId": 17105,
+        "Id": 17105,
+        "PassiveSkillId": 317105
+    },
+    {
+        "CharacterRankSkillId": 17106,
+        "Id": 17106,
+        "PassiveSkillId": 317106
+    },
+    {
+        "CharacterRankSkillId": 17107,
+        "Id": 17107,
+        "PassiveSkillId": 317107
+    },
+    {
+        "CharacterRankSkillId": 17108,
+        "Id": 17108,
+        "PassiveSkillId": 317108
+    },
+    {
+        "CharacterRankSkillId": 17109,
+        "Id": 17109,
+        "PassiveSkillId": 317109
+    },
+    {
+        "CharacterRankSkillId": 17201,
+        "Id": 17201,
+        "PassiveSkillId": 317201
+    },
+    {
+        "CharacterRankSkillId": 17202,
+        "Id": 17202,
+        "PassiveSkillId": 317202
+    },
+    {
+        "CharacterRankSkillId": 17203,
+        "Id": 17203,
+        "PassiveSkillId": 317203
+    },
+    {
+        "CharacterRankSkillId": 17204,
+        "Id": 17204,
+        "PassiveSkillId": 317204
+    },
+    {
+        "CharacterRankSkillId": 17205,
+        "Id": 17205,
+        "PassiveSkillId": 317205
+    },
+    {
+        "CharacterRankSkillId": 17206,
+        "Id": 17206,
+        "PassiveSkillId": 317206
+    },
+    {
+        "CharacterRankSkillId": 17207,
+        "Id": 17207,
+        "PassiveSkillId": 317207
+    },
+    {
+        "CharacterRankSkillId": 17208,
+        "Id": 17208,
+        "PassiveSkillId": 317208
+    },
+    {
+        "CharacterRankSkillId": 17209,
+        "Id": 17209,
+        "PassiveSkillId": 317209
+    },
+    {
+        "CharacterRankSkillId": 17301,
+        "Id": 17301,
+        "PassiveSkillId": 317301
+    },
+    {
+        "CharacterRankSkillId": 17302,
+        "Id": 17302,
+        "PassiveSkillId": 317302
+    },
+    {
+        "CharacterRankSkillId": 17303,
+        "Id": 17303,
+        "PassiveSkillId": 317303
+    },
+    {
+        "CharacterRankSkillId": 17304,
+        "Id": 17304,
+        "PassiveSkillId": 317304
+    },
+    {
+        "CharacterRankSkillId": 17305,
+        "Id": 17305,
+        "PassiveSkillId": 317305
+    },
+    {
+        "CharacterRankSkillId": 17306,
+        "Id": 17306,
+        "PassiveSkillId": 317306
+    },
+    {
+        "CharacterRankSkillId": 17307,
+        "Id": 17307,
+        "PassiveSkillId": 317307
+    },
+    {
+        "CharacterRankSkillId": 17308,
+        "Id": 17308,
+        "PassiveSkillId": 317308
+    },
+    {
+        "CharacterRankSkillId": 17309,
+        "Id": 17309,
+        "PassiveSkillId": 317309
+    },
+    {
+        "CharacterRankSkillId": 17401,
+        "Id": 17401,
+        "PassiveSkillId": 317401
+    },
+    {
+        "CharacterRankSkillId": 17402,
+        "Id": 17402,
+        "PassiveSkillId": 317402
+    },
+    {
+        "CharacterRankSkillId": 17403,
+        "Id": 17403,
+        "PassiveSkillId": 317403
+    },
+    {
+        "CharacterRankSkillId": 17404,
+        "Id": 17404,
+        "PassiveSkillId": 317404
+    },
+    {
+        "CharacterRankSkillId": 17405,
+        "Id": 17405,
+        "PassiveSkillId": 317405
+    },
+    {
+        "CharacterRankSkillId": 17406,
+        "Id": 17406,
+        "PassiveSkillId": 317406
+    },
+    {
+        "CharacterRankSkillId": 17407,
+        "Id": 17407,
+        "PassiveSkillId": 317407
+    },
+    {
+        "CharacterRankSkillId": 17408,
+        "Id": 17408,
+        "PassiveSkillId": 317408
+    },
+    {
+        "CharacterRankSkillId": 17409,
+        "Id": 17409,
+        "PassiveSkillId": 317409
+    },
+    {
+        "CharacterRankSkillId": 17501,
+        "Id": 17501,
+        "PassiveSkillId": 317501
+    },
+    {
+        "CharacterRankSkillId": 17502,
+        "Id": 17502,
+        "PassiveSkillId": 317502
+    },
+    {
+        "CharacterRankSkillId": 17503,
+        "Id": 17503,
+        "PassiveSkillId": 317503
+    },
+    {
+        "CharacterRankSkillId": 17504,
+        "Id": 17504,
+        "PassiveSkillId": 317504
+    },
+    {
+        "CharacterRankSkillId": 17505,
+        "Id": 17505,
+        "PassiveSkillId": 317505
+    },
+    {
+        "CharacterRankSkillId": 17506,
+        "Id": 17506,
+        "PassiveSkillId": 317506
+    },
+    {
+        "CharacterRankSkillId": 17507,
+        "Id": 17507,
+        "PassiveSkillId": 317507
+    },
+    {
+        "CharacterRankSkillId": 17508,
+        "Id": 17508,
+        "PassiveSkillId": 317508
+    },
+    {
+        "CharacterRankSkillId": 17509,
+        "Id": 17509,
+        "PassiveSkillId": 317509
+    }
+]

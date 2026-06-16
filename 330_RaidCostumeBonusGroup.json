@@ -1,0 +1,3647 @@
+[
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/08/12～2021/08/26\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310012,
+        "RaidId": 310012,
+        "RaidType": 4,
+        "TargetId": 310012
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/02～2021/09/09\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310022,
+        "RaidId": 310022,
+        "RaidType": 4,
+        "TargetId": 310022
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/23～2021/09/30\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310032,
+        "RaidId": 310012,
+        "RaidType": 4,
+        "TargetId": 310032
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/10/21～2021/10/28\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310042,
+        "RaidId": 310042,
+        "RaidType": 4,
+        "TargetId": 310042
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/11～2021/11/18\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310052,
+        "RaidId": 310052,
+        "RaidType": 4,
+        "TargetId": 310052
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/25～2021/12/2\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310062,
+        "RaidId": 310062,
+        "RaidType": 4,
+        "TargetId": 310062
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/9～2021/12/16\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310072,
+        "RaidId": 310072,
+        "RaidType": 4,
+        "TargetId": 310072
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/01/20～2022/01/27\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310082,
+        "RaidId": 310082,
+        "RaidType": 4,
+        "TargetId": 310082
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/03～2022/02/10\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310092,
+        "RaidId": 310092,
+        "RaidType": 4,
+        "TargetId": 310092
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/21～2022/02/28\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310102,
+        "RaidId": 310102,
+        "RaidType": 4,
+        "TargetId": 310102
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/03/24～2022/03/31\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310112,
+        "RaidId": 310112,
+        "RaidType": 4,
+        "TargetId": 310112
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/07～2022/04/14\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310122,
+        "RaidId": 310122,
+        "RaidType": 4,
+        "TargetId": 310122
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/21～2022/04/28\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310132,
+        "RaidId": 310132,
+        "RaidType": 4,
+        "TargetId": 310132
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/05/05～2022/05/12\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310142,
+        "RaidId": 310142,
+        "RaidType": 4,
+        "TargetId": 310142
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/05/26～2022/06/02\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310152,
+        "RaidId": 310152,
+        "RaidType": 4,
+        "TargetId": 310152
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/06/30～2022/07/07\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310162,
+        "RaidId": 310162,
+        "RaidType": 4,
+        "TargetId": 310162
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/07/14～2022/07/21\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310172,
+        "RaidId": 310172,
+        "RaidType": 4,
+        "TargetId": 310172
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/07/28～2022/08/04\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310182,
+        "RaidId": 310182,
+        "RaidType": 4,
+        "TargetId": 310182
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/09/08～2022/09/15\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310192,
+        "RaidId": 310192,
+        "RaidType": 4,
+        "TargetId": 310192
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/09/22～2022/09/29\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310202,
+        "RaidId": 310202,
+        "RaidType": 4,
+        "TargetId": 310202
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/10/20～2022/10/27\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310212,
+        "RaidId": 310212,
+        "RaidType": 4,
+        "TargetId": 310212
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/5/18～2023/5/25\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310222,
+        "RaidId": 310222,
+        "RaidType": 4,
+        "TargetId": 310222
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/14～2023/12/21\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310232,
+        "RaidId": 310232,
+        "RaidType": 4,
+        "TargetId": 310232
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/5/27～2023/6/3\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310242,
+        "RaidId": 310242,
+        "RaidType": 4,
+        "TargetId": 310242
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/12～2024/12/19\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310252,
+        "RaidId": 310252,
+        "RaidType": 4,
+        "TargetId": 310252
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/06/27～2025/07/04\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310262,
+        "RaidId": 310262,
+        "RaidType": 4,
+        "TargetId": 310262
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/06～2025/11/13\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310272,
+        "RaidId": 310272,
+        "RaidType": 4,
+        "TargetId": 310272
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/02/26～2026/03/05\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 310282,
+        "RaidId": 310282,
+        "RaidType": 4,
+        "TargetId": 310282
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "[1日3回挑戦！] デイリーライブ（ゼニー）で有効",
+        "Id": 410011,
+        "RaidId": 410011,
+        "RaidType": 4,
+        "TargetId": 410011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "[1日1回挑戦！] デイリーライブ（ゼニー）で有効",
+        "Id": 410012,
+        "RaidId": 410012,
+        "RaidType": 4,
+        "TargetId": 410012
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/09～2021/09/16\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410021,
+        "RaidId": 410021,
+        "RaidType": 4,
+        "TargetId": 410021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/18～2021/11/25\u003c/color\u003eの第2回ライブリハーサルで有効",
+        "Id": 410031,
+        "RaidId": 410031,
+        "RaidType": 4,
+        "TargetId": 410031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/16～2021/12/26\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410041,
+        "RaidId": 410041,
+        "RaidType": 4,
+        "TargetId": 410041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/23～2021/12/26\u003c/color\u003eのクリスマスライブで有効",
+        "Id": 410051,
+        "RaidId": 410041,
+        "RaidType": 4,
+        "TargetId": 410051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/01/09～2022/01/17\u003c/color\u003eの第3回ライブリハーサルで有効",
+        "Id": 410061,
+        "RaidId": 410061,
+        "RaidType": 4,
+        "TargetId": 410061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/01/31～2022/02/10\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410071,
+        "RaidId": 410071,
+        "RaidType": 4,
+        "TargetId": 410071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/12～2022/02/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410081,
+        "RaidId": 410081,
+        "RaidType": 4,
+        "TargetId": 410081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/12～2022/02/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410091,
+        "RaidId": 410091,
+        "RaidType": 4,
+        "TargetId": 410091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/12～2022/02/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410101,
+        "RaidId": 410101,
+        "RaidType": 4,
+        "TargetId": 410101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/12～2022/02/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410111,
+        "RaidId": 410111,
+        "RaidType": 4,
+        "TargetId": 410111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/03/31～2022/04/14\u003c/color\u003eの乃木フラHoliday CAFEで有効",
+        "Id": 410121,
+        "RaidId": 410121,
+        "RaidType": 4,
+        "TargetId": 410121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "【4月1日限定】特別デイリーライブで有効",
+        "Id": 410131,
+        "RaidId": 410131,
+        "RaidType": 4,
+        "TargetId": 410131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410141,
+        "RaidId": 410141,
+        "RaidType": 4,
+        "TargetId": 410141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410151,
+        "RaidId": 410151,
+        "RaidType": 4,
+        "TargetId": 410151
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410161,
+        "RaidId": 410161,
+        "RaidType": 4,
+        "TargetId": 410161
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410171,
+        "RaidId": 410171,
+        "RaidType": 4,
+        "TargetId": 410171
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410181,
+        "RaidId": 410181,
+        "RaidType": 4,
+        "TargetId": 410181
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410191,
+        "RaidId": 410191,
+        "RaidType": 4,
+        "TargetId": 410191
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/22～2022/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410201,
+        "RaidId": 410201,
+        "RaidType": 4,
+        "TargetId": 410201
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/05/26～2022/06/09\u003c/color\u003eの乃木フラHoliday RainyDayで有効",
+        "Id": 410211,
+        "RaidId": 410211,
+        "RaidType": 4,
+        "TargetId": 410211
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "夏の育成応援ライブ（経験値）で有効",
+        "Id": 410221,
+        "RaidId": 410221,
+        "RaidType": 4,
+        "TargetId": 410221
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "1stAnniversary-Overture-ライブで有効",
+        "Id": 410231,
+        "RaidId": 410231,
+        "RaidType": 4,
+        "TargetId": 410231
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410241,
+        "RaidId": 410241,
+        "RaidType": 4,
+        "TargetId": 410241
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410251,
+        "RaidId": 410251,
+        "RaidType": 4,
+        "TargetId": 410251
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410261,
+        "RaidId": 410261,
+        "RaidType": 4,
+        "TargetId": 410261
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410271,
+        "RaidId": 410271,
+        "RaidType": 4,
+        "TargetId": 410271
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410281,
+        "RaidId": 410281,
+        "RaidType": 4,
+        "TargetId": 410281
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/01～2022/08/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410291,
+        "RaidId": 410291,
+        "RaidType": 4,
+        "TargetId": 410291
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/07/28～2022/08/11\u003c/color\u003eの乃木フラHoliday 夏祭りで有効",
+        "Id": 410301,
+        "RaidId": 410301,
+        "RaidType": 4,
+        "TargetId": 410301
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "1stAnniversary育成応援ライブで有効",
+        "Id": 410311,
+        "RaidId": 410311,
+        "RaidType": 4,
+        "TargetId": 410311
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/08/25～2022/09/08\u003c/color\u003eの乃木フラHoliday お月見で有効",
+        "Id": 410321,
+        "RaidId": 410321,
+        "RaidType": 4,
+        "TargetId": 410321
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "1stAnniversary-Final-ライブで有効",
+        "Id": 410331,
+        "RaidId": 410331,
+        "RaidType": 4,
+        "TargetId": 410331
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "秋の味覚レッスンライブで有効",
+        "Id": 410332,
+        "RaidId": 410332,
+        "RaidType": 4,
+        "TargetId": 410332
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "ハロウィンライブで有効",
+        "Id": 410341,
+        "RaidId": 410341,
+        "RaidType": 4,
+        "TargetId": 410341
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/11/21～2022/12/05\u003c/color\u003eの乃木フラHoliday 読書で有効",
+        "Id": 410351,
+        "RaidId": 410351,
+        "RaidType": 4,
+        "TargetId": 410351
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "冬の育成応援ライブで有効",
+        "Id": 410361,
+        "RaidId": 410361,
+        "RaidType": 4,
+        "TargetId": 410361
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/12～2022/12/15\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410371,
+        "RaidId": 410371,
+        "RaidType": 4,
+        "TargetId": 410371
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/15～2022/12/18\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410381,
+        "RaidId": 410381,
+        "RaidType": 4,
+        "TargetId": 410381
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/18～2022/12/21\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410391,
+        "RaidId": 410391,
+        "RaidType": 4,
+        "TargetId": 410391
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/21～2022/12/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410401,
+        "RaidId": 410401,
+        "RaidType": 4,
+        "TargetId": 410401
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/24～2022/12/27\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410411,
+        "RaidId": 410411,
+        "RaidType": 4,
+        "TargetId": 410411
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/27～2022/12/30\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410421,
+        "RaidId": 410421,
+        "RaidType": 4,
+        "TargetId": 410421
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/20～2022/12/26\u003c/color\u003eのクリスマスライブで有効",
+        "Id": 410431,
+        "RaidId": 410431,
+        "RaidType": 4,
+        "TargetId": 410431
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/1～2023/1/4\u003c/color\u003eの新年ライブで有効",
+        "Id": 410441,
+        "RaidId": 410441,
+        "RaidType": 4,
+        "TargetId": 410441
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/1～2023/1/4\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410451,
+        "RaidId": 410451,
+        "RaidType": 4,
+        "TargetId": 410451
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/4～2023/1/7\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410461,
+        "RaidId": 410461,
+        "RaidType": 4,
+        "TargetId": 410461
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/7～2023/1/10\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410471,
+        "RaidId": 410471,
+        "RaidType": 4,
+        "TargetId": 410471
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/10～2023/1/13\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410481,
+        "RaidId": 410481,
+        "RaidType": 4,
+        "TargetId": 410481
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/13～2023/1/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410491,
+        "RaidId": 410491,
+        "RaidType": 4,
+        "TargetId": 410491
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/1/16～2023/1/19\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410501,
+        "RaidId": 410501,
+        "RaidType": 4,
+        "TargetId": 410501
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/05～2023/01/19\u003c/color\u003eの乃木フラHoliday お正月で有効",
+        "Id": 410511,
+        "RaidId": 410511,
+        "RaidType": 4,
+        "TargetId": 410511
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/01～2023/02/15\u003c/color\u003eのバレンタインライブで有効",
+        "Id": 410521,
+        "RaidId": 410521,
+        "RaidType": 4,
+        "TargetId": 410521
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/30～2023/02/02\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410531,
+        "RaidId": 410531,
+        "RaidType": 4,
+        "TargetId": 410531
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/02～2023/02/05\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410541,
+        "RaidId": 410541,
+        "RaidType": 4,
+        "TargetId": 410541
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/05～2023/02/08\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410551,
+        "RaidId": 410551,
+        "RaidType": 4,
+        "TargetId": 410551
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/08～2023/02/11\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410561,
+        "RaidId": 410561,
+        "RaidType": 4,
+        "TargetId": 410561
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/11～2023/02/14\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410571,
+        "RaidId": 410571,
+        "RaidType": 4,
+        "TargetId": 410571
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/14～2023/02/17\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410581,
+        "RaidId": 410581,
+        "RaidType": 4,
+        "TargetId": 410581
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/03/02～2023/03/16\u003c/color\u003eの乃木フラHoliday ホワイトデーで有効",
+        "Id": 410591,
+        "RaidId": 410591,
+        "RaidType": 4,
+        "TargetId": 410591
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/01～2023/04/12\u003c/color\u003eのお花見ライブで有効",
+        "Id": 410601,
+        "RaidId": 410601,
+        "RaidType": 4,
+        "TargetId": 410601
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/03～2023/05/06\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410611,
+        "RaidId": 410611,
+        "RaidType": 4,
+        "TargetId": 410611
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/06～2023/05/09\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410621,
+        "RaidId": 410621,
+        "RaidType": 4,
+        "TargetId": 410621
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/09～2023/05/12\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410631,
+        "RaidId": 410631,
+        "RaidType": 4,
+        "TargetId": 410631
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/12～2023/05/15\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410641,
+        "RaidId": 410641,
+        "RaidType": 4,
+        "TargetId": 410641
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/15～2023/05/18\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410651,
+        "RaidId": 410651,
+        "RaidType": 4,
+        "TargetId": 410651
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/18～2023/05/21\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410661,
+        "RaidId": 410661,
+        "RaidType": 4,
+        "TargetId": 410661
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/27～2023/05/12\u003c/color\u003eのGW2023ライブ アリーナで有効",
+        "Id": 410671,
+        "RaidId": 410671,
+        "RaidType": 4,
+        "TargetId": 410671
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/27～2023/05/12\u003c/color\u003eのGW2023ライブ リハーサルで有効",
+        "Id": 410681,
+        "RaidId": 410681,
+        "RaidType": 4,
+        "TargetId": 410681
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/25～2023/06/08\u003c/color\u003eの乃木フラHoliday 読書で有効",
+        "Id": 410691,
+        "RaidId": 410691,
+        "RaidType": 4,
+        "TargetId": 410691
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/06/01～2023/06/09\u003c/color\u003eのレイニーライブで有効",
+        "Id": 410701,
+        "RaidId": 410701,
+        "RaidType": 4,
+        "TargetId": 410701
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/03～2023/07/13\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410711,
+        "RaidId": 410711,
+        "RaidType": 4,
+        "TargetId": 410711
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/03～2023/07/11\u003c/color\u003eの夏の育成応援ライブで有効",
+        "Id": 410721,
+        "RaidId": 410721,
+        "RaidType": 4,
+        "TargetId": 410721
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/10～2023/07/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410731,
+        "RaidId": 410731,
+        "RaidType": 4,
+        "TargetId": 410731
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/13～2023/07/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410741,
+        "RaidId": 410741,
+        "RaidType": 4,
+        "TargetId": 410741
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/16～2023/07/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410751,
+        "RaidId": 410751,
+        "RaidType": 4,
+        "TargetId": 410751
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/19～2023/07/22\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410761,
+        "RaidId": 410761,
+        "RaidType": 4,
+        "TargetId": 410761
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/22～2023/07/25\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410771,
+        "RaidId": 410771,
+        "RaidType": 4,
+        "TargetId": 410771
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/25～2023/07/28\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410781,
+        "RaidId": 410781,
+        "RaidType": 4,
+        "TargetId": 410781
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/03～2023/08/06\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410791,
+        "RaidId": 410791,
+        "RaidType": 4,
+        "TargetId": 410791
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/06～2023/08/09\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410801,
+        "RaidId": 410801,
+        "RaidType": 4,
+        "TargetId": 410801
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/09～2023/08/12\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410811,
+        "RaidId": 410811,
+        "RaidType": 4,
+        "TargetId": 410811
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/12～2023/08/15\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410821,
+        "RaidId": 410821,
+        "RaidType": 4,
+        "TargetId": 410821
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/15～2023/08/18\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410831,
+        "RaidId": 410831,
+        "RaidType": 4,
+        "TargetId": 410831
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/18～2023/08/21\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410841,
+        "RaidId": 410841,
+        "RaidType": 4,
+        "TargetId": 410841
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/05/25～2023/06/08\u003c/color\u003eの乃木フラHoliday ミュージックで有効",
+        "Id": 410851,
+        "RaidId": 410851,
+        "RaidType": 4,
+        "TargetId": 410851
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/14～2023/09/22\u003c/color\u003eのオータム2023ライブで有効",
+        "Id": 410861,
+        "RaidId": 410861,
+        "RaidType": 4,
+        "TargetId": 410861
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/28～2023/10/07\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410871,
+        "RaidId": 410871,
+        "RaidType": 4,
+        "TargetId": 410871
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/12～2023/10/27\u003c/color\u003eのハロウィン2023ライブで有効",
+        "Id": 410881,
+        "RaidId": 410881,
+        "RaidType": 4,
+        "TargetId": 410881
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/26～2023/11/09\u003c/color\u003eの乃木フラHoliday フルーツ2ndで有効",
+        "Id": 410891,
+        "RaidId": 410891,
+        "RaidType": 4,
+        "TargetId": 410891
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/02～2023/11/11\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 410901,
+        "RaidId": 410901,
+        "RaidType": 4,
+        "TargetId": 410901
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/17～2023/11/28\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410911,
+        "RaidId": 410911,
+        "RaidType": 4,
+        "TargetId": 410911
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/14～2023/12/17\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410921,
+        "RaidId": 410921,
+        "RaidType": 4,
+        "TargetId": 410921
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/17～2023/12/20\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410931,
+        "RaidId": 410931,
+        "RaidType": 4,
+        "TargetId": 410931
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/20～2023/12/23\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410941,
+        "RaidId": 410941,
+        "RaidType": 4,
+        "TargetId": 410941
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/23～2023/12/26\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410951,
+        "RaidId": 410951,
+        "RaidType": 4,
+        "TargetId": 410951
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/26～2023/12/29\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410961,
+        "RaidId": 410961,
+        "RaidType": 4,
+        "TargetId": 410961
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/29～2023/01/01\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 410971,
+        "RaidId": 410971,
+        "RaidType": 4,
+        "TargetId": 410971
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/17～2023/12/28\u003c/color\u003eのクリスマス2023ライブで有効",
+        "Id": 410981,
+        "RaidId": 410981,
+        "RaidType": 4,
+        "TargetId": 410981
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/01～2023/01/04\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 410991,
+        "RaidId": 410991,
+        "RaidType": 4,
+        "TargetId": 410991
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/04～2023/01/07\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411001,
+        "RaidId": 411001,
+        "RaidType": 4,
+        "TargetId": 411001
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/07～2023/01/10\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411011,
+        "RaidId": 411011,
+        "RaidType": 4,
+        "TargetId": 411011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/10～2023/01/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411021,
+        "RaidId": 411021,
+        "RaidType": 4,
+        "TargetId": 411021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/13～2023/01/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411031,
+        "RaidId": 411031,
+        "RaidType": 4,
+        "TargetId": 411031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/16～2023/01/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411041,
+        "RaidId": 411041,
+        "RaidType": 4,
+        "TargetId": 411041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/26～2024/01/11\u003c/color\u003eの2023-2024年末年始イベントライブで有効",
+        "Id": 411051,
+        "RaidId": 411051,
+        "RaidType": 4,
+        "TargetId": 411051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/28～2024/01/10\u003c/color\u003eの乃木フラHoliday 冬休みで有効",
+        "Id": 411061,
+        "RaidId": 411061,
+        "RaidType": 4,
+        "TargetId": 411061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/01/18～2024/01/27\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411071,
+        "RaidId": 411071,
+        "RaidType": 4,
+        "TargetId": 411071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/03/14～2024/03/27\u003c/color\u003eの乃木フラHoliday スイートホワイトデーで有効",
+        "Id": 411081,
+        "RaidId": 411062,
+        "RaidType": 4,
+        "TargetId": 411081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/03/30～2024/04/08\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411091,
+        "RaidId": 411091,
+        "RaidType": 4,
+        "TargetId": 411091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/04/18～2024/04/29\u003c/color\u003eの春の育成応援ライブで有効",
+        "Id": 411101,
+        "RaidId": 411101,
+        "RaidType": 4,
+        "TargetId": 411101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/04/25～2024/05/09\u003c/color\u003eのGW2024ライブ リハーサルで有効",
+        "Id": 411121,
+        "RaidId": 411121,
+        "RaidType": 4,
+        "TargetId": 411121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/01～2024/05/04\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411131,
+        "RaidId": 411131,
+        "RaidType": 4,
+        "TargetId": 411131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/04～2024/05/07\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411141,
+        "RaidId": 411141,
+        "RaidType": 4,
+        "TargetId": 411141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/07～2024/05/10\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411151,
+        "RaidId": 411151,
+        "RaidType": 4,
+        "TargetId": 411151
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/10～2024/05/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411161,
+        "RaidId": 411161,
+        "RaidType": 4,
+        "TargetId": 411161
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/13～2024/05/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411171,
+        "RaidId": 411171,
+        "RaidType": 4,
+        "TargetId": 411171
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/16～2024/05/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411181,
+        "RaidId": 411181,
+        "RaidType": 4,
+        "TargetId": 411181
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/19～2024/05/22\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411191,
+        "RaidId": 411191,
+        "RaidType": 4,
+        "TargetId": 411191
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/22～2024/05/25\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411201,
+        "RaidId": 411201,
+        "RaidType": 4,
+        "TargetId": 411201
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/25～2024/05/28\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411211,
+        "RaidId": 411211,
+        "RaidType": 4,
+        "TargetId": 411211
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/28～2024/05/31\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411221,
+        "RaidId": 411221,
+        "RaidType": 4,
+        "TargetId": 411221
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/31～2024/06/03\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411231,
+        "RaidId": 411231,
+        "RaidType": 4,
+        "TargetId": 411231
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/06/03～2024/06/06\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411241,
+        "RaidId": 411241,
+        "RaidType": 4,
+        "TargetId": 411241
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/09～2024/05/18\u003c/color\u003eの乃木フラSpecial Live～山下美月～で有効",
+        "Id": 411251,
+        "RaidId": 411251,
+        "RaidType": 4,
+        "TargetId": 411251
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/06/13～2024/06/27\u003c/color\u003eのレイニー2024ライブで有効",
+        "Id": 411261,
+        "RaidId": 411261,
+        "RaidType": 4,
+        "TargetId": 411261
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/06/20～2024/06/29\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411271,
+        "RaidId": 411271,
+        "RaidType": 4,
+        "TargetId": 411271
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/01～2024/07/04\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411281,
+        "RaidId": 411281,
+        "RaidType": 4,
+        "TargetId": 411281
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/04～2024/07/07\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411291,
+        "RaidId": 411291,
+        "RaidType": 4,
+        "TargetId": 411291
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/07～2024/07/10\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411301,
+        "RaidId": 411301,
+        "RaidType": 4,
+        "TargetId": 411301
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/10～2024/07/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411311,
+        "RaidId": 411311,
+        "RaidType": 4,
+        "TargetId": 411311
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/13～2024/07/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411321,
+        "RaidId": 411321,
+        "RaidType": 4,
+        "TargetId": 411321
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/16～2024/07/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411331,
+        "RaidId": 411331,
+        "RaidType": 4,
+        "TargetId": 411331
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/04～2024/07/17\u003c/color\u003eの乃木フラHoliday3rdAnniversary前夜祭で有効",
+        "Id": 411341,
+        "RaidId": 411341,
+        "RaidType": 4,
+        "TargetId": 411341
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/12～2024/08/22\u003c/color\u003eの3rdAnniversary限定ライブで有効",
+        "Id": 411351,
+        "RaidId": 411351,
+        "RaidType": 4,
+        "TargetId": 411351
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/22～2024/08/31\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411361,
+        "RaidId": 411361,
+        "RaidType": 4,
+        "TargetId": 411361
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/12～2024/09/26\u003c/color\u003eの納涼ライブで有効",
+        "Id": 411371,
+        "RaidId": 411371,
+        "RaidType": 4,
+        "TargetId": 411371
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/12～2024/09/15\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411381,
+        "RaidId": 411381,
+        "RaidType": 4,
+        "TargetId": 411381
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/15～2024/09/18\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411391,
+        "RaidId": 411391,
+        "RaidType": 4,
+        "TargetId": 411391
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/18～2024/09/21\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411401,
+        "RaidId": 411401,
+        "RaidType": 4,
+        "TargetId": 411401
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/21～2024/09/24\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411411,
+        "RaidId": 411411,
+        "RaidType": 4,
+        "TargetId": 411411
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/24～2024/09/27\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411421,
+        "RaidId": 411421,
+        "RaidType": 4,
+        "TargetId": 411421
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/27～2024/09/30\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411431,
+        "RaidId": 411431,
+        "RaidType": 4,
+        "TargetId": 411431
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "秋の育成応援ライブで有効",
+        "Id": 411441,
+        "RaidId": 411441,
+        "RaidType": 4,
+        "TargetId": 411441
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/17～2024/11/01\u003c/color\u003eのハロウィン2024ライブで有効",
+        "Id": 411451,
+        "RaidId": 411451,
+        "RaidType": 4,
+        "TargetId": 411451
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/31～2024/11/13\u003c/color\u003eの乃木フラHolidayスポーツで有効",
+        "Id": 411461,
+        "RaidId": 411461,
+        "RaidType": 4,
+        "TargetId": 411461
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/26～2024/12/29\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411471,
+        "RaidId": 411471,
+        "RaidType": 4,
+        "TargetId": 411471
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/29～2025/01/01\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411481,
+        "RaidId": 411481,
+        "RaidType": 4,
+        "TargetId": 411481
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/01～2025/01/04\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411491,
+        "RaidId": 411491,
+        "RaidType": 4,
+        "TargetId": 411491
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/04～2025/01/07\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411501,
+        "RaidId": 411501,
+        "RaidType": 4,
+        "TargetId": 411501
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/07～2025/01/10\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411511,
+        "RaidId": 411511,
+        "RaidType": 4,
+        "TargetId": 411511
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/10～2025/01/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411521,
+        "RaidId": 411521,
+        "RaidType": 4,
+        "TargetId": 411521
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/26～2025/01/11\u003c/color\u003eの2024-2025年末年始ライブで有効",
+        "Id": 411531,
+        "RaidId": 411531,
+        "RaidType": 4,
+        "TargetId": 411531
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/09～2025/01/22\u003c/color\u003eの乃木フラHoliday 2025冬休みで有効",
+        "Id": 411541,
+        "RaidId": 411541,
+        "RaidType": 4,
+        "TargetId": 411541
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411551,
+        "RaidId": 411551,
+        "RaidType": 4,
+        "TargetId": 411551
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411561,
+        "RaidId": 411561,
+        "RaidType": 4,
+        "TargetId": 411561
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411571,
+        "RaidId": 411571,
+        "RaidType": 4,
+        "TargetId": 411571
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411581,
+        "RaidId": 411581,
+        "RaidType": 4,
+        "TargetId": 411581
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411591,
+        "RaidId": 411591,
+        "RaidType": 4,
+        "TargetId": 411591
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/13～2025/01/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411601,
+        "RaidId": 411601,
+        "RaidType": 4,
+        "TargetId": 411601
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "春の育成応援ライブ",
+        "Id": 411611,
+        "RaidId": 411611,
+        "RaidType": 4,
+        "TargetId": 411611
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/04/03～2025/04/18\u003c/color\u003eのイースター2025ライブで有効",
+        "Id": 411621,
+        "RaidId": 411621,
+        "RaidType": 4,
+        "TargetId": 411621
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/04/24～2025/05/08\u003c/color\u003eのGW2025ライブで有効",
+        "Id": 411622,
+        "RaidId": 411622,
+        "RaidType": 4,
+        "TargetId": 411622
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/04/28～2025/05/01\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411631,
+        "RaidId": 411631,
+        "RaidType": 4,
+        "TargetId": 411631
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/01～2025/05/04\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411641,
+        "RaidId": 411641,
+        "RaidType": 4,
+        "TargetId": 411641
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/04～2025/05/07\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411651,
+        "RaidId": 411651,
+        "RaidType": 4,
+        "TargetId": 411651
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/07～2025/05/10\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411661,
+        "RaidId": 411661,
+        "RaidType": 4,
+        "TargetId": 411661
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/10～2025/05/13\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411671,
+        "RaidId": 411671,
+        "RaidType": 4,
+        "TargetId": 411671
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/13～2025/05/16\u003c/color\u003eのメンバー限定鏡ライブで有効",
+        "Id": 411681,
+        "RaidId": 411681,
+        "RaidType": 4,
+        "TargetId": 411681
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/03/06～2025/03/15\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411701,
+        "RaidId": 411701,
+        "RaidType": 4,
+        "TargetId": 411701
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/15～2025/05/29\u003c/color\u003eのアーリーサマーキャンペーンライブで有効",
+        "Id": 411711,
+        "RaidId": 411711,
+        "RaidType": 4,
+        "TargetId": 411711
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/16～2025/05/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411721,
+        "RaidId": 411721,
+        "RaidType": 4,
+        "TargetId": 411721
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/19～2025/05/22\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411731,
+        "RaidId": 411731,
+        "RaidType": 4,
+        "TargetId": 411731
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/22～2025/05/25\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411741,
+        "RaidId": 411741,
+        "RaidType": 4,
+        "TargetId": 411741
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/25～2025/05/28\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411751,
+        "RaidId": 411751,
+        "RaidType": 4,
+        "TargetId": 411751
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/28～2025/05/31\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411761,
+        "RaidId": 411761,
+        "RaidType": 4,
+        "TargetId": 411761
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/31～2025/06/03\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411771,
+        "RaidId": 411771,
+        "RaidType": 4,
+        "TargetId": 411771
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/06/12～2025/06/25\u003c/color\u003eの乃木フラHoliday2025フルーツで有効",
+        "Id": 411781,
+        "RaidId": 411781,
+        "RaidType": 4,
+        "TargetId": 411781
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/07/10～2025/07/23\u003c/color\u003eの乃木フラHoliday4thAnniversary前夜祭で有効",
+        "Id": 411791,
+        "RaidId": 411791,
+        "RaidType": 4,
+        "TargetId": 411791
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/06/26～2025/07/10\u003c/color\u003eの七夕2025キャンペーンライブで有効",
+        "Id": 411801,
+        "RaidId": 411801,
+        "RaidType": 4,
+        "TargetId": 411801
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/07/31～2025/08/11\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411811,
+        "RaidId": 411811,
+        "RaidType": 4,
+        "TargetId": 411811
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/04～2025/08/07\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411821,
+        "RaidId": 411821,
+        "RaidType": 4,
+        "TargetId": 411821
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/07～2025/08/10\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411831,
+        "RaidId": 411831,
+        "RaidType": 4,
+        "TargetId": 411831
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/10～2025/08/13\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411841,
+        "RaidId": 411841,
+        "RaidType": 4,
+        "TargetId": 411841
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/13～2025/08/16\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411851,
+        "RaidId": 411851,
+        "RaidType": 4,
+        "TargetId": 411851
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/16～2025/08/19\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411861,
+        "RaidId": 411861,
+        "RaidType": 4,
+        "TargetId": 411861
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/19～2025/08/22\u003c/color\u003eのメンバー限定強化ライブで有効",
+        "Id": 411871,
+        "RaidId": 411871,
+        "RaidType": 4,
+        "TargetId": 411871
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/09/08～2025/09/22\u003c/color\u003eのお月見キャンペーンライブで有効",
+        "Id": 411881,
+        "RaidId": 411881,
+        "RaidType": 4,
+        "TargetId": 411881
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/10/12～2025/10/19\u003c/color\u003eの秋の育成応援ライブで有効",
+        "Id": 411891,
+        "RaidId": 411891,
+        "RaidType": 4,
+        "TargetId": 411891
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/10/16～2025/11/01\u003c/color\u003eのハロウィンキャンペーンライブで有効",
+        "Id": 411901,
+        "RaidId": 411901,
+        "RaidType": 4,
+        "TargetId": 411901
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/20～2025/11/30\u003c/color\u003eの乃木フラSpecial Live～久保史緒里～で有効",
+        "Id": 411911,
+        "RaidId": 411911,
+        "RaidType": 4,
+        "TargetId": 411911
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/13～2025/11/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411921,
+        "RaidId": 411921,
+        "RaidType": 4,
+        "TargetId": 411921
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/16～2025/11/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411931,
+        "RaidId": 411931,
+        "RaidType": 4,
+        "TargetId": 411931
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/19～2025/11/22\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411941,
+        "RaidId": 411941,
+        "RaidType": 4,
+        "TargetId": 411941
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/22～2025/11/25\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411951,
+        "RaidId": 411951,
+        "RaidType": 4,
+        "TargetId": 411951
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/25～2025/11/28\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411961,
+        "RaidId": 411961,
+        "RaidType": 4,
+        "TargetId": 411961
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/28～2025/12/01\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 411971,
+        "RaidId": 411971,
+        "RaidType": 4,
+        "TargetId": 411971
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/11/30～2025/12/12\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 411991,
+        "RaidId": 411991,
+        "RaidType": 4,
+        "TargetId": 411991
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/12～2025/12/26\u003c/color\u003eのクリスマス2025ライブで有効",
+        "Id": 412001,
+        "RaidId": 412001,
+        "RaidType": 4,
+        "TargetId": 412001
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/26～2026/01/10\u003c/color\u003eの2025-2026年末年始ライブで有効",
+        "Id": 412011,
+        "RaidId": 412011,
+        "RaidType": 4,
+        "TargetId": 412011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/01/10～2026/01/22\u003c/color\u003eのメンバー育成ライブで有効",
+        "Id": 412021,
+        "RaidId": 412021,
+        "RaidType": 4,
+        "TargetId": 412021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/02/12～2026/02/26\u003c/color\u003eのバレンタイン2026ライブで有効",
+        "Id": 412031,
+        "RaidId": 412031,
+        "RaidType": 4,
+        "TargetId": 412031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/03/30～2026/04/13\u003c/color\u003eのイースター2026ライブで有効",
+        "Id": 412041,
+        "RaidId": 412041,
+        "RaidType": 4,
+        "TargetId": 412041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/12～2026/04/18\u003c/color\u003eの6期生限定鏡＆トレーニで有効",
+        "Id": 412051,
+        "RaidId": 412051,
+        "RaidType": 4,
+        "TargetId": 412051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/18～2026/04/24\u003c/color\u003eの6期生限定鏡＆トレーニで有効",
+        "Id": 412061,
+        "RaidId": 412061,
+        "RaidType": 4,
+        "TargetId": 412061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/23～2026/05/07\u003c/color\u003eのGW育成応援ライブで有効",
+        "Id": 412071,
+        "RaidId": 412071,
+        "RaidType": 4,
+        "TargetId": 412071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/05/14～2026/05/28\u003c/color\u003eのアーリーサマーライブ2026で有効",
+        "Id": 412081,
+        "RaidId": 412081,
+        "RaidType": 4,
+        "TargetId": 412081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/04～2026/06/07\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412091,
+        "RaidId": 412091,
+        "RaidType": 4,
+        "TargetId": 412091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/07～2026/06/10\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412101,
+        "RaidId": 412101,
+        "RaidType": 4,
+        "TargetId": 412101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/10～2026/06/13\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412111,
+        "RaidId": 412111,
+        "RaidType": 4,
+        "TargetId": 412111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/13～2026/06/16\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412121,
+        "RaidId": 412121,
+        "RaidType": 4,
+        "TargetId": 412121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/16～2026/06/19\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412131,
+        "RaidId": 412131,
+        "RaidType": 4,
+        "TargetId": 412131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/19～2026/06/22\u003c/color\u003eのメンバー限定トレーニングライブで有効",
+        "Id": 412141,
+        "RaidId": 412141,
+        "RaidType": 4,
+        "TargetId": 412141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/30～2021/10/14\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510013,
+        "RaidId": 510013,
+        "RaidType": 4,
+        "TargetId": 510013
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/26～2022/1/9\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510023,
+        "RaidId": 510023,
+        "RaidType": 4,
+        "TargetId": 510023
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/2/24～2022/3/13\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510033,
+        "RaidId": 510033,
+        "RaidType": 4,
+        "TargetId": 510033
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/6/2～2022/6/19\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510053,
+        "RaidId": 510053,
+        "RaidType": 4,
+        "TargetId": 510053
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/8/12～2022/8/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510063,
+        "RaidId": 510063,
+        "RaidType": 4,
+        "TargetId": 510063
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/11/3～2022/11/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510073,
+        "RaidId": 510073,
+        "RaidType": 4,
+        "TargetId": 510073
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/11～2022/12/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510083,
+        "RaidId": 510083,
+        "RaidType": 4,
+        "TargetId": 510083
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/15～2023/02/01\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510093,
+        "RaidId": 510093,
+        "RaidType": 4,
+        "TargetId": 510093
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/12～2023/04/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510103,
+        "RaidId": 510103,
+        "RaidType": 4,
+        "TargetId": 510103
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/06/08～2023/06/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510113,
+        "RaidId": 510113,
+        "RaidType": 4,
+        "TargetId": 510113
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/23～2023/08/09\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510123,
+        "RaidId": 510123,
+        "RaidType": 4,
+        "TargetId": 510123
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/03～2023/09/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510133,
+        "RaidId": 510133,
+        "RaidType": 4,
+        "TargetId": 510133
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/8 ～2023/10/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510143,
+        "RaidId": 510143,
+        "RaidType": 4,
+        "TargetId": 510143
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/12～2023/11/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510153,
+        "RaidId": 510153,
+        "RaidType": 4,
+        "TargetId": 510153
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/01/07～2024/01/24\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510163,
+        "RaidId": 510163,
+        "RaidType": 4,
+        "TargetId": 510163
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/04/04～2024/04/21\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510173,
+        "RaidId": 510173,
+        "RaidType": 4,
+        "TargetId": 510173
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/14～2024/07/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510183,
+        "RaidId": 510183,
+        "RaidType": 4,
+        "TargetId": 510183
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/29～2024/09/15\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510193,
+        "RaidId": 510193,
+        "RaidType": 4,
+        "TargetId": 510193
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/03～2024/10/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510203,
+        "RaidId": 510203,
+        "RaidType": 4,
+        "TargetId": 510203
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/11/10～2024/11/27\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510213,
+        "RaidId": 510213,
+        "RaidType": 4,
+        "TargetId": 510213
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/19～2025/02/05\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510233,
+        "RaidId": 510233,
+        "RaidType": 4,
+        "TargetId": 510233
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/03/14～2025/03/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510243,
+        "RaidId": 510243,
+        "RaidType": 4,
+        "TargetId": 510243
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/25～2025/06/11\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510253,
+        "RaidId": 510253,
+        "RaidType": 4,
+        "TargetId": 510253
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/07/17～2025/08/03\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510263,
+        "RaidId": 510263,
+        "RaidType": 4,
+        "TargetId": 510263
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/09/19～2025/10/06\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510273,
+        "RaidId": 510273,
+        "RaidType": 4,
+        "TargetId": 510273
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/05～2025/12/22\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510283,
+        "RaidId": 510283,
+        "RaidType": 4,
+        "TargetId": 510283
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/01/26～2026/02/12\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510293,
+        "RaidId": 510293,
+        "RaidType": 4,
+        "TargetId": 510293
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/03/12～2026/03/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510303,
+        "RaidId": 510303,
+        "RaidType": 4,
+        "TargetId": 510303
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/23～2026/05/10\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510313,
+        "RaidId": 510313,
+        "RaidType": 4,
+        "TargetId": 510313
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/11～2026/06/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 510323,
+        "RaidId": 510323,
+        "RaidType": 4,
+        "TargetId": 510323
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/09/29～2022/10/06\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710011,
+        "RaidId": 710011,
+        "RaidType": 6,
+        "TargetId": 710011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/11/24～2022/12/01\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710021,
+        "RaidId": 710021,
+        "RaidType": 6,
+        "TargetId": 710021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/29～2023/01/05\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710031,
+        "RaidId": 710031,
+        "RaidType": 6,
+        "TargetId": 710031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/03/23～2023/03/30\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710041,
+        "RaidId": 710041,
+        "RaidType": 6,
+        "TargetId": 710041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/06/26～2023/07/03\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710051,
+        "RaidId": 710051,
+        "RaidType": 6,
+        "TargetId": 710051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/28～2023/09/04\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710061,
+        "RaidId": 710061,
+        "RaidType": 6,
+        "TargetId": 710061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/26～2023/11/02\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710071,
+        "RaidId": 710071,
+        "RaidType": 6,
+        "TargetId": 710071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/30～2023/12/07\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710081,
+        "RaidId": 710081,
+        "RaidType": 6,
+        "TargetId": 710081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/28～2024/01/04\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710091,
+        "RaidId": 710091,
+        "RaidType": 6,
+        "TargetId": 710091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/01/25～2024/02/01\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710101,
+        "RaidId": 710101,
+        "RaidType": 6,
+        "TargetId": 710101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/02/22～2024/02/29\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710111,
+        "RaidId": 710111,
+        "RaidType": 6,
+        "TargetId": 710111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/05/02～2024/05/09\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710121,
+        "RaidId": 710121,
+        "RaidType": 6,
+        "TargetId": 710121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/06/06～2024/06/13\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710131,
+        "RaidId": 710131,
+        "RaidType": 6,
+        "TargetId": 710131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/06/27～2024/07/04\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710141,
+        "RaidId": 710141,
+        "RaidType": 6,
+        "TargetId": 710141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/09/20～2024/09/27\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710151,
+        "RaidId": 710151,
+        "RaidType": 6,
+        "TargetId": 710151
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/24～2024/10/31\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710161,
+        "RaidId": 710161,
+        "RaidType": 6,
+        "TargetId": 710161
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/11/28～2024/12/05\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710171,
+        "RaidId": 710171,
+        "RaidType": 6,
+        "TargetId": 710171
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/20～2024/12/27\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710181,
+        "RaidId": 710181,
+        "RaidType": 6,
+        "TargetId": 710181
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/02/27～2025/03/06\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710191,
+        "RaidId": 710191,
+        "RaidType": 6,
+        "TargetId": 710191
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/04/17～2025/04/24\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710201,
+        "RaidId": 710201,
+        "RaidType": 6,
+        "TargetId": 710201
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/08～2025/05/15\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710211,
+        "RaidId": 710211,
+        "RaidType": 6,
+        "TargetId": 710211
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/10/07～2025/10/14\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710221,
+        "RaidId": 710221,
+        "RaidType": 6,
+        "TargetId": 710221
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/05/28～2026/06/04\u003c/color\u003eのアンコールライブで有効",
+        "Id": 710231,
+        "RaidId": 710231,
+        "RaidType": 6,
+        "TargetId": 710231
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/02/16～2023/03/13\u003c/color\u003eの10th YEAR BIRTHDAY LIVE～DAY1：2011-2016～で有効",
+        "Id": 810011,
+        "RaidId": 810011,
+        "RaidType": 7,
+        "TargetId": 810011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/03/14～2023/04/08\u003c/color\u003eの10th YEAR BIRTHDAY LIVE～DAY2：2017-2022～で有効",
+        "Id": 810021,
+        "RaidId": 810021,
+        "RaidType": 7,
+        "TargetId": 810021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/08/12～2023/08/31\u003c/color\u003eの5期生フラクタルライブ～2ndAnniversary特別版～で有効",
+        "Id": 810031,
+        "RaidId": 810031,
+        "RaidType": 7,
+        "TargetId": 810031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/02/01～2024/02/29\u003c/color\u003eのフラクタルライブ〜9thバスラ3期生特別版〜で有効",
+        "Id": 810041,
+        "RaidId": 810041,
+        "RaidType": 7,
+        "TargetId": 810041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/03/01～2024/03/29\u003c/color\u003eのフラクタルライブ〜9thバスラ4期生特別版〜で有効",
+        "Id": 810051,
+        "RaidId": 810051,
+        "RaidType": 7,
+        "TargetId": 810051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/01～2024/08/22\u003c/color\u003eのフラクタルライブ〜3rdAnniversary〜で有効",
+        "Id": 810061,
+        "RaidId": 810061,
+        "RaidType": 7,
+        "TargetId": 810061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/02/06～2025/02/28\u003c/color\u003eのフラクタルライブ〜3.5thAnniversary〜で有効",
+        "Id": 810071,
+        "RaidId": 810071,
+        "RaidType": 7,
+        "TargetId": 810071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/08/12～2025/08/18\u003c/color\u003eのフラクタルライブ〜4thAnniversary〜で有効",
+        "Id": 810081,
+        "RaidId": 810081,
+        "RaidType": 7,
+        "TargetId": 810081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/02/12～2024/02/19\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 6100811,
+        "RaidId": 610081,
+        "RaidType": 5,
+        "TargetId": 610081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/31～2024/11/07\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 6100911,
+        "RaidId": 610091,
+        "RaidType": 5,
+        "TargetId": 610091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/09/10～2025/09/17\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 6101011,
+        "RaidId": 610101,
+        "RaidType": 5,
+        "TargetId": 610101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/29～2026/01/05\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 6101111,
+        "RaidId": 610111,
+        "RaidType": 5,
+        "TargetId": 610111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/05/11～2026/05/18\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 6101211,
+        "RaidId": 610121,
+        "RaidType": 5,
+        "TargetId": 610121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/08/12～2021/08/26\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21001001,
+        "RaidId": 21001101,
+        "RaidType": 2,
+        "TargetId": 210011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/08/26～2021/09/09\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21002001,
+        "RaidId": 21002001,
+        "RaidType": 2,
+        "TargetId": 210021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/16～2021/09/23\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21003001,
+        "RaidId": 21001101,
+        "RaidType": 2,
+        "TargetId": 210031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/10/14～2021/10/21\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21004001,
+        "RaidId": 21004001,
+        "RaidType": 2,
+        "TargetId": 210041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/4～2021/11/11\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21005001,
+        "RaidId": 21005001,
+        "RaidType": 2,
+        "TargetId": 210051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/18～2021/11/25\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21006001,
+        "RaidId": 21006001,
+        "RaidType": 2,
+        "TargetId": 210061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/2～2021/12/9\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21007001,
+        "RaidId": 21007001,
+        "RaidType": 2,
+        "TargetId": 210071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/01/13～2022/01/20\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21008001,
+        "RaidId": 21008001,
+        "RaidType": 2,
+        "TargetId": 210081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/01/27～2022/02/03\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21009001,
+        "RaidId": 21009001,
+        "RaidType": 2,
+        "TargetId": 210091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/02/14～2022/02/21\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21010001,
+        "RaidId": 21010001,
+        "RaidType": 2,
+        "TargetId": 210101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/03/17～2022/03/24\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21011001,
+        "RaidId": 21011001,
+        "RaidType": 2,
+        "TargetId": 210111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/03/31～2022/04/07\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21012001,
+        "RaidId": 21012001,
+        "RaidType": 2,
+        "TargetId": 210121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/14～2022/04/21\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21013001,
+        "RaidId": 21013001,
+        "RaidType": 2,
+        "TargetId": 210131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/04/28～2022/05/05\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21014001,
+        "RaidId": 21014001,
+        "RaidType": 2,
+        "TargetId": 210141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/05/19～2022/05/26\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21015001,
+        "RaidId": 21015001,
+        "RaidType": 2,
+        "TargetId": 210151
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/06/23～2022/06/30\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21016001,
+        "RaidId": 21016001,
+        "RaidType": 2,
+        "TargetId": 210161
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/07/07～2022/07/14\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21017001,
+        "RaidId": 21017001,
+        "RaidType": 2,
+        "TargetId": 210171
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/07/21～2022/07/28\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21018001,
+        "RaidId": 21018001,
+        "RaidType": 2,
+        "TargetId": 210181
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/09/01～2022/09/08\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21019001,
+        "RaidId": 21019001,
+        "RaidType": 2,
+        "TargetId": 210191
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/09/15～2022/09/22\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21020001,
+        "RaidId": 21020001,
+        "RaidType": 2,
+        "TargetId": 210201
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/10/13～2022/10/20\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21021001,
+        "RaidId": 21021001,
+        "RaidType": 2,
+        "TargetId": 210211
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/5/11～2023/5/18\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21022001,
+        "RaidId": 21022001,
+        "RaidType": 2,
+        "TargetId": 210221
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/12/7～2023/12/14\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21023001,
+        "RaidId": 21023001,
+        "RaidType": 2,
+        "TargetId": 210231
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/5/20～2023/5/27\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21024001,
+        "RaidId": 21024001,
+        "RaidType": 2,
+        "TargetId": 210241
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/12/05～2024/12/12\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21025001,
+        "RaidId": 21025001,
+        "RaidType": 2,
+        "TargetId": 210251
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/06/20～2025/06/27\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21026001,
+        "RaidId": 21026001,
+        "RaidType": 2,
+        "TargetId": 210261
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/10/30～2025/11/06\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21027001,
+        "RaidId": 21027001,
+        "RaidType": 2,
+        "TargetId": 210271
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/02/19～2026/02/26\u003c/color\u003eのフラクタルライブイベントで有効",
+        "Id": 21028001,
+        "RaidId": 21028001,
+        "RaidType": 2,
+        "TargetId": 210281
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/30～2021/10/14\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51001001,
+        "RaidId": 51001001,
+        "RaidType": 3,
+        "TargetId": 510011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/09/30～2021/10/14\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51001002,
+        "RaidId": 51001002,
+        "RaidType": 3,
+        "TargetId": 510012
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/26～2022/1/9\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51002001,
+        "RaidId": 51002001,
+        "RaidType": 3,
+        "TargetId": 510021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/12/26～2022/1/9\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51002002,
+        "RaidId": 51002002,
+        "RaidType": 3,
+        "TargetId": 510022
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/2/24～2022/3/13\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51003001,
+        "RaidId": 51003001,
+        "RaidType": 3,
+        "TargetId": 510031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/2/24～2022/3/13\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51003002,
+        "RaidId": 51003002,
+        "RaidType": 3,
+        "TargetId": 510032
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/4/15～2022/4/19\u003c/color\u003eの10thバスラチケットプレゼントライブで有効",
+        "Id": 51004001,
+        "RaidId": 51004001,
+        "RaidType": 3,
+        "TargetId": 510041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/4/15～2022/4/19\u003c/color\u003eの10thバスラチケットプレゼントライブで有効",
+        "Id": 51004002,
+        "RaidId": 51004002,
+        "RaidType": 3,
+        "TargetId": 510042
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/6/2～2022/6/19\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51005001,
+        "RaidId": 51005001,
+        "RaidType": 3,
+        "TargetId": 510051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/6/2～2022/6/19\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51005002,
+        "RaidId": 51005002,
+        "RaidType": 3,
+        "TargetId": 510052
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/8/12～2022/8/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51006001,
+        "RaidId": 51006001,
+        "RaidType": 3,
+        "TargetId": 510061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/8/12～2022/8/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51006002,
+        "RaidId": 51006002,
+        "RaidType": 3,
+        "TargetId": 510062
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/11/3～2022/11/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51007001,
+        "RaidId": 51007001,
+        "RaidType": 3,
+        "TargetId": 510071
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/11/3～2022/11/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51007002,
+        "RaidId": 51007002,
+        "RaidType": 3,
+        "TargetId": 510072
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/11～2022/12/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51008001,
+        "RaidId": 51008001,
+        "RaidType": 3,
+        "TargetId": 510081
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/12/11～2022/12/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51008002,
+        "RaidId": 51008002,
+        "RaidType": 3,
+        "TargetId": 510082
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/15～2023/02/01\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51009001,
+        "RaidId": 51009001,
+        "RaidType": 3,
+        "TargetId": 510091
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/01/15～2023/02/01\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51009002,
+        "RaidId": 51009002,
+        "RaidType": 3,
+        "TargetId": 510092
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/12～2023/04/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51010001,
+        "RaidId": 51010001,
+        "RaidType": 3,
+        "TargetId": 510101
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/04/12～2023/04/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51010002,
+        "RaidId": 51010002,
+        "RaidType": 3,
+        "TargetId": 510102
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/06/08～2023/06/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51011001,
+        "RaidId": 51011001,
+        "RaidType": 3,
+        "TargetId": 510111
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/06/08～2023/06/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51011002,
+        "RaidId": 51011002,
+        "RaidType": 3,
+        "TargetId": 510112
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/23～2023/08/09\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51012001,
+        "RaidId": 51012001,
+        "RaidType": 3,
+        "TargetId": 510121
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/23～2023/08/09\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51012002,
+        "RaidId": 51012002,
+        "RaidType": 3,
+        "TargetId": 510122
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/03～2023/09/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51013001,
+        "RaidId": 51013001,
+        "RaidType": 3,
+        "TargetId": 510131
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/03～2023/09/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51013002,
+        "RaidId": 51013002,
+        "RaidType": 3,
+        "TargetId": 510132
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/8 ～2023/10/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51014001,
+        "RaidId": 51014001,
+        "RaidType": 3,
+        "TargetId": 510141
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/10/8 ～2023/10/25\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51014002,
+        "RaidId": 51014002,
+        "RaidType": 3,
+        "TargetId": 510142
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/12～2023/11/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51015001,
+        "RaidId": 51015001,
+        "RaidType": 3,
+        "TargetId": 510151
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/12～2023/11/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51015002,
+        "RaidId": 51015002,
+        "RaidType": 3,
+        "TargetId": 510152
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/01/07～2024/01/24\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51016001,
+        "RaidId": 51016001,
+        "RaidType": 3,
+        "TargetId": 510161
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/01/07～2024/01/24\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51016002,
+        "RaidId": 51016002,
+        "RaidType": 3,
+        "TargetId": 510162
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/04/04～2024/04/21\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51017001,
+        "RaidId": 51017001,
+        "RaidType": 3,
+        "TargetId": 510171
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/04/04～2024/04/21\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51017002,
+        "RaidId": 51017002,
+        "RaidType": 3,
+        "TargetId": 510172
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/14～2024/07/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51018001,
+        "RaidId": 51018001,
+        "RaidType": 3,
+        "TargetId": 510181
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/07/14～2024/07/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51018002,
+        "RaidId": 51018002,
+        "RaidType": 3,
+        "TargetId": 510182
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/29～2024/09/15\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51019001,
+        "RaidId": 51019001,
+        "RaidType": 3,
+        "TargetId": 510191
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/08/29～2024/09/15\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51019002,
+        "RaidId": 51019002,
+        "RaidType": 3,
+        "TargetId": 510192
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/03～2024/10/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51020001,
+        "RaidId": 51020001,
+        "RaidType": 3,
+        "TargetId": 510201
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/10/03～2024/10/20\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51020002,
+        "RaidId": 51020002,
+        "RaidType": 3,
+        "TargetId": 510202
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/11/10～2024/11/27\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51021001,
+        "RaidId": 51021001,
+        "RaidType": 3,
+        "TargetId": 510211
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2024/11/10～2024/11/27\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51021002,
+        "RaidId": 51021002,
+        "RaidType": 3,
+        "TargetId": 510212
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/19～2025/02/05\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51023001,
+        "RaidId": 51023001,
+        "RaidType": 3,
+        "TargetId": 510231
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/01/19～2025/02/05\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51023002,
+        "RaidId": 51023002,
+        "RaidType": 3,
+        "TargetId": 510232
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/03/14～2025/03/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51024001,
+        "RaidId": 51024001,
+        "RaidType": 3,
+        "TargetId": 510241
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/03/14～2025/03/31\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51024002,
+        "RaidId": 51024002,
+        "RaidType": 3,
+        "TargetId": 510242
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/25～2025/06/11\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51025001,
+        "RaidId": 51025001,
+        "RaidType": 3,
+        "TargetId": 510251
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/05/25～2025/06/11\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51025002,
+        "RaidId": 51025002,
+        "RaidType": 3,
+        "TargetId": 510252
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/07/17～2025/08/03\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51026001,
+        "RaidId": 51026001,
+        "RaidType": 3,
+        "TargetId": 510261
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/07/17～2025/08/03\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51026002,
+        "RaidId": 51026002,
+        "RaidType": 3,
+        "TargetId": 510262
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/09/19～2025/10/06\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51027001,
+        "RaidId": 51027001,
+        "RaidType": 3,
+        "TargetId": 510271
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/09/19～2025/10/06\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51027002,
+        "RaidId": 51027002,
+        "RaidType": 3,
+        "TargetId": 510272
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/05～2025/12/22\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51028001,
+        "RaidId": 51028001,
+        "RaidType": 3,
+        "TargetId": 510281
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2025/12/05～2025/12/22\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51028002,
+        "RaidId": 51028002,
+        "RaidType": 3,
+        "TargetId": 510282
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/01/26～2026/02/12\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51029001,
+        "RaidId": 51029001,
+        "RaidType": 3,
+        "TargetId": 510291
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/01/26～2026/02/12\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51029002,
+        "RaidId": 51029002,
+        "RaidType": 3,
+        "TargetId": 510292
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/03/12～2026/03/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51030001,
+        "RaidId": 51030001,
+        "RaidType": 3,
+        "TargetId": 510301
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/03/12～2026/03/29\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51030002,
+        "RaidId": 51030002,
+        "RaidType": 3,
+        "TargetId": 510302
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/23～2026/05/10\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51031001,
+        "RaidId": 51031001,
+        "RaidType": 3,
+        "TargetId": 510311
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/04/23～2026/05/10\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51031002,
+        "RaidId": 51031002,
+        "RaidType": 3,
+        "TargetId": 510312
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/11～2026/06/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51032001,
+        "RaidId": 51032001,
+        "RaidType": 3,
+        "TargetId": 510321
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2026/06/11～2026/06/28\u003c/color\u003eのキミプロライブイベントで有効",
+        "Id": 51032002,
+        "RaidId": 51032002,
+        "RaidType": 3,
+        "TargetId": 510322
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2021/11/25～2021/12/2\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61001101,
+        "RaidId": 610011,
+        "RaidType": 5,
+        "TargetId": 610011
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/03/13～2022/03/19\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61002101,
+        "RaidId": 610021,
+        "RaidType": 5,
+        "TargetId": 610021
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/05/12～2022/05/19\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61003101,
+        "RaidId": 610021,
+        "RaidType": 5,
+        "TargetId": 610031
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2022/10/27～2022/11/03\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61004101,
+        "RaidId": 610041,
+        "RaidType": 5,
+        "TargetId": 610041
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/07/13～2023/07/20\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61005101,
+        "RaidId": 610051,
+        "RaidType": 5,
+        "TargetId": 610051
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/09/21～2023/09/28\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61006101,
+        "RaidId": 610061,
+        "RaidType": 5,
+        "TargetId": 610061
+    },
+    {
+        "BonusRate": 0.1,
+        "BonusTotalLimit": 0.6,
+        "Description": "\u003ccolor=#d66184\u003e2023/11/23～2023/12/01\u003c/color\u003eのユニット合同ライブで有効",
+        "Id": 61007101,
+        "RaidId": 610071,
+        "RaidType": 5,
+        "TargetId": 610071
+    }
+]

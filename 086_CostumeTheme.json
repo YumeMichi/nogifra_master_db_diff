@@ -1,0 +1,1282 @@
+[
+    {
+        "Description": "「ジャージ」のスタイルです",
+        "ExchangeItemId": 10002,
+        "ExchangeItemType": 190,
+        "Id": 1000001,
+        "IsNoExchange": true,
+        "Name": "ジャージ",
+        "Priority": 1,
+        "ThumbnailId": 1000001
+    },
+    {
+        "Description": "「ぐるぐるカーテン」のスタイルです",
+        "ExchangeItemId": 10008,
+        "ExchangeItemType": 190,
+        "Id": 1000101,
+        "IsNoExchange": false,
+        "Name": "ぐるぐるカーテン",
+        "Priority": 89999990,
+        "ThumbnailId": 1000101
+    },
+    {
+        "Description": "「おいでシャンプー」のスタイルです",
+        "ExchangeItemId": 190010097,
+        "ExchangeItemType": 190,
+        "Id": 1000701,
+        "IsNoExchange": false,
+        "Name": "おいでシャンプー",
+        "Priority": 89999930,
+        "ThumbnailId": 1000701
+    },
+    {
+        "Description": "「偶然を言い訳にして」のスタイルです",
+        "ExchangeItemId": 10012,
+        "ExchangeItemType": 190,
+        "Id": 1000901,
+        "IsNoExchange": false,
+        "Name": "偶然を言い訳にして",
+        "Priority": 89999910,
+        "ThumbnailId": 1000901
+    },
+    {
+        "Description": "「狼に口笛を」のスタイルです",
+        "ExchangeItemId": 10013,
+        "ExchangeItemType": 190,
+        "Id": 1001101,
+        "IsNoExchange": false,
+        "Name": "狼に口笛を",
+        "Priority": 89999890,
+        "ThumbnailId": 1001101
+    },
+    {
+        "Description": "「走れ！Bicycle」のスタイルです",
+        "ExchangeItemId": 190010072,
+        "ExchangeItemType": 190,
+        "Id": 1001301,
+        "IsNoExchange": false,
+        "Name": "走れ！Bicycle",
+        "Priority": 89999870,
+        "ThumbnailId": 1001301
+    },
+    {
+        "Description": "「制服のマネキン」のスタイルです",
+        "ExchangeItemId": 10011,
+        "ExchangeItemType": 190,
+        "Id": 1001901,
+        "IsNoExchange": false,
+        "Name": "制服のマネキン",
+        "Priority": 89999810,
+        "ThumbnailId": 1001901
+    },
+    {
+        "Description": "「君の名は希望」のスタイルです",
+        "ExchangeItemId": 10040,
+        "ExchangeItemType": 190,
+        "Id": 1002501,
+        "IsNoExchange": false,
+        "Name": "君の名は希望",
+        "Priority": 89999740,
+        "ThumbnailId": 1002501
+    },
+    {
+        "Description": "「13日の金曜日」のスタイルです",
+        "ExchangeItemId": 190010089,
+        "ExchangeItemType": 190,
+        "Id": 1002801,
+        "IsNoExchange": false,
+        "Name": "13日の金曜日",
+        "Priority": 89999710,
+        "ThumbnailId": 1002801
+    },
+    {
+        "Description": "「ガールズルール」のスタイルです",
+        "ExchangeItemId": 10027,
+        "ExchangeItemType": 190,
+        "Id": 1003101,
+        "IsNoExchange": false,
+        "Name": "ガールズルール",
+        "Priority": 89999680,
+        "ThumbnailId": 1003101
+    },
+    {
+        "Description": "「扇風機」のスタイルです",
+        "ExchangeItemId": 190010081,
+        "ExchangeItemType": 190,
+        "Id": 1003401,
+        "IsNoExchange": false,
+        "Name": "扇風機",
+        "Priority": 89999650,
+        "ThumbnailId": 1003401
+    },
+    {
+        "Description": "「バレッタ」のスタイルです",
+        "ExchangeItemId": 10026,
+        "ExchangeItemType": 190,
+        "Id": 1003701,
+        "IsNoExchange": false,
+        "Name": "バレッタ",
+        "Priority": 89999620,
+        "ThumbnailId": 1003701
+    },
+    {
+        "Description": "「気づいたら片想い」のスタイルです",
+        "ExchangeItemId": 10030,
+        "ExchangeItemType": 190,
+        "Id": 1004301,
+        "IsNoExchange": false,
+        "Name": "気づいたら片想い",
+        "Priority": 89999560,
+        "ThumbnailId": 1004301
+    },
+    {
+        "Description": "「生まれたままで」のスタイルです",
+        "ExchangeItemId": 10053,
+        "ExchangeItemType": 190,
+        "Id": 1004701,
+        "IsNoExchange": false,
+        "Name": "生まれたままで",
+        "Priority": 89999520,
+        "ThumbnailId": 1004701
+    },
+    {
+        "Description": "「夏のFree\u0026Easy」のスタイルです",
+        "ExchangeItemId": 10015,
+        "ExchangeItemType": 190,
+        "Id": 1004901,
+        "IsNoExchange": false,
+        "Name": "夏のFree\u0026Easy",
+        "Priority": 89999500,
+        "ThumbnailId": 1004901
+    },
+    {
+        "Description": "「ここにいる理由」のスタイルです",
+        "ExchangeItemId": 10042,
+        "ExchangeItemType": 190,
+        "Id": 1005301,
+        "IsNoExchange": false,
+        "Name": "ここにいる理由",
+        "Priority": 89999460,
+        "ThumbnailId": 1005301
+    },
+    {
+        "Description": "「何度目の青空か？」のスタイルです",
+        "ExchangeItemId": 10025,
+        "ExchangeItemType": 190,
+        "Id": 1005501,
+        "IsNoExchange": false,
+        "Name": "何度目の青空か？",
+        "Priority": 89999440,
+        "ThumbnailId": 1005501
+    },
+    {
+        "Description": "「あの日 僕は咄嗟に嘘をついた」のスタイルです",
+        "ExchangeItemId": 190010069,
+        "ExchangeItemType": 190,
+        "Id": 1005901,
+        "IsNoExchange": false,
+        "Name": "あの日 僕は咄嗟に嘘をついた",
+        "Priority": 89999400,
+        "ThumbnailId": 1005901
+    },
+    {
+        "Description": "「命は美しい」のスタイルです",
+        "ExchangeItemId": 10028,
+        "ExchangeItemType": 190,
+        "Id": 1006901,
+        "IsNoExchange": false,
+        "Name": "命は美しい",
+        "Priority": 89999300,
+        "ThumbnailId": 1006901
+    },
+    {
+        "Description": "「ボーダー」のスタイルです",
+        "ExchangeItemId": 10016,
+        "ExchangeItemType": 190,
+        "Id": 1007401,
+        "IsNoExchange": false,
+        "Name": "ボーダー",
+        "Priority": 89999250,
+        "ThumbnailId": 1007401
+    },
+    {
+        "Description": "「太陽ノック」のスタイルです",
+        "ExchangeItemId": 10024,
+        "ExchangeItemType": 190,
+        "Id": 1007501,
+        "IsNoExchange": false,
+        "Name": "太陽ノック",
+        "Priority": 89999240,
+        "ThumbnailId": 1007501
+    },
+    {
+        "Description": "「魚たちのLOVE SONG」のスタイルです",
+        "ExchangeItemId": 190010099,
+        "ExchangeItemType": 190,
+        "Id": 1007701,
+        "IsNoExchange": false,
+        "Name": "魚たちのLOVE SONG",
+        "Priority": 89999220,
+        "ThumbnailId": 1007701
+    },
+    {
+        "Description": "「別れ際、もっと好きになる」のスタイルです",
+        "ExchangeItemId": 190010084,
+        "ExchangeItemType": 190,
+        "Id": 1007901,
+        "IsNoExchange": false,
+        "Name": "別れ際、もっと好きになる",
+        "Priority": 89999200,
+        "ThumbnailId": 1007901
+    },
+    {
+        "Description": "「今、話したい誰かがいる」のスタイルです",
+        "ExchangeItemId": 10037,
+        "ExchangeItemType": 190,
+        "Id": 1008201,
+        "IsNoExchange": false,
+        "Name": "今、話したい誰かがいる",
+        "Priority": 89999170,
+        "ThumbnailId": 1008201
+    },
+    {
+        "Description": "「ハルジオンが咲く頃」のスタイルです",
+        "ExchangeItemId": 10036,
+        "ExchangeItemType": 190,
+        "Id": 1008801,
+        "IsNoExchange": false,
+        "Name": "ハルジオンが咲く頃",
+        "Priority": 89999110,
+        "ThumbnailId": 1008801
+    },
+    {
+        "Description": "「不等号」のスタイルです",
+        "ExchangeItemId": 190010076,
+        "ExchangeItemType": 190,
+        "Id": 1009301,
+        "IsNoExchange": false,
+        "Name": "不等号",
+        "Priority": 89999060,
+        "ThumbnailId": 1009301
+    },
+    {
+        "Description": "「Threefold choice」のスタイルです",
+        "ExchangeItemId": 10050,
+        "ExchangeItemType": 190,
+        "Id": 1010001,
+        "IsNoExchange": false,
+        "Name": "Threefold choice",
+        "Priority": 89998990,
+        "ThumbnailId": 1010001
+    },
+    {
+        "Description": "「裸足でSummer」のスタイルです",
+        "ExchangeItemId": 10022,
+        "ExchangeItemType": 190,
+        "Id": 1010601,
+        "IsNoExchange": false,
+        "Name": "裸足でSummer",
+        "Priority": 89998930,
+        "ThumbnailId": 1010601
+    },
+    {
+        "Description": "「白米様」のスタイルです",
+        "ExchangeItemId": 190010062,
+        "ExchangeItemType": 190,
+        "Id": 1011001,
+        "IsNoExchange": false,
+        "Name": "白米様",
+        "Priority": 89998890,
+        "ThumbnailId": 1011001
+    },
+    {
+        "Description": "「シークレットグラフィティー」のスタイルです",
+        "ExchangeItemId": 10032,
+        "ExchangeItemType": 190,
+        "Id": 1011101,
+        "IsNoExchange": false,
+        "Name": "シークレットグラフィティー",
+        "Priority": 89998880,
+        "ThumbnailId": 1011101
+    },
+    {
+        "Description": "「行くあてのない僕たち」のスタイルです",
+        "ExchangeItemId": 10049,
+        "ExchangeItemType": 190,
+        "Id": 1011201,
+        "IsNoExchange": false,
+        "Name": "行くあてのない僕たち",
+        "Priority": 89998870,
+        "ThumbnailId": 1011201
+    },
+    {
+        "Description": "「サヨナラの意味」のスタイルです",
+        "ExchangeItemId": 10031,
+        "ExchangeItemType": 190,
+        "Id": 1011301,
+        "IsNoExchange": false,
+        "Name": "サヨナラの意味",
+        "Priority": 89998860,
+        "ThumbnailId": 1011301
+    },
+    {
+        "Description": "「2度目のキスから」のスタイルです",
+        "ExchangeItemId": 10056,
+        "ExchangeItemType": 190,
+        "Id": 1011701,
+        "IsNoExchange": false,
+        "Name": "2度目のキスから",
+        "Priority": 89998820,
+        "ThumbnailId": 1011701
+    },
+    {
+        "Description": "「君に贈る花がない」のスタイルです",
+        "ExchangeItemId": 10046,
+        "ExchangeItemType": 190,
+        "Id": 1011801,
+        "IsNoExchange": false,
+        "Name": "君に贈る花がない",
+        "Priority": 89998810,
+        "ThumbnailId": 1011801
+    },
+    {
+        "Description": "「インフルエンサー」のスタイルです",
+        "ExchangeItemId": 10010,
+        "ExchangeItemType": 190,
+        "Id": 1012001,
+        "IsNoExchange": false,
+        "Name": "インフルエンサー",
+        "Priority": 89998790,
+        "ThumbnailId": 1012001
+    },
+    {
+        "Description": "「風船は生きている」のスタイルです",
+        "ExchangeItemId": 10009,
+        "ExchangeItemType": 190,
+        "Id": 1012401,
+        "IsNoExchange": false,
+        "Name": "風船は生きている",
+        "Priority": 89998750,
+        "ThumbnailId": 1012401
+    },
+    {
+        "Description": "「Rewindあの日」のスタイルです",
+        "ExchangeItemId": 190010103,
+        "ExchangeItemType": 190,
+        "Id": 1013101,
+        "IsNoExchange": false,
+        "Name": "Rewindあの日",
+        "Priority": 89998680,
+        "ThumbnailId": 1013101
+    },
+    {
+        "Description": "「ごめんね、スムージー」のスタイルです",
+        "ExchangeItemId": 190010074,
+        "ExchangeItemType": 190,
+        "Id": 1013201,
+        "IsNoExchange": false,
+        "Name": "ごめんね、スムージー",
+        "Priority": 89998670,
+        "ThumbnailId": 1013201
+    },
+    {
+        "Description": "「流星ディスコティック」のスタイルです",
+        "ExchangeItemId": 190010064,
+        "ExchangeItemType": 190,
+        "Id": 1013701,
+        "IsNoExchange": false,
+        "Name": "流星ディスコティック",
+        "Priority": 89998620,
+        "ThumbnailId": 1013701
+    },
+    {
+        "Description": "「忘却と美学」のスタイルです",
+        "ExchangeItemId": 190010075,
+        "ExchangeItemType": 190,
+        "Id": 1013801,
+        "IsNoExchange": false,
+        "Name": "忘却と美学",
+        "Priority": 89998610,
+        "ThumbnailId": 1013801
+    },
+    {
+        "Description": "「逃げ水」のスタイルです",
+        "ExchangeItemId": 10023,
+        "ExchangeItemType": 190,
+        "Id": 1013901,
+        "IsNoExchange": false,
+        "Name": "逃げ水",
+        "Priority": 89998600,
+        "ThumbnailId": 1013901
+    },
+    {
+        "Description": "「女は一人じゃ眠れない」のスタイルです",
+        "ExchangeItemId": 10014,
+        "ExchangeItemType": 190,
+        "Id": 1014001,
+        "IsNoExchange": false,
+        "Name": "女は一人じゃ眠れない",
+        "Priority": 89998590,
+        "ThumbnailId": 1014001
+    },
+    {
+        "Description": "「ひと夏の長さより…」のスタイルです",
+        "ExchangeItemId": 10045,
+        "ExchangeItemType": 190,
+        "Id": 1014101,
+        "IsNoExchange": false,
+        "Name": "ひと夏の長さより…",
+        "Priority": 89998580,
+        "ThumbnailId": 1014101
+    },
+    {
+        "Description": "「アンダー」のスタイルです",
+        "ExchangeItemId": 10043,
+        "ExchangeItemType": 190,
+        "Id": 1014201,
+        "IsNoExchange": false,
+        "Name": "アンダー",
+        "Priority": 89998570,
+        "ThumbnailId": 1014201
+    },
+    {
+        "Description": "「いつかできるから今日できる」のスタイルです",
+        "ExchangeItemId": 10019,
+        "ExchangeItemType": 190,
+        "Id": 1014601,
+        "IsNoExchange": false,
+        "Name": "いつかできるから今日できる",
+        "Priority": 89998530,
+        "ThumbnailId": 1014601
+    },
+    {
+        "Description": "「まあいいか？」のスタイルです",
+        "ExchangeItemId": 10018,
+        "ExchangeItemType": 190,
+        "Id": 1014801,
+        "IsNoExchange": false,
+        "Name": "まあいいか？",
+        "Priority": 89998510,
+        "ThumbnailId": 1014801
+    },
+    {
+        "Description": "「My rule」のスタイルです",
+        "ExchangeItemId": 10052,
+        "ExchangeItemType": 190,
+        "Id": 1015001,
+        "IsNoExchange": false,
+        "Name": "My rule",
+        "Priority": 89998490,
+        "ThumbnailId": 1015001
+    },
+    {
+        "Description": "「シンクロニシティ」のスタイルです",
+        "ExchangeItemId": 10017,
+        "ExchangeItemType": 190,
+        "Id": 1015701,
+        "IsNoExchange": false,
+        "Name": "シンクロニシティ",
+        "Priority": 89998420,
+        "ThumbnailId": 1015701
+    },
+    {
+        "Description": "「シンクロニシティMV」のスタイルです",
+        "ExchangeItemId": 190010083,
+        "ExchangeItemType": 190,
+        "Id": 1015702,
+        "IsNoExchange": false,
+        "Name": "シンクロニシティMV",
+        "Priority": 89998419,
+        "ThumbnailId": 1015702
+    },
+    {
+        "Description": "「9thバスラ～4期生ライブ～雲になればいい」のスタイルです",
+        "ExchangeItemId": 10060,
+        "ExchangeItemType": 190,
+        "Id": 1015901,
+        "IsNoExchange": false,
+        "Name": "9thバスラ～4期生ライブ～雲になればいい",
+        "Priority": 89998400,
+        "ThumbnailId": 1015901
+    },
+    {
+        "Description": "「スカウトマン」のスタイルです",
+        "ExchangeItemId": 10033,
+        "ExchangeItemType": 190,
+        "Id": 1016101,
+        "IsNoExchange": false,
+        "Name": "スカウトマン",
+        "Priority": 89998380,
+        "ThumbnailId": 1016101
+    },
+    {
+        "Description": "「ジコチューで行こう！」のスタイルです",
+        "ExchangeItemId": 10020,
+        "ExchangeItemType": 190,
+        "Id": 1016401,
+        "IsNoExchange": false,
+        "Name": "ジコチューで行こう！",
+        "Priority": 89998350,
+        "ThumbnailId": 1016401
+    },
+    {
+        "Description": "「空扉」のスタイルです",
+        "ExchangeItemId": 10034,
+        "ExchangeItemType": 190,
+        "Id": 1016501,
+        "IsNoExchange": false,
+        "Name": "空扉",
+        "Priority": 89998340,
+        "ThumbnailId": 1016501
+    },
+    {
+        "Description": "「三角の空き地」のスタイルです",
+        "ExchangeItemId": 10051,
+        "ExchangeItemType": 190,
+        "Id": 1016601,
+        "IsNoExchange": false,
+        "Name": "三角の空き地",
+        "Priority": 89998330,
+        "ThumbnailId": 1016601
+    },
+    {
+        "Description": "「心のモノローグ」のスタイルです",
+        "ExchangeItemId": 10059,
+        "ExchangeItemType": 190,
+        "Id": 1016801,
+        "IsNoExchange": false,
+        "Name": "心のモノローグ",
+        "Priority": 89998310,
+        "ThumbnailId": 1016801
+    },
+    {
+        "Description": "「帰り道は遠回りしたくなる」のスタイルです",
+        "ExchangeItemId": 10005,
+        "ExchangeItemType": 190,
+        "Id": 1017101,
+        "IsNoExchange": false,
+        "Name": "帰り道は遠回りしたくなる",
+        "Priority": 89998280,
+        "ThumbnailId": 1017101
+    },
+    {
+        "Description": "「日常」のスタイルです",
+        "ExchangeItemId": 10039,
+        "ExchangeItemType": 190,
+        "Id": 1017401,
+        "IsNoExchange": false,
+        "Name": "日常",
+        "Priority": 89998250,
+        "ThumbnailId": 1017401
+    },
+    {
+        "Description": "「告白の順番」のスタイルです",
+        "ExchangeItemId": 10044,
+        "ExchangeItemType": 190,
+        "Id": 1017501,
+        "IsNoExchange": false,
+        "Name": "告白の順番",
+        "Priority": 89998240,
+        "ThumbnailId": 1017501
+    },
+    {
+        "Description": "「Sing Out！」のスタイルです",
+        "ExchangeItemId": 10003,
+        "ExchangeItemType": 190,
+        "Id": 1018601,
+        "IsNoExchange": false,
+        "Name": "Sing Out！",
+        "Priority": 89998130,
+        "ThumbnailId": 1018601
+    },
+    {
+        "Description": "「滑走路」のスタイルです",
+        "ExchangeItemId": 10029,
+        "ExchangeItemType": 190,
+        "Id": 1018701,
+        "IsNoExchange": false,
+        "Name": "滑走路",
+        "Priority": 89998120,
+        "ThumbnailId": 1018701
+    },
+    {
+        "Description": "「平行線」のスタイルです",
+        "ExchangeItemId": 10006,
+        "ExchangeItemType": 190,
+        "Id": 1019001,
+        "IsNoExchange": false,
+        "Name": "平行線",
+        "Priority": 89998090,
+        "ThumbnailId": 1019001
+    },
+    {
+        "Description": "「夜明けまで強がらなくてもいい」のスタイルです",
+        "ExchangeItemId": 10047,
+        "ExchangeItemType": 190,
+        "Id": 1019301,
+        "IsNoExchange": false,
+        "Name": "夜明けまで強がらなくてもいい",
+        "Priority": 89998060,
+        "ThumbnailId": 1019301
+    },
+    {
+        "Description": "「～Do my best～じゃ意味はない」のスタイルです",
+        "ExchangeItemId": 10041,
+        "ExchangeItemType": 190,
+        "Id": 1019801,
+        "IsNoExchange": false,
+        "Name": "～Do my best～じゃ意味はない",
+        "Priority": 89998010,
+        "ThumbnailId": 1019801
+    },
+    {
+        "Description": "「しあわせの保護色」のスタイルです",
+        "ExchangeItemId": 10058,
+        "ExchangeItemType": 190,
+        "Id": 1020001,
+        "IsNoExchange": false,
+        "Name": "しあわせの保護色",
+        "Priority": 89997990,
+        "ThumbnailId": 1020001
+    },
+    {
+        "Description": "「アナスターシャ」のスタイルです",
+        "ExchangeItemId": 190010063,
+        "ExchangeItemType": 190,
+        "Id": 1020301,
+        "IsNoExchange": false,
+        "Name": "アナスターシャ",
+        "Priority": 89997960,
+        "ThumbnailId": 1020301
+    },
+    {
+        "Description": "「I see...番組衣装」のスタイルです",
+        "ExchangeItemId": 190010101,
+        "ExchangeItemType": 190,
+        "Id": 1020502,
+        "IsNoExchange": false,
+        "Name": "I see...番組衣装",
+        "Priority": 89997939,
+        "ThumbnailId": 1020502
+    },
+    {
+        "Description": "「ファンタスティック3色パン」のスタイルです",
+        "ExchangeItemId": 190010066,
+        "ExchangeItemType": 190,
+        "Id": 1020601,
+        "IsNoExchange": false,
+        "Name": "ファンタスティック3色パン",
+        "Priority": 89997930,
+        "ThumbnailId": 1020601
+    },
+    {
+        "Description": "「世界中の隣人よ」のスタイルです",
+        "ExchangeItemId": 190010091,
+        "ExchangeItemType": 190,
+        "Id": 1020701,
+        "IsNoExchange": false,
+        "Name": "世界中の隣人よ",
+        "Priority": 89997920,
+        "ThumbnailId": 1020701
+    },
+    {
+        "Description": "「Route 246」のスタイルです",
+        "ExchangeItemId": 10021,
+        "ExchangeItemType": 190,
+        "Id": 1020801,
+        "IsNoExchange": false,
+        "Name": "Route 246",
+        "Priority": 89997910,
+        "ThumbnailId": 1020801
+    },
+    {
+        "Description": "「僕は僕を好きになる」のスタイルです",
+        "ExchangeItemId": 10035,
+        "ExchangeItemType": 190,
+        "Id": 1021001,
+        "IsNoExchange": false,
+        "Name": "僕は僕を好きになる",
+        "Priority": 89997890,
+        "ThumbnailId": 1021001
+    },
+    {
+        "Description": "「口ほどにもないKISS」のスタイルです",
+        "ExchangeItemId": 190010073,
+        "ExchangeItemType": 190,
+        "Id": 1021301,
+        "IsNoExchange": false,
+        "Name": "口ほどにもないKISS",
+        "Priority": 89997860,
+        "ThumbnailId": 1021301
+    },
+    {
+        "Description": "「Out of the blue」のスタイルです",
+        "ExchangeItemId": 190010090,
+        "ExchangeItemType": 190,
+        "Id": 1021501,
+        "IsNoExchange": false,
+        "Name": "Out of the blue",
+        "Priority": 89997840,
+        "ThumbnailId": 1021501
+    },
+    {
+        "Description": "「ごめんねFingers crossed」のスタイルです",
+        "ExchangeItemId": 190010070,
+        "ExchangeItemType": 190,
+        "Id": 1021801,
+        "IsNoExchange": false,
+        "Name": "ごめんねFingers crossed",
+        "Priority": 89997810,
+        "ThumbnailId": 1021801
+    },
+    {
+        "Description": "「錆びたコンパス」のスタイルです",
+        "ExchangeItemId": 190010065,
+        "ExchangeItemType": 190,
+        "Id": 1022101,
+        "IsNoExchange": false,
+        "Name": "錆びたコンパス",
+        "Priority": 89997780,
+        "ThumbnailId": 1022101
+    },
+    {
+        "Description": "「ざぶんざざぶん」のスタイルです",
+        "ExchangeItemId": 190010088,
+        "ExchangeItemType": 190,
+        "Id": 1022401,
+        "IsNoExchange": false,
+        "Name": "ざぶんざざぶん",
+        "Priority": 89997750,
+        "ThumbnailId": 1022401
+    },
+    {
+        "Description": "「君に叱られた」のスタイルです",
+        "ExchangeItemId": 190010068,
+        "ExchangeItemType": 190,
+        "Id": 1022501,
+        "IsNoExchange": false,
+        "Name": "君に叱られた",
+        "Priority": 89997740,
+        "ThumbnailId": 1022501
+    },
+    {
+        "Description": "「マシンガンレイン」のスタイルです",
+        "ExchangeItemId": 190010080,
+        "ExchangeItemType": 190,
+        "Id": 1022701,
+        "IsNoExchange": false,
+        "Name": "マシンガンレイン",
+        "Priority": 89997720,
+        "ThumbnailId": 1022701
+    },
+    {
+        "Description": "「もしも心が透明なら」のスタイルです",
+        "ExchangeItemId": 190010094,
+        "ExchangeItemType": 190,
+        "Id": 1022801,
+        "IsNoExchange": false,
+        "Name": "もしも心が透明なら",
+        "Priority": 89997710,
+        "ThumbnailId": 1022801
+    },
+    {
+        "Description": "「Actually...」のスタイルです",
+        "ExchangeItemId": 190010086,
+        "ExchangeItemType": 190,
+        "Id": 1023601,
+        "IsNoExchange": false,
+        "Name": "Actually...",
+        "Priority": 89997640,
+        "ThumbnailId": 1023601
+    },
+    {
+        "Description": "「届かなくたって…」のスタイルです",
+        "ExchangeItemId": 190010087,
+        "ExchangeItemType": 190,
+        "Id": 1024001,
+        "IsNoExchange": false,
+        "Name": "届かなくたって…",
+        "Priority": 89997600,
+        "ThumbnailId": 1024001
+    },
+    {
+        "Description": "「Under’s Love」のスタイルです",
+        "ExchangeItemId": 190010095,
+        "ExchangeItemType": 190,
+        "Id": 1024401,
+        "IsNoExchange": false,
+        "Name": "Under’s Love",
+        "Priority": 89997560,
+        "ThumbnailId": 1024401
+    },
+    {
+        "Description": "「バンドエイド剥がすような別れ方」のスタイルです",
+        "ExchangeItemId": 190010092,
+        "ExchangeItemType": 190,
+        "Id": 1024701,
+        "IsNoExchange": false,
+        "Name": "バンドエイド剥がすような別れ方",
+        "Priority": 89997530,
+        "ThumbnailId": 1024701
+    },
+    {
+        "Description": "「好きというのはロックだぜ！」のスタイルです",
+        "ExchangeItemId": 190010085,
+        "ExchangeItemType": 190,
+        "Id": 1025001,
+        "IsNoExchange": false,
+        "Name": "好きというのはロックだぜ！",
+        "Priority": 89997570,
+        "ThumbnailId": 1025001
+    },
+    {
+        "Description": "「ここにはないもの」のスタイルです",
+        "ExchangeItemId": 190010082,
+        "ExchangeItemType": 190,
+        "Id": 1025101,
+        "IsNoExchange": false,
+        "Name": "ここにはないもの",
+        "Priority": 89997500,
+        "ThumbnailId": 1025101
+    },
+    {
+        "Description": "「悪い成分」のスタイルです",
+        "ExchangeItemId": 190010108,
+        "ExchangeItemType": 190,
+        "Id": 1025201,
+        "IsNoExchange": false,
+        "Name": "悪い成分",
+        "Priority": 89997490,
+        "ThumbnailId": 1025201
+    },
+    {
+        "Description": "「銭湯ラプソディー」のスタイルです",
+        "ExchangeItemId": 190010106,
+        "ExchangeItemType": 190,
+        "Id": 1025401,
+        "IsNoExchange": false,
+        "Name": "銭湯ラプソディー",
+        "Priority": 89997470,
+        "ThumbnailId": 1025401
+    },
+    {
+        "Description": "「17分間」のスタイルです",
+        "ExchangeItemId": 190010114,
+        "ExchangeItemType": 190,
+        "Id": 1025701,
+        "IsNoExchange": false,
+        "Name": "17分間",
+        "Priority": 89997440,
+        "ThumbnailId": 1025701
+    },
+    {
+        "Description": "「人は夢を二度見るMV」のスタイルです",
+        "ExchangeItemId": 190010105,
+        "ExchangeItemType": 190,
+        "Id": 1025801,
+        "IsNoExchange": false,
+        "Name": "人は夢を二度見るMV",
+        "Priority": 89997429,
+        "ThumbnailId": 1025801
+    },
+    {
+        "Description": "「心にもないこと」のスタイルです",
+        "ExchangeItemId": 190010113,
+        "ExchangeItemType": 190,
+        "Id": 1026001,
+        "IsNoExchange": false,
+        "Name": "心にもないこと",
+        "Priority": 89997390,
+        "ThumbnailId": 1026001
+    },
+    {
+        "Description": "「さざ波は戻らない」のスタイルです",
+        "ExchangeItemId": 190010107,
+        "ExchangeItemType": 190,
+        "Id": 1026301,
+        "IsNoExchange": false,
+        "Name": "さざ波は戻らない",
+        "Priority": 89997420,
+        "ThumbnailId": 1026301
+    },
+    {
+        "Description": "「おひとりさま天国」のスタイルです",
+        "ExchangeItemId": 190010109,
+        "ExchangeItemType": 190,
+        "Id": 1026501,
+        "IsNoExchange": false,
+        "Name": "おひとりさま天国",
+        "Priority": 89997410,
+        "ThumbnailId": 1026501
+    },
+    {
+        "Description": "「踏んでしまった」のスタイルです",
+        "ExchangeItemId": 190010115,
+        "ExchangeItemType": 190,
+        "Id": 1026601,
+        "IsNoExchange": false,
+        "Name": "踏んでしまった",
+        "Priority": 89997380,
+        "ThumbnailId": 1026601
+    },
+    {
+        "Description": "「Monopoly」のスタイルです",
+        "ExchangeItemId": 190010112,
+        "ExchangeItemType": 190,
+        "Id": 1027201,
+        "IsNoExchange": false,
+        "Name": "Monopoly",
+        "Priority": 89997400,
+        "ThumbnailId": 1027201
+    },
+    {
+        "Description": "「思い出が止まらなくなる」のスタイルです",
+        "ExchangeItemId": 190010117,
+        "ExchangeItemType": 190,
+        "Id": 1027301,
+        "IsNoExchange": false,
+        "Name": "思い出が止まらなくなる",
+        "Priority": 89997360,
+        "ThumbnailId": 1027301
+    },
+    {
+        "Description": "「チャンスは平等」のスタイルです",
+        "ExchangeItemId": 190010116,
+        "ExchangeItemType": 190,
+        "Id": 1027901,
+        "IsNoExchange": false,
+        "Name": "チャンスは平等",
+        "Priority": 89997370,
+        "ThumbnailId": 1027901
+    },
+    {
+        "Description": "「車道側」のスタイルです",
+        "ExchangeItemId": 190010124,
+        "ExchangeItemType": 190,
+        "Id": 1028001,
+        "IsNoExchange": false,
+        "Name": "車道側",
+        "Priority": 89997320,
+        "ThumbnailId": 1028001
+    },
+    {
+        "Description": "「「じゃあね」が切ない」のスタイルです",
+        "ExchangeItemId": 190010118,
+        "ExchangeItemType": 190,
+        "Id": 1028101,
+        "IsNoExchange": false,
+        "Name": "「じゃあね」が切ない",
+        "Priority": 89997370,
+        "ThumbnailId": 1028101
+    },
+    {
+        "Description": "「チートデイ」のスタイルです",
+        "ExchangeItemId": 190010119,
+        "ExchangeItemType": 190,
+        "Id": 1028601,
+        "IsNoExchange": false,
+        "Name": "チートデイ",
+        "Priority": 89997340,
+        "ThumbnailId": 1028601
+    },
+    {
+        "Description": "「落とし物」のスタイルです",
+        "ExchangeItemId": 190010121,
+        "ExchangeItemType": 190,
+        "Id": 1028801,
+        "IsNoExchange": false,
+        "Name": "落とし物",
+        "Priority": 89997330,
+        "ThumbnailId": 1028801
+    },
+    {
+        "Description": "「歩道橋」のスタイルです",
+        "ExchangeItemId": 190010125,
+        "ExchangeItemType": 190,
+        "Id": 1029301,
+        "IsNoExchange": false,
+        "Name": "歩道橋",
+        "Priority": 89997310,
+        "ThumbnailId": 1029301
+    },
+    {
+        "Description": "「タイムリミット片想い」のスタイルです",
+        "ExchangeItemId": 190010126,
+        "ExchangeItemType": 190,
+        "Id": 1030401,
+        "IsNoExchange": false,
+        "Name": "タイムリミット片想い",
+        "Priority": 89997300,
+        "ThumbnailId": 1030401
+    },
+    {
+        "Description": "「Same numbersMV」のスタイルです",
+        "ExchangeItemId": 190010128,
+        "ExchangeItemType": 190,
+        "Id": 1030701,
+        "IsNoExchange": false,
+        "Name": "Same numbersMV",
+        "Priority": 89997280,
+        "ThumbnailId": 1030701
+    },
+    {
+        "Description": "「不道徳な夏MV」のスタイルです",
+        "ExchangeItemId": 190010127,
+        "ExchangeItemType": 190,
+        "Id": 1031101,
+        "IsNoExchange": false,
+        "Name": "不道徳な夏MV",
+        "Priority": 89997290,
+        "ThumbnailId": 1031101
+    },
+    {
+        "Description": "「制服」のスタイルです",
+        "ExchangeItemId": 10002,
+        "ExchangeItemType": 190,
+        "Id": 2000401,
+        "IsNoExchange": false,
+        "Name": "制服",
+        "Priority": 99999980,
+        "ThumbnailId": 2000401
+    },
+    {
+        "Description": "「制服(チケット交換不可)」のスタイルです",
+        "ExchangeItemId": 10002,
+        "ExchangeItemType": 190,
+        "Id": 2002601,
+        "IsNoExchange": true,
+        "Name": "制服(チケット交換不可)",
+        "Priority": 99999990,
+        "ThumbnailId": 2002601
+    },
+    {
+        "Description": "「5th YEAR BIRTHDAY LIVE衣装」のスタイルです",
+        "ExchangeItemId": 190010061,
+        "ExchangeItemType": 190,
+        "Id": 3010501,
+        "IsNoExchange": false,
+        "Name": "5th YEAR BIRTHDAY LIVE衣装",
+        "Priority": 79991000,
+        "ThumbnailId": 3010501
+    },
+    {
+        "Description": "「9thバスラ～1期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010077,
+        "ExchangeItemType": 190,
+        "Id": 3010902,
+        "IsNoExchange": false,
+        "Name": "9thバスラ～1期生ライブ～",
+        "Priority": 79990000,
+        "ThumbnailId": 3010902
+    },
+    {
+        "Description": "「9thバスラ～2期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010079,
+        "ExchangeItemType": 190,
+        "Id": 3010903,
+        "IsNoExchange": false,
+        "Name": "9thバスラ～2期生ライブ～",
+        "Priority": 79989900,
+        "ThumbnailId": 3010903
+    },
+    {
+        "Description": "「9thバスラ～3期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010071,
+        "ExchangeItemType": 190,
+        "Id": 3010904,
+        "IsNoExchange": false,
+        "Name": "9thバスラ～3期生ライブ～",
+        "Priority": 79989800,
+        "ThumbnailId": 3010904
+    },
+    {
+        "Description": "「9thバスラ～4期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010104,
+        "ExchangeItemType": 190,
+        "Id": 3010905,
+        "IsNoExchange": false,
+        "Name": "9thバスラ～4期生ライブ～",
+        "Priority": 79989700,
+        "ThumbnailId": 3010905
+    },
+    {
+        "Description": "「11thバスラ～5期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010093,
+        "ExchangeItemType": 190,
+        "Id": 3010906,
+        "IsNoExchange": false,
+        "Name": "11thバスラ～5期生ライブ～",
+        "Priority": 79987600,
+        "ThumbnailId": 3010906
+    },
+    {
+        "Description": "「11thバスラ～3期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010110,
+        "ExchangeItemType": 190,
+        "Id": 3010907,
+        "IsNoExchange": false,
+        "Name": "11thバスラ～3期生ライブ～",
+        "Priority": 79987800,
+        "ThumbnailId": 3010907
+    },
+    {
+        "Description": "「11thバスラ～4期生ライブ～」のスタイルです",
+        "ExchangeItemId": 190010111,
+        "ExchangeItemType": 190,
+        "Id": 3010908,
+        "IsNoExchange": false,
+        "Name": "11thバスラ～4期生ライブ～",
+        "Priority": 79987700,
+        "ThumbnailId": 3010908
+    },
+    {
+        "Description": "「アンダーライブ2019衣装」のスタイルです",
+        "ExchangeItemId": 190010098,
+        "ExchangeItemType": 190,
+        "Id": 3021201,
+        "IsNoExchange": false,
+        "Name": "アンダーライブ2019衣装",
+        "Priority": 79987200,
+        "ThumbnailId": 3021201
+    },
+    {
+        "Description": "「真夏の全国ツアー2018・3期生衣装」のスタイルです",
+        "ExchangeItemId": 10004,
+        "ExchangeItemType": 190,
+        "Id": 3030701,
+        "IsNoExchange": false,
+        "Name": "真夏の全国ツアー2018・3期生衣装",
+        "Priority": 79986800,
+        "ThumbnailId": 3030701
+    },
+    {
+        "Description": "「真夏の全国ツアー2018・アンダー衣装」のスタイルです",
+        "ExchangeItemId": 10054,
+        "ExchangeItemType": 190,
+        "Id": 3030702,
+        "IsNoExchange": false,
+        "Name": "真夏の全国ツアー2018・アンダー衣装",
+        "Priority": 79986600,
+        "ThumbnailId": 3030702
+    },
+    {
+        "Description": "「真夏の全国ツアー2021」のスタイルです",
+        "ExchangeItemId": 190010096,
+        "ExchangeItemType": 190,
+        "Id": 3030901,
+        "IsNoExchange": false,
+        "Name": "真夏の全国ツアー2021",
+        "Priority": 79984000,
+        "ThumbnailId": 3030901
+    },
+    {
+        "Description": "「真夏の全国ツアー2024・白衣装」のスタイルです",
+        "ExchangeItemId": 190010120,
+        "ExchangeItemType": 190,
+        "Id": 3031001,
+        "IsNoExchange": false,
+        "Name": "真夏の全国ツアー2024・白衣装",
+        "Priority": 79970000,
+        "ThumbnailId": 3031001
+    },
+    {
+        "Description": "「4期生ライブ2019」のスタイルです",
+        "ExchangeItemId": 10007,
+        "ExchangeItemType": 190,
+        "Id": 3040201,
+        "IsNoExchange": false,
+        "Name": "4期生ライブ2019",
+        "Priority": 79983000,
+        "ThumbnailId": 3040201
+    },
+    {
+        "Description": "「3･4期生ライブ2019」のスタイルです",
+        "ExchangeItemId": 10048,
+        "ExchangeItemType": 190,
+        "Id": 3040301,
+        "IsNoExchange": false,
+        "Name": "3･4期生ライブ2019",
+        "Priority": 79982900,
+        "ThumbnailId": 3040301
+    },
+    {
+        "Description": "「4期生ライブ2020」のスタイルです",
+        "ExchangeItemId": 10038,
+        "ExchangeItemType": 190,
+        "Id": 3040401,
+        "IsNoExchange": false,
+        "Name": "4期生ライブ2020",
+        "Priority": 79982000,
+        "ThumbnailId": 3040401
+    },
+    {
+        "Description": "「紅白2016衣装A」のスタイルです",
+        "ExchangeItemId": 10055,
+        "ExchangeItemType": 190,
+        "Id": 3040501,
+        "IsNoExchange": false,
+        "Name": "紅白2016衣装A",
+        "Priority": 79981000,
+        "ThumbnailId": 3040501
+    },
+    {
+        "Description": "「紅白2016衣装B」のスタイルです",
+        "ExchangeItemId": 190010067,
+        "ExchangeItemType": 190,
+        "Id": 3040502,
+        "IsNoExchange": false,
+        "Name": "紅白2016衣装B",
+        "Priority": 79980900,
+        "ThumbnailId": 3040502
+    },
+    {
+        "Description": "「紅白2019衣装」のスタイルです",
+        "ExchangeItemId": 10057,
+        "ExchangeItemType": 190,
+        "Id": 3040601,
+        "IsNoExchange": false,
+        "Name": "紅白2019衣装",
+        "Priority": 79980000,
+        "ThumbnailId": 3040601
+    },
+    {
+        "Description": "「白石麻衣卒業コンサート」のスタイルです",
+        "ExchangeItemId": 190010078,
+        "ExchangeItemType": 190,
+        "Id": 3040701,
+        "IsNoExchange": false,
+        "Name": "白石麻衣卒業コンサート",
+        "Priority": 79979000,
+        "ThumbnailId": 3040701
+    },
+    {
+        "Description": "「紅白2020衣装」のスタイルです",
+        "ExchangeItemId": 190010100,
+        "ExchangeItemType": 190,
+        "Id": 3040801,
+        "IsNoExchange": false,
+        "Name": "紅白2020衣装",
+        "Priority": 79978000,
+        "ThumbnailId": 3040801
+    },
+    {
+        "Description": "「松村沙友理卒業コンサート衣装」のスタイルです",
+        "ExchangeItemId": 190010102,
+        "ExchangeItemType": 190,
+        "Id": 3040901,
+        "IsNoExchange": false,
+        "Name": "松村沙友理卒業コンサート衣装",
+        "Priority": 79977000,
+        "ThumbnailId": 3040901
+    },
+    {
+        "Description": "「Tシャツ」のスタイルです",
+        "ExchangeItemId": 190010501,
+        "ExchangeItemType": 190,
+        "Id": 4000101,
+        "IsNoExchange": false,
+        "Name": "Tシャツ",
+        "Priority": 70000000,
+        "ThumbnailId": 4000101
+    }
+]

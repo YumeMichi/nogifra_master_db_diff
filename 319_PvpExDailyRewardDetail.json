@@ -1,0 +1,660 @@
+[
+    {
+        "DailyRewardId": 100101,
+        "Id": 10010101,
+        "ItemId": 190000030,
+        "ItemQuantity": 1000,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100101,
+        "Id": 10010102,
+        "ItemId": 7,
+        "ItemQuantity": 300,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100101,
+        "Id": 10010103,
+        "ItemId": 111031001,
+        "ItemQuantity": 200,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100102,
+        "Id": 10010201,
+        "ItemId": 190000030,
+        "ItemQuantity": 920,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100102,
+        "Id": 10010202,
+        "ItemId": 7,
+        "ItemQuantity": 275,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100102,
+        "Id": 10010203,
+        "ItemId": 111031001,
+        "ItemQuantity": 175,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100103,
+        "Id": 10010301,
+        "ItemId": 190000030,
+        "ItemQuantity": 840,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100103,
+        "Id": 10010302,
+        "ItemId": 7,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100103,
+        "Id": 10010303,
+        "ItemId": 111031001,
+        "ItemQuantity": 150,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100104,
+        "Id": 10010401,
+        "ItemId": 190000030,
+        "ItemQuantity": 800,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100104,
+        "Id": 10010402,
+        "ItemId": 7,
+        "ItemQuantity": 240,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100104,
+        "Id": 10010403,
+        "ItemId": 111031001,
+        "ItemQuantity": 130,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100105,
+        "Id": 10010501,
+        "ItemId": 190000030,
+        "ItemQuantity": 760,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100105,
+        "Id": 10010502,
+        "ItemId": 7,
+        "ItemQuantity": 230,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100105,
+        "Id": 10010503,
+        "ItemId": 111031001,
+        "ItemQuantity": 130,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100106,
+        "Id": 10010601,
+        "ItemId": 190000030,
+        "ItemQuantity": 730,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100106,
+        "Id": 10010602,
+        "ItemId": 7,
+        "ItemQuantity": 220,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100106,
+        "Id": 10010603,
+        "ItemId": 111031001,
+        "ItemQuantity": 120,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100107,
+        "Id": 10010701,
+        "ItemId": 190000030,
+        "ItemQuantity": 700,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100107,
+        "Id": 10010702,
+        "ItemId": 7,
+        "ItemQuantity": 210,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100107,
+        "Id": 10010703,
+        "ItemId": 111031001,
+        "ItemQuantity": 120,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100108,
+        "Id": 10010801,
+        "ItemId": 190000030,
+        "ItemQuantity": 680,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100108,
+        "Id": 10010802,
+        "ItemId": 7,
+        "ItemQuantity": 204,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100108,
+        "Id": 10010803,
+        "ItemId": 111031001,
+        "ItemQuantity": 110,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100109,
+        "Id": 10010901,
+        "ItemId": 190000030,
+        "ItemQuantity": 660,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100109,
+        "Id": 10010902,
+        "ItemId": 7,
+        "ItemQuantity": 198,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100109,
+        "Id": 10010903,
+        "ItemId": 111031001,
+        "ItemQuantity": 110,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100110,
+        "Id": 10011001,
+        "ItemId": 190000030,
+        "ItemQuantity": 640,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100110,
+        "Id": 10011002,
+        "ItemId": 7,
+        "ItemQuantity": 192,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100110,
+        "Id": 10011003,
+        "ItemId": 111031001,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100111,
+        "Id": 10011101,
+        "ItemId": 190000030,
+        "ItemQuantity": 620,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100111,
+        "Id": 10011102,
+        "ItemId": 7,
+        "ItemQuantity": 186,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100111,
+        "Id": 10011103,
+        "ItemId": 111031001,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100112,
+        "Id": 10011201,
+        "ItemId": 190000030,
+        "ItemQuantity": 600,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100112,
+        "Id": 10011202,
+        "ItemId": 7,
+        "ItemQuantity": 180,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100112,
+        "Id": 10011203,
+        "ItemId": 111031001,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100113,
+        "Id": 10011301,
+        "ItemId": 190000030,
+        "ItemQuantity": 580,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100113,
+        "Id": 10011302,
+        "ItemId": 7,
+        "ItemQuantity": 174,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100113,
+        "Id": 10011303,
+        "ItemId": 111031001,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100114,
+        "Id": 10011401,
+        "ItemId": 190000030,
+        "ItemQuantity": 560,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100114,
+        "Id": 10011402,
+        "ItemId": 7,
+        "ItemQuantity": 168,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100114,
+        "Id": 10011403,
+        "ItemId": 111031001,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100115,
+        "Id": 10011501,
+        "ItemId": 190000030,
+        "ItemQuantity": 540,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100115,
+        "Id": 10011502,
+        "ItemId": 7,
+        "ItemQuantity": 162,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100115,
+        "Id": 10011503,
+        "ItemId": 111031001,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100116,
+        "Id": 10011601,
+        "ItemId": 190000030,
+        "ItemQuantity": 530,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100116,
+        "Id": 10011602,
+        "ItemId": 7,
+        "ItemQuantity": 159,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100116,
+        "Id": 10011603,
+        "ItemId": 111031001,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100117,
+        "Id": 10011701,
+        "ItemId": 190000030,
+        "ItemQuantity": 520,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100117,
+        "Id": 10011702,
+        "ItemId": 7,
+        "ItemQuantity": 156,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100117,
+        "Id": 10011703,
+        "ItemId": 111031001,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100118,
+        "Id": 10011801,
+        "ItemId": 190000030,
+        "ItemQuantity": 510,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100118,
+        "Id": 10011802,
+        "ItemId": 7,
+        "ItemQuantity": 153,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100118,
+        "Id": 10011803,
+        "ItemId": 111031001,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100119,
+        "Id": 10011901,
+        "ItemId": 190000030,
+        "ItemQuantity": 500,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100119,
+        "Id": 10011902,
+        "ItemId": 7,
+        "ItemQuantity": 150,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100119,
+        "Id": 10011903,
+        "ItemId": 111031001,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100120,
+        "Id": 10012001,
+        "ItemId": 190000030,
+        "ItemQuantity": 490,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100120,
+        "Id": 10012002,
+        "ItemId": 7,
+        "ItemQuantity": 147,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100120,
+        "Id": 10012003,
+        "ItemId": 111031001,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100121,
+        "Id": 10012101,
+        "ItemId": 190000030,
+        "ItemQuantity": 470,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100121,
+        "Id": 10012102,
+        "ItemId": 7,
+        "ItemQuantity": 141,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100121,
+        "Id": 10012103,
+        "ItemId": 111031001,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100122,
+        "Id": 10012201,
+        "ItemId": 190000030,
+        "ItemQuantity": 450,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100122,
+        "Id": 10012202,
+        "ItemId": 7,
+        "ItemQuantity": 135,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100122,
+        "Id": 10012203,
+        "ItemId": 111031001,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100123,
+        "Id": 10012301,
+        "ItemId": 190000030,
+        "ItemQuantity": 430,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100123,
+        "Id": 10012302,
+        "ItemId": 7,
+        "ItemQuantity": 129,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100123,
+        "Id": 10012303,
+        "ItemId": 111031001,
+        "ItemQuantity": 40,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100124,
+        "Id": 10012401,
+        "ItemId": 190000030,
+        "ItemQuantity": 410,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100124,
+        "Id": 10012402,
+        "ItemId": 7,
+        "ItemQuantity": 123,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100124,
+        "Id": 10012403,
+        "ItemId": 111031001,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100125,
+        "Id": 10012501,
+        "ItemId": 190000030,
+        "ItemQuantity": 390,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100125,
+        "Id": 10012502,
+        "ItemId": 7,
+        "ItemQuantity": 117,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100125,
+        "Id": 10012503,
+        "ItemId": 111031001,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100126,
+        "Id": 10012601,
+        "ItemId": 190000030,
+        "ItemQuantity": 370,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100126,
+        "Id": 10012602,
+        "ItemId": 7,
+        "ItemQuantity": 111,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100126,
+        "Id": 10012603,
+        "ItemId": 111031001,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "DailyRewardId": 100127,
+        "Id": 10012701,
+        "ItemId": 190000030,
+        "ItemQuantity": 350,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100127,
+        "Id": 10012702,
+        "ItemId": 7,
+        "ItemQuantity": 105,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100128,
+        "Id": 10012801,
+        "ItemId": 190000030,
+        "ItemQuantity": 330,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100128,
+        "Id": 10012802,
+        "ItemId": 7,
+        "ItemQuantity": 99,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100129,
+        "Id": 10012901,
+        "ItemId": 190000030,
+        "ItemQuantity": 310,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100129,
+        "Id": 10012902,
+        "ItemId": 7,
+        "ItemQuantity": 93,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100130,
+        "Id": 10013001,
+        "ItemId": 190000030,
+        "ItemQuantity": 290,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100130,
+        "Id": 10013002,
+        "ItemId": 7,
+        "ItemQuantity": 87,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100131,
+        "Id": 10013101,
+        "ItemId": 190000030,
+        "ItemQuantity": 270,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100131,
+        "Id": 10013102,
+        "ItemId": 7,
+        "ItemQuantity": 81,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100132,
+        "Id": 10013201,
+        "ItemId": 190000030,
+        "ItemQuantity": 250,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100132,
+        "Id": 10013202,
+        "ItemId": 7,
+        "ItemQuantity": 75,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100133,
+        "Id": 10013301,
+        "ItemId": 190000030,
+        "ItemQuantity": 230,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100133,
+        "Id": 10013302,
+        "ItemId": 7,
+        "ItemQuantity": 69,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100134,
+        "Id": 10013401,
+        "ItemId": 190000030,
+        "ItemQuantity": 210,
+        "ItemType": 190
+    },
+    {
+        "DailyRewardId": 100134,
+        "Id": 10013402,
+        "ItemId": 7,
+        "ItemQuantity": 63,
+        "ItemType": 190
+    }
+]

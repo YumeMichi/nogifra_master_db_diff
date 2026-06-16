@@ -1,0 +1,1302 @@
+[
+    {
+        "Id": 1,
+        "ResistanceStateGroupId": 1,
+        "StateId": 1
+    },
+    {
+        "Id": 2,
+        "ResistanceStateGroupId": 2,
+        "StateId": 2
+    },
+    {
+        "Id": 3,
+        "ResistanceStateGroupId": 3,
+        "StateId": 3
+    },
+    {
+        "Id": 4,
+        "ResistanceStateGroupId": 4,
+        "StateId": 4
+    },
+    {
+        "Id": 5,
+        "ResistanceStateGroupId": 5,
+        "StateId": 5
+    },
+    {
+        "Id": 6,
+        "ResistanceStateGroupId": 6,
+        "StateId": 6
+    },
+    {
+        "Id": 7,
+        "ResistanceStateGroupId": 7,
+        "StateId": 7
+    },
+    {
+        "Id": 8,
+        "ResistanceStateGroupId": 8,
+        "StateId": 8
+    },
+    {
+        "Id": 9,
+        "ResistanceStateGroupId": 9,
+        "StateId": 9
+    },
+    {
+        "Id": 10,
+        "ResistanceStateGroupId": 10,
+        "StateId": 10
+    },
+    {
+        "Id": 11,
+        "ResistanceStateGroupId": 11,
+        "StateId": 11
+    },
+    {
+        "Id": 12,
+        "ResistanceStateGroupId": 12,
+        "StateId": 12
+    },
+    {
+        "Id": 13,
+        "ResistanceStateGroupId": 13,
+        "StateId": 13
+    },
+    {
+        "Id": 14,
+        "ResistanceStateGroupId": 14,
+        "StateId": 14
+    },
+    {
+        "Id": 1001,
+        "ResistanceStateGroupId": 1001,
+        "StateId": 1001
+    },
+    {
+        "Id": 1002,
+        "ResistanceStateGroupId": 1002,
+        "StateId": 1002
+    },
+    {
+        "Id": 1003,
+        "ResistanceStateGroupId": 1003,
+        "StateId": 1003
+    },
+    {
+        "Id": 1004,
+        "ResistanceStateGroupId": 1004,
+        "StateId": 1004
+    },
+    {
+        "Id": 1005,
+        "ResistanceStateGroupId": 1005,
+        "StateId": 1005
+    },
+    {
+        "Id": 1006,
+        "ResistanceStateGroupId": 1006,
+        "StateId": 1006
+    },
+    {
+        "Id": 1007,
+        "ResistanceStateGroupId": 1007,
+        "StateId": 1007
+    },
+    {
+        "Id": 1008,
+        "ResistanceStateGroupId": 1008,
+        "StateId": 1008
+    },
+    {
+        "Id": 1009,
+        "ResistanceStateGroupId": 1009,
+        "StateId": 1009
+    },
+    {
+        "Id": 1010,
+        "ResistanceStateGroupId": 1010,
+        "StateId": 1010
+    },
+    {
+        "Id": 1011,
+        "ResistanceStateGroupId": 1011,
+        "StateId": 1011
+    },
+    {
+        "Id": 1012,
+        "ResistanceStateGroupId": 1012,
+        "StateId": 1012
+    },
+    {
+        "Id": 1013,
+        "ResistanceStateGroupId": 1013,
+        "StateId": 1013
+    },
+    {
+        "Id": 1014,
+        "ResistanceStateGroupId": 1014,
+        "StateId": 1014
+    },
+    {
+        "Id": 1015,
+        "ResistanceStateGroupId": 1015,
+        "StateId": 1015
+    },
+    {
+        "Id": 1017,
+        "ResistanceStateGroupId": 1017,
+        "StateId": 1017
+    },
+    {
+        "Id": 1019,
+        "ResistanceStateGroupId": 1019,
+        "StateId": 1019
+    },
+    {
+        "Id": 1020,
+        "ResistanceStateGroupId": 1020,
+        "StateId": 1020
+    },
+    {
+        "Id": 1021,
+        "ResistanceStateGroupId": 1021,
+        "StateId": 1021
+    },
+    {
+        "Id": 1022,
+        "ResistanceStateGroupId": 1022,
+        "StateId": 1022
+    },
+    {
+        "Id": 1023,
+        "ResistanceStateGroupId": 1023,
+        "StateId": 1023
+    },
+    {
+        "Id": 1024,
+        "ResistanceStateGroupId": 1024,
+        "StateId": 1024
+    },
+    {
+        "Id": 1025,
+        "ResistanceStateGroupId": 1025,
+        "StateId": 1025
+    },
+    {
+        "Id": 1026,
+        "ResistanceStateGroupId": 1026,
+        "StateId": 1026
+    },
+    {
+        "Id": 1027,
+        "ResistanceStateGroupId": 1027,
+        "StateId": 1027
+    },
+    {
+        "Id": 1028,
+        "ResistanceStateGroupId": 1028,
+        "StateId": 1028
+    },
+    {
+        "Id": 1029,
+        "ResistanceStateGroupId": 1029,
+        "StateId": 1029
+    },
+    {
+        "Id": 1030,
+        "ResistanceStateGroupId": 1030,
+        "StateId": 1030
+    },
+    {
+        "Id": 1031,
+        "ResistanceStateGroupId": 1031,
+        "StateId": 1031
+    },
+    {
+        "Id": 1032,
+        "ResistanceStateGroupId": 1032,
+        "StateId": 1032
+    },
+    {
+        "Id": 1033,
+        "ResistanceStateGroupId": 1033,
+        "StateId": 1033
+    },
+    {
+        "Id": 1034,
+        "ResistanceStateGroupId": 1034,
+        "StateId": 1034
+    },
+    {
+        "Id": 1035,
+        "ResistanceStateGroupId": 1035,
+        "StateId": 1035
+    },
+    {
+        "Id": 1036,
+        "ResistanceStateGroupId": 1036,
+        "StateId": 1036
+    },
+    {
+        "Id": 1037,
+        "ResistanceStateGroupId": 1037,
+        "StateId": 1037
+    },
+    {
+        "Id": 1038,
+        "ResistanceStateGroupId": 1038,
+        "StateId": 1038
+    },
+    {
+        "Id": 2001,
+        "ResistanceStateGroupId": 2001,
+        "StateId": 2001
+    },
+    {
+        "Id": 2002,
+        "ResistanceStateGroupId": 2002,
+        "StateId": 2002
+    },
+    {
+        "Id": 2003,
+        "ResistanceStateGroupId": 2003,
+        "StateId": 2003
+    },
+    {
+        "Id": 2004,
+        "ResistanceStateGroupId": 2004,
+        "StateId": 2004
+    },
+    {
+        "Id": 2005,
+        "ResistanceStateGroupId": 2005,
+        "StateId": 2005
+    },
+    {
+        "Id": 2006,
+        "ResistanceStateGroupId": 2006,
+        "StateId": 2006
+    },
+    {
+        "Id": 3001,
+        "ResistanceStateGroupId": 3001,
+        "StateId": 3001
+    },
+    {
+        "Id": 3002,
+        "ResistanceStateGroupId": 3002,
+        "StateId": 3002
+    },
+    {
+        "Id": 3003,
+        "ResistanceStateGroupId": 3003,
+        "StateId": 3003
+    },
+    {
+        "Id": 3004,
+        "ResistanceStateGroupId": 3004,
+        "StateId": 3004
+    },
+    {
+        "Id": 3005,
+        "ResistanceStateGroupId": 3005,
+        "StateId": 3005
+    },
+    {
+        "Id": 3006,
+        "ResistanceStateGroupId": 3006,
+        "StateId": 3006
+    },
+    {
+        "Id": 3007,
+        "ResistanceStateGroupId": 3007,
+        "StateId": 3007
+    },
+    {
+        "Id": 3008,
+        "ResistanceStateGroupId": 3008,
+        "StateId": 3008
+    },
+    {
+        "Id": 3009,
+        "ResistanceStateGroupId": 3009,
+        "StateId": 3009
+    },
+    {
+        "Id": 3010,
+        "ResistanceStateGroupId": 3010,
+        "StateId": 3010
+    },
+    {
+        "Id": 3011,
+        "ResistanceStateGroupId": 3011,
+        "StateId": 3011
+    },
+    {
+        "Id": 3012,
+        "ResistanceStateGroupId": 3012,
+        "StateId": 3012
+    },
+    {
+        "Id": 4001,
+        "ResistanceStateGroupId": 4001,
+        "StateId": 4001
+    },
+    {
+        "Id": 4002,
+        "ResistanceStateGroupId": 4002,
+        "StateId": 4002
+    },
+    {
+        "Id": 4003,
+        "ResistanceStateGroupId": 4003,
+        "StateId": 4003
+    },
+    {
+        "Id": 4004,
+        "ResistanceStateGroupId": 4004,
+        "StateId": 4004
+    },
+    {
+        "Id": 4005,
+        "ResistanceStateGroupId": 4005,
+        "StateId": 4005
+    },
+    {
+        "Id": 4006,
+        "ResistanceStateGroupId": 4006,
+        "StateId": 4006
+    },
+    {
+        "Id": 4007,
+        "ResistanceStateGroupId": 4007,
+        "StateId": 4007
+    },
+    {
+        "Id": 4008,
+        "ResistanceStateGroupId": 4008,
+        "StateId": 4008
+    },
+    {
+        "Id": 4009,
+        "ResistanceStateGroupId": 4009,
+        "StateId": 4009
+    },
+    {
+        "Id": 4010,
+        "ResistanceStateGroupId": 4010,
+        "StateId": 4010
+    },
+    {
+        "Id": 4011,
+        "ResistanceStateGroupId": 4011,
+        "StateId": 4011
+    },
+    {
+        "Id": 4012,
+        "ResistanceStateGroupId": 4012,
+        "StateId": 4012
+    },
+    {
+        "Id": 4013,
+        "ResistanceStateGroupId": 4013,
+        "StateId": 4013
+    },
+    {
+        "Id": 4014,
+        "ResistanceStateGroupId": 4014,
+        "StateId": 4014
+    },
+    {
+        "Id": 4015,
+        "ResistanceStateGroupId": 4015,
+        "StateId": 4015
+    },
+    {
+        "Id": 4016,
+        "ResistanceStateGroupId": 4016,
+        "StateId": 4016
+    },
+    {
+        "Id": 4017,
+        "ResistanceStateGroupId": 4017,
+        "StateId": 4017
+    },
+    {
+        "Id": 4018,
+        "ResistanceStateGroupId": 4018,
+        "StateId": 4018
+    },
+    {
+        "Id": 4019,
+        "ResistanceStateGroupId": 4019,
+        "StateId": 4019
+    },
+    {
+        "Id": 4020,
+        "ResistanceStateGroupId": 4020,
+        "StateId": 4020
+    },
+    {
+        "Id": 4021,
+        "ResistanceStateGroupId": 4021,
+        "StateId": 4021
+    },
+    {
+        "Id": 4022,
+        "ResistanceStateGroupId": 4022,
+        "StateId": 4022
+    },
+    {
+        "Id": 4023,
+        "ResistanceStateGroupId": 4023,
+        "StateId": 4023
+    },
+    {
+        "Id": 4024,
+        "ResistanceStateGroupId": 4024,
+        "StateId": 4024
+    },
+    {
+        "Id": 4025,
+        "ResistanceStateGroupId": 4025,
+        "StateId": 4025
+    },
+    {
+        "Id": 4026,
+        "ResistanceStateGroupId": 4026,
+        "StateId": 4026
+    },
+    {
+        "Id": 4027,
+        "ResistanceStateGroupId": 4027,
+        "StateId": 4027
+    },
+    {
+        "Id": 10001,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 1
+    },
+    {
+        "Id": 10002,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 2
+    },
+    {
+        "Id": 10003,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 3
+    },
+    {
+        "Id": 10004,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 4
+    },
+    {
+        "Id": 10005,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 5
+    },
+    {
+        "Id": 10006,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 6
+    },
+    {
+        "Id": 10007,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 7
+    },
+    {
+        "Id": 10008,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 8
+    },
+    {
+        "Id": 10009,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 9
+    },
+    {
+        "Id": 10010,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 10
+    },
+    {
+        "Id": 10011,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 11
+    },
+    {
+        "Id": 10013,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 13
+    },
+    {
+        "Id": 10014,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 14
+    },
+    {
+        "Id": 10015,
+        "ResistanceStateGroupId": 10001,
+        "StateId": 12
+    },
+    {
+        "Id": 11001,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1001
+    },
+    {
+        "Id": 11002,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1002
+    },
+    {
+        "Id": 11003,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1003
+    },
+    {
+        "Id": 11004,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1004
+    },
+    {
+        "Id": 11005,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1005
+    },
+    {
+        "Id": 11006,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1006
+    },
+    {
+        "Id": 11007,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1007
+    },
+    {
+        "Id": 11008,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1008
+    },
+    {
+        "Id": 11009,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1009
+    },
+    {
+        "Id": 11010,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1010
+    },
+    {
+        "Id": 11011,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1011
+    },
+    {
+        "Id": 11012,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1012
+    },
+    {
+        "Id": 11014,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1014
+    },
+    {
+        "Id": 11015,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1015
+    },
+    {
+        "Id": 11017,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1017
+    },
+    {
+        "Id": 11018,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1013
+    },
+    {
+        "Id": 11019,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1019
+    },
+    {
+        "Id": 11020,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1020
+    },
+    {
+        "Id": 11021,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1021
+    },
+    {
+        "Id": 11022,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1022
+    },
+    {
+        "Id": 11023,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1023
+    },
+    {
+        "Id": 11024,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1024
+    },
+    {
+        "Id": 11025,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1025
+    },
+    {
+        "Id": 11026,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1026
+    },
+    {
+        "Id": 11027,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1027
+    },
+    {
+        "Id": 11028,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1028
+    },
+    {
+        "Id": 11029,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1029
+    },
+    {
+        "Id": 11030,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1030
+    },
+    {
+        "Id": 11031,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1031
+    },
+    {
+        "Id": 11032,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1032
+    },
+    {
+        "Id": 11033,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1033
+    },
+    {
+        "Id": 11034,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1034
+    },
+    {
+        "Id": 11035,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1035
+    },
+    {
+        "Id": 11036,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1036
+    },
+    {
+        "Id": 11037,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1037
+    },
+    {
+        "Id": 11038,
+        "ResistanceStateGroupId": 11001,
+        "StateId": 1038
+    },
+    {
+        "Id": 12001,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2001
+    },
+    {
+        "Id": 12002,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2002
+    },
+    {
+        "Id": 12003,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2003
+    },
+    {
+        "Id": 12004,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2004
+    },
+    {
+        "Id": 12005,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2005
+    },
+    {
+        "Id": 12006,
+        "ResistanceStateGroupId": 12001,
+        "StateId": 2006
+    },
+    {
+        "Id": 13001,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3001
+    },
+    {
+        "Id": 13002,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3002
+    },
+    {
+        "Id": 13003,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3003
+    },
+    {
+        "Id": 13004,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3004
+    },
+    {
+        "Id": 13005,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3005
+    },
+    {
+        "Id": 13006,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3006
+    },
+    {
+        "Id": 13007,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3007
+    },
+    {
+        "Id": 13008,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3008
+    },
+    {
+        "Id": 13009,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3009
+    },
+    {
+        "Id": 13010,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4001
+    },
+    {
+        "Id": 13011,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4002
+    },
+    {
+        "Id": 13012,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4003
+    },
+    {
+        "Id": 13013,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4004
+    },
+    {
+        "Id": 13014,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4005
+    },
+    {
+        "Id": 13015,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4006
+    },
+    {
+        "Id": 13017,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4008
+    },
+    {
+        "Id": 13018,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4009
+    },
+    {
+        "Id": 13019,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4010
+    },
+    {
+        "Id": 13020,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4011
+    },
+    {
+        "Id": 13021,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3010
+    },
+    {
+        "Id": 13022,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4012
+    },
+    {
+        "Id": 13023,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3011
+    },
+    {
+        "Id": 13024,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4013
+    },
+    {
+        "Id": 13025,
+        "ResistanceStateGroupId": 13001,
+        "StateId": 3012
+    },
+    {
+        "Id": 14014,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4014
+    },
+    {
+        "Id": 14015,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4015
+    },
+    {
+        "Id": 14016,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4016
+    },
+    {
+        "Id": 14017,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4017
+    },
+    {
+        "Id": 14018,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4018
+    },
+    {
+        "Id": 14019,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4019
+    },
+    {
+        "Id": 14020,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4020
+    },
+    {
+        "Id": 14021,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4021
+    },
+    {
+        "Id": 14022,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4022
+    },
+    {
+        "Id": 14023,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4023
+    },
+    {
+        "Id": 14024,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4024
+    },
+    {
+        "Id": 14025,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4025
+    },
+    {
+        "Id": 14026,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4026
+    },
+    {
+        "Id": 14027,
+        "ResistanceStateGroupId": 14001,
+        "StateId": 4027
+    },
+    {
+        "Id": 15001,
+        "ResistanceStateGroupId": 15001,
+        "StateId": 3001
+    },
+    {
+        "Id": 15002,
+        "ResistanceStateGroupId": 15001,
+        "StateId": 3002
+    },
+    {
+        "Id": 15003,
+        "ResistanceStateGroupId": 15001,
+        "StateId": 3003
+    },
+    {
+        "Id": 20001,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1
+    },
+    {
+        "Id": 20002,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 2
+    },
+    {
+        "Id": 20003,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 3
+    },
+    {
+        "Id": 20004,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 4
+    },
+    {
+        "Id": 20005,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 5
+    },
+    {
+        "Id": 20006,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 6
+    },
+    {
+        "Id": 20007,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1001
+    },
+    {
+        "Id": 20008,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1002
+    },
+    {
+        "Id": 20009,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1003
+    },
+    {
+        "Id": 20010,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1004
+    },
+    {
+        "Id": 20011,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1005
+    },
+    {
+        "Id": 20012,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1006
+    },
+    {
+        "Id": 20013,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1007
+    },
+    {
+        "Id": 20014,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1008
+    },
+    {
+        "Id": 20015,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1009
+    },
+    {
+        "Id": 20016,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1010
+    },
+    {
+        "Id": 20017,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1011
+    },
+    {
+        "Id": 20018,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1012
+    },
+    {
+        "Id": 20019,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1013
+    },
+    {
+        "Id": 20020,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1014
+    },
+    {
+        "Id": 20021,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1015
+    },
+    {
+        "Id": 20023,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1017
+    },
+    {
+        "Id": 20024,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1019
+    },
+    {
+        "Id": 20025,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1020
+    },
+    {
+        "Id": 20026,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1021
+    },
+    {
+        "Id": 20027,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 7
+    },
+    {
+        "Id": 20028,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 9
+    },
+    {
+        "Id": 20029,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 8
+    },
+    {
+        "Id": 20030,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1022
+    },
+    {
+        "Id": 20031,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1023
+    },
+    {
+        "Id": 20033,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1025
+    },
+    {
+        "Id": 20034,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1024
+    },
+    {
+        "Id": 20035,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 10
+    },
+    {
+        "Id": 20036,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1026
+    },
+    {
+        "Id": 20037,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1027
+    },
+    {
+        "Id": 20038,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 11
+    },
+    {
+        "Id": 20039,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1028
+    },
+    {
+        "Id": 20040,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1029
+    },
+    {
+        "Id": 20041,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1030
+    },
+    {
+        "Id": 20042,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1031
+    },
+    {
+        "Id": 20043,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1032
+    },
+    {
+        "Id": 20044,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1033
+    },
+    {
+        "Id": 20045,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1034
+    },
+    {
+        "Id": 20046,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1035
+    },
+    {
+        "Id": 20047,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1036
+    },
+    {
+        "Id": 20048,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 13
+    },
+    {
+        "Id": 20049,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1037
+    },
+    {
+        "Id": 20050,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 14
+    },
+    {
+        "Id": 20051,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 12
+    },
+    {
+        "Id": 20052,
+        "ResistanceStateGroupId": 20001,
+        "StateId": 1038
+    },
+    {
+        "Id": 21001,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2001
+    },
+    {
+        "Id": 21002,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2002
+    },
+    {
+        "Id": 21003,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2003
+    },
+    {
+        "Id": 21004,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2004
+    },
+    {
+        "Id": 21005,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2005
+    },
+    {
+        "Id": 21006,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 2006
+    },
+    {
+        "Id": 21007,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3001
+    },
+    {
+        "Id": 21008,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3002
+    },
+    {
+        "Id": 21009,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3003
+    },
+    {
+        "Id": 21010,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3004
+    },
+    {
+        "Id": 21011,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3005
+    },
+    {
+        "Id": 21012,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3006
+    },
+    {
+        "Id": 21013,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3007
+    },
+    {
+        "Id": 21014,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3008
+    },
+    {
+        "Id": 21015,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3009
+    },
+    {
+        "Id": 21016,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3010
+    },
+    {
+        "Id": 21017,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3011
+    },
+    {
+        "Id": 21018,
+        "ResistanceStateGroupId": 21001,
+        "StateId": 3012
+    }
+]

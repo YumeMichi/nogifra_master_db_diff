@@ -1,0 +1,38 @@
+[
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 1,
+        "Quantity": 30,
+        "Rarity": 1
+    },
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 2,
+        "Quantity": 50,
+        "Rarity": 2
+    },
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 3,
+        "Quantity": 70,
+        "Rarity": 3
+    },
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 4,
+        "Quantity": 160,
+        "Rarity": 4
+    },
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 5,
+        "Quantity": 200,
+        "Rarity": 5
+    },
+    {
+        "ConsumableItemId": 111170001,
+        "Id": 6,
+        "Quantity": 250,
+        "Rarity": 6
+    }
+]

@@ -1,0 +1,1094 @@
+[
+    {
+        "Id": 1,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1001,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 2,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9001,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 3,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1002,
+        "RewardGroupId": 2
+    },
+    {
+        "Id": 4,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9002,
+        "RewardGroupId": 2
+    },
+    {
+        "Id": 5,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1003,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 6,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9003,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 7,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1004,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 8,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9004,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 9,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1005,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 10,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9004,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 11,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1006,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 12,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9002,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 13,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1007,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 14,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9001,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 15,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1008,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 16,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9014,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 17,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1009,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 18,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9012,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 19,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1010,
+        "RewardGroupId": 10
+    },
+    {
+        "Id": 20,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9011,
+        "RewardGroupId": 10
+    },
+    {
+        "Id": 21,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1005,
+        "RewardGroupId": 11
+    },
+    {
+        "Id": 22,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9021,
+        "RewardGroupId": 11
+    },
+    {
+        "Id": 23,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1006,
+        "RewardGroupId": 12
+    },
+    {
+        "Id": 24,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9022,
+        "RewardGroupId": 12
+    },
+    {
+        "Id": 25,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 1007,
+        "RewardGroupId": 13
+    },
+    {
+        "Id": 26,
+        "IsFixedReward": false,
+        "RewardDetailGroupId": 9023,
+        "RewardGroupId": 13
+    },
+    {
+        "Id": 10001,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10001,
+        "RewardGroupId": 10001
+    },
+    {
+        "Id": 10002,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10002,
+        "RewardGroupId": 10002
+    },
+    {
+        "Id": 10003,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10003,
+        "RewardGroupId": 10003
+    },
+    {
+        "Id": 10004,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10004,
+        "RewardGroupId": 10004
+    },
+    {
+        "Id": 10005,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10005,
+        "RewardGroupId": 10005
+    },
+    {
+        "Id": 10006,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10006,
+        "RewardGroupId": 10006
+    },
+    {
+        "Id": 10007,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10007,
+        "RewardGroupId": 10007
+    },
+    {
+        "Id": 10008,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10008,
+        "RewardGroupId": 10008
+    },
+    {
+        "Id": 10009,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10009,
+        "RewardGroupId": 10009
+    },
+    {
+        "Id": 10010,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10010,
+        "RewardGroupId": 10010
+    },
+    {
+        "Id": 10011,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10011,
+        "RewardGroupId": 10011
+    },
+    {
+        "Id": 10012,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10012,
+        "RewardGroupId": 10012
+    },
+    {
+        "Id": 10013,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10013,
+        "RewardGroupId": 10013
+    },
+    {
+        "Id": 10014,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10014,
+        "RewardGroupId": 10014
+    },
+    {
+        "Id": 10015,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10015,
+        "RewardGroupId": 10015
+    },
+    {
+        "Id": 10016,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10016,
+        "RewardGroupId": 10016
+    },
+    {
+        "Id": 10017,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10017,
+        "RewardGroupId": 10017
+    },
+    {
+        "Id": 10018,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10018,
+        "RewardGroupId": 10018
+    },
+    {
+        "Id": 10019,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10019,
+        "RewardGroupId": 10019
+    },
+    {
+        "Id": 10020,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10020,
+        "RewardGroupId": 10020
+    },
+    {
+        "Id": 10101,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10101,
+        "RewardGroupId": 10101
+    },
+    {
+        "Id": 10102,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10102,
+        "RewardGroupId": 10102
+    },
+    {
+        "Id": 10103,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10103,
+        "RewardGroupId": 10103
+    },
+    {
+        "Id": 10104,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10104,
+        "RewardGroupId": 10104
+    },
+    {
+        "Id": 10105,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10105,
+        "RewardGroupId": 10105
+    },
+    {
+        "Id": 10106,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10106,
+        "RewardGroupId": 10106
+    },
+    {
+        "Id": 10107,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10107,
+        "RewardGroupId": 10107
+    },
+    {
+        "Id": 10108,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10108,
+        "RewardGroupId": 10108
+    },
+    {
+        "Id": 10109,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10109,
+        "RewardGroupId": 10109
+    },
+    {
+        "Id": 10110,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10110,
+        "RewardGroupId": 10110
+    },
+    {
+        "Id": 10111,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10111,
+        "RewardGroupId": 10111
+    },
+    {
+        "Id": 10112,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10112,
+        "RewardGroupId": 10112
+    },
+    {
+        "Id": 10113,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10113,
+        "RewardGroupId": 10113
+    },
+    {
+        "Id": 10114,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10114,
+        "RewardGroupId": 10114
+    },
+    {
+        "Id": 10115,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10115,
+        "RewardGroupId": 10115
+    },
+    {
+        "Id": 10116,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10116,
+        "RewardGroupId": 10116
+    },
+    {
+        "Id": 10117,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10117,
+        "RewardGroupId": 10117
+    },
+    {
+        "Id": 10118,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10118,
+        "RewardGroupId": 10118
+    },
+    {
+        "Id": 10119,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10119,
+        "RewardGroupId": 10119
+    },
+    {
+        "Id": 10120,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10120,
+        "RewardGroupId": 10120
+    },
+    {
+        "Id": 10201,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10201,
+        "RewardGroupId": 10201
+    },
+    {
+        "Id": 10202,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10202,
+        "RewardGroupId": 10202
+    },
+    {
+        "Id": 10203,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10203,
+        "RewardGroupId": 10203
+    },
+    {
+        "Id": 10204,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10204,
+        "RewardGroupId": 10204
+    },
+    {
+        "Id": 10205,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10205,
+        "RewardGroupId": 10205
+    },
+    {
+        "Id": 10206,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10206,
+        "RewardGroupId": 10206
+    },
+    {
+        "Id": 10207,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10207,
+        "RewardGroupId": 10207
+    },
+    {
+        "Id": 10208,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10208,
+        "RewardGroupId": 10208
+    },
+    {
+        "Id": 10209,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10209,
+        "RewardGroupId": 10209
+    },
+    {
+        "Id": 10210,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10210,
+        "RewardGroupId": 10210
+    },
+    {
+        "Id": 10211,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10211,
+        "RewardGroupId": 10211
+    },
+    {
+        "Id": 10212,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10212,
+        "RewardGroupId": 10212
+    },
+    {
+        "Id": 10213,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10213,
+        "RewardGroupId": 10213
+    },
+    {
+        "Id": 10214,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10214,
+        "RewardGroupId": 10214
+    },
+    {
+        "Id": 10215,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10215,
+        "RewardGroupId": 10215
+    },
+    {
+        "Id": 10216,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10216,
+        "RewardGroupId": 10216
+    },
+    {
+        "Id": 10217,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10217,
+        "RewardGroupId": 10217
+    },
+    {
+        "Id": 10218,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10218,
+        "RewardGroupId": 10218
+    },
+    {
+        "Id": 10219,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10219,
+        "RewardGroupId": 10219
+    },
+    {
+        "Id": 10220,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 10220,
+        "RewardGroupId": 10220
+    },
+    {
+        "Id": 20011,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20011,
+        "RewardGroupId": 20011
+    },
+    {
+        "Id": 20012,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20012,
+        "RewardGroupId": 20012
+    },
+    {
+        "Id": 20013,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20013,
+        "RewardGroupId": 20013
+    },
+    {
+        "Id": 20014,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20014,
+        "RewardGroupId": 20014
+    },
+    {
+        "Id": 20021,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20021,
+        "RewardGroupId": 20021
+    },
+    {
+        "Id": 20022,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20022,
+        "RewardGroupId": 20022
+    },
+    {
+        "Id": 20023,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20023,
+        "RewardGroupId": 20023
+    },
+    {
+        "Id": 20024,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20024,
+        "RewardGroupId": 20024
+    },
+    {
+        "Id": 20031,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20031,
+        "RewardGroupId": 20031
+    },
+    {
+        "Id": 20032,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20032,
+        "RewardGroupId": 20032
+    },
+    {
+        "Id": 20033,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20033,
+        "RewardGroupId": 20033
+    },
+    {
+        "Id": 20034,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20034,
+        "RewardGroupId": 20034
+    },
+    {
+        "Id": 20041,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20041,
+        "RewardGroupId": 20041
+    },
+    {
+        "Id": 20042,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20042,
+        "RewardGroupId": 20042
+    },
+    {
+        "Id": 20043,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20043,
+        "RewardGroupId": 20043
+    },
+    {
+        "Id": 20044,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20044,
+        "RewardGroupId": 20044
+    },
+    {
+        "Id": 20051,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20051,
+        "RewardGroupId": 20051
+    },
+    {
+        "Id": 20052,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20052,
+        "RewardGroupId": 20052
+    },
+    {
+        "Id": 20053,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20053,
+        "RewardGroupId": 20053
+    },
+    {
+        "Id": 20054,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20054,
+        "RewardGroupId": 20054
+    },
+    {
+        "Id": 20061,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20061,
+        "RewardGroupId": 20061
+    },
+    {
+        "Id": 20062,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20062,
+        "RewardGroupId": 20062
+    },
+    {
+        "Id": 20063,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20063,
+        "RewardGroupId": 20063
+    },
+    {
+        "Id": 20064,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20064,
+        "RewardGroupId": 20064
+    },
+    {
+        "Id": 20071,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20071,
+        "RewardGroupId": 20071
+    },
+    {
+        "Id": 20072,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20072,
+        "RewardGroupId": 20072
+    },
+    {
+        "Id": 20073,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20073,
+        "RewardGroupId": 20073
+    },
+    {
+        "Id": 20074,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20074,
+        "RewardGroupId": 20074
+    },
+    {
+        "Id": 20081,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20081,
+        "RewardGroupId": 20081
+    },
+    {
+        "Id": 20082,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20082,
+        "RewardGroupId": 20082
+    },
+    {
+        "Id": 20083,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20083,
+        "RewardGroupId": 20083
+    },
+    {
+        "Id": 20084,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20084,
+        "RewardGroupId": 20084
+    },
+    {
+        "Id": 20091,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20091,
+        "RewardGroupId": 20091
+    },
+    {
+        "Id": 20092,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20092,
+        "RewardGroupId": 20092
+    },
+    {
+        "Id": 20093,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20093,
+        "RewardGroupId": 20093
+    },
+    {
+        "Id": 20094,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20094,
+        "RewardGroupId": 20094
+    },
+    {
+        "Id": 20101,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20101,
+        "RewardGroupId": 20101
+    },
+    {
+        "Id": 20102,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20102,
+        "RewardGroupId": 20102
+    },
+    {
+        "Id": 20103,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20103,
+        "RewardGroupId": 20103
+    },
+    {
+        "Id": 20104,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20104,
+        "RewardGroupId": 20104
+    },
+    {
+        "Id": 20111,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20111,
+        "RewardGroupId": 20111
+    },
+    {
+        "Id": 20112,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20112,
+        "RewardGroupId": 20112
+    },
+    {
+        "Id": 20113,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20113,
+        "RewardGroupId": 20113
+    },
+    {
+        "Id": 20114,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 20114,
+        "RewardGroupId": 20114
+    },
+    {
+        "Id": 21011,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21011,
+        "RewardGroupId": 21011
+    },
+    {
+        "Id": 21012,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21012,
+        "RewardGroupId": 21012
+    },
+    {
+        "Id": 21013,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21013,
+        "RewardGroupId": 21013
+    },
+    {
+        "Id": 21014,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21014,
+        "RewardGroupId": 21014
+    },
+    {
+        "Id": 21021,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21021,
+        "RewardGroupId": 21021
+    },
+    {
+        "Id": 21022,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21022,
+        "RewardGroupId": 21022
+    },
+    {
+        "Id": 21023,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21023,
+        "RewardGroupId": 21023
+    },
+    {
+        "Id": 21024,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21024,
+        "RewardGroupId": 21024
+    },
+    {
+        "Id": 21031,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21031,
+        "RewardGroupId": 21031
+    },
+    {
+        "Id": 21032,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21032,
+        "RewardGroupId": 21032
+    },
+    {
+        "Id": 21033,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21033,
+        "RewardGroupId": 21033
+    },
+    {
+        "Id": 21034,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21034,
+        "RewardGroupId": 21034
+    },
+    {
+        "Id": 21041,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21041,
+        "RewardGroupId": 21041
+    },
+    {
+        "Id": 21042,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21042,
+        "RewardGroupId": 21042
+    },
+    {
+        "Id": 21043,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21043,
+        "RewardGroupId": 21043
+    },
+    {
+        "Id": 21044,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21044,
+        "RewardGroupId": 21044
+    },
+    {
+        "Id": 21051,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21051,
+        "RewardGroupId": 21051
+    },
+    {
+        "Id": 21052,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21052,
+        "RewardGroupId": 21052
+    },
+    {
+        "Id": 21053,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21053,
+        "RewardGroupId": 21053
+    },
+    {
+        "Id": 21054,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21054,
+        "RewardGroupId": 21054
+    },
+    {
+        "Id": 21061,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21061,
+        "RewardGroupId": 21061
+    },
+    {
+        "Id": 21062,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21062,
+        "RewardGroupId": 21062
+    },
+    {
+        "Id": 21063,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21063,
+        "RewardGroupId": 21063
+    },
+    {
+        "Id": 21064,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21064,
+        "RewardGroupId": 21064
+    },
+    {
+        "Id": 21071,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21071,
+        "RewardGroupId": 21071
+    },
+    {
+        "Id": 21072,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21072,
+        "RewardGroupId": 21072
+    },
+    {
+        "Id": 21073,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21073,
+        "RewardGroupId": 21073
+    },
+    {
+        "Id": 21074,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21074,
+        "RewardGroupId": 21074
+    },
+    {
+        "Id": 21081,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21081,
+        "RewardGroupId": 21081
+    },
+    {
+        "Id": 21082,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21082,
+        "RewardGroupId": 21082
+    },
+    {
+        "Id": 21083,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21083,
+        "RewardGroupId": 21083
+    },
+    {
+        "Id": 21084,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21084,
+        "RewardGroupId": 21084
+    },
+    {
+        "Id": 21091,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21091,
+        "RewardGroupId": 21091
+    },
+    {
+        "Id": 21092,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21092,
+        "RewardGroupId": 21092
+    },
+    {
+        "Id": 21093,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21093,
+        "RewardGroupId": 21093
+    },
+    {
+        "Id": 21094,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21094,
+        "RewardGroupId": 21094
+    },
+    {
+        "Id": 21101,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21101,
+        "RewardGroupId": 21101
+    },
+    {
+        "Id": 21102,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21102,
+        "RewardGroupId": 21102
+    },
+    {
+        "Id": 21103,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21103,
+        "RewardGroupId": 21103
+    },
+    {
+        "Id": 21104,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21104,
+        "RewardGroupId": 21104
+    },
+    {
+        "Id": 21111,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21111,
+        "RewardGroupId": 21111
+    },
+    {
+        "Id": 21112,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21112,
+        "RewardGroupId": 21112
+    },
+    {
+        "Id": 21113,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21113,
+        "RewardGroupId": 21113
+    },
+    {
+        "Id": 21114,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 21114,
+        "RewardGroupId": 21114
+    },
+    {
+        "Id": 22011,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 22011,
+        "RewardGroupId": 22011
+    },
+    {
+        "Id": 22012,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 22012,
+        "RewardGroupId": 22012
+    },
+    {
+        "Id": 22013,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 22013,
+        "RewardGroupId": 22013
+    },
+    {
+        "Id": 22014,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 22014,
+        "RewardGroupId": 22014
+    },
+    {
+        "Id": 90001,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 90001,
+        "RewardGroupId": 90001
+    },
+    {
+        "Id": 90002,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 90002,
+        "RewardGroupId": 90002
+    },
+    {
+        "Id": 90003,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 90003,
+        "RewardGroupId": 90003
+    },
+    {
+        "Id": 90004,
+        "IsFixedReward": true,
+        "RewardDetailGroupId": 90004,
+        "RewardGroupId": 90004
+    }
+]

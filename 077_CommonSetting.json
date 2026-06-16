@@ -1,0 +1,142 @@
+[
+    {
+        "Id": 1,
+        "SettingType": 1,
+        "Value": 300
+    },
+    {
+        "Id": 2,
+        "SettingType": 2,
+        "Value": 300
+    },
+    {
+        "Id": 3,
+        "SettingType": 3,
+        "Value": 7
+    },
+    {
+        "Id": 4,
+        "SettingType": 4,
+        "Value": 3
+    },
+    {
+        "Id": 5,
+        "SettingType": 5,
+        "Value": 350003
+    },
+    {
+        "Id": 6,
+        "SettingType": 6,
+        "Value": 1000
+    },
+    {
+        "Id": 9,
+        "SettingType": 9,
+        "Value": 4
+    },
+    {
+        "Id": 10,
+        "SettingType": 10,
+        "Value": 1000101
+    },
+    {
+        "Id": 20,
+        "SettingType": 20,
+        "Value": 50
+    },
+    {
+        "Id": 21,
+        "SettingType": 21,
+        "Value": 50
+    },
+    {
+        "Id": 30,
+        "SettingType": 30,
+        "Value": 10000
+    },
+    {
+        "Id": 31,
+        "SettingType": 31,
+        "Value": 50
+    },
+    {
+        "Id": 32,
+        "SettingType": 32,
+        "Value": 3
+    },
+    {
+        "Id": 33,
+        "SettingType": 33,
+        "Value": 2
+    },
+    {
+        "Id": 34,
+        "SettingType": 34,
+        "Value": 50
+    },
+    {
+        "Id": 51,
+        "SettingType": 51,
+        "Value": 50
+    },
+    {
+        "Id": 52,
+        "SettingType": 52,
+        "Value": 3
+    },
+    {
+        "Id": 53,
+        "SettingType": 53,
+        "Value": 5
+    },
+    {
+        "Id": 54,
+        "SettingType": 54,
+        "Value": 5
+    },
+    {
+        "Id": 60,
+        "SettingType": 60,
+        "Value": 80001
+    },
+    {
+        "Id": 61,
+        "SettingType": 61,
+        "Value": 110001
+    },
+    {
+        "Id": 70,
+        "SettingType": 70,
+        "Value": 190000028
+    },
+    {
+        "Id": 71,
+        "SettingType": 71,
+        "Value": 100
+    },
+    {
+        "Id": 80,
+        "SettingType": 80,
+        "Value": 111060004
+    },
+    {
+        "Id": 90,
+        "SettingType": 90,
+        "Value": 21
+    },
+    {
+        "Id": 91,
+        "SettingType": 91,
+        "Value": 23
+    },
+    {
+        "Id": 100,
+        "SettingType": 100,
+        "Value": 100
+    },
+    {
+        "Id": 101,
+        "SettingType": 101,
+        "Value": 300
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "AwakeningNumber": 1,
+        "Id": 1,
+        "MultipleValue": 8,
+        "ParameterType": 1
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 2,
+        "MultipleValue": 20,
+        "ParameterType": 1
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 3,
+        "MultipleValue": 34,
+        "ParameterType": 1
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 4,
+        "MultipleValue": 50,
+        "ParameterType": 1
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 5,
+        "MultipleValue": 8,
+        "ParameterType": 2
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 6,
+        "MultipleValue": 20,
+        "ParameterType": 2
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 7,
+        "MultipleValue": 34,
+        "ParameterType": 2
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 8,
+        "MultipleValue": 50,
+        "ParameterType": 2
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 9,
+        "MultipleValue": 8,
+        "ParameterType": 3
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 10,
+        "MultipleValue": 20,
+        "ParameterType": 3
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 11,
+        "MultipleValue": 34,
+        "ParameterType": 3
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 12,
+        "MultipleValue": 50,
+        "ParameterType": 3
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 13,
+        "MultipleValue": 8,
+        "ParameterType": 4
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 14,
+        "MultipleValue": 20,
+        "ParameterType": 4
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 15,
+        "MultipleValue": 34,
+        "ParameterType": 4
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 16,
+        "MultipleValue": 50,
+        "ParameterType": 4
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 17,
+        "MultipleValue": 8,
+        "ParameterType": 5
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 18,
+        "MultipleValue": 20,
+        "ParameterType": 5
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 19,
+        "MultipleValue": 34,
+        "ParameterType": 5
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 20,
+        "MultipleValue": 50,
+        "ParameterType": 5
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 21,
+        "MultipleValue": 8,
+        "ParameterType": 6
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 22,
+        "MultipleValue": 20,
+        "ParameterType": 6
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 23,
+        "MultipleValue": 34,
+        "ParameterType": 6
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 24,
+        "MultipleValue": 50,
+        "ParameterType": 6
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 25,
+        "MultipleValue": 8,
+        "ParameterType": 7
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 26,
+        "MultipleValue": 20,
+        "ParameterType": 7
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 27,
+        "MultipleValue": 34,
+        "ParameterType": 7
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 28,
+        "MultipleValue": 50,
+        "ParameterType": 7
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 29,
+        "MultipleValue": 8,
+        "ParameterType": 8
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 30,
+        "MultipleValue": 20,
+        "ParameterType": 8
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 31,
+        "MultipleValue": 34,
+        "ParameterType": 8
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 32,
+        "MultipleValue": 50,
+        "ParameterType": 8
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 33,
+        "MultipleValue": 8,
+        "ParameterType": 9
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 34,
+        "MultipleValue": 20,
+        "ParameterType": 9
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 35,
+        "MultipleValue": 34,
+        "ParameterType": 9
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 36,
+        "MultipleValue": 50,
+        "ParameterType": 9
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 37,
+        "MultipleValue": 8,
+        "ParameterType": 10
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 38,
+        "MultipleValue": 20,
+        "ParameterType": 10
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 39,
+        "MultipleValue": 34,
+        "ParameterType": 10
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 40,
+        "MultipleValue": 50,
+        "ParameterType": 10
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 41,
+        "MultipleValue": 8,
+        "ParameterType": 11
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 42,
+        "MultipleValue": 20,
+        "ParameterType": 11
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 43,
+        "MultipleValue": 34,
+        "ParameterType": 11
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 44,
+        "MultipleValue": 50,
+        "ParameterType": 11
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 45,
+        "MultipleValue": 8,
+        "ParameterType": 12
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 46,
+        "MultipleValue": 20,
+        "ParameterType": 12
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 47,
+        "MultipleValue": 34,
+        "ParameterType": 12
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 48,
+        "MultipleValue": 50,
+        "ParameterType": 12
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 49,
+        "MultipleValue": 8,
+        "ParameterType": 13
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 50,
+        "MultipleValue": 20,
+        "ParameterType": 13
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 51,
+        "MultipleValue": 34,
+        "ParameterType": 13
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 52,
+        "MultipleValue": 50,
+        "ParameterType": 13
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 53,
+        "MultipleValue": 8,
+        "ParameterType": 14
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 54,
+        "MultipleValue": 20,
+        "ParameterType": 14
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 55,
+        "MultipleValue": 34,
+        "ParameterType": 14
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 56,
+        "MultipleValue": 50,
+        "ParameterType": 14
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 57,
+        "MultipleValue": 8,
+        "ParameterType": 15
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 58,
+        "MultipleValue": 20,
+        "ParameterType": 15
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 59,
+        "MultipleValue": 34,
+        "ParameterType": 15
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 60,
+        "MultipleValue": 50,
+        "ParameterType": 15
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 61,
+        "MultipleValue": 8,
+        "ParameterType": 16
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 62,
+        "MultipleValue": 20,
+        "ParameterType": 16
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 63,
+        "MultipleValue": 34,
+        "ParameterType": 16
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 64,
+        "MultipleValue": 50,
+        "ParameterType": 16
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 65,
+        "MultipleValue": 8,
+        "ParameterType": 17
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 66,
+        "MultipleValue": 20,
+        "ParameterType": 17
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 67,
+        "MultipleValue": 34,
+        "ParameterType": 17
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 68,
+        "MultipleValue": 50,
+        "ParameterType": 17
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 69,
+        "MultipleValue": 8,
+        "ParameterType": 18
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 70,
+        "MultipleValue": 20,
+        "ParameterType": 18
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 71,
+        "MultipleValue": 34,
+        "ParameterType": 18
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 72,
+        "MultipleValue": 50,
+        "ParameterType": 18
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 73,
+        "MultipleValue": 8,
+        "ParameterType": 19
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 74,
+        "MultipleValue": 20,
+        "ParameterType": 19
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 75,
+        "MultipleValue": 34,
+        "ParameterType": 19
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 76,
+        "MultipleValue": 50,
+        "ParameterType": 19
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 77,
+        "MultipleValue": 4,
+        "ParameterType": 20
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 78,
+        "MultipleValue": 10,
+        "ParameterType": 20
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 79,
+        "MultipleValue": 17,
+        "ParameterType": 20
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 80,
+        "MultipleValue": 25,
+        "ParameterType": 20
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 81,
+        "MultipleValue": 4,
+        "ParameterType": 21
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 82,
+        "MultipleValue": 10,
+        "ParameterType": 21
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 83,
+        "MultipleValue": 17,
+        "ParameterType": 21
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 84,
+        "MultipleValue": 25,
+        "ParameterType": 21
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 85,
+        "MultipleValue": 4,
+        "ParameterType": 22
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 86,
+        "MultipleValue": 10,
+        "ParameterType": 22
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 87,
+        "MultipleValue": 17,
+        "ParameterType": 22
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 88,
+        "MultipleValue": 25,
+        "ParameterType": 22
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 89,
+        "MultipleValue": 8,
+        "ParameterType": 23
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 90,
+        "MultipleValue": 20,
+        "ParameterType": 23
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 91,
+        "MultipleValue": 34,
+        "ParameterType": 23
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 92,
+        "MultipleValue": 50,
+        "ParameterType": 23
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 93,
+        "MultipleValue": 8,
+        "ParameterType": 24
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 94,
+        "MultipleValue": 20,
+        "ParameterType": 24
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 95,
+        "MultipleValue": 34,
+        "ParameterType": 24
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 96,
+        "MultipleValue": 50,
+        "ParameterType": 24
+    },
+    {
+        "AwakeningNumber": 1,
+        "Id": 97,
+        "MultipleValue": 8,
+        "ParameterType": 25
+    },
+    {
+        "AwakeningNumber": 2,
+        "Id": 98,
+        "MultipleValue": 20,
+        "ParameterType": 25
+    },
+    {
+        "AwakeningNumber": 3,
+        "Id": 99,
+        "MultipleValue": 34,
+        "ParameterType": 25
+    },
+    {
+        "AwakeningNumber": 4,
+        "Id": 100,
+        "MultipleValue": 50,
+        "ParameterType": 25
+    }
+]

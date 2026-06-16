@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 101,
+        "MemoriaRarity": 2,
+        "TargetRarity": 101
+    },
+    {
+        "Id": 102,
+        "MemoriaRarity": 3,
+        "TargetRarity": 102
+    },
+    {
+        "Id": 103,
+        "MemoriaRarity": 4,
+        "TargetRarity": 103
+    }
+]

@@ -1,0 +1,3866 @@
+[
+    {
+        "Id": 1000101,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000102,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000103,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000104,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000105,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000106,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000107,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000108,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000109,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000110,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000111,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000112,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000113,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000114,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000115,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000116,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000117,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000118,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000119,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000120,
+        "IsPickupReward": false,
+        "PresentPartyId": 10001,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000201,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000202,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000203,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000204,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000205,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000206,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000207,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000208,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000209,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000210,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000211,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000212,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000213,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000214,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000215,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000216,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000217,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000218,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000219,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000220,
+        "IsPickupReward": false,
+        "PresentPartyId": 10002,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000301,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000302,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000303,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000304,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000305,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000306,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000307,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000308,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000309,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000310,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000311,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000312,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000313,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000314,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000315,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000316,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000317,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000318,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000319,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000320,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000321,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 21,
+        "TotalPoint": 34226
+    },
+    {
+        "Id": 1000322,
+        "IsPickupReward": false,
+        "PresentPartyId": 10003,
+        "Rank": 22,
+        "TotalPoint": 40000
+    },
+    {
+        "Id": 1000401,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000402,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000403,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000404,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000405,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000406,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000407,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000408,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000409,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000410,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000411,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000412,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000413,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000414,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000415,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000416,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000417,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000418,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000419,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000420,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000421,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 21,
+        "TotalPoint": 34226
+    },
+    {
+        "Id": 1000422,
+        "IsPickupReward": false,
+        "PresentPartyId": 10004,
+        "Rank": 22,
+        "TotalPoint": 40000
+    },
+    {
+        "Id": 1000501,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000502,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000503,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000504,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000505,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000506,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000507,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000508,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000509,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000510,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000511,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000512,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000513,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000514,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000515,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000516,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000517,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000518,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000519,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000520,
+        "IsPickupReward": false,
+        "PresentPartyId": 10005,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000601,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000602,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000603,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000604,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000605,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000606,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000607,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000608,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000609,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000610,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000611,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000612,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000613,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000614,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000615,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000616,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000617,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000618,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000619,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000620,
+        "IsPickupReward": false,
+        "PresentPartyId": 10006,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000701,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000702,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000703,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000704,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000705,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000706,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000707,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000708,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000709,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000710,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000711,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000712,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000713,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000714,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000715,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000716,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000717,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000718,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000719,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000720,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000721,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 21,
+        "TotalPoint": 35000
+    },
+    {
+        "Id": 1000722,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 22,
+        "TotalPoint": 40000
+    },
+    {
+        "Id": 1000723,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 23,
+        "TotalPoint": 45000
+    },
+    {
+        "Id": 1000724,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 24,
+        "TotalPoint": 50000
+    },
+    {
+        "Id": 1000725,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 25,
+        "TotalPoint": 55000
+    },
+    {
+        "Id": 1000726,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 26,
+        "TotalPoint": 60000
+    },
+    {
+        "Id": 1000727,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 27,
+        "TotalPoint": 65000
+    },
+    {
+        "Id": 1000728,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 28,
+        "TotalPoint": 70000
+    },
+    {
+        "Id": 1000729,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 29,
+        "TotalPoint": 75000
+    },
+    {
+        "Id": 1000730,
+        "IsPickupReward": false,
+        "PresentPartyId": 10007,
+        "Rank": 30,
+        "TotalPoint": 80000
+    },
+    {
+        "Id": 1000801,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000802,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000803,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000804,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000805,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000806,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000807,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000808,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000809,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000810,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000811,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000812,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000813,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000814,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000815,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000816,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000817,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000818,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000819,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000820,
+        "IsPickupReward": false,
+        "PresentPartyId": 10008,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1000901,
+        "IsPickupReward": false,
+        "PresentPartyId": 10009,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1000902,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1000903,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1000904,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1000905,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1000906,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1000907,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1000908,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1000909,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1000910,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1000911,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1000912,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1000913,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1000914,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1000915,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1000916,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1000917,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1000918,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1000919,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1000920,
+        "IsPickupReward": true,
+        "PresentPartyId": 10009,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001001,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001002,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001003,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001004,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001005,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001006,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001007,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001008,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001009,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001010,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001011,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001012,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001013,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001014,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001015,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001016,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001017,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001018,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001019,
+        "IsPickupReward": false,
+        "PresentPartyId": 10010,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001020,
+        "IsPickupReward": true,
+        "PresentPartyId": 10010,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001101,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001102,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001103,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001104,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001105,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001106,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001107,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001108,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001109,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001110,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001111,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001112,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001113,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001114,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001115,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001116,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001117,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001118,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001119,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001120,
+        "IsPickupReward": false,
+        "PresentPartyId": 10011,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001201,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001202,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001203,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001204,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001205,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001206,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001207,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001208,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001209,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001210,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001211,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001212,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001213,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001214,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001215,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001216,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001217,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001218,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001219,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001220,
+        "IsPickupReward": false,
+        "PresentPartyId": 10012,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001301,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001302,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 2,
+        "TotalPoint": 15
+    },
+    {
+        "Id": 1001303,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 3,
+        "TotalPoint": 30
+    },
+    {
+        "Id": 1001304,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 4,
+        "TotalPoint": 45
+    },
+    {
+        "Id": 1001305,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 5,
+        "TotalPoint": 60
+    },
+    {
+        "Id": 1001306,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 6,
+        "TotalPoint": 75
+    },
+    {
+        "Id": 1001307,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 7,
+        "TotalPoint": 90
+    },
+    {
+        "Id": 1001308,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 8,
+        "TotalPoint": 105
+    },
+    {
+        "Id": 1001309,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 9,
+        "TotalPoint": 120
+    },
+    {
+        "Id": 1001310,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 10,
+        "TotalPoint": 135
+    },
+    {
+        "Id": 1001311,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 11,
+        "TotalPoint": 150
+    },
+    {
+        "Id": 1001312,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 12,
+        "TotalPoint": 165
+    },
+    {
+        "Id": 1001313,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 13,
+        "TotalPoint": 180
+    },
+    {
+        "Id": 1001314,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 14,
+        "TotalPoint": 195
+    },
+    {
+        "Id": 1001315,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 15,
+        "TotalPoint": 210
+    },
+    {
+        "Id": 1001316,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 16,
+        "TotalPoint": 225
+    },
+    {
+        "Id": 1001317,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 17,
+        "TotalPoint": 240
+    },
+    {
+        "Id": 1001318,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 18,
+        "TotalPoint": 255
+    },
+    {
+        "Id": 1001319,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 19,
+        "TotalPoint": 270
+    },
+    {
+        "Id": 1001320,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 20,
+        "TotalPoint": 285
+    },
+    {
+        "Id": 1001321,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 21,
+        "TotalPoint": 300
+    },
+    {
+        "Id": 1001322,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 22,
+        "TotalPoint": 320
+    },
+    {
+        "Id": 1001323,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 23,
+        "TotalPoint": 340
+    },
+    {
+        "Id": 1001324,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 24,
+        "TotalPoint": 360
+    },
+    {
+        "Id": 1001325,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 25,
+        "TotalPoint": 380
+    },
+    {
+        "Id": 1001326,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 26,
+        "TotalPoint": 400
+    },
+    {
+        "Id": 1001327,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 27,
+        "TotalPoint": 420
+    },
+    {
+        "Id": 1001328,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 28,
+        "TotalPoint": 440
+    },
+    {
+        "Id": 1001329,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 29,
+        "TotalPoint": 460
+    },
+    {
+        "Id": 1001330,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 30,
+        "TotalPoint": 480
+    },
+    {
+        "Id": 1001331,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 31,
+        "TotalPoint": 500
+    },
+    {
+        "Id": 1001332,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 32,
+        "TotalPoint": 520
+    },
+    {
+        "Id": 1001333,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 33,
+        "TotalPoint": 540
+    },
+    {
+        "Id": 1001334,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 34,
+        "TotalPoint": 560
+    },
+    {
+        "Id": 1001335,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 35,
+        "TotalPoint": 580
+    },
+    {
+        "Id": 1001336,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 36,
+        "TotalPoint": 600
+    },
+    {
+        "Id": 1001337,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 37,
+        "TotalPoint": 620
+    },
+    {
+        "Id": 1001338,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 38,
+        "TotalPoint": 640
+    },
+    {
+        "Id": 1001339,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 39,
+        "TotalPoint": 660
+    },
+    {
+        "Id": 1001340,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 40,
+        "TotalPoint": 680
+    },
+    {
+        "Id": 1001341,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 41,
+        "TotalPoint": 700
+    },
+    {
+        "Id": 1001342,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 42,
+        "TotalPoint": 730
+    },
+    {
+        "Id": 1001343,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 43,
+        "TotalPoint": 760
+    },
+    {
+        "Id": 1001344,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 44,
+        "TotalPoint": 790
+    },
+    {
+        "Id": 1001345,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 45,
+        "TotalPoint": 820
+    },
+    {
+        "Id": 1001346,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 46,
+        "TotalPoint": 850
+    },
+    {
+        "Id": 1001347,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 47,
+        "TotalPoint": 880
+    },
+    {
+        "Id": 1001348,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 48,
+        "TotalPoint": 910
+    },
+    {
+        "Id": 1001349,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 49,
+        "TotalPoint": 940
+    },
+    {
+        "Id": 1001350,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 50,
+        "TotalPoint": 970
+    },
+    {
+        "Id": 1001351,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 51,
+        "TotalPoint": 1000
+    },
+    {
+        "Id": 1001352,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 52,
+        "TotalPoint": 1030
+    },
+    {
+        "Id": 1001353,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 53,
+        "TotalPoint": 1060
+    },
+    {
+        "Id": 1001354,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 54,
+        "TotalPoint": 1090
+    },
+    {
+        "Id": 1001355,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 55,
+        "TotalPoint": 1120
+    },
+    {
+        "Id": 1001356,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 56,
+        "TotalPoint": 1150
+    },
+    {
+        "Id": 1001357,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 57,
+        "TotalPoint": 1180
+    },
+    {
+        "Id": 1001358,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 58,
+        "TotalPoint": 1210
+    },
+    {
+        "Id": 1001359,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 59,
+        "TotalPoint": 1240
+    },
+    {
+        "Id": 1001360,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 60,
+        "TotalPoint": 1270
+    },
+    {
+        "Id": 1001361,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 61,
+        "TotalPoint": 1300
+    },
+    {
+        "Id": 1001362,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 62,
+        "TotalPoint": 1340
+    },
+    {
+        "Id": 1001363,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 63,
+        "TotalPoint": 1380
+    },
+    {
+        "Id": 1001364,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 64,
+        "TotalPoint": 1420
+    },
+    {
+        "Id": 1001365,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 65,
+        "TotalPoint": 1460
+    },
+    {
+        "Id": 1001366,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 66,
+        "TotalPoint": 1500
+    },
+    {
+        "Id": 1001367,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 67,
+        "TotalPoint": 1540
+    },
+    {
+        "Id": 1001368,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 68,
+        "TotalPoint": 1580
+    },
+    {
+        "Id": 1001369,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 69,
+        "TotalPoint": 1620
+    },
+    {
+        "Id": 1001370,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 70,
+        "TotalPoint": 1660
+    },
+    {
+        "Id": 1001371,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 71,
+        "TotalPoint": 1700
+    },
+    {
+        "Id": 1001372,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 72,
+        "TotalPoint": 1740
+    },
+    {
+        "Id": 1001373,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 73,
+        "TotalPoint": 1780
+    },
+    {
+        "Id": 1001374,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 74,
+        "TotalPoint": 1820
+    },
+    {
+        "Id": 1001375,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 75,
+        "TotalPoint": 1860
+    },
+    {
+        "Id": 1001376,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 76,
+        "TotalPoint": 1900
+    },
+    {
+        "Id": 1001377,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 77,
+        "TotalPoint": 1940
+    },
+    {
+        "Id": 1001378,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 78,
+        "TotalPoint": 1980
+    },
+    {
+        "Id": 1001379,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 79,
+        "TotalPoint": 2020
+    },
+    {
+        "Id": 1001380,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 80,
+        "TotalPoint": 2060
+    },
+    {
+        "Id": 1001381,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 81,
+        "TotalPoint": 2100
+    },
+    {
+        "Id": 1001382,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 82,
+        "TotalPoint": 2150
+    },
+    {
+        "Id": 1001383,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 83,
+        "TotalPoint": 2200
+    },
+    {
+        "Id": 1001384,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 84,
+        "TotalPoint": 2250
+    },
+    {
+        "Id": 1001385,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 85,
+        "TotalPoint": 2300
+    },
+    {
+        "Id": 1001386,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 86,
+        "TotalPoint": 2350
+    },
+    {
+        "Id": 1001387,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 87,
+        "TotalPoint": 2400
+    },
+    {
+        "Id": 1001388,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 88,
+        "TotalPoint": 2450
+    },
+    {
+        "Id": 1001389,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 89,
+        "TotalPoint": 2500
+    },
+    {
+        "Id": 1001390,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 90,
+        "TotalPoint": 2550
+    },
+    {
+        "Id": 1001391,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 91,
+        "TotalPoint": 2600
+    },
+    {
+        "Id": 1001392,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 92,
+        "TotalPoint": 2650
+    },
+    {
+        "Id": 1001393,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 93,
+        "TotalPoint": 2700
+    },
+    {
+        "Id": 1001394,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 94,
+        "TotalPoint": 2750
+    },
+    {
+        "Id": 1001395,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 95,
+        "TotalPoint": 2800
+    },
+    {
+        "Id": 1001396,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 96,
+        "TotalPoint": 2850
+    },
+    {
+        "Id": 1001397,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 97,
+        "TotalPoint": 2900
+    },
+    {
+        "Id": 1001398,
+        "IsPickupReward": false,
+        "PresentPartyId": 10013,
+        "Rank": 98,
+        "TotalPoint": 2950
+    },
+    {
+        "Id": 1001399,
+        "IsPickupReward": true,
+        "PresentPartyId": 10013,
+        "Rank": 99,
+        "TotalPoint": 3000
+    },
+    {
+        "Id": 1001401,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001402,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001403,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001404,
+        "IsPickupReward": true,
+        "PresentPartyId": 10014,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001405,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001406,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001407,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001408,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001409,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001410,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001411,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001412,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001413,
+        "IsPickupReward": true,
+        "PresentPartyId": 10014,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001414,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001415,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001416,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001417,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001418,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001419,
+        "IsPickupReward": false,
+        "PresentPartyId": 10014,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001420,
+        "IsPickupReward": true,
+        "PresentPartyId": 10014,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001501,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001502,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001503,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001504,
+        "IsPickupReward": true,
+        "PresentPartyId": 10015,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001505,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001506,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001507,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001508,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001509,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001510,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001511,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001512,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001513,
+        "IsPickupReward": true,
+        "PresentPartyId": 10015,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001514,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001515,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001516,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001517,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001518,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001519,
+        "IsPickupReward": false,
+        "PresentPartyId": 10015,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001520,
+        "IsPickupReward": true,
+        "PresentPartyId": 10015,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001601,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001602,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 2,
+        "TotalPoint": 645
+    },
+    {
+        "Id": 1001603,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 3,
+        "TotalPoint": 1386
+    },
+    {
+        "Id": 1001604,
+        "IsPickupReward": true,
+        "PresentPartyId": 10016,
+        "Rank": 4,
+        "TotalPoint": 2190
+    },
+    {
+        "Id": 1001605,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 5,
+        "TotalPoint": 3063
+    },
+    {
+        "Id": 1001606,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 6,
+        "TotalPoint": 4011
+    },
+    {
+        "Id": 1001607,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 7,
+        "TotalPoint": 5040
+    },
+    {
+        "Id": 1001608,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 8,
+        "TotalPoint": 6159
+    },
+    {
+        "Id": 1001609,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 9,
+        "TotalPoint": 7374
+    },
+    {
+        "Id": 1001610,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 10,
+        "TotalPoint": 8691
+    },
+    {
+        "Id": 1001611,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 11,
+        "TotalPoint": 10122
+    },
+    {
+        "Id": 1001612,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 12,
+        "TotalPoint": 11676
+    },
+    {
+        "Id": 1001613,
+        "IsPickupReward": true,
+        "PresentPartyId": 10016,
+        "Rank": 13,
+        "TotalPoint": 13362
+    },
+    {
+        "Id": 1001614,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 14,
+        "TotalPoint": 15195
+    },
+    {
+        "Id": 1001615,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 15,
+        "TotalPoint": 17184
+    },
+    {
+        "Id": 1001616,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 16,
+        "TotalPoint": 19344
+    },
+    {
+        "Id": 1001617,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 17,
+        "TotalPoint": 21690
+    },
+    {
+        "Id": 1001618,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 18,
+        "TotalPoint": 24237
+    },
+    {
+        "Id": 1001619,
+        "IsPickupReward": false,
+        "PresentPartyId": 10016,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001620,
+        "IsPickupReward": true,
+        "PresentPartyId": 10016,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001701,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001702,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 2,
+        "TotalPoint": 700
+    },
+    {
+        "Id": 1001703,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 3,
+        "TotalPoint": 1450
+    },
+    {
+        "Id": 1001704,
+        "IsPickupReward": true,
+        "PresentPartyId": 10017,
+        "Rank": 4,
+        "TotalPoint": 2200
+    },
+    {
+        "Id": 1001705,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 5,
+        "TotalPoint": 3100
+    },
+    {
+        "Id": 1001706,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 6,
+        "TotalPoint": 4000
+    },
+    {
+        "Id": 1001707,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 7,
+        "TotalPoint": 5000
+    },
+    {
+        "Id": 1001708,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 8,
+        "TotalPoint": 6200
+    },
+    {
+        "Id": 1001709,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 9,
+        "TotalPoint": 7400
+    },
+    {
+        "Id": 1001710,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 10,
+        "TotalPoint": 8700
+    },
+    {
+        "Id": 1001711,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 11,
+        "TotalPoint": 10100
+    },
+    {
+        "Id": 1001712,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 12,
+        "TotalPoint": 11700
+    },
+    {
+        "Id": 1001713,
+        "IsPickupReward": true,
+        "PresentPartyId": 10017,
+        "Rank": 13,
+        "TotalPoint": 13400
+    },
+    {
+        "Id": 1001714,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 14,
+        "TotalPoint": 15200
+    },
+    {
+        "Id": 1001715,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 15,
+        "TotalPoint": 17200
+    },
+    {
+        "Id": 1001716,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 16,
+        "TotalPoint": 19300
+    },
+    {
+        "Id": 1001717,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 17,
+        "TotalPoint": 21700
+    },
+    {
+        "Id": 1001718,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 18,
+        "TotalPoint": 24300
+    },
+    {
+        "Id": 1001719,
+        "IsPickupReward": false,
+        "PresentPartyId": 10017,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001720,
+        "IsPickupReward": true,
+        "PresentPartyId": 10017,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001801,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001802,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 2,
+        "TotalPoint": 700
+    },
+    {
+        "Id": 1001803,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 3,
+        "TotalPoint": 1450
+    },
+    {
+        "Id": 1001804,
+        "IsPickupReward": true,
+        "PresentPartyId": 10018,
+        "Rank": 4,
+        "TotalPoint": 2200
+    },
+    {
+        "Id": 1001805,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 5,
+        "TotalPoint": 3100
+    },
+    {
+        "Id": 1001806,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 6,
+        "TotalPoint": 4000
+    },
+    {
+        "Id": 1001807,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 7,
+        "TotalPoint": 5000
+    },
+    {
+        "Id": 1001808,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 8,
+        "TotalPoint": 6200
+    },
+    {
+        "Id": 1001809,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 9,
+        "TotalPoint": 7400
+    },
+    {
+        "Id": 1001810,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 10,
+        "TotalPoint": 8700
+    },
+    {
+        "Id": 1001811,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 11,
+        "TotalPoint": 10100
+    },
+    {
+        "Id": 1001812,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 12,
+        "TotalPoint": 11700
+    },
+    {
+        "Id": 1001813,
+        "IsPickupReward": true,
+        "PresentPartyId": 10018,
+        "Rank": 13,
+        "TotalPoint": 13400
+    },
+    {
+        "Id": 1001814,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 14,
+        "TotalPoint": 15200
+    },
+    {
+        "Id": 1001815,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 15,
+        "TotalPoint": 17200
+    },
+    {
+        "Id": 1001816,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 16,
+        "TotalPoint": 19300
+    },
+    {
+        "Id": 1001817,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 17,
+        "TotalPoint": 21700
+    },
+    {
+        "Id": 1001818,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 18,
+        "TotalPoint": 24300
+    },
+    {
+        "Id": 1001819,
+        "IsPickupReward": false,
+        "PresentPartyId": 10018,
+        "Rank": 19,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001820,
+        "IsPickupReward": true,
+        "PresentPartyId": 10018,
+        "Rank": 20,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001901,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 1,
+        "TotalPoint": 0
+    },
+    {
+        "Id": 1001902,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 2,
+        "TotalPoint": 750
+    },
+    {
+        "Id": 1001903,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 3,
+        "TotalPoint": 1500
+    },
+    {
+        "Id": 1001904,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 4,
+        "TotalPoint": 2250
+    },
+    {
+        "Id": 1001905,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 5,
+        "TotalPoint": 3000
+    },
+    {
+        "Id": 1001906,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 6,
+        "TotalPoint": 3750
+    },
+    {
+        "Id": 1001907,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 7,
+        "TotalPoint": 4500
+    },
+    {
+        "Id": 1001908,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 8,
+        "TotalPoint": 5250
+    },
+    {
+        "Id": 1001909,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 9,
+        "TotalPoint": 6000
+    },
+    {
+        "Id": 1001910,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 10,
+        "TotalPoint": 6750
+    },
+    {
+        "Id": 1001911,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 11,
+        "TotalPoint": 7500
+    },
+    {
+        "Id": 1001912,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 12,
+        "TotalPoint": 8250
+    },
+    {
+        "Id": 1001913,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 13,
+        "TotalPoint": 9000
+    },
+    {
+        "Id": 1001914,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 14,
+        "TotalPoint": 9750
+    },
+    {
+        "Id": 1001915,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 15,
+        "TotalPoint": 10500
+    },
+    {
+        "Id": 1001916,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 16,
+        "TotalPoint": 11250
+    },
+    {
+        "Id": 1001917,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 17,
+        "TotalPoint": 12000
+    },
+    {
+        "Id": 1001918,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 18,
+        "TotalPoint": 12750
+    },
+    {
+        "Id": 1001919,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 19,
+        "TotalPoint": 13500
+    },
+    {
+        "Id": 1001920,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 20,
+        "TotalPoint": 14250
+    },
+    {
+        "Id": 1001921,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 21,
+        "TotalPoint": 15000
+    },
+    {
+        "Id": 1001922,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 22,
+        "TotalPoint": 16000
+    },
+    {
+        "Id": 1001923,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 23,
+        "TotalPoint": 17000
+    },
+    {
+        "Id": 1001924,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 24,
+        "TotalPoint": 18000
+    },
+    {
+        "Id": 1001925,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 25,
+        "TotalPoint": 19000
+    },
+    {
+        "Id": 1001926,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 26,
+        "TotalPoint": 20000
+    },
+    {
+        "Id": 1001927,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 27,
+        "TotalPoint": 21000
+    },
+    {
+        "Id": 1001928,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 28,
+        "TotalPoint": 22000
+    },
+    {
+        "Id": 1001929,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 29,
+        "TotalPoint": 23000
+    },
+    {
+        "Id": 1001930,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 30,
+        "TotalPoint": 24000
+    },
+    {
+        "Id": 1001931,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 31,
+        "TotalPoint": 25000
+    },
+    {
+        "Id": 1001932,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 32,
+        "TotalPoint": 26000
+    },
+    {
+        "Id": 1001933,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 33,
+        "TotalPoint": 27000
+    },
+    {
+        "Id": 1001934,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 34,
+        "TotalPoint": 28000
+    },
+    {
+        "Id": 1001935,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 35,
+        "TotalPoint": 29000
+    },
+    {
+        "Id": 1001936,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 36,
+        "TotalPoint": 30000
+    },
+    {
+        "Id": 1001937,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 37,
+        "TotalPoint": 31000
+    },
+    {
+        "Id": 1001938,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 38,
+        "TotalPoint": 32000
+    },
+    {
+        "Id": 1001939,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 39,
+        "TotalPoint": 33000
+    },
+    {
+        "Id": 1001940,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 40,
+        "TotalPoint": 34000
+    },
+    {
+        "Id": 1001941,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 41,
+        "TotalPoint": 35000
+    },
+    {
+        "Id": 1001942,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 42,
+        "TotalPoint": 36500
+    },
+    {
+        "Id": 1001943,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 43,
+        "TotalPoint": 38000
+    },
+    {
+        "Id": 1001944,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 44,
+        "TotalPoint": 39500
+    },
+    {
+        "Id": 1001945,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 45,
+        "TotalPoint": 41000
+    },
+    {
+        "Id": 1001946,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 46,
+        "TotalPoint": 42500
+    },
+    {
+        "Id": 1001947,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 47,
+        "TotalPoint": 44000
+    },
+    {
+        "Id": 1001948,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 48,
+        "TotalPoint": 45500
+    },
+    {
+        "Id": 1001949,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 49,
+        "TotalPoint": 47000
+    },
+    {
+        "Id": 1001950,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 50,
+        "TotalPoint": 48500
+    },
+    {
+        "Id": 1001951,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 51,
+        "TotalPoint": 50000
+    },
+    {
+        "Id": 1001952,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 52,
+        "TotalPoint": 51500
+    },
+    {
+        "Id": 1001953,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 53,
+        "TotalPoint": 53000
+    },
+    {
+        "Id": 1001954,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 54,
+        "TotalPoint": 54500
+    },
+    {
+        "Id": 1001955,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 55,
+        "TotalPoint": 56000
+    },
+    {
+        "Id": 1001956,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 56,
+        "TotalPoint": 57500
+    },
+    {
+        "Id": 1001957,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 57,
+        "TotalPoint": 59000
+    },
+    {
+        "Id": 1001958,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 58,
+        "TotalPoint": 60500
+    },
+    {
+        "Id": 1001959,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 59,
+        "TotalPoint": 62000
+    },
+    {
+        "Id": 1001960,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 60,
+        "TotalPoint": 63500
+    },
+    {
+        "Id": 1001961,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 61,
+        "TotalPoint": 65000
+    },
+    {
+        "Id": 1001962,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 62,
+        "TotalPoint": 67000
+    },
+    {
+        "Id": 1001963,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 63,
+        "TotalPoint": 69000
+    },
+    {
+        "Id": 1001964,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 64,
+        "TotalPoint": 71000
+    },
+    {
+        "Id": 1001965,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 65,
+        "TotalPoint": 73000
+    },
+    {
+        "Id": 1001966,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 66,
+        "TotalPoint": 75000
+    },
+    {
+        "Id": 1001967,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 67,
+        "TotalPoint": 77000
+    },
+    {
+        "Id": 1001968,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 68,
+        "TotalPoint": 79000
+    },
+    {
+        "Id": 1001969,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 69,
+        "TotalPoint": 81000
+    },
+    {
+        "Id": 1001970,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 70,
+        "TotalPoint": 83000
+    },
+    {
+        "Id": 1001971,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 71,
+        "TotalPoint": 85000
+    },
+    {
+        "Id": 1001972,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 72,
+        "TotalPoint": 87000
+    },
+    {
+        "Id": 1001973,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 73,
+        "TotalPoint": 89000
+    },
+    {
+        "Id": 1001974,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 74,
+        "TotalPoint": 91000
+    },
+    {
+        "Id": 1001975,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 75,
+        "TotalPoint": 93000
+    },
+    {
+        "Id": 1001976,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 76,
+        "TotalPoint": 95000
+    },
+    {
+        "Id": 1001977,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 77,
+        "TotalPoint": 97000
+    },
+    {
+        "Id": 1001978,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 78,
+        "TotalPoint": 99000
+    },
+    {
+        "Id": 1001979,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 79,
+        "TotalPoint": 101000
+    },
+    {
+        "Id": 1001980,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 80,
+        "TotalPoint": 103000
+    },
+    {
+        "Id": 1001981,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 81,
+        "TotalPoint": 105000
+    },
+    {
+        "Id": 1001982,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 82,
+        "TotalPoint": 107500
+    },
+    {
+        "Id": 1001983,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 83,
+        "TotalPoint": 110000
+    },
+    {
+        "Id": 1001984,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 84,
+        "TotalPoint": 112500
+    },
+    {
+        "Id": 1001985,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 85,
+        "TotalPoint": 115000
+    },
+    {
+        "Id": 1001986,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 86,
+        "TotalPoint": 117500
+    },
+    {
+        "Id": 1001987,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 87,
+        "TotalPoint": 120000
+    },
+    {
+        "Id": 1001988,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 88,
+        "TotalPoint": 122500
+    },
+    {
+        "Id": 1001989,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 89,
+        "TotalPoint": 125000
+    },
+    {
+        "Id": 1001990,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 90,
+        "TotalPoint": 127500
+    },
+    {
+        "Id": 1001991,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 91,
+        "TotalPoint": 130000
+    },
+    {
+        "Id": 1001992,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 92,
+        "TotalPoint": 132500
+    },
+    {
+        "Id": 1001993,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 93,
+        "TotalPoint": 135000
+    },
+    {
+        "Id": 1001994,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 94,
+        "TotalPoint": 137500
+    },
+    {
+        "Id": 1001995,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 95,
+        "TotalPoint": 140000
+    },
+    {
+        "Id": 1001996,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 96,
+        "TotalPoint": 142500
+    },
+    {
+        "Id": 1001997,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 97,
+        "TotalPoint": 145000
+    },
+    {
+        "Id": 1001998,
+        "IsPickupReward": false,
+        "PresentPartyId": 10019,
+        "Rank": 98,
+        "TotalPoint": 147500
+    },
+    {
+        "Id": 1001999,
+        "IsPickupReward": true,
+        "PresentPartyId": 10019,
+        "Rank": 99,
+        "TotalPoint": 150000
+    }
+]

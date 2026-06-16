@@ -1,0 +1,170 @@
+[
+    {
+        "BattleSkillId": 10001,
+        "DefaultDisplayOrder": 1,
+        "Id": 101,
+        "OpenPlayerRank": 5,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10002,
+        "DefaultDisplayOrder": 2,
+        "Id": 102,
+        "OpenPlayerRank": 10,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10003,
+        "DefaultDisplayOrder": 3,
+        "Id": 103,
+        "OpenPlayerRank": 15,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10004,
+        "DefaultDisplayOrder": 4,
+        "Id": 104,
+        "OpenPlayerRank": 20,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10005,
+        "DefaultDisplayOrder": 5,
+        "Id": 105,
+        "OpenPlayerRank": 25,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10006,
+        "DefaultDisplayOrder": 6,
+        "Id": 106,
+        "OpenPlayerRank": 30,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10007,
+        "DefaultDisplayOrder": 7,
+        "Id": 107,
+        "OpenPlayerRank": 40,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 10008,
+        "DefaultDisplayOrder": 8,
+        "Id": 108,
+        "OpenPlayerRank": 50,
+        "UnitType": 1
+    },
+    {
+        "BattleSkillId": 20001,
+        "DefaultDisplayOrder": 1,
+        "Id": 201,
+        "OpenPlayerRank": 5,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20002,
+        "DefaultDisplayOrder": 2,
+        "Id": 202,
+        "OpenPlayerRank": 10,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20003,
+        "DefaultDisplayOrder": 3,
+        "Id": 203,
+        "OpenPlayerRank": 15,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20004,
+        "DefaultDisplayOrder": 4,
+        "Id": 204,
+        "OpenPlayerRank": 20,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20005,
+        "DefaultDisplayOrder": 5,
+        "Id": 205,
+        "OpenPlayerRank": 25,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20006,
+        "DefaultDisplayOrder": 6,
+        "Id": 206,
+        "OpenPlayerRank": 30,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20007,
+        "DefaultDisplayOrder": 7,
+        "Id": 207,
+        "OpenPlayerRank": 40,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 20008,
+        "DefaultDisplayOrder": 8,
+        "Id": 208,
+        "OpenPlayerRank": 50,
+        "UnitType": 2
+    },
+    {
+        "BattleSkillId": 30001,
+        "DefaultDisplayOrder": 1,
+        "Id": 301,
+        "OpenPlayerRank": 5,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30002,
+        "DefaultDisplayOrder": 2,
+        "Id": 302,
+        "OpenPlayerRank": 10,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30003,
+        "DefaultDisplayOrder": 3,
+        "Id": 303,
+        "OpenPlayerRank": 15,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30004,
+        "DefaultDisplayOrder": 4,
+        "Id": 304,
+        "OpenPlayerRank": 20,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30005,
+        "DefaultDisplayOrder": 5,
+        "Id": 305,
+        "OpenPlayerRank": 25,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30006,
+        "DefaultDisplayOrder": 6,
+        "Id": 306,
+        "OpenPlayerRank": 30,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30007,
+        "DefaultDisplayOrder": 7,
+        "Id": 307,
+        "OpenPlayerRank": 40,
+        "UnitType": 3
+    },
+    {
+        "BattleSkillId": 30008,
+        "DefaultDisplayOrder": 8,
+        "Id": 308,
+        "OpenPlayerRank": 50,
+        "UnitType": 3
+    }
+]

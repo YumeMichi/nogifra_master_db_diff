@@ -1,0 +1,488 @@
+[
+    {
+        "Id": 32000011,
+        "LotteryLoginBonusId": 3200001,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000012,
+        "LotteryLoginBonusId": 3200001,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000013,
+        "LotteryLoginBonusId": 3200001,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000014,
+        "LotteryLoginBonusId": 3200001,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000021,
+        "LotteryLoginBonusId": 3200002,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000022,
+        "LotteryLoginBonusId": 3200002,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000023,
+        "LotteryLoginBonusId": 3200002,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000031,
+        "LotteryLoginBonusId": 3200003,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000032,
+        "LotteryLoginBonusId": 3200003,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000033,
+        "LotteryLoginBonusId": 3200003,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000034,
+        "LotteryLoginBonusId": 3200003,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000035,
+        "LotteryLoginBonusId": 3200003,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000041,
+        "LotteryLoginBonusId": 3200004,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000042,
+        "LotteryLoginBonusId": 3200004,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000043,
+        "LotteryLoginBonusId": 3200004,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000051,
+        "LotteryLoginBonusId": 3200005,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000052,
+        "LotteryLoginBonusId": 3200005,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000053,
+        "LotteryLoginBonusId": 3200005,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000054,
+        "LotteryLoginBonusId": 3200005,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000055,
+        "LotteryLoginBonusId": 3200005,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000061,
+        "LotteryLoginBonusId": 3200006,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000062,
+        "LotteryLoginBonusId": 3200006,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000063,
+        "LotteryLoginBonusId": 3200006,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000071,
+        "LotteryLoginBonusId": 3200007,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000072,
+        "LotteryLoginBonusId": 3200007,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000073,
+        "LotteryLoginBonusId": 3200007,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000081,
+        "LotteryLoginBonusId": 3200008,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000082,
+        "LotteryLoginBonusId": 3200008,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000083,
+        "LotteryLoginBonusId": 3200008,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000084,
+        "LotteryLoginBonusId": 3200008,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000085,
+        "LotteryLoginBonusId": 3200008,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000101,
+        "LotteryLoginBonusId": 3200010,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000102,
+        "LotteryLoginBonusId": 3200010,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000103,
+        "LotteryLoginBonusId": 3200010,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000111,
+        "LotteryLoginBonusId": 3200011,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000112,
+        "LotteryLoginBonusId": 3200011,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000113,
+        "LotteryLoginBonusId": 3200011,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000114,
+        "LotteryLoginBonusId": 3200011,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000115,
+        "LotteryLoginBonusId": 3200011,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000131,
+        "LotteryLoginBonusId": 3200013,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000132,
+        "LotteryLoginBonusId": 3200013,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000133,
+        "LotteryLoginBonusId": 3200013,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000134,
+        "LotteryLoginBonusId": 3200013,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000141,
+        "LotteryLoginBonusId": 3200014,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000142,
+        "LotteryLoginBonusId": 3200014,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000143,
+        "LotteryLoginBonusId": 3200014,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000144,
+        "LotteryLoginBonusId": 3200014,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000151,
+        "LotteryLoginBonusId": 3200015,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000152,
+        "LotteryLoginBonusId": 3200015,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000153,
+        "LotteryLoginBonusId": 3200015,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000154,
+        "LotteryLoginBonusId": 3200015,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000155,
+        "LotteryLoginBonusId": 3200015,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000156,
+        "LotteryLoginBonusId": 3200016,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000157,
+        "LotteryLoginBonusId": 3200016,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000158,
+        "LotteryLoginBonusId": 3200016,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000159,
+        "LotteryLoginBonusId": 3200016,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000160,
+        "LotteryLoginBonusId": 3200016,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000161,
+        "LotteryLoginBonusId": 3200017,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000162,
+        "LotteryLoginBonusId": 3200017,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000163,
+        "LotteryLoginBonusId": 3200017,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000164,
+        "LotteryLoginBonusId": 3200017,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000165,
+        "LotteryLoginBonusId": 3200017,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000181,
+        "LotteryLoginBonusId": 3200018,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000182,
+        "LotteryLoginBonusId": 3200018,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000183,
+        "LotteryLoginBonusId": 3200018,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000184,
+        "LotteryLoginBonusId": 3200018,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000185,
+        "LotteryLoginBonusId": 3200018,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000191,
+        "LotteryLoginBonusId": 3200019,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000192,
+        "LotteryLoginBonusId": 3200019,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000193,
+        "LotteryLoginBonusId": 3200019,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000194,
+        "LotteryLoginBonusId": 3200019,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000201,
+        "LotteryLoginBonusId": 3200020,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000202,
+        "LotteryLoginBonusId": 3200020,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000203,
+        "LotteryLoginBonusId": 3200020,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000204,
+        "LotteryLoginBonusId": 3200020,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000205,
+        "LotteryLoginBonusId": 3200020,
+        "Order": 5,
+        "Rank": 5
+    },
+    {
+        "Id": 32000211,
+        "LotteryLoginBonusId": 3200021,
+        "Order": 1,
+        "Rank": 1
+    },
+    {
+        "Id": 32000212,
+        "LotteryLoginBonusId": 3200021,
+        "Order": 2,
+        "Rank": 2
+    },
+    {
+        "Id": 32000213,
+        "LotteryLoginBonusId": 3200021,
+        "Order": 3,
+        "Rank": 3
+    },
+    {
+        "Id": 32000214,
+        "LotteryLoginBonusId": 3200021,
+        "Order": 4,
+        "Rank": 4
+    },
+    {
+        "Id": 32000215,
+        "LotteryLoginBonusId": 3200021,
+        "Order": 5,
+        "Rank": 5
+    }
+]

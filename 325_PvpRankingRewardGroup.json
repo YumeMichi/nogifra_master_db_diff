@@ -1,0 +1,314 @@
+[
+    {
+        "FromRanking": 1,
+        "Id": 1,
+        "ScheduleId": 1,
+        "ToRanking": 1
+    },
+    {
+        "FromRanking": 2,
+        "Id": 2,
+        "ScheduleId": 1,
+        "ToRanking": 2
+    },
+    {
+        "FromRanking": 3,
+        "Id": 3,
+        "ScheduleId": 1,
+        "ToRanking": 3
+    },
+    {
+        "FromRanking": 4,
+        "Id": 4,
+        "ScheduleId": 1,
+        "ToRanking": 4
+    },
+    {
+        "FromRanking": 5,
+        "Id": 5,
+        "ScheduleId": 1,
+        "ToRanking": 5
+    },
+    {
+        "FromRanking": 6,
+        "Id": 6,
+        "ScheduleId": 1,
+        "ToRanking": 6
+    },
+    {
+        "FromRanking": 7,
+        "Id": 7,
+        "ScheduleId": 1,
+        "ToRanking": 7
+    },
+    {
+        "FromRanking": 8,
+        "Id": 8,
+        "ScheduleId": 1,
+        "ToRanking": 8
+    },
+    {
+        "FromRanking": 9,
+        "Id": 9,
+        "ScheduleId": 1,
+        "ToRanking": 9
+    },
+    {
+        "FromRanking": 10,
+        "Id": 10,
+        "ScheduleId": 1,
+        "ToRanking": 10
+    },
+    {
+        "FromRanking": 11,
+        "Id": 11,
+        "ScheduleId": 1,
+        "ToRanking": 11
+    },
+    {
+        "FromRanking": 12,
+        "Id": 12,
+        "ScheduleId": 1,
+        "ToRanking": 12
+    },
+    {
+        "FromRanking": 13,
+        "Id": 13,
+        "ScheduleId": 1,
+        "ToRanking": 13
+    },
+    {
+        "FromRanking": 14,
+        "Id": 14,
+        "ScheduleId": 1,
+        "ToRanking": 14
+    },
+    {
+        "FromRanking": 15,
+        "Id": 15,
+        "ScheduleId": 1,
+        "ToRanking": 19
+    },
+    {
+        "FromRanking": 20,
+        "Id": 16,
+        "ScheduleId": 1,
+        "ToRanking": 29
+    },
+    {
+        "FromRanking": 30,
+        "Id": 17,
+        "ScheduleId": 1,
+        "ToRanking": 39
+    },
+    {
+        "FromRanking": 40,
+        "Id": 18,
+        "ScheduleId": 1,
+        "ToRanking": 49
+    },
+    {
+        "FromRanking": 50,
+        "Id": 19,
+        "ScheduleId": 1,
+        "ToRanking": 59
+    },
+    {
+        "FromRanking": 60,
+        "Id": 20,
+        "ScheduleId": 1,
+        "ToRanking": 69
+    },
+    {
+        "FromRanking": 70,
+        "Id": 21,
+        "ScheduleId": 1,
+        "ToRanking": 79
+    },
+    {
+        "FromRanking": 80,
+        "Id": 22,
+        "ScheduleId": 1,
+        "ToRanking": 89
+    },
+    {
+        "FromRanking": 90,
+        "Id": 23,
+        "ScheduleId": 1,
+        "ToRanking": 99
+    },
+    {
+        "FromRanking": 100,
+        "Id": 24,
+        "ScheduleId": 1,
+        "ToRanking": 119
+    },
+    {
+        "FromRanking": 120,
+        "Id": 25,
+        "ScheduleId": 1,
+        "ToRanking": 139
+    },
+    {
+        "FromRanking": 140,
+        "Id": 26,
+        "ScheduleId": 1,
+        "ToRanking": 159
+    },
+    {
+        "FromRanking": 160,
+        "Id": 27,
+        "ScheduleId": 1,
+        "ToRanking": 179
+    },
+    {
+        "FromRanking": 180,
+        "Id": 28,
+        "ScheduleId": 1,
+        "ToRanking": 199
+    },
+    {
+        "FromRanking": 200,
+        "Id": 29,
+        "ScheduleId": 1,
+        "ToRanking": 249
+    },
+    {
+        "FromRanking": 250,
+        "Id": 30,
+        "ScheduleId": 1,
+        "ToRanking": 299
+    },
+    {
+        "FromRanking": 300,
+        "Id": 31,
+        "ScheduleId": 1,
+        "ToRanking": 349
+    },
+    {
+        "FromRanking": 350,
+        "Id": 32,
+        "ScheduleId": 1,
+        "ToRanking": 399
+    },
+    {
+        "FromRanking": 400,
+        "Id": 33,
+        "ScheduleId": 1,
+        "ToRanking": 499
+    },
+    {
+        "FromRanking": 500,
+        "Id": 34,
+        "ScheduleId": 1,
+        "ToRanking": 599
+    },
+    {
+        "FromRanking": 600,
+        "Id": 35,
+        "ScheduleId": 1,
+        "ToRanking": 699
+    },
+    {
+        "FromRanking": 700,
+        "Id": 36,
+        "ScheduleId": 1,
+        "ToRanking": 799
+    },
+    {
+        "FromRanking": 800,
+        "Id": 37,
+        "ScheduleId": 1,
+        "ToRanking": 899
+    },
+    {
+        "FromRanking": 900,
+        "Id": 38,
+        "ScheduleId": 1,
+        "ToRanking": 999
+    },
+    {
+        "FromRanking": 1000,
+        "Id": 39,
+        "ScheduleId": 1,
+        "ToRanking": 1099
+    },
+    {
+        "FromRanking": 1100,
+        "Id": 40,
+        "ScheduleId": 1,
+        "ToRanking": 1199
+    },
+    {
+        "FromRanking": 1200,
+        "Id": 41,
+        "ScheduleId": 1,
+        "ToRanking": 1299
+    },
+    {
+        "FromRanking": 1300,
+        "Id": 42,
+        "ScheduleId": 1,
+        "ToRanking": 1399
+    },
+    {
+        "FromRanking": 1400,
+        "Id": 43,
+        "ScheduleId": 1,
+        "ToRanking": 1499
+    },
+    {
+        "FromRanking": 1500,
+        "Id": 44,
+        "ScheduleId": 1,
+        "ToRanking": 1599
+    },
+    {
+        "FromRanking": 1600,
+        "Id": 45,
+        "ScheduleId": 1,
+        "ToRanking": 1699
+    },
+    {
+        "FromRanking": 1700,
+        "Id": 46,
+        "ScheduleId": 1,
+        "ToRanking": 1799
+    },
+    {
+        "FromRanking": 1800,
+        "Id": 47,
+        "ScheduleId": 1,
+        "ToRanking": 1899
+    },
+    {
+        "FromRanking": 1900,
+        "Id": 48,
+        "ScheduleId": 1,
+        "ToRanking": 1999
+    },
+    {
+        "FromRanking": 2000,
+        "Id": 49,
+        "ScheduleId": 1,
+        "ToRanking": 2999
+    },
+    {
+        "FromRanking": 3000,
+        "Id": 50,
+        "ScheduleId": 1,
+        "ToRanking": 4999
+    },
+    {
+        "FromRanking": 5000,
+        "Id": 51,
+        "ScheduleId": 1,
+        "ToRanking": 9999
+    },
+    {
+        "FromRanking": 10000,
+        "Id": 52,
+        "ScheduleId": 1,
+        "ToRanking": 0
+    }
+]

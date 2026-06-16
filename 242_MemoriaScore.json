@@ -1,0 +1,2781 @@
+[
+    {
+        "Id": 10000102,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000102,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4784
+    },
+    {
+        "Id": 10000202,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000202,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4784
+    },
+    {
+        "Id": 10000302,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000302,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4784
+    },
+    {
+        "Id": 10000402,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000402,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4784
+    },
+    {
+        "Id": 10002102,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002102,
+        "ScoreValueFrom": 132,
+        "ScoreValueTo": 2340
+    },
+    {
+        "Id": 10002202,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002202,
+        "ScoreValueFrom": 133,
+        "ScoreValueTo": 2342
+    },
+    {
+        "Id": 10002302,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002302,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2376
+    },
+    {
+        "Id": 10002402,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002402,
+        "ScoreValueFrom": 136,
+        "ScoreValueTo": 2384
+    },
+    {
+        "Id": 10004101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10004101,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10004145,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000101,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10004146,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000201,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10004201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004201,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4664
+    },
+    {
+        "Id": 10004301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004301,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4692
+    },
+    {
+        "Id": 10004401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004401,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4785
+    },
+    {
+        "Id": 10005101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10005201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10005301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10005401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10005401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10006101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10006201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10006301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10006301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10006401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10007101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10007201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10007201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10007301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10007401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10008101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10008101,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3514
+    },
+    {
+        "Id": 10008201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008201,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4686
+    },
+    {
+        "Id": 10008301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4695
+    },
+    {
+        "Id": 10008401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008401,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4660
+    },
+    {
+        "Id": 10009101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4713
+    },
+    {
+        "Id": 10009201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4716
+    },
+    {
+        "Id": 10009301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009301,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4650
+    },
+    {
+        "Id": 10009401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10009401,
+        "ScoreValueFrom": 203,
+        "ScoreValueTo": 3538
+    },
+    {
+        "Id": 10010101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4688
+    },
+    {
+        "Id": 10010201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010201,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4688
+    },
+    {
+        "Id": 10010301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10010301,
+        "ScoreValueFrom": 198,
+        "ScoreValueTo": 3488
+    },
+    {
+        "Id": 10010401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010401,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4688
+    },
+    {
+        "Id": 10011101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4692
+    },
+    {
+        "Id": 10011201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10011201,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3518
+    },
+    {
+        "Id": 10011301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4692
+    },
+    {
+        "Id": 10011401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4692
+    },
+    {
+        "Id": 10012101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10012101,
+        "ScoreValueFrom": 205,
+        "ScoreValueTo": 3586
+    },
+    {
+        "Id": 10012201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012201,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4790
+    },
+    {
+        "Id": 10012301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012301,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4790
+    },
+    {
+        "Id": 10012401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012401,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4790
+    },
+    {
+        "Id": 10013101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4732
+    },
+    {
+        "Id": 10013201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013201,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4657
+    },
+    {
+        "Id": 10013301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013301,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4660
+    },
+    {
+        "Id": 10013401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10013401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3535
+    },
+    {
+        "Id": 10014101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014101,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4765
+    },
+    {
+        "Id": 10014201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014201,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4765
+    },
+    {
+        "Id": 10014301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10014301,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3562
+    },
+    {
+        "Id": 10014401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10015101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015101,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4760
+    },
+    {
+        "Id": 10015201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10015201,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3546
+    },
+    {
+        "Id": 10015301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4738
+    },
+    {
+        "Id": 10015401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015401,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4740
+    },
+    {
+        "Id": 10016101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10016101,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3511
+    },
+    {
+        "Id": 10016201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016201,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4682
+    },
+    {
+        "Id": 10016301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016301,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4682
+    },
+    {
+        "Id": 10016401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016401,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4682
+    },
+    {
+        "Id": 10017101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017101,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4756
+    },
+    {
+        "Id": 10017201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017201,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4756
+    },
+    {
+        "Id": 10017301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017301,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4770
+    },
+    {
+        "Id": 10017401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10017401,
+        "ScoreValueFrom": 204,
+        "ScoreValueTo": 3567
+    },
+    {
+        "Id": 10018101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018101,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4756
+    },
+    {
+        "Id": 10018201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4731
+    },
+    {
+        "Id": 10018301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10018301,
+        "ScoreValueFrom": 204,
+        "ScoreValueTo": 3592
+    },
+    {
+        "Id": 10018401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018401,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4746
+    },
+    {
+        "Id": 10019101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4693
+    },
+    {
+        "Id": 10019201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10019201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4731
+    },
+    {
+        "Id": 10019301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4684
+    },
+    {
+        "Id": 10019401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019401,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4756
+    },
+    {
+        "Id": 10020101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10020101,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3558
+    },
+    {
+        "Id": 10020201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4720
+    },
+    {
+        "Id": 10020301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020301,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4782
+    },
+    {
+        "Id": 10020401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10021101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 3558
+    },
+    {
+        "Id": 10021201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4720
+    },
+    {
+        "Id": 10021301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4782
+    },
+    {
+        "Id": 10021401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10021401,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10022101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022101,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4746
+    },
+    {
+        "Id": 10022201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4712
+    },
+    {
+        "Id": 10022301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022301,
+        "ScoreValueFrom": 265,
+        "ScoreValueTo": 4633
+    },
+    {
+        "Id": 10022401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10022401,
+        "ScoreValueFrom": 203,
+        "ScoreValueTo": 3573
+    },
+    {
+        "Id": 10023101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023101,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4652
+    },
+    {
+        "Id": 10023201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10023201,
+        "ScoreValueFrom": 198,
+        "ScoreValueTo": 3488
+    },
+    {
+        "Id": 10023301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023301,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4652
+    },
+    {
+        "Id": 10023401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023401,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4652
+    },
+    {
+        "Id": 10024101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10024101,
+        "ScoreValueFrom": 199,
+        "ScoreValueTo": 3487
+    },
+    {
+        "Id": 10024201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024201,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4759
+    },
+    {
+        "Id": 10024301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024301,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4759
+    },
+    {
+        "Id": 10024401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024401,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4759
+    },
+    {
+        "Id": 10025101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4712
+    },
+    {
+        "Id": 10025201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4719
+    },
+    {
+        "Id": 10025301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10025301,
+        "ScoreValueFrom": 203,
+        "ScoreValueTo": 3573
+    },
+    {
+        "Id": 10025401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025401,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4767
+    },
+    {
+        "Id": 10026101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026101,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4756
+    },
+    {
+        "Id": 10026201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10026201,
+        "ScoreValueFrom": 199,
+        "ScoreValueTo": 3490
+    },
+    {
+        "Id": 10026301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026301,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4742
+    },
+    {
+        "Id": 10026401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026401,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4742
+    },
+    {
+        "Id": 10027101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10027101,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3511
+    },
+    {
+        "Id": 10027201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027201,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4680
+    },
+    {
+        "Id": 10027301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10027401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027401,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4784
+    },
+    {
+        "Id": 10028101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028101,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4746
+    },
+    {
+        "Id": 10028201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028201,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4780
+    },
+    {
+        "Id": 10028301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028301,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4688
+    },
+    {
+        "Id": 10028401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10028401,
+        "ScoreValueFrom": 204,
+        "ScoreValueTo": 3578
+    },
+    {
+        "Id": 10029101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029101,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4734
+    },
+    {
+        "Id": 10029201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029201,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4796
+    },
+    {
+        "Id": 10029301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10029301,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3540
+    },
+    {
+        "Id": 10029401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029401,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4740
+    },
+    {
+        "Id": 10030101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030101,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4749
+    },
+    {
+        "Id": 10030201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10030201,
+        "ScoreValueFrom": 205,
+        "ScoreValueTo": 3592
+    },
+    {
+        "Id": 10030301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030301,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4749
+    },
+    {
+        "Id": 10030401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030401,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4749
+    },
+    {
+        "Id": 10031201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10031201,
+        "ScoreValueFrom": 206,
+        "ScoreValueTo": 3584
+    },
+    {
+        "Id": 10032101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10032101,
+        "ScoreValueFrom": 203,
+        "ScoreValueTo": 3556
+    },
+    {
+        "Id": 10032201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032201,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10032301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032301,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10032401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032401,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10033101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4699
+    },
+    {
+        "Id": 10033201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10033301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033301,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10033401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10033401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10034101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10034201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10034301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10034301,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3534
+    },
+    {
+        "Id": 10034401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4713
+    },
+    {
+        "Id": 10035101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10035201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10035201,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3534
+    },
+    {
+        "Id": 10035301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10035401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4710
+    },
+    {
+        "Id": 10036101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036101,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4647
+    },
+    {
+        "Id": 10036201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036201,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4647
+    },
+    {
+        "Id": 10036301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036301,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4652
+    },
+    {
+        "Id": 10036401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036401,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4647
+    },
+    {
+        "Id": 10037101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037101,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4684
+    },
+    {
+        "Id": 10037201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037201,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4684
+    },
+    {
+        "Id": 10037301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037301,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4684
+    },
+    {
+        "Id": 10037401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037401,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4684
+    },
+    {
+        "Id": 10038101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10038101,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3524
+    },
+    {
+        "Id": 10038201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10038301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10038401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10039401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10039401,
+        "ScoreValueFrom": 204,
+        "ScoreValueTo": 3584
+    },
+    {
+        "Id": 10040101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10040201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10040301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10040401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10040401,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10041101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10041201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10041301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10041301,
+        "ScoreValueFrom": 203,
+        "ScoreValueTo": 3531
+    },
+    {
+        "Id": 10041401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10042101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10042201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10042301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10042401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10043101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043101,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10043201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10043201,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10043301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10043401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10044101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10044101,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3528
+    },
+    {
+        "Id": 10044201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10044301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10044401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10045101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045101,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10045201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10045301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10045401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10045401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10046101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046101,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10046201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046201,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10046301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046301,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10046302,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046302,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4800
+    },
+    {
+        "Id": 10046401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046401,
+        "ScoreValueFrom": 273,
+        "ScoreValueTo": 4744
+    },
+    {
+        "Id": 10047101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4698
+    },
+    {
+        "Id": 10047201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4698
+    },
+    {
+        "Id": 10047301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10047301,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3524
+    },
+    {
+        "Id": 10047401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4698
+    },
+    {
+        "Id": 10048101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048101,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4795
+    },
+    {
+        "Id": 10048102,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048102,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4795
+    },
+    {
+        "Id": 10048201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048201,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4795
+    },
+    {
+        "Id": 10048301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048301,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4795
+    },
+    {
+        "Id": 10048401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048401,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4779
+    },
+    {
+        "Id": 10049101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10049201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10049201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3531
+    },
+    {
+        "Id": 10049301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10049401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10050101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10050101,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10050201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10050301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10050401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10051101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10051201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10051301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10051401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10051401,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10052101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10052201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10052301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10052401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10053101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10053201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10053301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10053301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10053401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10054101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10054201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10054201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10054301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10054401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10055101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10055101,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10055201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10055301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10055401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4706
+    },
+    {
+        "Id": 10056101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10056201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10056301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10056401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10056401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10057101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10057201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10057301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10057301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10057401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10058101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058101,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10058201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058201,
+        "ScoreValueFrom": 236,
+        "ScoreValueTo": 4128
+    },
+    {
+        "Id": 10058301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058301,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10058401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058401,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10059101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10059101,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3524
+    },
+    {
+        "Id": 10059201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4696
+    },
+    {
+        "Id": 10059301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4696
+    },
+    {
+        "Id": 10059401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4696
+    },
+    {
+        "Id": 10060101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4710
+    },
+    {
+        "Id": 10060201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4710
+    },
+    {
+        "Id": 10060301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4710
+    },
+    {
+        "Id": 10060401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060401,
+        "ScoreValueFrom": 237,
+        "ScoreValueTo": 4122
+    },
+    {
+        "Id": 10061101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10061201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10061301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10061301,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10061401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10063101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10063101,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3525
+    },
+    {
+        "Id": 10063201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10063301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10063401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10064101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10064201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10064301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064301,
+        "ScoreValueFrom": 236,
+        "ScoreValueTo": 4117
+    },
+    {
+        "Id": 10064401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10065101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10065201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10065201,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10065301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10065401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065401,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4702
+    },
+    {
+        "Id": 10066101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10066201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066201,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10066301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066301,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4701
+    },
+    {
+        "Id": 10066401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10066401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3525
+    },
+    {
+        "Id": 10067101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10067101,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10067201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10067301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10067401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10068101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10068201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10068201,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10068301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10068401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10069101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10069201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10069301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069301,
+        "ScoreValueFrom": 235,
+        "ScoreValueTo": 4119
+    },
+    {
+        "Id": 10069401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10070101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10070201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10070301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10070401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10070401,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3528
+    },
+    {
+        "Id": 10071101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10071101,
+        "ScoreValueFrom": 202,
+        "ScoreValueTo": 3524
+    },
+    {
+        "Id": 10071201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4700
+    },
+    {
+        "Id": 10071301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4700
+    },
+    {
+        "Id": 10071401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4700
+    },
+    {
+        "Id": 10072101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072101,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10072201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10072201,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10072301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072301,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10072401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072401,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4704
+    },
+    {
+        "Id": 10073101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10073201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10073301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10073301,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3529
+    },
+    {
+        "Id": 10073401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4705
+    },
+    {
+        "Id": 10074101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10074201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4718
+    },
+    {
+        "Id": 10074301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10074401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10074401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10075101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10075101,
+        "ScoreValueFrom": 204,
+        "ScoreValueTo": 3585
+    },
+    {
+        "Id": 10075201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4732
+    },
+    {
+        "Id": 10075301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075301,
+        "ScoreValueFrom": 272,
+        "ScoreValueTo": 4766
+    },
+    {
+        "Id": 10075401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075401,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4746
+    },
+    {
+        "Id": 10076101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10076201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10076201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10076301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10076401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10077101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10077201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10077301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10077301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10077401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10078101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078101,
+        "ScoreValueFrom": 270,
+        "ScoreValueTo": 4708
+    },
+    {
+        "Id": 10078201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078201,
+        "ScoreValueFrom": 271,
+        "ScoreValueTo": 4718
+    },
+    {
+        "Id": 10078301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10078401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10078401,
+        "ScoreValueFrom": 201,
+        "ScoreValueTo": 3526
+    },
+    {
+        "Id": 10079101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079101,
+        "ScoreValueFrom": 236,
+        "ScoreValueTo": 4117
+    },
+    {
+        "Id": 10079201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10079301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10079401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10080101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10080201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10080201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10080301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10080401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10081101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10081201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10081301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10081301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10081401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10082101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10082201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10082301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10082401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10083101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10083201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10083301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10083401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10083401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10084101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10084101,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10084201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10084301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10084401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10085101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10085201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10085201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10085301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10085401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10086101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10086201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10086301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10086301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10086401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10087101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10087201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10087301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10087401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10087401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10088101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088101,
+        "ScoreValueFrom": 236,
+        "ScoreValueTo": 4117
+    },
+    {
+        "Id": 10088201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10088301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10088401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10089101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10089201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10089201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10089301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10089401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10090101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10090201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10090301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10090301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10090401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10091101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10091201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10091301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10091401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10091401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10092101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092101,
+        "ScoreValueFrom": 236,
+        "ScoreValueTo": 4117
+    },
+    {
+        "Id": 10092201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10092301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10092401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10093101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10093201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10093201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10093301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10093401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10094101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10094201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10094301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10094301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10094401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10095101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10095201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10095301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10095401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10095401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10096101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10096101,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10096201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10096301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10096401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10097101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10097201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10097201,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10097301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10097401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10098101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10098201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10098301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10098301,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10098401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098401,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10099101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099101,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10099201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099201,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10099301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099301,
+        "ScoreValueFrom": 269,
+        "ScoreValueTo": 4707
+    },
+    {
+        "Id": 10099401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10099401,
+        "ScoreValueFrom": 200,
+        "ScoreValueTo": 3530
+    },
+    {
+        "Id": 10102101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001101,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10103301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001301,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10103401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001401,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10202101,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002101,
+        "ScoreValueFrom": 126,
+        "ScoreValueTo": 2221
+    },
+    {
+        "Id": 10203201,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002201,
+        "ScoreValueFrom": 126,
+        "ScoreValueTo": 2221
+    },
+    {
+        "Id": 10203301,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002301,
+        "ScoreValueFrom": 126,
+        "ScoreValueTo": 2221
+    },
+    {
+        "Id": 10203401,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002401,
+        "ScoreValueFrom": 126,
+        "ScoreValueTo": 2221
+    },
+    {
+        "Id": 10302101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003101,
+        "ScoreValueFrom": 267,
+        "ScoreValueTo": 4664
+    },
+    {
+        "Id": 10303201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10003201,
+        "ScoreValueFrom": 135,
+        "ScoreValueTo": 2374
+    },
+    {
+        "Id": 10303301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003301,
+        "ScoreValueFrom": 268,
+        "ScoreValueTo": 4692
+    },
+    {
+        "Id": 10303401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003401,
+        "ScoreValueFrom": 274,
+        "ScoreValueTo": 4785
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "AchievementPoint": 100,
+        "Id": 10001,
+        "RewardGroupId": 10001,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 200,
+        "Id": 10002,
+        "RewardGroupId": 10002,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 300,
+        "Id": 10003,
+        "RewardGroupId": 10003,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 400,
+        "Id": 10004,
+        "RewardGroupId": 10004,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 500,
+        "Id": 10005,
+        "RewardGroupId": 10005,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 600,
+        "Id": 10006,
+        "RewardGroupId": 10006,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 700,
+        "Id": 10007,
+        "RewardGroupId": 10007,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 800,
+        "Id": 10008,
+        "RewardGroupId": 10008,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 900,
+        "Id": 10009,
+        "RewardGroupId": 10009,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1000,
+        "Id": 10010,
+        "RewardGroupId": 10010,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1100,
+        "Id": 10011,
+        "RewardGroupId": 10011,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1200,
+        "Id": 10012,
+        "RewardGroupId": 10012,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1300,
+        "Id": 10013,
+        "RewardGroupId": 10013,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1400,
+        "Id": 10014,
+        "RewardGroupId": 10014,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1500,
+        "Id": 10015,
+        "RewardGroupId": 10015,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1600,
+        "Id": 10016,
+        "RewardGroupId": 10016,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1700,
+        "Id": 10017,
+        "RewardGroupId": 10017,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1800,
+        "Id": 10018,
+        "RewardGroupId": 10018,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 1900,
+        "Id": 10019,
+        "RewardGroupId": 10019,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 2000,
+        "Id": 10020,
+        "RewardGroupId": 10020,
+        "StartSeasonId": 1
+    },
+    {
+        "AchievementPoint": 100,
+        "Id": 10101,
+        "RewardGroupId": 10101,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 200,
+        "Id": 10102,
+        "RewardGroupId": 10102,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 300,
+        "Id": 10103,
+        "RewardGroupId": 10103,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 400,
+        "Id": 10104,
+        "RewardGroupId": 10104,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 500,
+        "Id": 10105,
+        "RewardGroupId": 10105,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 600,
+        "Id": 10106,
+        "RewardGroupId": 10106,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 700,
+        "Id": 10107,
+        "RewardGroupId": 10107,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 800,
+        "Id": 10108,
+        "RewardGroupId": 10108,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 900,
+        "Id": 10109,
+        "RewardGroupId": 10109,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1000,
+        "Id": 10110,
+        "RewardGroupId": 10110,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1100,
+        "Id": 10111,
+        "RewardGroupId": 10111,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1200,
+        "Id": 10112,
+        "RewardGroupId": 10112,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1300,
+        "Id": 10113,
+        "RewardGroupId": 10113,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1400,
+        "Id": 10114,
+        "RewardGroupId": 10114,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1500,
+        "Id": 10115,
+        "RewardGroupId": 10115,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1600,
+        "Id": 10116,
+        "RewardGroupId": 10116,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1700,
+        "Id": 10117,
+        "RewardGroupId": 10117,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1800,
+        "Id": 10118,
+        "RewardGroupId": 10118,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 1900,
+        "Id": 10119,
+        "RewardGroupId": 10119,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 2000,
+        "Id": 10120,
+        "RewardGroupId": 10120,
+        "StartSeasonId": 4
+    },
+    {
+        "AchievementPoint": 100,
+        "Id": 10201,
+        "RewardGroupId": 10201,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 200,
+        "Id": 10202,
+        "RewardGroupId": 10202,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 300,
+        "Id": 10203,
+        "RewardGroupId": 10203,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 400,
+        "Id": 10204,
+        "RewardGroupId": 10204,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 500,
+        "Id": 10205,
+        "RewardGroupId": 10205,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 600,
+        "Id": 10206,
+        "RewardGroupId": 10206,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 700,
+        "Id": 10207,
+        "RewardGroupId": 10207,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 800,
+        "Id": 10208,
+        "RewardGroupId": 10208,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 900,
+        "Id": 10209,
+        "RewardGroupId": 10209,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1000,
+        "Id": 10210,
+        "RewardGroupId": 10210,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1100,
+        "Id": 10211,
+        "RewardGroupId": 10211,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1200,
+        "Id": 10212,
+        "RewardGroupId": 10212,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1300,
+        "Id": 10213,
+        "RewardGroupId": 10213,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1400,
+        "Id": 10214,
+        "RewardGroupId": 10214,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1500,
+        "Id": 10215,
+        "RewardGroupId": 10215,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1600,
+        "Id": 10216,
+        "RewardGroupId": 10216,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1700,
+        "Id": 10217,
+        "RewardGroupId": 10217,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1800,
+        "Id": 10218,
+        "RewardGroupId": 10218,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 1900,
+        "Id": 10219,
+        "RewardGroupId": 10219,
+        "StartSeasonId": 5
+    },
+    {
+        "AchievementPoint": 2000,
+        "Id": 10220,
+        "RewardGroupId": 10220,
+        "StartSeasonId": 5
+    }
+]

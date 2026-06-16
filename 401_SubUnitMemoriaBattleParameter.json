@@ -1,0 +1,2042 @@
+[
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100402,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 100403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100404,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 100405,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100406,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 100407,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100408,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 100409,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 100410,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 101401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 106401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 121301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 121401,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 126401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 126402,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 126403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 126404,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 126405,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 126901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 127401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 60,
+        "ParameterValueTo": 300
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 127402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 127403,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 127404,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 127405,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 127901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 301,
+        "Id": 128301,
+        "ParameterType": 19,
+        "ParameterValueFrom": 24,
+        "ParameterValueTo": 96
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 128401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 128402,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 128403,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 128404,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 128405,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 128901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 301,
+        "Id": 130301,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 64
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 130401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 130402,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 130403,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 130404,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 130405,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 130901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 131401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 131402,
+        "ParameterType": 13,
+        "ParameterValueFrom": 60,
+        "ParameterValueTo": 300
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 131403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 132301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 132401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 132402,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 132403,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 132404,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 132901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 133401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 133402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 133403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 133404,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 133901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 134401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 134402,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 134403,
+        "ParameterType": 15,
+        "ParameterValueFrom": 100,
+        "ParameterValueTo": 500
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 134404,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 135301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 135401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 135402,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 135403,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 136401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 136402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 136403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 136404,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 136405,
+        "ParameterType": 10,
+        "ParameterValueFrom": 3,
+        "ParameterValueTo": 15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 136901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 137301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 137401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 137402,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 137403,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 137404,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 137901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 138301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 138401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 138402,
+        "ParameterType": 17,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 138403,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 138404,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 138405,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 138406,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 138901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 139301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 139401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 139402,
+        "ParameterType": 13,
+        "ParameterValueFrom": 60,
+        "ParameterValueTo": 300
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 139403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 139404,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 139405,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 139901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 301,
+        "Id": 140301,
+        "ParameterType": 13,
+        "ParameterValueFrom": 60,
+        "ParameterValueTo": 240
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 140401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 140402,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 141301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 141401,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 141402,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 141403,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 141404,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 141405,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 141406,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 141901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 142401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 143401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 143402,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 143403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 143404,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 143405,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 143406,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 143901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 144401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 144402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 144403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 145301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 145401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 145402,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 145403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 145404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 145405,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 145406,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 145901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 146301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 146401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 146402,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 146403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 146404,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 146405,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 146901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 301,
+        "Id": 147301,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.06
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 147401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 147402,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 148401,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 148402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 148403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 148404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 148405,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 148406,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 148901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 301,
+        "Id": 149301,
+        "ParameterType": 13,
+        "ParameterValueFrom": 60,
+        "ParameterValueTo": 240
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 149401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 149402,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 149403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 149404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 149405,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 149901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 301,
+        "Id": 150301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 150401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 150402,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 150403,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 150404,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 150405,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 150406,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 150901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 151401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 151402,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 151403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 151404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 151405,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 151901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 152401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 152402,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 152403,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 152404,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 152405,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 152406,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 152901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 153401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 153402,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 153403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 153404,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 153405,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 153901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 154301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 154401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 154402,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 154403,
+        "ParameterType": 17,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 154404,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 154405,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 154901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 155301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 155401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 155402,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 155403,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 155404,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 155405,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 155901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 156301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 156401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 156402,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 156403,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 156404,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 156405,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 156901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 157301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 157401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 157402,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 157403,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 157404,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 157405,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 157406,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 157901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 158301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 158401,
+        "ParameterType": 17,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 158402,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 158403,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 158404,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 158901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 159301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 159401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 159402,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 159403,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 159404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 159405,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 159901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 160301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 160401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 160402,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 160403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 160901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 161301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 161401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 161402,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 161403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 161404,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 161405,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 161901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 162301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 162401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 162402,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 162403,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 162404,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 162405,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 162901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 163301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.12
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 163401,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 163402,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 163403,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 163404,
+        "ParameterType": 18,
+        "ParameterValueFrom": 16,
+        "ParameterValueTo": 80
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 163405,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 163901,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 302,
+        "Id": 164301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 164401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 164402,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 164403,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 164404,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 164405,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 164406,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 402,
+        "Id": 164901,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 165401,
+        "ParameterType": 6,
+        "ParameterValueFrom": 1,
+        "ParameterValueTo": 5
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 166401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.004,
+        "ParameterValueTo": 0.02
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 168401,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 169401,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 170401,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "GrowthGroupId": 401,
+        "Id": 171401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "GrowthGroupId": 401,
+        "Id": 172401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.016,
+        "ParameterValueTo": 0.08
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 173401,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "GrowthGroupId": 401,
+        "Id": 175401,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 50
+    }
+]

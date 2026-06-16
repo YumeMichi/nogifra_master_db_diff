@@ -1,0 +1,517 @@
+[
+    {
+        "FaceMaterialSettingName": "Fac_101_001",
+        "HairResourceName": "Har_101_001",
+        "Id": 101001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_101_002",
+        "HairResourceName": "Har_101_002",
+        "Id": 101002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_102_001",
+        "HairResourceName": "Har_102_001",
+        "Id": 102001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_106_001",
+        "HairResourceName": "Har_106_001",
+        "Id": 106001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_106_001",
+        "HairResourceName": "Har_106_002",
+        "Id": 106002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_110_001",
+        "HairResourceName": "Har_110_001",
+        "Id": 110001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_112_001",
+        "HairResourceName": "Har_112_001",
+        "Id": 112001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_112_002",
+        "HairResourceName": "Har_112_002",
+        "Id": 112002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_113_001",
+        "HairResourceName": "Har_113_001",
+        "Id": 113001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_114_001",
+        "HairResourceName": "Har_114_001",
+        "Id": 114001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_115_001",
+        "HairResourceName": "Har_115_001",
+        "Id": 115001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_115_002",
+        "HairResourceName": "Har_115_002",
+        "Id": 115002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_117_001",
+        "HairResourceName": "Har_117_001",
+        "Id": 117001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_118_001",
+        "HairResourceName": "Har_118_001",
+        "Id": 118001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_118_002",
+        "HairResourceName": "Har_118_002",
+        "Id": 118002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_120_001",
+        "HairResourceName": "Har_120_001",
+        "Id": 120001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_121_001",
+        "HairResourceName": "Har_121_001",
+        "Id": 121001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_121_002",
+        "HairResourceName": "Har_121_002",
+        "Id": 121002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_122_001",
+        "HairResourceName": "Har_122_001",
+        "Id": 122001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_124_001",
+        "HairResourceName": "Har_124_001",
+        "Id": 124001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_124_002",
+        "HairResourceName": "Har_124_002",
+        "Id": 124002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_125_001",
+        "HairResourceName": "Har_125_001",
+        "Id": 125001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_126_001",
+        "HairResourceName": "Har_126_001",
+        "Id": 126001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_126_002",
+        "HairResourceName": "Har_126_002",
+        "Id": 126002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_127_001",
+        "HairResourceName": "Har_127_001",
+        "Id": 127001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_127_002",
+        "HairResourceName": "Har_127_002",
+        "Id": 127002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_128_001",
+        "HairResourceName": "Har_128_001",
+        "Id": 128001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_128_002",
+        "HairResourceName": "Har_128_002",
+        "Id": 128002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_129_001",
+        "HairResourceName": "Har_129_001",
+        "Id": 129001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_130_001",
+        "HairResourceName": "Har_130_001",
+        "Id": 130001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_130_001",
+        "HairResourceName": "Har_130_002",
+        "Id": 130002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_131_001",
+        "HairResourceName": "Har_131_001",
+        "Id": 131001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_131_002",
+        "HairResourceName": "Har_131_002",
+        "Id": 131002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_132_001",
+        "HairResourceName": "Har_132_001",
+        "Id": 132001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_132_002",
+        "HairResourceName": "Har_132_002",
+        "Id": 132002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_133_001",
+        "HairResourceName": "Har_133_001",
+        "Id": 133001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_133_002",
+        "HairResourceName": "Har_133_002",
+        "Id": 133002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_134_001",
+        "HairResourceName": "Har_134_001",
+        "Id": 134001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_134_002",
+        "HairResourceName": "Har_134_002",
+        "Id": 134002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_135_001",
+        "HairResourceName": "Har_135_001",
+        "Id": 135001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_135_002",
+        "HairResourceName": "Har_135_002",
+        "Id": 135002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_136_001",
+        "HairResourceName": "Har_136_001",
+        "Id": 136001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_136_001",
+        "HairResourceName": "Har_136_002",
+        "Id": 136002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_137_001",
+        "HairResourceName": "Har_137_001",
+        "Id": 137001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_137_001",
+        "HairResourceName": "Har_137_002",
+        "Id": 137002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_138_001",
+        "HairResourceName": "Har_138_001",
+        "Id": 138001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_138_001",
+        "HairResourceName": "Har_138_002",
+        "Id": 138002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_139_001",
+        "HairResourceName": "Har_139_001",
+        "Id": 139001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_139_001",
+        "HairResourceName": "Har_139_002",
+        "Id": 139002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_140_001",
+        "HairResourceName": "Har_140_001",
+        "Id": 140001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_140_002",
+        "HairResourceName": "Har_140_002",
+        "Id": 140002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_141_001",
+        "HairResourceName": "Har_141_001",
+        "Id": 141001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_141_002",
+        "HairResourceName": "Har_141_002",
+        "Id": 141002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_142_001",
+        "HairResourceName": "Har_142_001",
+        "Id": 142001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_142_002",
+        "HairResourceName": "Har_142_002",
+        "Id": 142002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_143_001",
+        "HairResourceName": "Har_143_001",
+        "Id": 143001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_143_002",
+        "HairResourceName": "Har_143_002",
+        "Id": 143002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_144_001",
+        "HairResourceName": "Har_144_001",
+        "Id": 144001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_144_002",
+        "HairResourceName": "Har_144_002",
+        "Id": 144002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_145_001",
+        "HairResourceName": "Har_145_001",
+        "Id": 145001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_145_002",
+        "HairResourceName": "Har_145_002",
+        "Id": 145002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_146_001",
+        "HairResourceName": "Har_146_001",
+        "Id": 146001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_146_001",
+        "HairResourceName": "Har_146_002",
+        "Id": 146002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_147_001",
+        "HairResourceName": "Har_147_001",
+        "Id": 147001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_147_001",
+        "HairResourceName": "Har_147_002",
+        "Id": 147002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_148_001",
+        "HairResourceName": "Har_148_001",
+        "Id": 148001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_148_002",
+        "HairResourceName": "Har_148_002",
+        "Id": 148002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_149_001",
+        "HairResourceName": "Har_149_001",
+        "Id": 149001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_149_002",
+        "HairResourceName": "Har_149_002",
+        "Id": 149002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_150_001",
+        "HairResourceName": "Har_150_001",
+        "Id": 150001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_150_002",
+        "HairResourceName": "Har_150_002",
+        "Id": 150002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_151_001",
+        "HairResourceName": "Har_151_001",
+        "Id": 151001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_151_002",
+        "HairResourceName": "Har_151_002",
+        "Id": 151002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_152_001",
+        "HairResourceName": "Har_152_001",
+        "Id": 152001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_152_002",
+        "HairResourceName": "Har_152_002",
+        "Id": 152002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_153_001",
+        "HairResourceName": "Har_153_001",
+        "Id": 153001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_153_001",
+        "HairResourceName": "Har_153_002",
+        "Id": 153002
+    },
+    {
+        "FaceMaterialSettingName": "Fac_154_001",
+        "HairResourceName": "Har_154_001",
+        "Id": 154001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_155_001",
+        "HairResourceName": "Har_155_001",
+        "Id": 155001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_156_001",
+        "HairResourceName": "Har_156_001",
+        "Id": 156001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_157_001",
+        "HairResourceName": "Har_157_001",
+        "Id": 157001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_158_001",
+        "HairResourceName": "Har_158_001",
+        "Id": 158001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_159_001",
+        "HairResourceName": "Har_159_001",
+        "Id": 159001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_160_001",
+        "HairResourceName": "Har_160_001",
+        "Id": 160001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_161_001",
+        "HairResourceName": "Har_161_001",
+        "Id": 161001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_162_001",
+        "HairResourceName": "Har_162_001",
+        "Id": 162001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_163_001",
+        "HairResourceName": "Har_163_001",
+        "Id": 163001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_164_001",
+        "HairResourceName": "Har_164_001",
+        "Id": 164001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_165_001",
+        "HairResourceName": "Har_165_001",
+        "Id": 165001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_166_001",
+        "HairResourceName": "Har_166_001",
+        "Id": 166001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_167_001",
+        "HairResourceName": "Har_167_001",
+        "Id": 167001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_168_001",
+        "HairResourceName": "Har_168_001",
+        "Id": 168001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_169_001",
+        "HairResourceName": "Har_169_001",
+        "Id": 169001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_170_001",
+        "HairResourceName": "Har_170_001",
+        "Id": 170001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_171_001",
+        "HairResourceName": "Har_171_001",
+        "Id": 171001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_172_001",
+        "HairResourceName": "Har_172_001",
+        "Id": 172001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_173_001",
+        "HairResourceName": "Har_173_001",
+        "Id": 173001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_174_001",
+        "HairResourceName": "Har_174_001",
+        "Id": 174001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_175_001",
+        "HairResourceName": "Har_175_001",
+        "Id": 175001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_501_001",
+        "HairResourceName": "Har_501_001",
+        "Id": 501001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_502_001",
+        "HairResourceName": "Har_502_001",
+        "Id": 502001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_503_001",
+        "HairResourceName": "Har_503_001",
+        "Id": 503001
+    },
+    {
+        "FaceMaterialSettingName": "Fac_504_001",
+        "HairResourceName": "Har_504_001",
+        "Id": 504001
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "CharacterId": 106,
+        "CueName": "{0}_chara_0031",
+        "Id": 1,
+        "LoginVoiceType": 1
+    },
+    {
+        "CharacterId": 0,
+        "CueName": "{0}_chara_0031",
+        "Id": 2,
+        "LoginVoiceType": 2
+    },
+    {
+        "CharacterId": 0,
+        "CueName": "{0}_chara_0031",
+        "Id": 3,
+        "LoginVoiceType": 3
+    }
+]

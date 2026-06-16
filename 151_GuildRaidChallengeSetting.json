@@ -1,0 +1,20 @@
+[
+    {
+        "FromChallengeCount": 1,
+        "Id": 1,
+        "NecessaryTicket": 1,
+        "ToChallengeCount": 10
+    },
+    {
+        "FromChallengeCount": 11,
+        "Id": 2,
+        "NecessaryTicket": 2,
+        "ToChallengeCount": 20
+    },
+    {
+        "FromChallengeCount": 21,
+        "Id": 3,
+        "NecessaryTicket": 3,
+        "ToChallengeCount": 99999999
+    }
+]

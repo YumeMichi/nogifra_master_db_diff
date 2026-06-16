@@ -1,0 +1,386 @@
+[
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 1,
+        "MaximumDebuffRate": 0.6,
+        "ParameterType": 8
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 2,
+        "MaximumDebuffRate": 0.6,
+        "ParameterType": 9
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 3,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 10
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 4,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 11
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 5,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 12
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 6,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 13
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 7,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 14
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 8,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 15
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 9,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 16
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 10,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 17
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 11,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 18
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 12,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 19
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 13,
+        "MaximumDebuffRate": 0.6,
+        "ParameterType": 8
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 14,
+        "MaximumDebuffRate": 0.6,
+        "ParameterType": 9
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 15,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 10
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 16,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 11
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 50,
+        "FavoriteFlag": true,
+        "Id": 17,
+        "MaximumDebuffRate": 0.95,
+        "ParameterType": 12
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 18,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 13
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 19,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 14
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 20,
+        "MaximumDebuffRate": 0.15,
+        "ParameterType": 15
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 21,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 16
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 22,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 17
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 23,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 18
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": true,
+        "Id": 24,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 19
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 80,
+        "FavoriteFlag": false,
+        "Id": 25,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 8
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 80,
+        "FavoriteFlag": false,
+        "Id": 26,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 9
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 27,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 10
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 28,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 11
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 29,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 12
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 30,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 13
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 31,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 14
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 32,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 15
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 33,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 16
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 34,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 17
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 35,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 18
+    },
+    {
+        "AttackerOrDefenderType": 1,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 36,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 19
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 80,
+        "FavoriteFlag": false,
+        "Id": 37,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 8
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 80,
+        "FavoriteFlag": false,
+        "Id": 38,
+        "MaximumDebuffRate": 0.7,
+        "ParameterType": 9
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 39,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 10
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 40,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 11
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 30,
+        "FavoriteFlag": false,
+        "Id": 41,
+        "MaximumDebuffRate": 0.99,
+        "ParameterType": 12
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 42,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 13
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 43,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 14
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 44,
+        "MaximumDebuffRate": 0.4,
+        "ParameterType": 15
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 45,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 16
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 46,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 17
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 47,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 18
+    },
+    {
+        "AttackerOrDefenderType": 2,
+        "ConsecutiveWinsLimit": 100,
+        "FavoriteFlag": false,
+        "Id": 48,
+        "MaximumDebuffRate": 0.9,
+        "ParameterType": 19
+    }
+]

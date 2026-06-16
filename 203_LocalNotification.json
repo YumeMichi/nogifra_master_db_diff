@@ -1,0 +1,65 @@
+[
+    {
+        "CanDisabled": true,
+        "Category": 1,
+        "Id": 1,
+        "LocalNotificationType": 1,
+        "Message": "「{0}」ルーム内のコーデがもうすぐでいっぱいになりそうです！整理しにいこう！",
+        "RetentionAddDays": 0,
+        "RetentionCount": 0
+    },
+    {
+        "CanDisabled": false,
+        "Category": 2,
+        "Id": 2,
+        "LocalNotificationType": 2,
+        "Message": "「{0}」メンバーがあなたの帰りを待っています！成長した姿を見にいこう！",
+        "RetentionAddDays": 7,
+        "RetentionCount": 4
+    },
+    {
+        "CanDisabled": true,
+        "Category": 2,
+        "Id": 3,
+        "LocalNotificationType": 3,
+        "Message": "「{0}」最後のプロデュースから24時間が経過しています！様子を見にいきませんか？",
+        "RetentionAddDays": 1,
+        "RetentionCount": 1
+    },
+    {
+        "CanDisabled": true,
+        "Category": 3,
+        "Id": 4,
+        "LocalNotificationType": 4,
+        "Message": "軍団ライブ開催中！協力してライブを成功させよう！",
+        "RetentionAddDays": 0,
+        "RetentionCount": 0
+    },
+    {
+        "CanDisabled": true,
+        "Category": 4,
+        "Id": 5,
+        "LocalNotificationType": 5,
+        "Message": "「{0}」楽屋の差し入れがもうすぐで空になりそうです！確認しにいこう！",
+        "RetentionAddDays": 0,
+        "RetentionCount": 0
+    },
+    {
+        "CanDisabled": true,
+        "Category": 5,
+        "Id": 6,
+        "LocalNotificationType": 6,
+        "Message": "【グループ対抗ツアー】エントリー期間開始！\nキャプテン・副キャプテンは今日のアピール会場を選ぼう！",
+        "RetentionAddDays": 0,
+        "RetentionCount": 0
+    },
+    {
+        "CanDisabled": true,
+        "Category": 6,
+        "Id": 7,
+        "LocalNotificationType": 7,
+        "Message": "まもなくグループ対抗ツアー開演！\n30分間のアピール合戦で会場の支持を集めよう！",
+        "RetentionAddDays": 0,
+        "RetentionCount": 0
+    }
+]

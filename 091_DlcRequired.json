@@ -1,0 +1,884 @@
+[
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "SpriteAtlases/AppTitle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "ScriptableObjects/ResourcePath/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "Title*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "Sounds/DELTA_SOUND.acf",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "Sounds/SE.acb",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "Sounds/Voices/vo_Title*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 1,
+        "Path": "Sounds/BGM/BGM_9001*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 4,
+        "Path": "Sounds/BGM/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 4,
+        "Path": "Movies/Tutorial/Op_Movie.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "TutorialStepMoviePlayerLayer",
+        "Priority": 100
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "SpriteAtlases/TopPrority/*",
+        "Priority": 100
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "TutorialInputNameDialogLayer",
+        "Priority": 90
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "TownHomeMenuOptionDialogLayer",
+        "Priority": 90
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "TutorialTextDialogLayer",
+        "Priority": 90
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Tutorial/Tutorial_00b.usm",
+        "Priority": 70
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Tutorial/Tutorial_01.usm",
+        "Priority": 60
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Tutorial/Tutorial_Full_Download.usm",
+        "Priority": 50
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Tutorial/Tutorial_02.usm",
+        "Priority": 50
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Tutorial/Tutorial_03.usm",
+        "Priority": 50
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 3,
+        "Path": "Textures/CharacterArchive*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 3,
+        "Path": "Textures/CharacterArchiveBG*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 3,
+        "Path": "Textures/ArchiveRule/*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Textures/CenterSelect/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Textures/Tips/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "StageMainAnimations/stage_n_001/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "StageSubAnimations/Sub_001/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Animations/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Units/Face/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Units/FaceMaterials/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Units/Hair/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Units/Costume/Cos_10019_01/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Units/CostumeMaterials/Cos_10019_01_m1/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Tutorial*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "CommonCenterMemberSelectLayer",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "UtageLayer",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "stage_d_001",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "stage_n_001",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/Test/stage_change_avatar.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/CenterSelect/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Movies/CommonBg/Home.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Sounds/Voices/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 3,
+        "Path": "Sounds/BGM/BGM_9002*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_05.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_09.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_06.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_07.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_08.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_11.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_04.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_17.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_10.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_13.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_14.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_12.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Movies/Tutorial/Tutorial_18.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 6,
+        "Path": "Animations/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageMainAnimations/stage_n_001/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageSubAnimations/Sub_001/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "Animations/Manekin/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageMainAnimations/stage_n_001/Bicycle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageSubAnimations/Sub_001/Bicycle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "Animations/Bicycle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageMainAnimations/stage_n_001/Okami/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageSubAnimations/Sub_001/Okami/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "Animations/Okami/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageMainAnimations/stage_n_001/Tossa/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "StageSubAnimations/Sub_001/Tossa/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 7,
+        "Path": "Animations/Tossa/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/CharacterArchive*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/CharacterArchiveBG*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 2,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/ArchiveRule/*",
+        "Priority": 1
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "AnimatorControllers/lipSync/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "IdleAnimations/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "AnimatorControllers/Idle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "SpriteAtlases/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Effects/Common*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Effects/Test*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Stages*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Units*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Avatar*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/BattleSkillThumbnails/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Character*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Produce/CampaignCalender/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/StatusEffects/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/ItemThumbnails/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Equipment*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Emblem*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Memoria*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Profile*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/CharacterTitle/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/StillThumbnails/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/CostumeThemeThumbnails/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/Tips/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/GuildBattleMap/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/FracolleBoardBackground/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Textures/FracolleBoardBanner/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "UIEffects/Emblem/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Adventure/Avatar/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Adventure/BG/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Common*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Town*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Main*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "stage*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "TutorialTipsDialogLayer",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "TutorialTextDialogLayer",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Sounds/BGM/BGM_9*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/CharacterArchive*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/CommonBg/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/Title/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/CenterSelect/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/Gvg/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Sounds/Voices/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/HomeInfo/10002/10002_HomeInfo.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/AvatarMovie/Movie_Overture1stAnniversaryDanceMovie.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 2,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 4,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Sounds/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/CenterSelect/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/CharacterArchive*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/CommonBg/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/Tutorial/*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/AvatarMovie/Movie_Overture1stAnniversaryDanceMovie.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 1,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Effects/Overture*",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 2,
+        "Path": "Movies/AvatarMovie/Movie_Overture2ndAnniversaryDanceMovie.usm",
+        "Priority": 0
+    },
+    {
+        "DlcAssetType": 3,
+        "DlcGroupType": 1,
+        "DlcRequiredTimingType": 5,
+        "Path": "Movies/AvatarMovie/Movie_Overture2ndAnniversaryDanceMovie.usm",
+        "Priority": 0
+    }
+]

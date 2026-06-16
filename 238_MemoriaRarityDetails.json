@@ -1,0 +1,30 @@
+[
+    {
+        "Id": 1,
+        "MaxAwakening": 2,
+        "MaxLevel": 25,
+        "MemoriaRarity": 1,
+        "RequiredFragment": 40
+    },
+    {
+        "Id": 2,
+        "MaxAwakening": 2,
+        "MaxLevel": 30,
+        "MemoriaRarity": 2,
+        "RequiredFragment": 40
+    },
+    {
+        "Id": 3,
+        "MaxAwakening": 3,
+        "MaxLevel": 35,
+        "MemoriaRarity": 3,
+        "RequiredFragment": 40
+    },
+    {
+        "Id": 4,
+        "MaxAwakening": 4,
+        "MaxLevel": 40,
+        "MemoriaRarity": 4,
+        "RequiredFragment": 40
+    }
+]

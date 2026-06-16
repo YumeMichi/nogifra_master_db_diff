@@ -1,0 +1,2382 @@
+[
+    {
+        "Id": 10010,
+        "Name": "【センター・努力】\nウエアの欠片",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 100110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10020,
+        "Name": "【センター・感謝】\nマイクの欠片",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 100210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10030,
+        "Name": "【センター・笑顔】\nキーホルダーの欠片",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 100310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10110,
+        "Name": "バイオリンの欠片\n（秋元真夏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 101110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10120,
+        "Name": "エプロンの欠片\n（秋元真夏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 101210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10130,
+        "Name": "マカロンの欠片\n（秋元真夏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 101310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10210,
+        "Name": "電子ピアノの欠片\n（生田絵梨花 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 102110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10230,
+        "Name": "唐揚げの欠片\n（生田絵梨花 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 102310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10610,
+        "Name": "ドラムスティックの欠片\n（齋藤飛鳥 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 106110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10620,
+        "Name": "愛読書の欠片\n（齋藤飛鳥 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 106210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 10630,
+        "Name": "ステーキの欠片\n（齋藤飛鳥 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 106310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11010,
+        "Name": "剣道具の欠片\n（高山一実 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 110110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11030,
+        "Name": "ビワの欠片\n（高山一実 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 110310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11210,
+        "Name": "鉄棒の欠片\n（樋口日奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 112110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11220,
+        "Name": "パスケースの欠片\n（樋口日奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 112210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11230,
+        "Name": "抹茶の洋菓子の欠片\n（樋口日奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 112310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11320,
+        "Name": "ショップの紙袋の欠片\n（星野みなみ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 113210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11330,
+        "Name": "パンの欠片\n（星野みなみ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 113310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11420,
+        "Name": "漫画本の欠片\n（松村沙友理 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 114210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11510,
+        "Name": "道着を着たクマのぬいぐるみの欠片\n（和田まあや 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 115110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11520,
+        "Name": "漢方の欠片\n（和田まあや 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 115210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11530,
+        "Name": "あけびの欠片\n（和田まあや 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 115310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11710,
+        "Name": "舞台台本の欠片\n（伊藤純奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 117110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11810,
+        "Name": "曲がったフライパンの欠片\n（北野日奈子 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 118110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 11830,
+        "Name": "牛乳の欠片\n（北野日奈子 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 118310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12020,
+        "Name": "ドラマDVDの欠片\n（新内眞衣 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 120210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12030,
+        "Name": "水の欠片\n（新内眞衣 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 120310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12110,
+        "Name": "フルートの欠片\n（鈴木絢音 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 121110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12120,
+        "Name": "飛行機の模型の欠片\n（鈴木絢音 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 121210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12130,
+        "Name": "きりたんぽの欠片\n（鈴木絢音 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 121310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12210,
+        "Name": "古着の欠片\n（寺田蘭世 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 122110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12220,
+        "Name": "舞台雑誌の欠片\n（寺田蘭世 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 122210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12410,
+        "Name": "歴史書の欠片\n（山崎怜奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 124110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12420,
+        "Name": "中国語の本の欠片\n（山崎怜奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 124210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12430,
+        "Name": "餃子の欠片\n（山崎怜奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 124310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12510,
+        "Name": "レオタードの欠片\n（渡辺みり愛 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 125110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12610,
+        "Name": "バトンの欠片\n（伊藤理々杏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 126110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12611,
+        "Name": "伊藤理々杏のスティックライトの欠片\n（伊藤理々杏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 126110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12620,
+        "Name": "シーサーのぬいぐるみの欠片\n（伊藤理々杏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 126210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12630,
+        "Name": "うむくじの天ぷらの欠片\n（伊藤理々杏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 126310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12631,
+        "Name": "伊藤理々杏のうちわの欠片\n（伊藤理々杏 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 126310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12710,
+        "Name": "ローラースケートの欠片\n（岩本蓮加 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 127110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12720,
+        "Name": "ギターの欠片\n(岩本蓮加 専用)",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 127210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12730,
+        "Name": "駄菓子の欠片\n（岩本蓮加 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 127310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12731,
+        "Name": "岩本蓮加のスティックライトの欠片\n（岩本蓮加 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 127310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12732,
+        "Name": "岩本蓮加のうちわの欠片\n（岩本蓮加 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 127310342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12810,
+        "Name": "ナイフの欠片\n（梅澤美波 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 128110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12820,
+        "Name": "バレーボールの欠片\n（梅澤美波 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 128210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12821,
+        "Name": "梅澤美波のうちわの欠片\n（梅澤美波 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 128210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12830,
+        "Name": "マヨネーズの欠片\n（梅澤美波 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 128310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12831,
+        "Name": "梅澤美波のスティックライトの欠片\n（梅澤美波 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 128310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 12930,
+        "Name": "桃の欠片\n（大園桃子 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 129310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13010,
+        "Name": "チアのポンポンの欠片\n（久保史緒里 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 130110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13011,
+        "Name": "久保史緒里のうちわの欠片\n（久保史緒里 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 130110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13020,
+        "Name": "乃木坂雑誌の欠片\n（久保史緒里 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 130210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13030,
+        "Name": "牛タンの欠片\n（久保史緒里 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 130310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13031,
+        "Name": "久保史緒里のスティックライトの欠片\n（久保史緒里 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 130310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13110,
+        "Name": "フォークの欠片\n（阪口珠美 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 131110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13120,
+        "Name": "トウシューズの欠片\n（阪口珠美 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 131210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13121,
+        "Name": "阪口珠美のスティックライトの欠片\n（阪口珠美 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 131210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13130,
+        "Name": "抹茶ロールケーキの欠片\n（阪口珠美 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 131310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13210,
+        "Name": "バドミントンのラケットの欠片\n（佐藤楓 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 132110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13220,
+        "Name": "ランニングシューズの欠片\n（佐藤楓 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 132210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13221,
+        "Name": "佐藤楓のスティックライトの欠片\n（佐藤楓 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 132210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13230,
+        "Name": "味噌カツの欠片\n(佐藤楓 専用)",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 132310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13310,
+        "Name": "お囃子の横笛の欠片\n（中村麗乃 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 133110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13311,
+        "Name": "中村麗乃のスティックライトの欠片\n（中村麗乃 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 133110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13320,
+        "Name": "ヘッドホンの欠片\n（中村麗乃 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 133210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13330,
+        "Name": "わたあめの欠片\n（中村麗乃 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 133310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13410,
+        "Name": "キャップの欠片\n（向井葉月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 134110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13420,
+        "Name": "食品サンプルのキーホルダーの欠片\n（向井葉月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 134210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13430,
+        "Name": "豚骨ラーメンの欠片\n（向井葉月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 134310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13431,
+        "Name": "向井葉月のスティックライトの欠片\n（向井葉月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 134310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13510,
+        "Name": "スプーンの欠片\n（山下美月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 135110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13520,
+        "Name": "ゴルフクラブとボールの欠片\n（山下美月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 135210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13521,
+        "Name": "山下美月のスティックライトの欠片\n（山下美月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 135210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13530,
+        "Name": "味噌汁の欠片\n（山下美月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 135310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13610,
+        "Name": "卓球のラケットの欠片\n（吉田綾乃クリスティー 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 136110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13611,
+        "Name": "吉田綾乃クリスティーのスティックライトの欠片\n（吉田綾乃クリスティー 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 136110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13620,
+        "Name": "ヒーロー雑誌の欠片\n（吉田綾乃クリスティー 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 136210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13621,
+        "Name": "吉田綾乃クリスティーのうちわの欠片\n（吉田綾乃クリスティー 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 136210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13630,
+        "Name": "焼き肉の欠片\n（吉田綾乃クリスティー 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 136310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13710,
+        "Name": "一輪車の欠片\n（与田祐希 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 137110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13711,
+        "Name": "与田祐希のスティックライトの欠片\n（与田祐希 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 137110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13720,
+        "Name": "ヤギのぬいぐるみの欠片\n（与田祐希 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 137210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13730,
+        "Name": "馬刺しの欠片\n（与田祐希 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 137310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13810,
+        "Name": "クラリネットの欠片\n（遠藤さくら 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 138110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13811,
+        "Name": "遠藤さくらのうちわの欠片\n（遠藤さくら 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 138110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13820,
+        "Name": "バスセットの欠片\n（遠藤さくら 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 138210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13830,
+        "Name": "みたらし団子の欠片\n（遠藤さくら 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 138310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13831,
+        "Name": "遠藤さくらのスティックライトの欠片\n（遠藤さくら 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 138310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13910,
+        "Name": "極小折り鶴の欠片\n（賀喜遥香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 139110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13920,
+        "Name": "イラスト制作セットの欠片\n（賀喜遥香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 139210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13921,
+        "Name": "賀喜遥香のスティックライトの欠片\n（賀喜遥香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 139210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13930,
+        "Name": "カキフライの欠片\n（賀喜遥香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 139310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 13931,
+        "Name": "賀喜遥香のうちわの欠片\n（賀喜遥香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 139310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14010,
+        "Name": "アコースティックギターの欠片\n（掛橋沙耶香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 140110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14020,
+        "Name": "テディベアの欠片\n（掛橋沙耶香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 140210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14030,
+        "Name": "いちごの欠片\n（掛橋沙耶香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 140310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14110,
+        "Name": "歌詞カードの欠片\n（金川紗耶 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 141110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14120,
+        "Name": "ヘアスプレーの欠片\n（金川紗耶 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 141210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14121,
+        "Name": "金川紗耶のうちわの欠片\n（金川紗耶 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 141210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14130,
+        "Name": "ほたての欠片\n（金川紗耶 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 141310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14131,
+        "Name": "金川紗耶のスティックライトの欠片\n（金川紗耶 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 141310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14210,
+        "Name": "マンドリンの欠片\n（北川悠理 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 142110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14220,
+        "Name": "パラパラ漫画の欠片\n（北川悠理 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 142210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14230,
+        "Name": "トマトのブルスケッタの欠片\n（北川悠理 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 142310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14310,
+        "Name": "新体操のクラブの欠片\n（柴田柚菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 143110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14311,
+        "Name": "柴田柚菜のスティックライトの欠片\n（柴田柚菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 143110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14320,
+        "Name": "野球応援グッズの欠片\n（柴田柚菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 143210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14321,
+        "Name": "柴田柚菜のうちわの欠片\n（柴田柚菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 143210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14330,
+        "Name": "オムライスの欠片\n（柴田柚菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 143310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14410,
+        "Name": "答辞の欠片\n（清宮レイ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 144110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14420,
+        "Name": "英単語カードの欠片\n（清宮レイ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 144210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14421,
+        "Name": "清宮レイのスティックライトの欠片\n（清宮レイ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 144210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14430,
+        "Name": "みかんの欠片\n（清宮レイ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 144310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14510,
+        "Name": "ソフトボールのグローブの欠片\n（田村真佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 145110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14511,
+        "Name": "田村真佑のスティックライトの欠片\n（田村真佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 145110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14512,
+        "Name": "田村真佑のうちわの欠片\n（田村真佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 145110342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14520,
+        "Name": "ビリヤードキューとボールの欠片\n（田村真佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 145210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14530,
+        "Name": "ビーフシチューの欠片\n（田村真佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 145310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14610,
+        "Name": "書道セットの欠片\n（筒井あやめ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 146110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14611,
+        "Name": "筒井あやめのスティックライトの欠片\n（筒井あやめ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 146110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14612,
+        "Name": "筒井あやめのうちわの欠片\n（筒井あやめ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 146110342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14620,
+        "Name": "編み物の欠片\n（筒井あやめ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 146210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14630,
+        "Name": "メロンソーダの欠片\n（筒井あやめ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 146310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14710,
+        "Name": "バレエのティアラの欠片\n（早川聖来 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 147110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14720,
+        "Name": "トカゲのアクキーの欠片\n（早川聖来 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 147210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14730,
+        "Name": "たこ焼きの欠片\n（早川聖来 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 147310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14810,
+        "Name": "茶道具の欠片\n（矢久保美緒 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 148110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14820,
+        "Name": "アイドルグッズの欠片\n（矢久保美緒 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 148210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14821,
+        "Name": "矢久保美緒のスティックライトの欠片\n（矢久保美緒 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 148210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14830,
+        "Name": "タピオカドリンクの欠片\n（矢久保美緒 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 148310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14831,
+        "Name": "矢久保美緒のうちわの欠片\n（矢久保美緒 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 148310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14910,
+        "Name": "中国剣の欠片\n（黒見明香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 149110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14920,
+        "Name": "カンフースターのポスターの欠片\n（黒見明香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 149210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14921,
+        "Name": "黒見明香のうちわの欠片\n（黒見明香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 149210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14930,
+        "Name": "焼き小籠包の欠片\n（黒見明香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 149310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 14931,
+        "Name": "黒見明香のスティックライトの欠片\n（黒見明香 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 149310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15010,
+        "Name": "トランペットの欠片\n（佐藤璃果 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 150110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15011,
+        "Name": "佐藤璃果のうちわの欠片\n（佐藤璃果 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 150110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15020,
+        "Name": "キーボードの欠片\n（佐藤璃果 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 150210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15021,
+        "Name": "佐藤璃果のスティックライトの欠片\n（佐藤璃果 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 150210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15030,
+        "Name": "焼き芋の欠片\n（佐藤璃果 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 150310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15110,
+        "Name": "手話の本の欠片\n（林瑠奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 151110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15111,
+        "Name": "林瑠奈のスティックライトの欠片\n（林瑠奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 151110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15120,
+        "Name": "へんなTシャツの欠片\n（林瑠奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 151210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15130,
+        "Name": "もやしの欠片\n（林瑠奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 151310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15131,
+        "Name": "林瑠奈のうちわの欠片\n（林瑠奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 151310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15210,
+        "Name": "チア衣装とポンポンの欠片\n（松尾美佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 152110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15211,
+        "Name": "松尾美佑のスティックライトの欠片\n（松尾美佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 152110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15212,
+        "Name": "松尾美佑のうちわの欠片\n（松尾美佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 152110342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15220,
+        "Name": "飯盒の欠片\n（松尾美佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 152210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15230,
+        "Name": "梨の欠片\n（松尾美佑 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 152310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15310,
+        "Name": "バスケットボールの欠片\n（弓木奈於 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 153110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15320,
+        "Name": "縄跳びの欠片\n（弓木奈於 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 153210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15330,
+        "Name": "炊き込みご飯の欠片\n（弓木奈於 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 153310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15331,
+        "Name": "弓木奈於のスティックライトの欠片\n（弓木奈於 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 153310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15332,
+        "Name": "弓木奈於のうちわの欠片\n（弓木奈於 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 153310342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15410,
+        "Name": "剣道防具の欠片\n（五百城茉央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 154110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15411,
+        "Name": "五百城茉央のスティックライトの欠片\n（五百城茉央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 154110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15420,
+        "Name": "マグロ料理本の欠片\n（五百城茉央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 154210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15430,
+        "Name": "ジャスミンティーの欠片\n（五百城茉央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 154310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15431,
+        "Name": "五百城茉央のうちわの欠片\n（五百城茉央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 154310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15510,
+        "Name": "バスケのホイッスルの欠片\n（池田瑛紗 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 155110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15520,
+        "Name": "絵画道具の欠片\n（池田瑛紗 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 155210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15521,
+        "Name": "池田瑛紗のスティックライトの欠片\n（池田瑛紗 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 155210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15530,
+        "Name": "エビフライの欠片\n（池田瑛紗 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 155310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15531,
+        "Name": "池田瑛紗のうちわの欠片\n（池田瑛紗 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 155310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15610,
+        "Name": "キーボードピアノの欠片\n（一ノ瀬美空 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 156110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15620,
+        "Name": "しおりの欠片\n（一ノ瀬美空 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 156210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15630,
+        "Name": "スルメの欠片\n（一ノ瀬美空 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 156310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15631,
+        "Name": "一ノ瀬美空のスティックライトの欠片\n（一ノ瀬美空 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 156310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15632,
+        "Name": "一ノ瀬美空のうちわの欠片\n（一ノ瀬美空 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 156310342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15710,
+        "Name": "和弓の欠片\n（井上和 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 157110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15711,
+        "Name": "井上和のうちわの欠片\n（井上和 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 157110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15720,
+        "Name": "木炭の欠片\n（井上和 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 157210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15730,
+        "Name": "おはぎの欠片\n（井上和 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 157310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15731,
+        "Name": "井上和のスティックライトの欠片\n（井上和 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 157310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15810,
+        "Name": "バレエ雑誌の欠片\n（岡本姫奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 158110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15811,
+        "Name": "岡本姫奈のスティックライトの欠片\n（岡本姫奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 158110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15820,
+        "Name": "メイク道具の欠片\n（岡本姫奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 158210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15821,
+        "Name": "岡本姫奈のうちわの欠片\n（岡本姫奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 158210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15830,
+        "Name": "スイートポテトの欠片\n（岡本姫奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 158310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15910,
+        "Name": "そろばんの欠片\n（小川彩 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 159110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15911,
+        "Name": "小川彩のうちわの欠片\n（小川彩 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 159110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15920,
+        "Name": "ドラムの欠片\n（小川彩 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 159210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15921,
+        "Name": "小川彩のスティックライトの欠片\n（小川彩 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 159210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 15930,
+        "Name": "トマトの欠片\n（小川彩 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 159310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16010,
+        "Name": "紙芝居の欠片\n（奥田いろは 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 160110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16011,
+        "Name": "奥田いろはのうちわの欠片\n（奥田いろは 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 160110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16020,
+        "Name": "弾き語り用ギターの欠片\n（奥田いろは 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 160210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16030,
+        "Name": "あんバタートーストの欠片\n（奥田いろは 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 160310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16031,
+        "Name": "奥田いろはのスティックライトの欠片\n（奥田いろは 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 160310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16110,
+        "Name": "フィギュアスケートシューズの欠片\n（川﨑桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 161110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16120,
+        "Name": "ファッション誌の欠片\n（川﨑桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 161210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16121,
+        "Name": "川﨑桜のスティックライトの欠片\n（川﨑桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 161210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16122,
+        "Name": "川﨑桜のうちわの欠片\n（川﨑桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 161210342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16130,
+        "Name": "さくらんぼの欠片\n（川﨑桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 161310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16210,
+        "Name": "バスケットゴールの欠片\n（菅原咲月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 162110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16220,
+        "Name": "卵焼き器の欠片\n（菅原咲月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 162210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16221,
+        "Name": "菅原咲月のスティックライトの欠片\n（菅原咲月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 162210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16222,
+        "Name": "菅原咲月のうちわの欠片\n（菅原咲月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 162210342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16230,
+        "Name": "ドライフルーツの欠片\n（菅原咲月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 162310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16310,
+        "Name": "当たり付きアイスバーの欠片\n（冨里奈央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 163110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16320,
+        "Name": "犬のキーホルダーの欠片\n（冨里奈央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 163210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16330,
+        "Name": "洋菓子セットの欠片\n（冨里奈央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 163310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16331,
+        "Name": "冨里奈央のスティックライトの欠片\n（冨里奈央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 163310341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16332,
+        "Name": "冨里奈央のうちわの欠片\n（冨里奈央 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 163310342,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16410,
+        "Name": "レコーディングマイクの欠片\n（中西アルノ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 164110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16411,
+        "Name": "中西アルノのスティックライトの欠片\n（中西アルノ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 164110341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16420,
+        "Name": "ヤモリTシャツの欠片\n（中西アルノ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 164210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16421,
+        "Name": "中西アルノのうちわの欠片\n（中西アルノ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 164210341,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16430,
+        "Name": "アニマルマカロンの欠片\n（中西アルノ 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 164310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16510,
+        "Name": "花ばさみの欠片\n（愛宕心響 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 165110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16530,
+        "Name": "唐揚げとレモンの欠片\n（愛宕心響 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 165310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16610,
+        "Name": "大きな書道用筆の欠片\n（大越ひなの 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 166110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16620,
+        "Name": "釣り竿の欠片\n（大越ひなの 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 166210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16810,
+        "Name": "マレットの欠片\n（海邉朱莉 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 168110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16830,
+        "Name": "アイスの欠片\n（海邉朱莉 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 168310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16910,
+        "Name": "ジャグリング講座動画の欠片\n（川端晃菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 169110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 16920,
+        "Name": "乃木坂46のCDの欠片\n（川端晃菜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 169210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17020,
+        "Name": "茶道のお稽古道具の欠片\n（鈴木佑捺 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 170210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17030,
+        "Name": "おにぎりの欠片\n（鈴木佑捺 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 170310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17110,
+        "Name": "チアユニフォームの欠片\n（瀬戸口心月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 171110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17130,
+        "Name": "梅干しの欠片\n（瀬戸口心月 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 171310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17210,
+        "Name": "フラダンス衣装の欠片\n（長嶋凛桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 172110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17220,
+        "Name": "便せんの欠片\n（長嶋凛桜 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 172210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17320,
+        "Name": "文豪の文庫本の欠片\n（増田三莉音 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 173210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17330,
+        "Name": "コーヒーゼリーの欠片\n（増田三莉音 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 173310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17410,
+        "Name": "トロンボーンの欠片\n（森平麗心 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 174110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17430,
+        "Name": "カルビの欠片\n（森平麗心 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 174310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17510,
+        "Name": "盆踊り衣装の欠片\n（矢田萌華 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 175110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 17520,
+        "Name": "ビュッフェの欠片\n（矢田萌華 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 175210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 50130,
+        "Name": "パンプキンパイの欠片\n（生駒里奈 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 501310340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 50220,
+        "Name": "おしゃれ雑誌の欠片\n（伊藤万理華 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 502210340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 50310,
+        "Name": "ソフトボール用バットの欠片\n（白石麻衣 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 503110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    },
+    {
+        "Id": 50410,
+        "Name": "どいやさんの欠片\n（西野七瀬 専用）",
+        "PaymentItemId": 4,
+        "PaymentItemQuantity": 2,
+        "PaymentItemType": 190,
+        "RewardItemId": 504110340,
+        "RewardItemQuantity": 5,
+        "RewardItemType": 121
+    }
+]

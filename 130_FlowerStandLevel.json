@@ -1,0 +1,562 @@
+[
+    {
+        "FlowerStandId": 1,
+        "Id": 10001,
+        "Level": 1,
+        "RequiredTotalExp": 0,
+        "ThumbnailId": 100
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10002,
+        "Level": 2,
+        "RequiredTotalExp": 5000,
+        "ThumbnailId": 100
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10003,
+        "Level": 3,
+        "RequiredTotalExp": 10000,
+        "ThumbnailId": 100
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10004,
+        "Level": 4,
+        "RequiredTotalExp": 25000,
+        "ThumbnailId": 101
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10005,
+        "Level": 5,
+        "RequiredTotalExp": 50000,
+        "ThumbnailId": 101
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10006,
+        "Level": 6,
+        "RequiredTotalExp": 75000,
+        "ThumbnailId": 101
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10007,
+        "Level": 7,
+        "RequiredTotalExp": 100000,
+        "ThumbnailId": 102
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10008,
+        "Level": 8,
+        "RequiredTotalExp": 150000,
+        "ThumbnailId": 102
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10009,
+        "Level": 9,
+        "RequiredTotalExp": 250000,
+        "ThumbnailId": 102
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10010,
+        "Level": 10,
+        "RequiredTotalExp": 350000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10011,
+        "Level": 11,
+        "RequiredTotalExp": 500000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10012,
+        "Level": 12,
+        "RequiredTotalExp": 750000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10013,
+        "Level": 13,
+        "RequiredTotalExp": 1000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10014,
+        "Level": 14,
+        "RequiredTotalExp": 1500000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10015,
+        "Level": 15,
+        "RequiredTotalExp": 2000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10016,
+        "Level": 16,
+        "RequiredTotalExp": 3000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10017,
+        "Level": 17,
+        "RequiredTotalExp": 4000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10018,
+        "Level": 18,
+        "RequiredTotalExp": 5000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10019,
+        "Level": 19,
+        "RequiredTotalExp": 7500000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 1,
+        "Id": 10020,
+        "Level": 20,
+        "RequiredTotalExp": 10000000,
+        "ThumbnailId": 103
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20001,
+        "Level": 1,
+        "RequiredTotalExp": 0,
+        "ThumbnailId": 200
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20002,
+        "Level": 2,
+        "RequiredTotalExp": 5000,
+        "ThumbnailId": 200
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20003,
+        "Level": 3,
+        "RequiredTotalExp": 10000,
+        "ThumbnailId": 200
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20004,
+        "Level": 4,
+        "RequiredTotalExp": 25000,
+        "ThumbnailId": 201
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20005,
+        "Level": 5,
+        "RequiredTotalExp": 50000,
+        "ThumbnailId": 201
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20006,
+        "Level": 6,
+        "RequiredTotalExp": 75000,
+        "ThumbnailId": 201
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20007,
+        "Level": 7,
+        "RequiredTotalExp": 100000,
+        "ThumbnailId": 202
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20008,
+        "Level": 8,
+        "RequiredTotalExp": 150000,
+        "ThumbnailId": 202
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20009,
+        "Level": 9,
+        "RequiredTotalExp": 250000,
+        "ThumbnailId": 202
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20010,
+        "Level": 10,
+        "RequiredTotalExp": 350000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20011,
+        "Level": 11,
+        "RequiredTotalExp": 500000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20012,
+        "Level": 12,
+        "RequiredTotalExp": 750000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20013,
+        "Level": 13,
+        "RequiredTotalExp": 1000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20014,
+        "Level": 14,
+        "RequiredTotalExp": 1500000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20015,
+        "Level": 15,
+        "RequiredTotalExp": 2000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20016,
+        "Level": 16,
+        "RequiredTotalExp": 3000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20017,
+        "Level": 17,
+        "RequiredTotalExp": 4000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20018,
+        "Level": 18,
+        "RequiredTotalExp": 5000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20019,
+        "Level": 19,
+        "RequiredTotalExp": 7500000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 2,
+        "Id": 20020,
+        "Level": 20,
+        "RequiredTotalExp": 10000000,
+        "ThumbnailId": 203
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30001,
+        "Level": 1,
+        "RequiredTotalExp": 0,
+        "ThumbnailId": 300
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30002,
+        "Level": 2,
+        "RequiredTotalExp": 5000,
+        "ThumbnailId": 300
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30003,
+        "Level": 3,
+        "RequiredTotalExp": 10000,
+        "ThumbnailId": 300
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30004,
+        "Level": 4,
+        "RequiredTotalExp": 25000,
+        "ThumbnailId": 301
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30005,
+        "Level": 5,
+        "RequiredTotalExp": 50000,
+        "ThumbnailId": 301
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30006,
+        "Level": 6,
+        "RequiredTotalExp": 75000,
+        "ThumbnailId": 301
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30007,
+        "Level": 7,
+        "RequiredTotalExp": 100000,
+        "ThumbnailId": 302
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30008,
+        "Level": 8,
+        "RequiredTotalExp": 150000,
+        "ThumbnailId": 302
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30009,
+        "Level": 9,
+        "RequiredTotalExp": 250000,
+        "ThumbnailId": 302
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30010,
+        "Level": 10,
+        "RequiredTotalExp": 350000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30011,
+        "Level": 11,
+        "RequiredTotalExp": 500000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30012,
+        "Level": 12,
+        "RequiredTotalExp": 750000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30013,
+        "Level": 13,
+        "RequiredTotalExp": 1000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30014,
+        "Level": 14,
+        "RequiredTotalExp": 1500000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30015,
+        "Level": 15,
+        "RequiredTotalExp": 2000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30016,
+        "Level": 16,
+        "RequiredTotalExp": 3000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30017,
+        "Level": 17,
+        "RequiredTotalExp": 4000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30018,
+        "Level": 18,
+        "RequiredTotalExp": 5000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30019,
+        "Level": 19,
+        "RequiredTotalExp": 7500000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 3,
+        "Id": 30020,
+        "Level": 20,
+        "RequiredTotalExp": 10000000,
+        "ThumbnailId": 303
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40001,
+        "Level": 1,
+        "RequiredTotalExp": 0,
+        "ThumbnailId": 400
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40002,
+        "Level": 2,
+        "RequiredTotalExp": 5000,
+        "ThumbnailId": 400
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40003,
+        "Level": 3,
+        "RequiredTotalExp": 10000,
+        "ThumbnailId": 400
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40004,
+        "Level": 4,
+        "RequiredTotalExp": 25000,
+        "ThumbnailId": 401
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40005,
+        "Level": 5,
+        "RequiredTotalExp": 50000,
+        "ThumbnailId": 401
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40006,
+        "Level": 6,
+        "RequiredTotalExp": 75000,
+        "ThumbnailId": 401
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40007,
+        "Level": 7,
+        "RequiredTotalExp": 100000,
+        "ThumbnailId": 402
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40008,
+        "Level": 8,
+        "RequiredTotalExp": 150000,
+        "ThumbnailId": 402
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40009,
+        "Level": 9,
+        "RequiredTotalExp": 250000,
+        "ThumbnailId": 402
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40010,
+        "Level": 10,
+        "RequiredTotalExp": 350000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40011,
+        "Level": 11,
+        "RequiredTotalExp": 500000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40012,
+        "Level": 12,
+        "RequiredTotalExp": 750000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40013,
+        "Level": 13,
+        "RequiredTotalExp": 1000000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40014,
+        "Level": 14,
+        "RequiredTotalExp": 1500000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40015,
+        "Level": 15,
+        "RequiredTotalExp": 2000000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40016,
+        "Level": 16,
+        "RequiredTotalExp": 3000000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40017,
+        "Level": 17,
+        "RequiredTotalExp": 4000000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40018,
+        "Level": 18,
+        "RequiredTotalExp": 5000000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40019,
+        "Level": 19,
+        "RequiredTotalExp": 7500000,
+        "ThumbnailId": 403
+    },
+    {
+        "FlowerStandId": 4,
+        "Id": 40020,
+        "Level": 20,
+        "RequiredTotalExp": 10000000,
+        "ThumbnailId": 403
+    }
+]

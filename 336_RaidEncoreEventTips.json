@@ -1,0 +1,22 @@
+[
+    {
+        "EncoreEventTipsType": 1,
+        "Id": 1,
+        "Title": "イベントについて"
+    },
+    {
+        "EncoreEventTipsType": 2,
+        "Id": 2,
+        "Title": "難易度と参加条件について"
+    },
+    {
+        "EncoreEventTipsType": 3,
+        "Id": 3,
+        "Title": "HP・SP引継ぎについて"
+    },
+    {
+        "EncoreEventTipsType": 4,
+        "Id": 4,
+        "Title": "アンコールについて"
+    }
+]

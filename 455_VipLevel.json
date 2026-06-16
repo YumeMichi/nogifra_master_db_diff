@@ -1,0 +1,80 @@
+[
+    {
+        "Id": 1,
+        "Level": 0,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_0",
+        "PointNeededFromPrevLevel": 0
+    },
+    {
+        "Id": 2,
+        "Level": 1,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_1",
+        "PointNeededFromPrevLevel": 60
+    },
+    {
+        "Id": 3,
+        "Level": 2,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_1",
+        "PointNeededFromPrevLevel": 440
+    },
+    {
+        "Id": 4,
+        "Level": 3,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_1",
+        "PointNeededFromPrevLevel": 1000
+    },
+    {
+        "Id": 5,
+        "Level": 4,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_1",
+        "PointNeededFromPrevLevel": 2500
+    },
+    {
+        "Id": 6,
+        "Level": 5,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_2",
+        "PointNeededFromPrevLevel": 4000
+    },
+    {
+        "Id": 7,
+        "Level": 6,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_2",
+        "PointNeededFromPrevLevel": 7000
+    },
+    {
+        "Id": 8,
+        "Level": 7,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_2",
+        "PointNeededFromPrevLevel": 20000
+    },
+    {
+        "Id": 9,
+        "Level": 8,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_2",
+        "PointNeededFromPrevLevel": 45000
+    },
+    {
+        "Id": 10,
+        "Level": 9,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_3",
+        "PointNeededFromPrevLevel": 70000
+    },
+    {
+        "Id": 11,
+        "Level": 10,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_3",
+        "PointNeededFromPrevLevel": 100000
+    },
+    {
+        "Id": 12,
+        "Level": 11,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_3",
+        "PointNeededFromPrevLevel": 150000
+    },
+    {
+        "Id": 13,
+        "Level": 12,
+        "LoginBonusFrameName": "loginbonus_vip_rank_frame_3",
+        "PointNeededFromPrevLevel": 200000
+    }
+]

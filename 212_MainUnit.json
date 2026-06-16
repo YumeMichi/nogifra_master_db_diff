@@ -1,0 +1,962 @@
+[
+    {
+        "CharacterId": 101,
+        "Id": 101100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 101,
+        "Id": 101200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 101,
+        "Id": 101300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 102,
+        "Id": 102100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 102,
+        "Id": 102200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 102,
+        "Id": 102300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 110,
+        "Id": 110100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 110,
+        "Id": 110200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 110,
+        "Id": 110300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 113,
+        "Id": 113100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 113,
+        "Id": 113200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 113,
+        "Id": 113300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 114,
+        "Id": 114100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 114,
+        "Id": 114200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 114,
+        "Id": 114300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 117,
+        "Id": 117100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 117,
+        "Id": 117200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 117,
+        "Id": 117300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 118,
+        "Id": 118100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 118,
+        "Id": 118200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 118,
+        "Id": 118300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 120,
+        "Id": 120100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 120,
+        "Id": 120200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 120,
+        "Id": 120300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 122,
+        "Id": 122100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 122,
+        "Id": 122200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 122,
+        "Id": 122300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 125,
+        "Id": 125100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 125,
+        "Id": 125200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 125,
+        "Id": 125300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 129,
+        "Id": 129100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 129,
+        "Id": 129200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 129,
+        "Id": 129300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 165,
+        "Id": 165100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 165,
+        "Id": 165200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 165,
+        "Id": 165300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 166,
+        "Id": 166100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 166,
+        "Id": 166200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 166,
+        "Id": 166300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 168,
+        "Id": 168100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 168,
+        "Id": 168200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 168,
+        "Id": 168300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 169,
+        "Id": 169100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 169,
+        "Id": 169200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 169,
+        "Id": 169300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 170,
+        "Id": 170100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 170,
+        "Id": 170200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 170,
+        "Id": 170300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 171,
+        "Id": 171100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 171,
+        "Id": 171200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 171,
+        "Id": 171300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 172,
+        "Id": 172100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 172,
+        "Id": 172200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 172,
+        "Id": 172300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 173,
+        "Id": 173100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 173,
+        "Id": 173200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 173,
+        "Id": 173300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 174,
+        "Id": 174100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 174,
+        "Id": 174200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 174,
+        "Id": 174300,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 175,
+        "Id": 175100,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 175,
+        "Id": 175200,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 175,
+        "Id": 175300,
+        "UnitType": 3
+    }
+]

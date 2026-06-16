@@ -1,0 +1,247 @@
+[
+    {
+        "Id": 1,
+        "MinRequiredRank": 7,
+        "Number": 1,
+        "Order": 1,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 2,
+        "MinRequiredRank": 10,
+        "Number": 2,
+        "Order": 2,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 3,
+        "MinRequiredRank": 15,
+        "Number": 3,
+        "Order": 3,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 4,
+        "MinRequiredRank": 20,
+        "Number": 4,
+        "Order": 4,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 5,
+        "MinRequiredRank": 25,
+        "Number": 5,
+        "Order": 5,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 6,
+        "MinRequiredRank": 30,
+        "Number": 6,
+        "Order": 6,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 7,
+        "MinRequiredRank": 35,
+        "Number": 7,
+        "Order": 7,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 8,
+        "MinRequiredRank": 40,
+        "Number": 8,
+        "Order": 8,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 9,
+        "MinRequiredRank": 45,
+        "Number": 9,
+        "Order": 9,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 10,
+        "MinRequiredRank": 50,
+        "Number": 10,
+        "Order": 10,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 11,
+        "MinRequiredRank": 55,
+        "Number": 11,
+        "Order": 11,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 12,
+        "MinRequiredRank": 60,
+        "Number": 12,
+        "Order": 12,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 13,
+        "MinRequiredRank": 65,
+        "Number": 13,
+        "Order": 13,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 14,
+        "MinRequiredRank": 70,
+        "Number": 14,
+        "Order": 14,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 15,
+        "MinRequiredRank": 75,
+        "Number": 15,
+        "Order": 15,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 16,
+        "MinRequiredRank": 80,
+        "Number": 16,
+        "Order": 16,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 17,
+        "MinRequiredRank": 85,
+        "Number": 17,
+        "Order": 17,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 18,
+        "MinRequiredRank": 90,
+        "Number": 18,
+        "Order": 18,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 19,
+        "MinRequiredRank": 95,
+        "Number": 19,
+        "Order": 19,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 20,
+        "MinRequiredRank": 100,
+        "Number": 20,
+        "Order": 20,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 21,
+        "MinRequiredRank": 100,
+        "Number": 21,
+        "Order": 21,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 22,
+        "MinRequiredRank": 100,
+        "Number": 22,
+        "Order": 22,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 23,
+        "MinRequiredRank": 100,
+        "Number": 23,
+        "Order": 23,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 24,
+        "MinRequiredRank": 100,
+        "Number": 24,
+        "Order": 24,
+        "StartAt": "2021-11-04T17:00:00+09:00"
+    },
+    {
+        "Id": 25,
+        "MinRequiredRank": 100,
+        "Number": 25,
+        "Order": 25,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 26,
+        "MinRequiredRank": 100,
+        "Number": 26,
+        "Order": 26,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 27,
+        "MinRequiredRank": 100,
+        "Number": 27,
+        "Order": 27,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 28,
+        "MinRequiredRank": 100,
+        "Number": 28,
+        "Order": 28,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 29,
+        "MinRequiredRank": 100,
+        "Number": 29,
+        "Order": 29,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 30,
+        "MinRequiredRank": 100,
+        "Number": 30,
+        "Order": 30,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "Id": 31,
+        "MinRequiredRank": 100,
+        "Number": 31,
+        "Order": 31,
+        "StartAt": "2023-11-16T14:00:00+09:00"
+    },
+    {
+        "Id": 32,
+        "MinRequiredRank": 100,
+        "Number": 32,
+        "Order": 32,
+        "StartAt": "2023-11-16T14:00:00+09:00"
+    },
+    {
+        "Id": 33,
+        "MinRequiredRank": 100,
+        "Number": 33,
+        "Order": 33,
+        "StartAt": "2023-11-16T14:00:00+09:00"
+    },
+    {
+        "Id": 34,
+        "MinRequiredRank": 100,
+        "Number": 34,
+        "Order": 34,
+        "StartAt": "2023-11-16T14:00:00+09:00"
+    },
+    {
+        "Id": 35,
+        "MinRequiredRank": 100,
+        "Number": 35,
+        "Order": 35,
+        "StartAt": "2023-11-16T14:00:00+09:00"
+    }
+]

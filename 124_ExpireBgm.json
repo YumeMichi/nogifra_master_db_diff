@@ -1,0 +1,177 @@
+[
+    {
+        "EndAt": "2024-08-14T17:00:00+09:00",
+        "Id": 1,
+        "ResourceId": "Nigemizu"
+    },
+    {
+        "EndAt": "2024-09-01T23:59:59+09:00",
+        "Id": 2,
+        "ResourceId": "Influ"
+    },
+    {
+        "EndAt": "2024-09-01T23:59:59+09:00",
+        "Id": 3,
+        "ResourceId": "Nandome"
+    },
+    {
+        "EndAt": "2024-10-01T23:59:59+09:00",
+        "Id": 4,
+        "ResourceId": "Nichijo"
+    },
+    {
+        "EndAt": "2024-11-01T23:59:59+09:00",
+        "Id": 5,
+        "ResourceId": "Inochi"
+    },
+    {
+        "EndAt": "2024-11-01T23:59:59+09:00",
+        "Id": 6,
+        "ResourceId": "Sanbanme"
+    },
+    {
+        "EndAt": "2024-12-01T23:59:59+09:00",
+        "Id": 7,
+        "ResourceId": "Synchro"
+    },
+    {
+        "EndAt": "2024-12-01T23:59:59+09:00",
+        "Id": 8,
+        "ResourceId": "Shuriken"
+    },
+    {
+        "EndAt": "2025-01-01T23:59:59+09:00",
+        "Id": 9,
+        "ResourceId": "Kassouro"
+    },
+    {
+        "EndAt": "2025-01-01T23:59:59+09:00",
+        "Id": 10,
+        "ResourceId": "Yoake"
+    },
+    {
+        "EndAt": "2025-02-01T23:59:59+09:00",
+        "Id": 11,
+        "ResourceId": "SingOut"
+    },
+    {
+        "EndAt": "2025-02-01T23:59:59+09:00",
+        "Id": 12,
+        "ResourceId": "Kiminona"
+    },
+    {
+        "EndAt": "2025-03-01T23:59:59+09:00",
+        "Id": 13,
+        "ResourceId": "Sayonara"
+    },
+    {
+        "EndAt": "2025-03-01T23:59:59+09:00",
+        "Id": 14,
+        "ResourceId": "Isee"
+    },
+    {
+        "EndAt": "2025-04-01T23:59:59+09:00",
+        "Id": 15,
+        "ResourceId": "Anasta"
+    },
+    {
+        "EndAt": "2025-04-01T23:59:59+09:00",
+        "Id": 16,
+        "ResourceId": "Kizuitara"
+    },
+    {
+        "EndAt": "2025-05-01T23:59:59+09:00",
+        "Id": 17,
+        "ResourceId": "OutBlue"
+    },
+    {
+        "EndAt": "2025-05-01T23:59:59+09:00",
+        "Id": 18,
+        "ResourceId": "Route"
+    },
+    {
+        "EndAt": "2025-06-01T23:59:59+09:00",
+        "Id": 19,
+        "ResourceId": "Itsudeki"
+    },
+    {
+        "EndAt": "2025-07-01T23:59:59+09:00",
+        "Id": 20,
+        "ResourceId": "Sorato"
+    },
+    {
+        "EndAt": "2025-07-01T23:59:59+09:00",
+        "Id": 21,
+        "ResourceId": "Jikochu"
+    },
+    {
+        "EndAt": "2025-08-01T23:59:59+09:00",
+        "Id": 22,
+        "ResourceId": "HadaSum"
+    },
+    {
+        "EndAt": "2025-08-01T23:59:59+09:00",
+        "Id": 23,
+        "ResourceId": "Fincro"
+    },
+    {
+        "EndAt": "2025-09-01T23:59:59+09:00",
+        "Id": 24,
+        "ResourceId": "First"
+    },
+    {
+        "EndAt": "2025-10-01T23:59:59+09:00",
+        "Id": 25,
+        "ResourceId": "Barrette"
+    },
+    {
+        "EndAt": "2025-10-01T23:59:59+09:00",
+        "Id": 26,
+        "ResourceId": "Fantapan"
+    },
+    {
+        "EndAt": "2025-12-01T23:59:59+09:00",
+        "Id": 27,
+        "ResourceId": "Kuchihodo"
+    },
+    {
+        "EndAt": "2026-01-01T23:59:59+09:00",
+        "Id": 28,
+        "ResourceId": "Kotodama"
+    },
+    {
+        "EndAt": "2026-02-01T23:59:59+09:00",
+        "Id": 29,
+        "ResourceId": "Kimishika"
+    },
+    {
+        "EndAt": "2026-02-01T23:59:59+09:00",
+        "Id": 30,
+        "ResourceId": "Kokoiru"
+    },
+    {
+        "EndAt": "2026-02-01T23:59:59+09:00",
+        "Id": 31,
+        "ResourceId": "Zetsubo"
+    },
+    {
+        "EndAt": "2026-03-01T23:59:59+09:00",
+        "Id": 32,
+        "ResourceId": "Kaerimichi"
+    },
+    {
+        "EndAt": "2026-03-01T23:59:59+09:00",
+        "Id": 33,
+        "ResourceId": "TightHug"
+    },
+    {
+        "EndAt": "2026-05-01T23:59:59+09:00",
+        "Id": 34,
+        "ResourceId": "Senpuki"
+    },
+    {
+        "EndAt": "2026-07-01T23:59:59+09:00",
+        "Id": 35,
+        "ResourceId": "Bokuboku"
+    }
+]

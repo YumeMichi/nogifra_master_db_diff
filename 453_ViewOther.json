@@ -1,0 +1,79 @@
+[
+    {
+        "Id": 102000001,
+        "ItemType": 102,
+        "Name": "ゼニー",
+        "ThumbnailId": "102000001",
+        "Tooltip": "一般的な硬貨"
+    },
+    {
+        "Id": 106000001,
+        "ItemType": 106,
+        "Name": "乃木メダル",
+        "ThumbnailId": "106000001",
+        "Tooltip": "セレクトショップで使用可能なメダル"
+    },
+    {
+        "Id": 140000001,
+        "ItemType": 140,
+        "Name": "リメイクPt",
+        "ThumbnailId": "140000001",
+        "Tooltip": "「デザイン」「特別デザイン」でコーデを作成する際に必要なPt"
+    },
+    {
+        "Id": 160000001,
+        "ItemType": 160,
+        "Name": "レジェンドPt",
+        "ThumbnailId": "160000001",
+        "Tooltip": "「特別デザイン」でコーデを作成する際や、「スター合成」の際に必要なPt"
+    },
+    {
+        "Id": 170000001,
+        "ItemType": 170,
+        "Name": "プロフィールアイコンフレーム",
+        "ThumbnailId": "",
+        "Tooltip": ""
+    },
+    {
+        "Id": 180000001,
+        "ItemType": 180,
+        "Name": "称号",
+        "ThumbnailId": "",
+        "Tooltip": ""
+    },
+    {
+        "Id": 200000001,
+        "ItemType": 200,
+        "Name": "楽曲",
+        "ThumbnailId": "",
+        "Tooltip": ""
+    },
+    {
+        "Id": 210000001,
+        "ItemType": 210,
+        "Name": "会員Pt",
+        "ThumbnailId": "210000001",
+        "Tooltip": "会員Rankをアップさせるために必要なPt"
+    },
+    {
+        "Id": 220000001,
+        "ItemType": 220,
+        "Name": "ムービー",
+        "ThumbnailId": "",
+        "Tooltip": ""
+    },
+    {
+        "Id": 230000001,
+        "ItemType": 230,
+        "Name": "ボイス",
+        "ThumbnailId": "",
+        "Tooltip": ""
+    },
+    {
+        "Id": 280000001,
+        "ItemType": 280,
+        "Name": "ステージアップパス",
+        "ThumbnailId": "280000001",
+        "Tooltip": "ステージアップパスの特典受取が可能になります"
+    }
+]

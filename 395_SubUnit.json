@@ -1,0 +1,3098 @@
+[
+    {
+        "CharacterId": 101,
+        "Id": 101101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111101,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 101,
+        "Id": 101102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111101,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 101,
+        "Id": 101201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111101,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 101,
+        "Id": 101301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111101,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 102,
+        "Id": 102101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111102,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 102,
+        "Id": 102301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111102,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111106,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111106,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111106,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 106,
+        "Id": 106301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111106,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 110,
+        "Id": 110101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111110,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 110,
+        "Id": 110301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111110,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111112,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111112,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 112,
+        "Id": 112301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111112,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 113,
+        "Id": 113201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111113,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 113,
+        "Id": 113301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111113,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 114,
+        "Id": 114201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111114,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111115,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111115,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 115,
+        "Id": 115301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111115,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 117,
+        "Id": 117101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111117,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 118,
+        "Id": 118101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111118,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 118,
+        "Id": 118301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111118,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 120,
+        "Id": 120201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111120,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 120,
+        "Id": 120301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111120,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111121,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111121,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 121,
+        "Id": 121301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111121,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 122,
+        "Id": 122101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111122,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 122,
+        "Id": 122201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111122,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111124,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111124,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 124,
+        "Id": 124301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111124,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 125,
+        "Id": 125101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111125,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 126,
+        "Id": 126311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111126,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 127,
+        "Id": 127312,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111127,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128103,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128104,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128203,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 128,
+        "Id": 128311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111128,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 129,
+        "Id": 129301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111129,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 130,
+        "Id": 130311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111130,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 131,
+        "Id": 131302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111131,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 132,
+        "Id": 132301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111132,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 133,
+        "Id": 133302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111133,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 134,
+        "Id": 134311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111134,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 135,
+        "Id": 135302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111135,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 136,
+        "Id": 136302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111136,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 137,
+        "Id": 137302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111137,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 138,
+        "Id": 138311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111138,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 139,
+        "Id": 139311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111139,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111140,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111140,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 140,
+        "Id": 140301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111140,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 141,
+        "Id": 141311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111141,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111142,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111142,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111142,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 142,
+        "Id": 142301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111142,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 143,
+        "Id": 143302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111143,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 144,
+        "Id": 144302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111144,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145112,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 145,
+        "Id": 145302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111145,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146103,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146112,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 146,
+        "Id": 146302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111146,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111147,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111147,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111147,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 147,
+        "Id": 147301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111147,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 148,
+        "Id": 148311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111148,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 149,
+        "Id": 149311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111149,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150103,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 150,
+        "Id": 150302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111150,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 151,
+        "Id": 151311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111151,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152112,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 152,
+        "Id": 152302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111152,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 153,
+        "Id": 153312,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111153,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 154,
+        "Id": 154311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111154,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 155,
+        "Id": 155311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 156,
+        "Id": 156312,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111156,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157103,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 157,
+        "Id": 157311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111157,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158203,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 158,
+        "Id": 158302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111158,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 159,
+        "Id": 159302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111159,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 160,
+        "Id": 160311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111160,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161212,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162212,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 162,
+        "Id": 162302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111162,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163311,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 163,
+        "Id": 163312,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111163,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164102,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164111,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164202,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164211,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 164,
+        "Id": 164302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111164,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 165,
+        "Id": 165101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111165,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 165,
+        "Id": 165301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111165,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 166,
+        "Id": 166101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111166,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 166,
+        "Id": 166201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111166,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 168,
+        "Id": 168101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111168,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 168,
+        "Id": 168301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111168,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 169,
+        "Id": 169101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111169,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 169,
+        "Id": 169201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111169,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 170,
+        "Id": 170201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111170,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 170,
+        "Id": 170301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111170,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 171,
+        "Id": 171101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111171,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 171,
+        "Id": 171301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111171,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 172,
+        "Id": 172101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111172,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 172,
+        "Id": 172201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111172,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 173,
+        "Id": 173201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111173,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 173,
+        "Id": 173301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111173,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 174,
+        "Id": 174101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111174,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 174,
+        "Id": 174301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111174,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 175,
+        "Id": 175101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111175,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 175,
+        "Id": 175201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111175,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 501,
+        "Id": 501301,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 0,
+        "PriorTargetBreakthroughItemId": 0,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 502,
+        "Id": 502201,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 0,
+        "PriorTargetBreakthroughItemId": 0,
+        "ResourceGroupId": 1,
+        "UnitType": 2
+    },
+    {
+        "CharacterId": 503,
+        "Id": 503101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 0,
+        "PriorTargetBreakthroughItemId": 0,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 504,
+        "Id": 504101,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 0,
+        "PriorTargetBreakthroughItemId": 0,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    }
+]

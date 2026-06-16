@@ -1,0 +1,440 @@
+[
+    {
+        "AreaId": 8100102,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100101",
+        "Id": 8100102
+    },
+    {
+        "AreaId": 8100103,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100102",
+        "Id": 8100103
+    },
+    {
+        "AreaId": 8100104,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100103",
+        "Id": 8100104
+    },
+    {
+        "AreaId": 8100105,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100104",
+        "Id": 8100105
+    },
+    {
+        "AreaId": 8100106,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100105",
+        "Id": 8100106
+    },
+    {
+        "AreaId": 8100107,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100106",
+        "Id": 8100107
+    },
+    {
+        "AreaId": 8100108,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100107",
+        "Id": 8100108
+    },
+    {
+        "AreaId": 8100109,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100108",
+        "Id": 8100109
+    },
+    {
+        "AreaId": 8100110,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100109",
+        "Id": 8100110
+    },
+    {
+        "AreaId": 8100111,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100110",
+        "Id": 8100111
+    },
+    {
+        "AreaId": 8100112,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100111",
+        "Id": 8100112
+    },
+    {
+        "AreaId": 8100113,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100112",
+        "Id": 8100113
+    },
+    {
+        "AreaId": 8100114,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100113",
+        "Id": 8100114
+    },
+    {
+        "AreaId": 8100115,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100114",
+        "Id": 8100115
+    },
+    {
+        "AreaId": 8100116,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100115",
+        "Id": 8100116
+    },
+    {
+        "AreaId": 8100117,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100116",
+        "Id": 8100117
+    },
+    {
+        "AreaId": 8100118,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100117",
+        "Id": 8100118
+    },
+    {
+        "AreaId": 8100119,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100118",
+        "Id": 8100119
+    },
+    {
+        "AreaId": 8100120,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100119",
+        "Id": 8100120
+    },
+    {
+        "AreaId": 8100202,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100201",
+        "Id": 8100202
+    },
+    {
+        "AreaId": 8100203,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100202",
+        "Id": 8100203
+    },
+    {
+        "AreaId": 8100204,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100203",
+        "Id": 8100204
+    },
+    {
+        "AreaId": 8100205,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100204",
+        "Id": 8100205
+    },
+    {
+        "AreaId": 8100206,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100205",
+        "Id": 8100206
+    },
+    {
+        "AreaId": 8100207,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100206",
+        "Id": 8100207
+    },
+    {
+        "AreaId": 8100208,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100207",
+        "Id": 8100208
+    },
+    {
+        "AreaId": 8100209,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100208",
+        "Id": 8100209
+    },
+    {
+        "AreaId": 8100210,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100209",
+        "Id": 8100210
+    },
+    {
+        "AreaId": 8100211,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100210",
+        "Id": 8100211
+    },
+    {
+        "AreaId": 8100212,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100211",
+        "Id": 8100212
+    },
+    {
+        "AreaId": 8100213,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100212",
+        "Id": 8100213
+    },
+    {
+        "AreaId": 8100214,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100213",
+        "Id": 8100214
+    },
+    {
+        "AreaId": 8100215,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100214",
+        "Id": 8100215
+    },
+    {
+        "AreaId": 8100216,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100215",
+        "Id": 8100216
+    },
+    {
+        "AreaId": 8100217,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100216",
+        "Id": 8100217
+    },
+    {
+        "AreaId": 8100218,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100217",
+        "Id": 8100218
+    },
+    {
+        "AreaId": 8100219,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100218",
+        "Id": 8100219
+    },
+    {
+        "AreaId": 8100220,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100219",
+        "Id": 8100220
+    },
+    {
+        "AreaId": 8100221,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100220",
+        "Id": 8100221
+    },
+    {
+        "AreaId": 8100302,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100301",
+        "Id": 8100302
+    },
+    {
+        "AreaId": 8100303,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100302",
+        "Id": 8100303
+    },
+    {
+        "AreaId": 8100304,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100303",
+        "Id": 8100304
+    },
+    {
+        "AreaId": 8100305,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100304",
+        "Id": 8100305
+    },
+    {
+        "AreaId": 8100306,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100305",
+        "Id": 8100306
+    },
+    {
+        "AreaId": 8100307,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100306",
+        "Id": 8100307
+    },
+    {
+        "AreaId": 8100308,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100307",
+        "Id": 8100308
+    },
+    {
+        "AreaId": 8100309,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100308",
+        "Id": 8100309
+    },
+    {
+        "AreaId": 8100310,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100309",
+        "Id": 8100310
+    },
+    {
+        "AreaId": 8100311,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100310",
+        "Id": 8100311
+    },
+    {
+        "AreaId": 8100402,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100401",
+        "Id": 8100402
+    },
+    {
+        "AreaId": 8100403,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100402",
+        "Id": 8100403
+    },
+    {
+        "AreaId": 8100404,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100403",
+        "Id": 8100404
+    },
+    {
+        "AreaId": 8100405,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100404",
+        "Id": 8100405
+    },
+    {
+        "AreaId": 8100406,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100405",
+        "Id": 8100406
+    },
+    {
+        "AreaId": 8100407,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100406",
+        "Id": 8100407
+    },
+    {
+        "AreaId": 8100408,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100407",
+        "Id": 8100408
+    },
+    {
+        "AreaId": 8100409,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100408",
+        "Id": 8100409
+    },
+    {
+        "AreaId": 8100410,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100409",
+        "Id": 8100410
+    },
+    {
+        "AreaId": 8100411,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100410",
+        "Id": 8100411
+    },
+    {
+        "AreaId": 8100412,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100411",
+        "Id": 8100412
+    },
+    {
+        "AreaId": 8100502,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100501",
+        "Id": 8100502
+    },
+    {
+        "AreaId": 8100504,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100502",
+        "Id": 8100504
+    },
+    {
+        "AreaId": 8100505,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100504",
+        "Id": 8100505
+    },
+    {
+        "AreaId": 8100506,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100505",
+        "Id": 8100506
+    },
+    {
+        "AreaId": 8100507,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100506",
+        "Id": 8100507
+    },
+    {
+        "AreaId": 8100508,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100507",
+        "Id": 8100508
+    },
+    {
+        "AreaId": 8100509,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100508",
+        "Id": 8100509
+    },
+    {
+        "AreaId": 8100510,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100509",
+        "Id": 8100510
+    },
+    {
+        "AreaId": 8100511,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100510",
+        "Id": 8100511
+    },
+    {
+        "AreaId": 8100512,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100511",
+        "Id": 8100512
+    },
+    {
+        "AreaId": 8100513,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100512",
+        "Id": 8100513
+    },
+    {
+        "AreaId": 8100514,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100513",
+        "Id": 8100514
+    },
+    {
+        "AreaId": 8100515,
+        "AreaReleaseConditionType": 2,
+        "ConditionValue": "8100514",
+        "Id": 8100515
+    }
+]

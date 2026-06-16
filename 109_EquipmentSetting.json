@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "SettingType": 1,
+        "Value": 8000
+    },
+    {
+        "Id": 2,
+        "SettingType": 2,
+        "Value": 1000
+    },
+    {
+        "Id": 3,
+        "SettingType": 3,
+        "Value": 200000
+    },
+    {
+        "Id": 4,
+        "SettingType": 4,
+        "Value": 2000
+    },
+    {
+        "Id": 5,
+        "SettingType": 5,
+        "Value": 150000
+    },
+    {
+        "Id": 6,
+        "SettingType": 6,
+        "Value": 20
+    },
+    {
+        "Id": 7,
+        "SettingType": 7,
+        "Value": 110
+    },
+    {
+        "Id": 8,
+        "SettingType": 8,
+        "Value": 110
+    }
+]

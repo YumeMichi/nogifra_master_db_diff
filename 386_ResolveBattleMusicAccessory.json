@@ -1,0 +1,2162 @@
+[
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1000101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1001301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1001901,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1002501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1004301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005901,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1006901,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1007401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1010601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1011301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1012001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1012901,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1013901,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1014601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1016401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1016501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1018601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1018701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1019101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1019301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1020601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1020801,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1021301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021801,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1022501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1005301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1021001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023201,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1003401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1017101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1024701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1017801,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1024501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1023601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003201,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1015101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1022101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1025701,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025801,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1026001,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026501,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1003101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1025401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1026301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027201,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1027301,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029201,
+        "position": 5
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 0
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 1
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 2
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 3
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 4
+    },
+    {
+        "AccessoryId": 1,
+        "BattleMusicId": 1023101,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029401,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1028601,
+        "position": 5
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 0
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 1
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 2
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 3
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 4
+    },
+    {
+        "AccessoryId": 2,
+        "BattleMusicId": 1029301,
+        "position": 5
+    }
+]

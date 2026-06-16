@@ -1,0 +1,212 @@
+[
+    {
+        "Id": 1,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 10,
+        "SpriteName": ""
+    },
+    {
+        "Id": 2,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 3,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 4,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 5,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 6,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 7,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 8,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 9,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 10,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 11,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 12,
+        "Name": "",
+        "Rank": 1,
+        "RankBonusType": 11,
+        "SpriteName": ""
+    },
+    {
+        "Id": 13,
+        "Name": "トレーニング",
+        "Rank": 12,
+        "RankBonusType": 100,
+        "SpriteName": "unlock_training"
+    },
+    {
+        "Id": 14,
+        "Name": "レッスン",
+        "Rank": 7,
+        "RankBonusType": 110,
+        "SpriteName": "unlock_lesson"
+    },
+    {
+        "Id": 15,
+        "Name": "お見立て会",
+        "Rank": 20,
+        "RankBonusType": 120,
+        "SpriteName": "unlock_pvp"
+    },
+    {
+        "Id": 16,
+        "Name": "乃木WEB",
+        "Rank": 12,
+        "RankBonusType": 130,
+        "SpriteName": "unlock_guild_raid"
+    },
+    {
+        "Id": 17,
+        "Name": "レッスンステージ",
+        "Rank": 7,
+        "RankBonusType": 140,
+        "SpriteName": "unlock_lesson_stage"
+    },
+    {
+        "Id": 18,
+        "Name": "特別デザイン",
+        "Rank": 17,
+        "RankBonusType": 150,
+        "SpriteName": "unlock_special_equipment_design"
+    },
+    {
+        "Id": 19,
+        "Name": "グループ",
+        "Rank": 12,
+        "RankBonusType": 160,
+        "SpriteName": "unlock_guild"
+    },
+    {
+        "Id": 20,
+        "Name": "センタースキル",
+        "Rank": 5,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 21,
+        "Name": "センタースキル",
+        "Rank": 10,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 22,
+        "Name": "センタースキル",
+        "Rank": 15,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 23,
+        "Name": "センタースキル",
+        "Rank": 20,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 24,
+        "Name": "センタースキル",
+        "Rank": 25,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 25,
+        "Name": "センタースキル",
+        "Rank": 30,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 26,
+        "Name": "センタースキル",
+        "Rank": 40,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 27,
+        "Name": "センタースキル",
+        "Rank": 50,
+        "RankBonusType": 20,
+        "SpriteName": ""
+    },
+    {
+        "Id": 28,
+        "Name": "イベントライブ",
+        "Rank": 15,
+        "RankBonusType": 170,
+        "SpriteName": "unlock_raid"
+    },
+    {
+        "Id": 29,
+        "Name": "カスタマイズ",
+        "Rank": 20,
+        "RankBonusType": 180,
+        "SpriteName": "unlock_customize"
+    },
+    {
+        "Id": 30,
+        "Name": "アワードライブ",
+        "Rank": 50,
+        "RankBonusType": 190,
+        "SpriteName": "unlock_pvp_ex"
+    }
+]

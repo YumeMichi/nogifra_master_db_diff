@@ -1,0 +1,110 @@
+[
+    {
+        "Id": 1011,
+        "LevelUpBonusEffectId": 101,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 10
+    },
+    {
+        "Id": 1012,
+        "LevelUpBonusEffectId": 102,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 20
+    },
+    {
+        "Id": 1013,
+        "LevelUpBonusEffectId": 103,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 30
+    },
+    {
+        "Id": 1014,
+        "LevelUpBonusEffectId": 104,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 40
+    },
+    {
+        "Id": 1015,
+        "LevelUpBonusEffectId": 105,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 50
+    },
+    {
+        "Id": 1016,
+        "LevelUpBonusEffectId": 106,
+        "LevelUpBonusGroupId": 101,
+        "StartLevel": 60
+    },
+    {
+        "Id": 2011,
+        "LevelUpBonusEffectId": 201,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 10
+    },
+    {
+        "Id": 2012,
+        "LevelUpBonusEffectId": 202,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 20
+    },
+    {
+        "Id": 2013,
+        "LevelUpBonusEffectId": 203,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 30
+    },
+    {
+        "Id": 2014,
+        "LevelUpBonusEffectId": 204,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 40
+    },
+    {
+        "Id": 2015,
+        "LevelUpBonusEffectId": 205,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 50
+    },
+    {
+        "Id": 2016,
+        "LevelUpBonusEffectId": 206,
+        "LevelUpBonusGroupId": 201,
+        "StartLevel": 60
+    },
+    {
+        "Id": 3011,
+        "LevelUpBonusEffectId": 301,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 10
+    },
+    {
+        "Id": 3012,
+        "LevelUpBonusEffectId": 302,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 20
+    },
+    {
+        "Id": 3013,
+        "LevelUpBonusEffectId": 303,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 30
+    },
+    {
+        "Id": 3014,
+        "LevelUpBonusEffectId": 304,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 40
+    },
+    {
+        "Id": 3015,
+        "LevelUpBonusEffectId": 305,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 50
+    },
+    {
+        "Id": 3016,
+        "LevelUpBonusEffectId": 306,
+        "LevelUpBonusGroupId": 301,
+        "StartLevel": 60
+    }
+]

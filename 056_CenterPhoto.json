@@ -1,0 +1,352 @@
+[
+    {
+        "CharacterId": 126,
+        "CharacterRankRewardDescription": "伊藤理々杏2(33rd制服スタイル付き)解放",
+        "ConditionId": 126026,
+        "CostumeId": 203303,
+        "Id": 12610003,
+        "Name": "【センターフォト】伊藤理々杏2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 127,
+        "CharacterRankRewardDescription": "岩本蓮加2(33rd制服スタイル付き)解放",
+        "ConditionId": 127026,
+        "CostumeId": 203301,
+        "Id": 12710003,
+        "Name": "【センターフォト】岩本蓮加2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 128,
+        "CharacterRankRewardDescription": "梅澤美波2(33rd制服スタイル付き)解放",
+        "ConditionId": 128026,
+        "CostumeId": 203302,
+        "Id": 12810003,
+        "Name": "【センターフォト】梅澤美波2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 130,
+        "CharacterRankRewardDescription": "久保史緒里2(33rd制服スタイル付き)解放",
+        "ConditionId": 130026,
+        "CostumeId": 203302,
+        "Id": 13010003,
+        "Name": "【センターフォト】久保史緒里2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 131,
+        "CharacterRankRewardDescription": "阪口珠美2(33rd制服スタイル付き)解放",
+        "ConditionId": 131026,
+        "CostumeId": 203303,
+        "Id": 13110003,
+        "Name": "【センターフォト】阪口珠美2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 132,
+        "CharacterRankRewardDescription": "佐藤楓2(33rd制服スタイル付き)解放",
+        "ConditionId": 132026,
+        "CostumeId": 203301,
+        "Id": 13210003,
+        "Name": "【センターフォト】佐藤楓2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 133,
+        "CharacterRankRewardDescription": "中村麗乃2(33rd制服スタイル付き)解放",
+        "ConditionId": 133026,
+        "CostumeId": 203302,
+        "Id": 13310003,
+        "Name": "【センターフォト】中村麗乃2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 134,
+        "CharacterRankRewardDescription": "向井葉月2(33rd制服スタイル付き)解放",
+        "ConditionId": 134026,
+        "CostumeId": 203303,
+        "Id": 13410003,
+        "Name": "【センターフォト】向井葉月2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 135,
+        "CharacterRankRewardDescription": "山下美月2(33rd制服スタイル付き)解放",
+        "ConditionId": 135026,
+        "CostumeId": 203302,
+        "Id": 13510003,
+        "Name": "【センターフォト】山下美月2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 136,
+        "CharacterRankRewardDescription": "吉田綾乃クリスティー2(33rd制服スタイル付き)解放",
+        "ConditionId": 136026,
+        "CostumeId": 203302,
+        "Id": 13610003,
+        "Name": "【センターフォト】吉田綾乃クリスティー2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 137,
+        "CharacterRankRewardDescription": "与田祐希2(33rd制服スタイル付き)解放",
+        "ConditionId": 137026,
+        "CostumeId": 203303,
+        "Id": 13710003,
+        "Name": "【センターフォト】与田祐希2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 138,
+        "CharacterRankRewardDescription": "遠藤さくら2(33rd制服スタイル付き)解放",
+        "ConditionId": 138026,
+        "CostumeId": 203302,
+        "Id": 13810003,
+        "Name": "【センターフォト】遠藤さくら2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 139,
+        "CharacterRankRewardDescription": "賀喜遥香2(33rd制服スタイル付き)解放",
+        "ConditionId": 139026,
+        "CostumeId": 203302,
+        "Id": 13910003,
+        "Name": "【センターフォト】賀喜遥香2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 141,
+        "CharacterRankRewardDescription": "金川紗耶2(33rd制服スタイル付き)解放",
+        "ConditionId": 141026,
+        "CostumeId": 203301,
+        "Id": 14110003,
+        "Name": "【センターフォト】金川紗耶2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 143,
+        "CharacterRankRewardDescription": "柴田柚菜2(33rd制服スタイル付き)解放",
+        "ConditionId": 143026,
+        "CostumeId": 203303,
+        "Id": 14310003,
+        "Name": "【センターフォト】柴田柚菜2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 144,
+        "CharacterRankRewardDescription": "清宮レイ2(33rd制服スタイル付き)解放",
+        "ConditionId": 144026,
+        "CostumeId": 203302,
+        "Id": 14410003,
+        "Name": "【センターフォト】清宮レイ2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 145,
+        "CharacterRankRewardDescription": "田村真佑2(33rd制服スタイル付き)解放",
+        "ConditionId": 145026,
+        "CostumeId": 203301,
+        "Id": 14510003,
+        "Name": "【センターフォト】田村真佑2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 146,
+        "CharacterRankRewardDescription": "筒井あやめ2(33rd制服スタイル付き)解放",
+        "ConditionId": 146026,
+        "CostumeId": 203303,
+        "Id": 14610003,
+        "Name": "【センターフォト】筒井あやめ2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 148,
+        "CharacterRankRewardDescription": "矢久保美緒2(33rd制服スタイル付き)解放",
+        "ConditionId": 148026,
+        "CostumeId": 203303,
+        "Id": 14810003,
+        "Name": "【センターフォト】矢久保美緒2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 149,
+        "CharacterRankRewardDescription": "黒見明香2(33rd制服スタイル付き)解放",
+        "ConditionId": 149026,
+        "CostumeId": 203301,
+        "Id": 14910003,
+        "Name": "【センターフォト】黒見明香2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 150,
+        "CharacterRankRewardDescription": "佐藤璃果2(33rd制服スタイル付き)解放",
+        "ConditionId": 150026,
+        "CostumeId": 203303,
+        "Id": 15010003,
+        "Name": "【センターフォト】佐藤璃果2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 151,
+        "CharacterRankRewardDescription": "林瑠奈2(33rd制服スタイル付き)解放",
+        "ConditionId": 151026,
+        "CostumeId": 203302,
+        "Id": 15110003,
+        "Name": "【センターフォト】林瑠奈2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 152,
+        "CharacterRankRewardDescription": "松尾美佑2(33rd制服スタイル付き)解放",
+        "ConditionId": 152026,
+        "CostumeId": 203301,
+        "Id": 15210003,
+        "Name": "【センターフォト】松尾美佑2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 153,
+        "CharacterRankRewardDescription": "弓木奈於2(33rd制服スタイル付き)解放",
+        "ConditionId": 153026,
+        "CostumeId": 203301,
+        "Id": 15310003,
+        "Name": "【センターフォト】弓木奈於2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 154,
+        "CharacterRankRewardDescription": "五百城茉央2(33rd制服スタイル付き)解放",
+        "ConditionId": 154026,
+        "CostumeId": 203301,
+        "Id": 15410003,
+        "Name": "【センターフォト】五百城茉央2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 155,
+        "CharacterRankRewardDescription": "池田瑛紗2(33rd制服スタイル付き)解放",
+        "ConditionId": 155026,
+        "CostumeId": 203303,
+        "Id": 15510003,
+        "Name": "【センターフォト】池田瑛紗2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 156,
+        "CharacterRankRewardDescription": "一ノ瀬美空2(33rd制服スタイル付き)解放",
+        "ConditionId": 156026,
+        "CostumeId": 203303,
+        "Id": 15610003,
+        "Name": "【センターフォト】一ノ瀬美空2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 157,
+        "CharacterRankRewardDescription": "井上和2(33rd制服スタイル付き)解放",
+        "ConditionId": 157026,
+        "CostumeId": 203302,
+        "Id": 15710003,
+        "Name": "【センターフォト】井上和2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 158,
+        "CharacterRankRewardDescription": "岡本姫奈2(33rd制服スタイル付き)解放",
+        "ConditionId": 158026,
+        "CostumeId": 203302,
+        "Id": 15810003,
+        "Name": "【センターフォト】岡本姫奈2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 159,
+        "CharacterRankRewardDescription": "小川彩2(33rd制服スタイル付き)解放",
+        "ConditionId": 159026,
+        "CostumeId": 203303,
+        "Id": 15910003,
+        "Name": "【センターフォト】小川彩2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 160,
+        "CharacterRankRewardDescription": "奥田いろは2(33rd制服スタイル付き)解放",
+        "ConditionId": 160026,
+        "CostumeId": 203301,
+        "Id": 16010003,
+        "Name": "【センターフォト】奥田いろは2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 161,
+        "CharacterRankRewardDescription": "川﨑桜2(33rd制服スタイル付き)解放",
+        "ConditionId": 161026,
+        "CostumeId": 203301,
+        "Id": 16110003,
+        "Name": "【センターフォト】川﨑桜2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 162,
+        "CharacterRankRewardDescription": "菅原咲月2(33rd制服スタイル付き)解放",
+        "ConditionId": 162026,
+        "CostumeId": 203302,
+        "Id": 16210003,
+        "Name": "【センターフォト】菅原咲月2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 163,
+        "CharacterRankRewardDescription": "冨里奈央2(33rd制服スタイル付き)解放",
+        "ConditionId": 163026,
+        "CostumeId": 203302,
+        "Id": 16310003,
+        "Name": "【センターフォト】冨里奈央2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    },
+    {
+        "CharacterId": 164,
+        "CharacterRankRewardDescription": "中西アルノ2(33rd制服スタイル付き)解放",
+        "ConditionId": 164026,
+        "CostumeId": 203303,
+        "Id": 16410003,
+        "Name": "【センターフォト】中西アルノ2",
+        "Number": 1,
+        "SkinId": "Skin1"
+    }
+]

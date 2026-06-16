@@ -1,0 +1,254 @@
+[
+    {
+        "GroupId": 1,
+        "Id": 1,
+        "PerformanceType": 1,
+        "Ratio": 108
+    },
+    {
+        "GroupId": 1,
+        "Id": 2,
+        "PerformanceType": 2,
+        "Ratio": 113
+    },
+    {
+        "GroupId": 1,
+        "Id": 3,
+        "PerformanceType": 3,
+        "Ratio": 132
+    },
+    {
+        "GroupId": 2,
+        "Id": 4,
+        "PerformanceType": 1,
+        "Ratio": 107
+    },
+    {
+        "GroupId": 2,
+        "Id": 5,
+        "PerformanceType": 2,
+        "Ratio": 114
+    },
+    {
+        "GroupId": 2,
+        "Id": 6,
+        "PerformanceType": 3,
+        "Ratio": 130
+    },
+    {
+        "GroupId": 3,
+        "Id": 7,
+        "PerformanceType": 1,
+        "Ratio": 106
+    },
+    {
+        "GroupId": 3,
+        "Id": 8,
+        "PerformanceType": 2,
+        "Ratio": 114
+    },
+    {
+        "GroupId": 3,
+        "Id": 9,
+        "PerformanceType": 3,
+        "Ratio": 128
+    },
+    {
+        "GroupId": 4,
+        "Id": 10,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 4,
+        "Id": 11,
+        "PerformanceType": 2,
+        "Ratio": 113
+    },
+    {
+        "GroupId": 4,
+        "Id": 12,
+        "PerformanceType": 3,
+        "Ratio": 127
+    },
+    {
+        "GroupId": 5,
+        "Id": 13,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 5,
+        "Id": 14,
+        "PerformanceType": 2,
+        "Ratio": 113
+    },
+    {
+        "GroupId": 5,
+        "Id": 15,
+        "PerformanceType": 3,
+        "Ratio": 126
+    },
+    {
+        "GroupId": 6,
+        "Id": 16,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 6,
+        "Id": 17,
+        "PerformanceType": 2,
+        "Ratio": 112
+    },
+    {
+        "GroupId": 6,
+        "Id": 18,
+        "PerformanceType": 3,
+        "Ratio": 126
+    },
+    {
+        "GroupId": 7,
+        "Id": 19,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 7,
+        "Id": 20,
+        "PerformanceType": 2,
+        "Ratio": 112
+    },
+    {
+        "GroupId": 7,
+        "Id": 21,
+        "PerformanceType": 3,
+        "Ratio": 126
+    },
+    {
+        "GroupId": 8,
+        "Id": 22,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 8,
+        "Id": 23,
+        "PerformanceType": 2,
+        "Ratio": 112
+    },
+    {
+        "GroupId": 8,
+        "Id": 24,
+        "PerformanceType": 3,
+        "Ratio": 125
+    },
+    {
+        "GroupId": 9,
+        "Id": 25,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 9,
+        "Id": 26,
+        "PerformanceType": 2,
+        "Ratio": 112
+    },
+    {
+        "GroupId": 9,
+        "Id": 27,
+        "PerformanceType": 3,
+        "Ratio": 124
+    },
+    {
+        "GroupId": 10,
+        "Id": 28,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 10,
+        "Id": 29,
+        "PerformanceType": 2,
+        "Ratio": 111
+    },
+    {
+        "GroupId": 10,
+        "Id": 30,
+        "PerformanceType": 3,
+        "Ratio": 124
+    },
+    {
+        "GroupId": 11,
+        "Id": 31,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 11,
+        "Id": 32,
+        "PerformanceType": 2,
+        "Ratio": 111
+    },
+    {
+        "GroupId": 11,
+        "Id": 33,
+        "PerformanceType": 3,
+        "Ratio": 124
+    },
+    {
+        "GroupId": 12,
+        "Id": 34,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 12,
+        "Id": 35,
+        "PerformanceType": 2,
+        "Ratio": 111
+    },
+    {
+        "GroupId": 12,
+        "Id": 36,
+        "PerformanceType": 3,
+        "Ratio": 124
+    },
+    {
+        "GroupId": 13,
+        "Id": 37,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 13,
+        "Id": 38,
+        "PerformanceType": 2,
+        "Ratio": 111
+    },
+    {
+        "GroupId": 13,
+        "Id": 39,
+        "PerformanceType": 3,
+        "Ratio": 123
+    },
+    {
+        "GroupId": 14,
+        "Id": 40,
+        "PerformanceType": 1,
+        "Ratio": 105
+    },
+    {
+        "GroupId": 14,
+        "Id": 41,
+        "PerformanceType": 2,
+        "Ratio": 111
+    },
+    {
+        "GroupId": 14,
+        "Id": 42,
+        "PerformanceType": 3,
+        "Ratio": 123
+    }
+]

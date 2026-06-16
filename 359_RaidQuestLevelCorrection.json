@@ -1,0 +1,3202 @@
+[
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 1001,
+        "Level": 1,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.0807599,
+        "Exp": 1.02,
+        "Id": 1002,
+        "Level": 2,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.167658,
+        "Exp": 1.04,
+        "Id": 1003,
+        "Level": 3,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.2287285,
+        "Exp": 1.06,
+        "Id": 1004,
+        "Level": 4,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.3243465,
+        "Exp": 1.09,
+        "Id": 1005,
+        "Level": 5,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.4269888,
+        "Exp": 1.12,
+        "Id": 1006,
+        "Level": 6,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.5376143,
+        "Exp": 1.14,
+        "Id": 1007,
+        "Level": 7,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.7263968,
+        "Exp": 1.19,
+        "Id": 1008,
+        "Level": 8,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.8498641,
+        "Exp": 1.22,
+        "Id": 1009,
+        "Level": 9,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.9789472,
+        "Exp": 1.25,
+        "Id": 1010,
+        "Level": 10,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 2.1137567,
+        "Exp": 1.27,
+        "Id": 1011,
+        "Level": 11,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 2.4044948,
+        "Exp": 1.33,
+        "Id": 1012,
+        "Level": 12,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 2.5665858,
+        "Exp": 1.36,
+        "Id": 1013,
+        "Level": 13,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 2.7389417,
+        "Exp": 1.39,
+        "Id": 1014,
+        "Level": 14,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 2.9221585,
+        "Exp": 1.42,
+        "Id": 1015,
+        "Level": 15,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 3.2504175,
+        "Exp": 1.48,
+        "Id": 1016,
+        "Level": 16,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 3.4597344,
+        "Exp": 1.51,
+        "Id": 1017,
+        "Level": 17,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 3.6819117,
+        "Exp": 1.55,
+        "Id": 1018,
+        "Level": 18,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 3.9182246,
+        "Exp": 1.58,
+        "Id": 1019,
+        "Level": 19,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 4.3127165,
+        "Exp": 1.64,
+        "Id": 1020,
+        "Level": 20,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 4.5696483,
+        "Exp": 1.68,
+        "Id": 1021,
+        "Level": 21,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 4.8350763,
+        "Exp": 1.71,
+        "Id": 1022,
+        "Level": 22,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 5.3980007,
+        "Exp": 1.78,
+        "Id": 1023,
+        "Level": 23,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 5.69702,
+        "Exp": 1.82,
+        "Id": 1024,
+        "Level": 24,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 6.0199723,
+        "Exp": 1.86,
+        "Id": 1025,
+        "Level": 25,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 6.716148,
+        "Exp": 1.94,
+        "Id": 1026,
+        "Level": 26,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 7.092769,
+        "Exp": 1.98,
+        "Id": 1027,
+        "Level": 27,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 7.345662,
+        "Exp": 2.01,
+        "Id": 1028,
+        "Level": 28,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 8.1659,
+        "Exp": 2.09,
+        "Id": 1029,
+        "Level": 29,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 8.611201,
+        "Exp": 2.14,
+        "Id": 1030,
+        "Level": 30,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 9.084477,
+        "Exp": 2.18,
+        "Id": 1031,
+        "Level": 31,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 9.816041,
+        "Exp": 2.25,
+        "Id": 1032,
+        "Level": 32,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 10.301824,
+        "Exp": 2.3,
+        "Id": 1033,
+        "Level": 33,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 10.8032055,
+        "Exp": 2.34,
+        "Id": 1034,
+        "Level": 34,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 11.855964,
+        "Exp": 2.43,
+        "Id": 1035,
+        "Level": 35,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 12.430292,
+        "Exp": 2.48,
+        "Id": 1036,
+        "Level": 36,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 13.029029,
+        "Exp": 2.52,
+        "Id": 1037,
+        "Level": 37,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 14.315745,
+        "Exp": 2.62,
+        "Id": 1038,
+        "Level": 38,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 14.752822,
+        "Exp": 2.66,
+        "Id": 1039,
+        "Level": 39,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 15.445091,
+        "Exp": 2.71,
+        "Id": 1040,
+        "Level": 40,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 16.93391,
+        "Exp": 2.81,
+        "Id": 1041,
+        "Level": 41,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 17.74083,
+        "Exp": 2.87,
+        "Id": 1042,
+        "Level": 42,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 18.971674,
+        "Exp": 2.95,
+        "Id": 1043,
+        "Level": 43,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 19.78704,
+        "Exp": 3.01,
+        "Id": 1044,
+        "Level": 44,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 20.623499,
+        "Exp": 3.06,
+        "Id": 1045,
+        "Level": 45,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 22.36416,
+        "Exp": 3.17,
+        "Id": 1046,
+        "Level": 46,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 23.30806,
+        "Exp": 3.22,
+        "Id": 1047,
+        "Level": 47,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 24.28831,
+        "Exp": 3.28,
+        "Id": 1048,
+        "Level": 48,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 26.377687,
+        "Exp": 3.4,
+        "Id": 1049,
+        "Level": 49,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 27.079102,
+        "Exp": 3.44,
+        "Id": 1050,
+        "Level": 50,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 29.35348,
+        "Exp": 3.56,
+        "Id": 1051,
+        "Level": 51,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 30.571423,
+        "Exp": 3.62,
+        "Id": 1052,
+        "Level": 52,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 31.85289,
+        "Exp": 3.69,
+        "Id": 1053,
+        "Level": 53,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 33.789307,
+        "Exp": 3.79,
+        "Id": 1054,
+        "Level": 54,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 35.069145,
+        "Exp": 3.85,
+        "Id": 1055,
+        "Level": 55,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 37.717873,
+        "Exp": 3.97,
+        "Id": 1056,
+        "Level": 56,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 39.093685,
+        "Exp": 4.04,
+        "Id": 1057,
+        "Level": 57,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 40.556973,
+        "Exp": 4.1,
+        "Id": 1058,
+        "Level": 58,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.35,
+        "DeckTotalBattlePoint": 43.64462,
+        "Exp": 4.24,
+        "Id": 1059,
+        "Level": 59,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.36,
+        "DeckTotalBattlePoint": 45.280117,
+        "Exp": 4.31,
+        "Id": 1060,
+        "Level": 60,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.37,
+        "DeckTotalBattlePoint": 48.036983,
+        "Exp": 4.43,
+        "Id": 1061,
+        "Level": 61,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.37,
+        "DeckTotalBattlePoint": 49.796,
+        "Exp": 4.5,
+        "Id": 1062,
+        "Level": 62,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.38,
+        "DeckTotalBattlePoint": 51.631927,
+        "Exp": 4.57,
+        "Id": 1063,
+        "Level": 63,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.38,
+        "DeckTotalBattlePoint": 54.564148,
+        "Exp": 4.69,
+        "Id": 1064,
+        "Level": 64,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.39,
+        "DeckTotalBattlePoint": 56.446228,
+        "Exp": 4.76,
+        "Id": 1065,
+        "Level": 65,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 60.28944,
+        "Exp": 4.9,
+        "Id": 1066,
+        "Level": 66,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 62.270485,
+        "Exp": 4.98,
+        "Id": 1067,
+        "Level": 67,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.4,
+        "DeckTotalBattlePoint": 64.29869,
+        "Exp": 5.05,
+        "Id": 1068,
+        "Level": 68,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.41,
+        "DeckTotalBattlePoint": 68.68573,
+        "Exp": 5.2,
+        "Id": 1069,
+        "Level": 69,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.42,
+        "DeckTotalBattlePoint": 70.99781,
+        "Exp": 5.28,
+        "Id": 1070,
+        "Level": 70,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.43,
+        "DeckTotalBattlePoint": 74.953026,
+        "Exp": 5.41,
+        "Id": 1071,
+        "Level": 71,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.43,
+        "DeckTotalBattlePoint": 77.41721,
+        "Exp": 5.5,
+        "Id": 1072,
+        "Level": 72,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.44,
+        "DeckTotalBattlePoint": 82.63794,
+        "Exp": 5.66,
+        "Id": 1073,
+        "Level": 73,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.44,
+        "DeckTotalBattlePoint": 85.41435,
+        "Exp": 5.75,
+        "Id": 1074,
+        "Level": 74,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.45,
+        "DeckTotalBattlePoint": 86.850845,
+        "Exp": 5.79,
+        "Id": 1075,
+        "Level": 75,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.45,
+        "DeckTotalBattlePoint": 92.2709,
+        "Exp": 5.96,
+        "Id": 1076,
+        "Level": 76,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.46,
+        "DeckTotalBattlePoint": 95.0362,
+        "Exp": 6.04,
+        "Id": 1077,
+        "Level": 77,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.47,
+        "DeckTotalBattlePoint": 100.73031,
+        "Exp": 6.21,
+        "Id": 1078,
+        "Level": 78,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.47,
+        "DeckTotalBattlePoint": 103.78362,
+        "Exp": 6.29,
+        "Id": 1079,
+        "Level": 79,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.48,
+        "DeckTotalBattlePoint": 110.18905,
+        "Exp": 6.47,
+        "Id": 1080,
+        "Level": 80,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.48,
+        "DeckTotalBattlePoint": 113.56736,
+        "Exp": 6.56,
+        "Id": 1081,
+        "Level": 81,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.49,
+        "DeckTotalBattlePoint": 115.74487,
+        "Exp": 6.62,
+        "Id": 1082,
+        "Level": 82,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.5,
+        "DeckTotalBattlePoint": 122.79374,
+        "Exp": 6.8,
+        "Id": 1083,
+        "Level": 83,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.5,
+        "DeckTotalBattlePoint": 126.51829,
+        "Exp": 6.9,
+        "Id": 1084,
+        "Level": 84,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.51,
+        "DeckTotalBattlePoint": 132.4015,
+        "Exp": 7.05,
+        "Id": 1085,
+        "Level": 85,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.51,
+        "DeckTotalBattlePoint": 136.16768,
+        "Exp": 7.14,
+        "Id": 1086,
+        "Level": 86,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.52,
+        "DeckTotalBattlePoint": 143.7828,
+        "Exp": 7.33,
+        "Id": 1087,
+        "Level": 87,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.52,
+        "DeckTotalBattlePoint": 147.67271,
+        "Exp": 7.42,
+        "Id": 1088,
+        "Level": 88,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.53,
+        "DeckTotalBattlePoint": 155.82791,
+        "Exp": 7.61,
+        "Id": 1089,
+        "Level": 89,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.54,
+        "DeckTotalBattlePoint": 160.1334,
+        "Exp": 7.71,
+        "Id": 1090,
+        "Level": 90,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.54,
+        "DeckTotalBattlePoint": 164.57207,
+        "Exp": 7.81,
+        "Id": 1091,
+        "Level": 91,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.55,
+        "DeckTotalBattlePoint": 172.11786,
+        "Exp": 7.97,
+        "Id": 1092,
+        "Level": 92,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.55,
+        "DeckTotalBattlePoint": 176.81006,
+        "Exp": 8.08,
+        "Id": 1093,
+        "Level": 93,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.56,
+        "DeckTotalBattlePoint": 186.68431,
+        "Exp": 8.29,
+        "Id": 1094,
+        "Level": 94,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.56,
+        "DeckTotalBattlePoint": 191.91977,
+        "Exp": 8.39,
+        "Id": 1095,
+        "Level": 95,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.57,
+        "DeckTotalBattlePoint": 199.64377,
+        "Exp": 8.55,
+        "Id": 1096,
+        "Level": 96,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.58,
+        "DeckTotalBattlePoint": 204.71895,
+        "Exp": 8.66,
+        "Id": 1097,
+        "Level": 97,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.58,
+        "DeckTotalBattlePoint": 215.08406,
+        "Exp": 8.86,
+        "Id": 1098,
+        "Level": 98,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.59,
+        "DeckTotalBattlePoint": 220.39963,
+        "Exp": 8.97,
+        "Id": 1099,
+        "Level": 99,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1.6,
+        "DeckTotalBattlePoint": 231.80067,
+        "Exp": 9.18,
+        "Id": 1100,
+        "Level": 100,
+        "QuestLevelCorrectionGroupId": 1
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2001,
+        "Level": 1,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2002,
+        "Level": 2,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2003,
+        "Level": 3,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2004,
+        "Level": 4,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2005,
+        "Level": 5,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2006,
+        "Level": 6,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2007,
+        "Level": 7,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2008,
+        "Level": 8,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2009,
+        "Level": 9,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2010,
+        "Level": 10,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2011,
+        "Level": 11,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2012,
+        "Level": 12,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2013,
+        "Level": 13,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2014,
+        "Level": 14,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2015,
+        "Level": 15,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2016,
+        "Level": 16,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2017,
+        "Level": 17,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2018,
+        "Level": 18,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2019,
+        "Level": 19,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2020,
+        "Level": 20,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2021,
+        "Level": 21,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2022,
+        "Level": 22,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2023,
+        "Level": 23,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2024,
+        "Level": 24,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2025,
+        "Level": 25,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2026,
+        "Level": 26,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2027,
+        "Level": 27,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2028,
+        "Level": 28,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2029,
+        "Level": 29,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2030,
+        "Level": 30,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2031,
+        "Level": 31,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2032,
+        "Level": 32,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2033,
+        "Level": 33,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2034,
+        "Level": 34,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2035,
+        "Level": 35,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2036,
+        "Level": 36,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2037,
+        "Level": 37,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2038,
+        "Level": 38,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2039,
+        "Level": 39,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2040,
+        "Level": 40,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2041,
+        "Level": 41,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2042,
+        "Level": 42,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2043,
+        "Level": 43,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2044,
+        "Level": 44,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2045,
+        "Level": 45,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2046,
+        "Level": 46,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2047,
+        "Level": 47,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2048,
+        "Level": 48,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2049,
+        "Level": 49,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2050,
+        "Level": 50,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2051,
+        "Level": 51,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2052,
+        "Level": 52,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2053,
+        "Level": 53,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2054,
+        "Level": 54,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2055,
+        "Level": 55,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2056,
+        "Level": 56,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2057,
+        "Level": 57,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2058,
+        "Level": 58,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2059,
+        "Level": 59,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2060,
+        "Level": 60,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2061,
+        "Level": 61,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2062,
+        "Level": 62,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2063,
+        "Level": 63,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2064,
+        "Level": 64,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2065,
+        "Level": 65,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2066,
+        "Level": 66,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2067,
+        "Level": 67,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2068,
+        "Level": 68,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2069,
+        "Level": 69,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2070,
+        "Level": 70,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2071,
+        "Level": 71,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2072,
+        "Level": 72,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2073,
+        "Level": 73,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2074,
+        "Level": 74,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2075,
+        "Level": 75,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2076,
+        "Level": 76,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2077,
+        "Level": 77,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2078,
+        "Level": 78,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2079,
+        "Level": 79,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2080,
+        "Level": 80,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2081,
+        "Level": 81,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2082,
+        "Level": 82,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2083,
+        "Level": 83,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2084,
+        "Level": 84,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2085,
+        "Level": 85,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2086,
+        "Level": 86,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2087,
+        "Level": 87,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2088,
+        "Level": 88,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2089,
+        "Level": 89,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2090,
+        "Level": 90,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2091,
+        "Level": 91,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2092,
+        "Level": 92,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2093,
+        "Level": 93,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2094,
+        "Level": 94,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2095,
+        "Level": 95,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2096,
+        "Level": 96,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2097,
+        "Level": 97,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2098,
+        "Level": 98,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2099,
+        "Level": 99,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 2100,
+        "Level": 100,
+        "QuestLevelCorrectionGroupId": 2
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 4001,
+        "Level": 1,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1,
+        "Id": 4002,
+        "Level": 2,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.01,
+        "Id": 4003,
+        "Level": 3,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.01,
+        "Id": 4004,
+        "Level": 4,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.21,
+        "Exp": 1.02,
+        "Id": 4005,
+        "Level": 5,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.28,
+        "Exp": 1.03,
+        "Id": 4006,
+        "Level": 6,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.35,
+        "Exp": 1.03,
+        "Id": 4007,
+        "Level": 7,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.49,
+        "Exp": 1.04,
+        "Id": 4008,
+        "Level": 8,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.56,
+        "Exp": 1.05,
+        "Id": 4009,
+        "Level": 9,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.63,
+        "Exp": 1.06,
+        "Id": 4010,
+        "Level": 10,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.77,
+        "Exp": 1.06,
+        "Id": 4011,
+        "Level": 11,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.98,
+        "Exp": 1.07,
+        "Id": 4012,
+        "Level": 12,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 2.05,
+        "Exp": 1.08,
+        "Id": 4013,
+        "Level": 13,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 2.19,
+        "Exp": 1.09,
+        "Id": 4014,
+        "Level": 14,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 2.26,
+        "Exp": 1.1,
+        "Id": 4015,
+        "Level": 15,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 2.54,
+        "Exp": 1.11,
+        "Id": 4016,
+        "Level": 16,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 2.68,
+        "Exp": 1.12,
+        "Id": 4017,
+        "Level": 17,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 2.82,
+        "Exp": 1.13,
+        "Id": 4018,
+        "Level": 18,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 2.96,
+        "Exp": 1.14,
+        "Id": 4019,
+        "Level": 19,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 3.24,
+        "Exp": 1.15,
+        "Id": 4020,
+        "Level": 20,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 3.38,
+        "Exp": 1.16,
+        "Id": 4021,
+        "Level": 21,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 3.59,
+        "Exp": 1.17,
+        "Id": 4022,
+        "Level": 22,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 3.94,
+        "Exp": 1.18,
+        "Id": 4023,
+        "Level": 23,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 4.15,
+        "Exp": 1.19,
+        "Id": 4024,
+        "Level": 24,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 4.36,
+        "Exp": 1.2,
+        "Id": 4025,
+        "Level": 25,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 4.78,
+        "Exp": 1.22,
+        "Id": 4026,
+        "Level": 26,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 4.99,
+        "Exp": 1.23,
+        "Id": 4027,
+        "Level": 27,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 5.2,
+        "Exp": 1.24,
+        "Id": 4028,
+        "Level": 28,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 5.76,
+        "Exp": 1.26,
+        "Id": 4029,
+        "Level": 29,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 6.04,
+        "Exp": 1.27,
+        "Id": 4030,
+        "Level": 30,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 6.32,
+        "Exp": 1.28,
+        "Id": 4031,
+        "Level": 31,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 6.81,
+        "Exp": 1.3,
+        "Id": 4032,
+        "Level": 32,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 7.16,
+        "Exp": 1.31,
+        "Id": 4033,
+        "Level": 33,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 7.44,
+        "Exp": 1.32,
+        "Id": 4034,
+        "Level": 34,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 8.14,
+        "Exp": 1.35,
+        "Id": 4035,
+        "Level": 35,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 8.49,
+        "Exp": 1.36,
+        "Id": 4036,
+        "Level": 36,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 8.84,
+        "Exp": 1.37,
+        "Id": 4037,
+        "Level": 37,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 9.68,
+        "Exp": 1.39,
+        "Id": 4038,
+        "Level": 38,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 9.96,
+        "Exp": 1.4,
+        "Id": 4039,
+        "Level": 39,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 10.38,
+        "Exp": 1.42,
+        "Id": 4040,
+        "Level": 40,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 11.29,
+        "Exp": 1.44,
+        "Id": 4041,
+        "Level": 41,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 11.78,
+        "Exp": 1.45,
+        "Id": 4042,
+        "Level": 42,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 12.62,
+        "Exp": 1.48,
+        "Id": 4043,
+        "Level": 43,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 13.18,
+        "Exp": 1.49,
+        "Id": 4044,
+        "Level": 44,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 13.67,
+        "Exp": 1.51,
+        "Id": 4045,
+        "Level": 45,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 14.72,
+        "Exp": 1.53,
+        "Id": 4046,
+        "Level": 46,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 15.28,
+        "Exp": 1.55,
+        "Id": 4047,
+        "Level": 47,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 15.91,
+        "Exp": 1.56,
+        "Id": 4048,
+        "Level": 48,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 17.1,
+        "Exp": 1.59,
+        "Id": 4049,
+        "Level": 49,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 17.66,
+        "Exp": 1.6,
+        "Id": 4050,
+        "Level": 50,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 18.99,
+        "Exp": 1.63,
+        "Id": 4051,
+        "Level": 51,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 19.62,
+        "Exp": 1.64,
+        "Id": 4052,
+        "Level": 52,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 20.32,
+        "Exp": 1.66,
+        "Id": 4053,
+        "Level": 53,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 21.72,
+        "Exp": 1.69,
+        "Id": 4054,
+        "Level": 54,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 22.49,
+        "Exp": 1.7,
+        "Id": 4055,
+        "Level": 55,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 24.03,
+        "Exp": 1.73,
+        "Id": 4056,
+        "Level": 56,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 24.87,
+        "Exp": 1.75,
+        "Id": 4057,
+        "Level": 57,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 25.71,
+        "Exp": 1.76,
+        "Id": 4058,
+        "Level": 58,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 27.46,
+        "Exp": 1.79,
+        "Id": 4059,
+        "Level": 59,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 28.37,
+        "Exp": 1.81,
+        "Id": 4060,
+        "Level": 60,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 30.12,
+        "Exp": 1.84,
+        "Id": 4061,
+        "Level": 61,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 31.1,
+        "Exp": 1.86,
+        "Id": 4062,
+        "Level": 62,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 32.08,
+        "Exp": 1.87,
+        "Id": 4063,
+        "Level": 63,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 33.97,
+        "Exp": 1.9,
+        "Id": 4064,
+        "Level": 64,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 35.09,
+        "Exp": 1.92,
+        "Id": 4065,
+        "Level": 65,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 37.26,
+        "Exp": 1.95,
+        "Id": 4066,
+        "Level": 66,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 38.45,
+        "Exp": 1.97,
+        "Id": 4067,
+        "Level": 67,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 39.57,
+        "Exp": 1.99,
+        "Id": 4068,
+        "Level": 68,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 42.02,
+        "Exp": 2.02,
+        "Id": 4069,
+        "Level": 69,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 43.28,
+        "Exp": 2.04,
+        "Id": 4070,
+        "Level": 70,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 45.66,
+        "Exp": 2.07,
+        "Id": 4071,
+        "Level": 71,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 46.99,
+        "Exp": 2.09,
+        "Id": 4072,
+        "Level": 72,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 49.72,
+        "Exp": 2.13,
+        "Id": 4073,
+        "Level": 73,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 51.19,
+        "Exp": 2.14,
+        "Id": 4074,
+        "Level": 74,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 52.38,
+        "Exp": 2.16,
+        "Id": 4075,
+        "Level": 75,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 55.39,
+        "Exp": 2.2,
+        "Id": 4076,
+        "Level": 76,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 56.93,
+        "Exp": 2.21,
+        "Id": 4077,
+        "Level": 77,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 60.15,
+        "Exp": 2.25,
+        "Id": 4078,
+        "Level": 78,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 61.76,
+        "Exp": 2.27,
+        "Id": 4079,
+        "Level": 79,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 65.12,
+        "Exp": 2.31,
+        "Id": 4080,
+        "Level": 80,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 66.87,
+        "Exp": 2.33,
+        "Id": 4081,
+        "Level": 81,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 68.41,
+        "Exp": 2.34,
+        "Id": 4082,
+        "Level": 82,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 72.05,
+        "Exp": 2.38,
+        "Id": 4083,
+        "Level": 83,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 73.94,
+        "Exp": 2.4,
+        "Id": 4084,
+        "Level": 84,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 77.51,
+        "Exp": 2.43,
+        "Id": 4085,
+        "Level": 85,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 79.47,
+        "Exp": 2.45,
+        "Id": 4086,
+        "Level": 86,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 83.6,
+        "Exp": 2.49,
+        "Id": 4087,
+        "Level": 87,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 85.7,
+        "Exp": 2.51,
+        "Id": 4088,
+        "Level": 88,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 90.04,
+        "Exp": 2.55,
+        "Id": 4089,
+        "Level": 89,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 92.21,
+        "Exp": 2.57,
+        "Id": 4090,
+        "Level": 90,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 94.52,
+        "Exp": 2.59,
+        "Id": 4091,
+        "Level": 91,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 98.79,
+        "Exp": 2.63,
+        "Id": 4092,
+        "Level": 92,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 101.17,
+        "Exp": 2.65,
+        "Id": 4093,
+        "Level": 93,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 106.07,
+        "Exp": 2.69,
+        "Id": 4094,
+        "Level": 94,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 108.59,
+        "Exp": 2.71,
+        "Id": 4095,
+        "Level": 95,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 113.42,
+        "Exp": 2.75,
+        "Id": 4096,
+        "Level": 96,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 116.01,
+        "Exp": 2.77,
+        "Id": 4097,
+        "Level": 97,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 121.47,
+        "Exp": 2.81,
+        "Id": 4098,
+        "Level": 98,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 124.27,
+        "Exp": 2.83,
+        "Id": 4099,
+        "Level": 99,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1.35,
+        "DeckTotalBattlePoint": 129.94,
+        "Exp": 2.87,
+        "Id": 4100,
+        "Level": 100,
+        "QuestLevelCorrectionGroupId": 4
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1,
+        "Exp": 1,
+        "Id": 601001,
+        "Level": 1,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.01,
+        "Exp": 1,
+        "Id": 601002,
+        "Level": 2,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 601003,
+        "Level": 3,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.02,
+        "Exp": 1.01,
+        "Id": 601004,
+        "Level": 4,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.03,
+        "Exp": 1.02,
+        "Id": 601005,
+        "Level": 5,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1,
+        "DeckTotalBattlePoint": 1.04,
+        "Exp": 1.03,
+        "Id": 601006,
+        "Level": 6,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.05,
+        "Exp": 1.03,
+        "Id": 601007,
+        "Level": 7,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.07,
+        "Exp": 1.04,
+        "Id": 601008,
+        "Level": 8,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.08,
+        "Exp": 1.05,
+        "Id": 601009,
+        "Level": 9,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.09,
+        "Exp": 1.06,
+        "Id": 601010,
+        "Level": 10,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.01,
+        "DeckTotalBattlePoint": 1.11,
+        "Exp": 1.06,
+        "Id": 601011,
+        "Level": 11,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.14,
+        "Exp": 1.07,
+        "Id": 601012,
+        "Level": 12,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.15,
+        "Exp": 1.08,
+        "Id": 601013,
+        "Level": 13,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.17,
+        "Exp": 1.09,
+        "Id": 601014,
+        "Level": 14,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.02,
+        "DeckTotalBattlePoint": 1.18,
+        "Exp": 1.1,
+        "Id": 601015,
+        "Level": 15,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.22,
+        "Exp": 1.11,
+        "Id": 601016,
+        "Level": 16,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.24,
+        "Exp": 1.12,
+        "Id": 601017,
+        "Level": 17,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.26,
+        "Exp": 1.13,
+        "Id": 601018,
+        "Level": 18,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.03,
+        "DeckTotalBattlePoint": 1.28,
+        "Exp": 1.14,
+        "Id": 601019,
+        "Level": 19,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.32,
+        "Exp": 1.15,
+        "Id": 601020,
+        "Level": 20,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.34,
+        "Exp": 1.16,
+        "Id": 601021,
+        "Level": 21,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.04,
+        "DeckTotalBattlePoint": 1.37,
+        "Exp": 1.17,
+        "Id": 601022,
+        "Level": 22,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.42,
+        "Exp": 1.18,
+        "Id": 601023,
+        "Level": 23,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.45,
+        "Exp": 1.19,
+        "Id": 601024,
+        "Level": 24,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.05,
+        "DeckTotalBattlePoint": 1.48,
+        "Exp": 1.2,
+        "Id": 601025,
+        "Level": 25,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.54,
+        "Exp": 1.22,
+        "Id": 601026,
+        "Level": 26,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.57,
+        "Exp": 1.23,
+        "Id": 601027,
+        "Level": 27,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.6,
+        "Exp": 1.24,
+        "Id": 601028,
+        "Level": 28,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.06,
+        "DeckTotalBattlePoint": 1.68,
+        "Exp": 1.26,
+        "Id": 601029,
+        "Level": 29,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.72,
+        "Exp": 1.27,
+        "Id": 601030,
+        "Level": 30,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.76,
+        "Exp": 1.28,
+        "Id": 601031,
+        "Level": 31,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.07,
+        "DeckTotalBattlePoint": 1.83,
+        "Exp": 1.3,
+        "Id": 601032,
+        "Level": 32,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.88,
+        "Exp": 1.31,
+        "Id": 601033,
+        "Level": 33,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 1.92,
+        "Exp": 1.32,
+        "Id": 601034,
+        "Level": 34,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.08,
+        "DeckTotalBattlePoint": 2.02,
+        "Exp": 1.35,
+        "Id": 601035,
+        "Level": 35,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.07,
+        "Exp": 1.36,
+        "Id": 601036,
+        "Level": 36,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.09,
+        "DeckTotalBattlePoint": 2.12,
+        "Exp": 1.37,
+        "Id": 601037,
+        "Level": 37,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.24,
+        "Exp": 1.39,
+        "Id": 601038,
+        "Level": 38,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.28,
+        "Exp": 1.4,
+        "Id": 601039,
+        "Level": 39,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.1,
+        "DeckTotalBattlePoint": 2.34,
+        "Exp": 1.42,
+        "Id": 601040,
+        "Level": 40,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.47,
+        "Exp": 1.44,
+        "Id": 601041,
+        "Level": 41,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.54,
+        "Exp": 1.45,
+        "Id": 601042,
+        "Level": 42,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.11,
+        "DeckTotalBattlePoint": 2.66,
+        "Exp": 1.48,
+        "Id": 601043,
+        "Level": 43,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.74,
+        "Exp": 1.49,
+        "Id": 601044,
+        "Level": 44,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.12,
+        "DeckTotalBattlePoint": 2.81,
+        "Exp": 1.51,
+        "Id": 601045,
+        "Level": 45,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 2.96,
+        "Exp": 1.53,
+        "Id": 601046,
+        "Level": 46,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.04,
+        "Exp": 1.55,
+        "Id": 601047,
+        "Level": 47,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.13,
+        "DeckTotalBattlePoint": 3.13,
+        "Exp": 1.56,
+        "Id": 601048,
+        "Level": 48,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.3,
+        "Exp": 1.59,
+        "Id": 601049,
+        "Level": 49,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.14,
+        "DeckTotalBattlePoint": 3.38,
+        "Exp": 1.6,
+        "Id": 601050,
+        "Level": 50,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.57,
+        "Exp": 1.63,
+        "Id": 601051,
+        "Level": 51,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.66,
+        "Exp": 1.64,
+        "Id": 601052,
+        "Level": 52,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.15,
+        "DeckTotalBattlePoint": 3.76,
+        "Exp": 1.66,
+        "Id": 601053,
+        "Level": 53,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 3.96,
+        "Exp": 1.69,
+        "Id": 601054,
+        "Level": 54,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.16,
+        "DeckTotalBattlePoint": 4.07,
+        "Exp": 1.7,
+        "Id": 601055,
+        "Level": 55,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.29,
+        "Exp": 1.73,
+        "Id": 601056,
+        "Level": 56,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.41,
+        "Exp": 1.75,
+        "Id": 601057,
+        "Level": 57,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.17,
+        "DeckTotalBattlePoint": 4.53,
+        "Exp": 1.76,
+        "Id": 601058,
+        "Level": 58,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.78,
+        "Exp": 1.79,
+        "Id": 601059,
+        "Level": 59,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.18,
+        "DeckTotalBattlePoint": 4.91,
+        "Exp": 1.81,
+        "Id": 601060,
+        "Level": 60,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.16,
+        "Exp": 1.84,
+        "Id": 601061,
+        "Level": 61,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.3,
+        "Exp": 1.86,
+        "Id": 601062,
+        "Level": 62,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.19,
+        "DeckTotalBattlePoint": 5.44,
+        "Exp": 1.87,
+        "Id": 601063,
+        "Level": 63,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.71,
+        "Exp": 1.9,
+        "Id": 601064,
+        "Level": 64,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.2,
+        "DeckTotalBattlePoint": 5.87,
+        "Exp": 1.92,
+        "Id": 601065,
+        "Level": 65,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.18,
+        "Exp": 1.95,
+        "Id": 601066,
+        "Level": 66,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.35,
+        "Exp": 1.97,
+        "Id": 601067,
+        "Level": 67,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.21,
+        "DeckTotalBattlePoint": 6.51,
+        "Exp": 1.99,
+        "Id": 601068,
+        "Level": 68,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 6.86,
+        "Exp": 2.02,
+        "Id": 601069,
+        "Level": 69,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.22,
+        "DeckTotalBattlePoint": 7.04,
+        "Exp": 2.04,
+        "Id": 601070,
+        "Level": 70,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.38,
+        "Exp": 2.07,
+        "Id": 601071,
+        "Level": 71,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.23,
+        "DeckTotalBattlePoint": 7.57,
+        "Exp": 2.09,
+        "Id": 601072,
+        "Level": 72,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 7.96,
+        "Exp": 2.13,
+        "Id": 601073,
+        "Level": 73,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.17,
+        "Exp": 2.14,
+        "Id": 601074,
+        "Level": 74,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.24,
+        "DeckTotalBattlePoint": 8.34,
+        "Exp": 2.16,
+        "Id": 601075,
+        "Level": 75,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.77,
+        "Exp": 2.2,
+        "Id": 601076,
+        "Level": 76,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.25,
+        "DeckTotalBattlePoint": 8.99,
+        "Exp": 2.21,
+        "Id": 601077,
+        "Level": 77,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.45,
+        "Exp": 2.25,
+        "Id": 601078,
+        "Level": 78,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.26,
+        "DeckTotalBattlePoint": 9.68,
+        "Exp": 2.27,
+        "Id": 601079,
+        "Level": 79,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.16,
+        "Exp": 2.31,
+        "Id": 601080,
+        "Level": 80,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.41,
+        "Exp": 2.33,
+        "Id": 601081,
+        "Level": 81,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.27,
+        "DeckTotalBattlePoint": 10.63,
+        "Exp": 2.34,
+        "Id": 601082,
+        "Level": 82,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.15,
+        "Exp": 2.38,
+        "Id": 601083,
+        "Level": 83,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.28,
+        "DeckTotalBattlePoint": 11.42,
+        "Exp": 2.4,
+        "Id": 601084,
+        "Level": 84,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 11.93,
+        "Exp": 2.43,
+        "Id": 601085,
+        "Level": 85,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.21,
+        "Exp": 2.45,
+        "Id": 601086,
+        "Level": 86,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.29,
+        "DeckTotalBattlePoint": 12.8,
+        "Exp": 2.49,
+        "Id": 601087,
+        "Level": 87,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.1,
+        "Exp": 2.51,
+        "Id": 601088,
+        "Level": 88,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.3,
+        "DeckTotalBattlePoint": 13.72,
+        "Exp": 2.55,
+        "Id": 601089,
+        "Level": 89,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.03,
+        "Exp": 2.57,
+        "Id": 601090,
+        "Level": 90,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.36,
+        "Exp": 2.59,
+        "Id": 601091,
+        "Level": 91,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.31,
+        "DeckTotalBattlePoint": 14.97,
+        "Exp": 2.63,
+        "Id": 601092,
+        "Level": 92,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 15.31,
+        "Exp": 2.65,
+        "Id": 601093,
+        "Level": 93,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 16.01,
+        "Exp": 2.69,
+        "Id": 601094,
+        "Level": 94,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.32,
+        "DeckTotalBattlePoint": 16.37,
+        "Exp": 2.71,
+        "Id": 601095,
+        "Level": 95,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 17.06,
+        "Exp": 2.75,
+        "Id": 601096,
+        "Level": 96,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.33,
+        "DeckTotalBattlePoint": 17.43,
+        "Exp": 2.77,
+        "Id": 601097,
+        "Level": 97,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 18.21,
+        "Exp": 2.81,
+        "Id": 601098,
+        "Level": 98,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.34,
+        "DeckTotalBattlePoint": 18.61,
+        "Exp": 2.83,
+        "Id": 601099,
+        "Level": 99,
+        "QuestLevelCorrectionGroupId": 601
+    },
+    {
+        "ClearRewardQuantity": 1.35,
+        "DeckTotalBattlePoint": 19.42,
+        "Exp": 2.87,
+        "Id": 601100,
+        "Level": 100,
+        "QuestLevelCorrectionGroupId": 601
+    }
+]

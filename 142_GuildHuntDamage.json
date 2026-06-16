@@ -1,0 +1,402 @@
+[
+    {
+        "Id": 1,
+        "TotalDamage": 100
+    },
+    {
+        "Id": 2,
+        "TotalDamage": 300
+    },
+    {
+        "Id": 3,
+        "TotalDamage": 700
+    },
+    {
+        "Id": 4,
+        "TotalDamage": 1500
+    },
+    {
+        "Id": 5,
+        "TotalDamage": 3000
+    },
+    {
+        "Id": 6,
+        "TotalDamage": 5500
+    },
+    {
+        "Id": 7,
+        "TotalDamage": 9500
+    },
+    {
+        "Id": 8,
+        "TotalDamage": 16000
+    },
+    {
+        "Id": 9,
+        "TotalDamage": 28000
+    },
+    {
+        "Id": 10,
+        "TotalDamage": 48000
+    },
+    {
+        "Id": 11,
+        "TotalDamage": 84000
+    },
+    {
+        "Id": 12,
+        "TotalDamage": 144000
+    },
+    {
+        "Id": 13,
+        "TotalDamage": 244000
+    },
+    {
+        "Id": 14,
+        "TotalDamage": 394000
+    },
+    {
+        "Id": 15,
+        "TotalDamage": 644000
+    },
+    {
+        "Id": 16,
+        "TotalDamage": 1044000
+    },
+    {
+        "Id": 17,
+        "TotalDamage": 1644000
+    },
+    {
+        "Id": 18,
+        "TotalDamage": 2544000
+    },
+    {
+        "Id": 19,
+        "TotalDamage": 3744000
+    },
+    {
+        "Id": 20,
+        "TotalDamage": 5244000
+    },
+    {
+        "Id": 21,
+        "TotalDamage": 7244000
+    },
+    {
+        "Id": 22,
+        "TotalDamage": 9744000
+    },
+    {
+        "Id": 23,
+        "TotalDamage": 12944000
+    },
+    {
+        "Id": 24,
+        "TotalDamage": 16944000
+    },
+    {
+        "Id": 25,
+        "TotalDamage": 21944000
+    },
+    {
+        "Id": 26,
+        "TotalDamage": 26944000
+    },
+    {
+        "Id": 27,
+        "TotalDamage": 31944000
+    },
+    {
+        "Id": 28,
+        "TotalDamage": 36944000
+    },
+    {
+        "Id": 29,
+        "TotalDamage": 41944000
+    },
+    {
+        "Id": 30,
+        "TotalDamage": 46944000
+    },
+    {
+        "Id": 31,
+        "TotalDamage": 51944000
+    },
+    {
+        "Id": 32,
+        "TotalDamage": 56944000
+    },
+    {
+        "Id": 33,
+        "TotalDamage": 61944000
+    },
+    {
+        "Id": 34,
+        "TotalDamage": 66944000
+    },
+    {
+        "Id": 35,
+        "TotalDamage": 71944000
+    },
+    {
+        "Id": 36,
+        "TotalDamage": 76944000
+    },
+    {
+        "Id": 37,
+        "TotalDamage": 81944000
+    },
+    {
+        "Id": 38,
+        "TotalDamage": 86944000
+    },
+    {
+        "Id": 39,
+        "TotalDamage": 91944000
+    },
+    {
+        "Id": 40,
+        "TotalDamage": 96944000
+    },
+    {
+        "Id": 41,
+        "TotalDamage": 101944000
+    },
+    {
+        "Id": 42,
+        "TotalDamage": 106944000
+    },
+    {
+        "Id": 43,
+        "TotalDamage": 111944000
+    },
+    {
+        "Id": 44,
+        "TotalDamage": 116944000
+    },
+    {
+        "Id": 45,
+        "TotalDamage": 121944000
+    },
+    {
+        "Id": 46,
+        "TotalDamage": 126944000
+    },
+    {
+        "Id": 47,
+        "TotalDamage": 131944000
+    },
+    {
+        "Id": 48,
+        "TotalDamage": 136944000
+    },
+    {
+        "Id": 49,
+        "TotalDamage": 141944000
+    },
+    {
+        "Id": 50,
+        "TotalDamage": 146944000
+    },
+    {
+        "Id": 51,
+        "TotalDamage": 156944000
+    },
+    {
+        "Id": 52,
+        "TotalDamage": 166944000
+    },
+    {
+        "Id": 53,
+        "TotalDamage": 176944000
+    },
+    {
+        "Id": 54,
+        "TotalDamage": 186944000
+    },
+    {
+        "Id": 55,
+        "TotalDamage": 196944000
+    },
+    {
+        "Id": 56,
+        "TotalDamage": 206944000
+    },
+    {
+        "Id": 57,
+        "TotalDamage": 216944000
+    },
+    {
+        "Id": 58,
+        "TotalDamage": 226944000
+    },
+    {
+        "Id": 59,
+        "TotalDamage": 236944000
+    },
+    {
+        "Id": 60,
+        "TotalDamage": 246944000
+    },
+    {
+        "Id": 61,
+        "TotalDamage": 256944000
+    },
+    {
+        "Id": 62,
+        "TotalDamage": 266944000
+    },
+    {
+        "Id": 63,
+        "TotalDamage": 276944000
+    },
+    {
+        "Id": 64,
+        "TotalDamage": 286944000
+    },
+    {
+        "Id": 65,
+        "TotalDamage": 296944000
+    },
+    {
+        "Id": 66,
+        "TotalDamage": 306944000
+    },
+    {
+        "Id": 67,
+        "TotalDamage": 316944000
+    },
+    {
+        "Id": 68,
+        "TotalDamage": 326944000
+    },
+    {
+        "Id": 69,
+        "TotalDamage": 336944000
+    },
+    {
+        "Id": 70,
+        "TotalDamage": 346944000
+    },
+    {
+        "Id": 71,
+        "TotalDamage": 356944000
+    },
+    {
+        "Id": 72,
+        "TotalDamage": 366944000
+    },
+    {
+        "Id": 73,
+        "TotalDamage": 376944000
+    },
+    {
+        "Id": 74,
+        "TotalDamage": 386944000
+    },
+    {
+        "Id": 75,
+        "TotalDamage": 396944000
+    },
+    {
+        "Id": 76,
+        "TotalDamage": 416944000
+    },
+    {
+        "Id": 77,
+        "TotalDamage": 436944000
+    },
+    {
+        "Id": 78,
+        "TotalDamage": 456944000
+    },
+    {
+        "Id": 79,
+        "TotalDamage": 476944000
+    },
+    {
+        "Id": 80,
+        "TotalDamage": 496944000
+    },
+    {
+        "Id": 81,
+        "TotalDamage": 516944000
+    },
+    {
+        "Id": 82,
+        "TotalDamage": 536944000
+    },
+    {
+        "Id": 83,
+        "TotalDamage": 556944000
+    },
+    {
+        "Id": 84,
+        "TotalDamage": 576944000
+    },
+    {
+        "Id": 85,
+        "TotalDamage": 596944000
+    },
+    {
+        "Id": 86,
+        "TotalDamage": 616944000
+    },
+    {
+        "Id": 87,
+        "TotalDamage": 636944000
+    },
+    {
+        "Id": 88,
+        "TotalDamage": 656944000
+    },
+    {
+        "Id": 89,
+        "TotalDamage": 676944000
+    },
+    {
+        "Id": 90,
+        "TotalDamage": 696944000
+    },
+    {
+        "Id": 91,
+        "TotalDamage": 716944000
+    },
+    {
+        "Id": 92,
+        "TotalDamage": 736944000
+    },
+    {
+        "Id": 93,
+        "TotalDamage": 756944000
+    },
+    {
+        "Id": 94,
+        "TotalDamage": 776944000
+    },
+    {
+        "Id": 95,
+        "TotalDamage": 796944000
+    },
+    {
+        "Id": 96,
+        "TotalDamage": 816944000
+    },
+    {
+        "Id": 97,
+        "TotalDamage": 836944000
+    },
+    {
+        "Id": 98,
+        "TotalDamage": 856944000
+    },
+    {
+        "Id": 99,
+        "TotalDamage": 876944000
+    },
+    {
+        "Id": 100,
+        "TotalDamage": 896944000
+    }
+]

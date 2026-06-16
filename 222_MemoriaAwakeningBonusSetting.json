@@ -1,0 +1,1987 @@
+[
+    {
+        "Id": 10059101,
+        "MemoriaId": 10059101,
+        "PassiveSkillId": 51234
+    },
+    {
+        "Id": 10059201,
+        "MemoriaId": 10059201,
+        "PassiveSkillId": 51235
+    },
+    {
+        "Id": 10059301,
+        "MemoriaId": 10059301,
+        "PassiveSkillId": 51236
+    },
+    {
+        "Id": 10059401,
+        "MemoriaId": 10059401,
+        "PassiveSkillId": 51237
+    },
+    {
+        "Id": 100001015,
+        "MemoriaId": 10000101,
+        "PassiveSkillId": 50004
+    },
+    {
+        "Id": 100001025,
+        "MemoriaId": 10000102,
+        "PassiveSkillId": 51062
+    },
+    {
+        "Id": 100002015,
+        "MemoriaId": 10000201,
+        "PassiveSkillId": 51005
+    },
+    {
+        "Id": 100002025,
+        "MemoriaId": 10000202,
+        "PassiveSkillId": 51063
+    },
+    {
+        "Id": 100003025,
+        "MemoriaId": 10000302,
+        "PassiveSkillId": 51064
+    },
+    {
+        "Id": 100004025,
+        "MemoriaId": 10000402,
+        "PassiveSkillId": 51065
+    },
+    {
+        "Id": 100011015,
+        "MemoriaId": 10001101,
+        "PassiveSkillId": 51001
+    },
+    {
+        "Id": 100013015,
+        "MemoriaId": 10001301,
+        "PassiveSkillId": 51003
+    },
+    {
+        "Id": 100014015,
+        "MemoriaId": 10001401,
+        "PassiveSkillId": 51004
+    },
+    {
+        "Id": 100021014,
+        "MemoriaId": 10002101,
+        "PassiveSkillId": 50000
+    },
+    {
+        "Id": 100021024,
+        "MemoriaId": 10002102,
+        "PassiveSkillId": 51074
+    },
+    {
+        "Id": 100022014,
+        "MemoriaId": 10002201,
+        "PassiveSkillId": 50001
+    },
+    {
+        "Id": 100022024,
+        "MemoriaId": 10002202,
+        "PassiveSkillId": 51075
+    },
+    {
+        "Id": 100023014,
+        "MemoriaId": 10002301,
+        "PassiveSkillId": 50002
+    },
+    {
+        "Id": 100023024,
+        "MemoriaId": 10002302,
+        "PassiveSkillId": 51076
+    },
+    {
+        "Id": 100024014,
+        "MemoriaId": 10002401,
+        "PassiveSkillId": 50003
+    },
+    {
+        "Id": 100024024,
+        "MemoriaId": 10002402,
+        "PassiveSkillId": 51077
+    },
+    {
+        "Id": 100031015,
+        "MemoriaId": 10003101,
+        "PassiveSkillId": 51007
+    },
+    {
+        "Id": 100032014,
+        "MemoriaId": 10003201,
+        "PassiveSkillId": 51006
+    },
+    {
+        "Id": 100033015,
+        "MemoriaId": 10003301,
+        "PassiveSkillId": 51008
+    },
+    {
+        "Id": 100034015,
+        "MemoriaId": 10003401,
+        "PassiveSkillId": 51009
+    },
+    {
+        "Id": 100041014,
+        "MemoriaId": 10004101,
+        "PassiveSkillId": 51010
+    },
+    {
+        "Id": 100042015,
+        "MemoriaId": 10004201,
+        "PassiveSkillId": 51011
+    },
+    {
+        "Id": 100043015,
+        "MemoriaId": 10004301,
+        "PassiveSkillId": 51012
+    },
+    {
+        "Id": 100044015,
+        "MemoriaId": 10004401,
+        "PassiveSkillId": 51013
+    },
+    {
+        "Id": 100051015,
+        "MemoriaId": 10005101,
+        "PassiveSkillId": 51014
+    },
+    {
+        "Id": 100052015,
+        "MemoriaId": 10005201,
+        "PassiveSkillId": 51015
+    },
+    {
+        "Id": 100053015,
+        "MemoriaId": 10005301,
+        "PassiveSkillId": 51016
+    },
+    {
+        "Id": 100054014,
+        "MemoriaId": 10005401,
+        "PassiveSkillId": 51017
+    },
+    {
+        "Id": 100061015,
+        "MemoriaId": 10006101,
+        "PassiveSkillId": 51018
+    },
+    {
+        "Id": 100062015,
+        "MemoriaId": 10006201,
+        "PassiveSkillId": 51019
+    },
+    {
+        "Id": 100063014,
+        "MemoriaId": 10006301,
+        "PassiveSkillId": 51020
+    },
+    {
+        "Id": 100064015,
+        "MemoriaId": 10006401,
+        "PassiveSkillId": 51021
+    },
+    {
+        "Id": 100071015,
+        "MemoriaId": 10007101,
+        "PassiveSkillId": 51022
+    },
+    {
+        "Id": 100072014,
+        "MemoriaId": 10007201,
+        "PassiveSkillId": 51023
+    },
+    {
+        "Id": 100073015,
+        "MemoriaId": 10007301,
+        "PassiveSkillId": 51024
+    },
+    {
+        "Id": 100074015,
+        "MemoriaId": 10007401,
+        "PassiveSkillId": 51025
+    },
+    {
+        "Id": 100081014,
+        "MemoriaId": 10008101,
+        "PassiveSkillId": 51026
+    },
+    {
+        "Id": 100082015,
+        "MemoriaId": 10008201,
+        "PassiveSkillId": 51027
+    },
+    {
+        "Id": 100083015,
+        "MemoriaId": 10008301,
+        "PassiveSkillId": 51028
+    },
+    {
+        "Id": 100084015,
+        "MemoriaId": 10008401,
+        "PassiveSkillId": 51029
+    },
+    {
+        "Id": 100091015,
+        "MemoriaId": 10009101,
+        "PassiveSkillId": 51030
+    },
+    {
+        "Id": 100092015,
+        "MemoriaId": 10009201,
+        "PassiveSkillId": 51031
+    },
+    {
+        "Id": 100093015,
+        "MemoriaId": 10009301,
+        "PassiveSkillId": 51032
+    },
+    {
+        "Id": 100094014,
+        "MemoriaId": 10009401,
+        "PassiveSkillId": 51033
+    },
+    {
+        "Id": 100101015,
+        "MemoriaId": 10010101,
+        "PassiveSkillId": 51034
+    },
+    {
+        "Id": 100102015,
+        "MemoriaId": 10010201,
+        "PassiveSkillId": 51035
+    },
+    {
+        "Id": 100103014,
+        "MemoriaId": 10010301,
+        "PassiveSkillId": 51036
+    },
+    {
+        "Id": 100104015,
+        "MemoriaId": 10010401,
+        "PassiveSkillId": 51037
+    },
+    {
+        "Id": 100111015,
+        "MemoriaId": 10011101,
+        "PassiveSkillId": 51038
+    },
+    {
+        "Id": 100112014,
+        "MemoriaId": 10011201,
+        "PassiveSkillId": 51039
+    },
+    {
+        "Id": 100113015,
+        "MemoriaId": 10011301,
+        "PassiveSkillId": 51040
+    },
+    {
+        "Id": 100114015,
+        "MemoriaId": 10011401,
+        "PassiveSkillId": 51041
+    },
+    {
+        "Id": 100121014,
+        "MemoriaId": 10012101,
+        "PassiveSkillId": 51042
+    },
+    {
+        "Id": 100122015,
+        "MemoriaId": 10012201,
+        "PassiveSkillId": 51043
+    },
+    {
+        "Id": 100123015,
+        "MemoriaId": 10012301,
+        "PassiveSkillId": 51044
+    },
+    {
+        "Id": 100124015,
+        "MemoriaId": 10012401,
+        "PassiveSkillId": 51045
+    },
+    {
+        "Id": 100131015,
+        "MemoriaId": 10013101,
+        "PassiveSkillId": 51046
+    },
+    {
+        "Id": 100132015,
+        "MemoriaId": 10013201,
+        "PassiveSkillId": 51047
+    },
+    {
+        "Id": 100133015,
+        "MemoriaId": 10013301,
+        "PassiveSkillId": 51048
+    },
+    {
+        "Id": 100134014,
+        "MemoriaId": 10013401,
+        "PassiveSkillId": 51049
+    },
+    {
+        "Id": 100141015,
+        "MemoriaId": 10014101,
+        "PassiveSkillId": 51050
+    },
+    {
+        "Id": 100142015,
+        "MemoriaId": 10014201,
+        "PassiveSkillId": 51051
+    },
+    {
+        "Id": 100143014,
+        "MemoriaId": 10014301,
+        "PassiveSkillId": 51052
+    },
+    {
+        "Id": 100144015,
+        "MemoriaId": 10014401,
+        "PassiveSkillId": 51053
+    },
+    {
+        "Id": 100151015,
+        "MemoriaId": 10015101,
+        "PassiveSkillId": 51054
+    },
+    {
+        "Id": 100152014,
+        "MemoriaId": 10015201,
+        "PassiveSkillId": 51055
+    },
+    {
+        "Id": 100153015,
+        "MemoriaId": 10015301,
+        "PassiveSkillId": 51056
+    },
+    {
+        "Id": 100154015,
+        "MemoriaId": 10015401,
+        "PassiveSkillId": 51057
+    },
+    {
+        "Id": 100161014,
+        "MemoriaId": 10016101,
+        "PassiveSkillId": 51058
+    },
+    {
+        "Id": 100162015,
+        "MemoriaId": 10016201,
+        "PassiveSkillId": 51059
+    },
+    {
+        "Id": 100163015,
+        "MemoriaId": 10016301,
+        "PassiveSkillId": 51060
+    },
+    {
+        "Id": 100164015,
+        "MemoriaId": 10016401,
+        "PassiveSkillId": 51061
+    },
+    {
+        "Id": 100171015,
+        "MemoriaId": 10017101,
+        "PassiveSkillId": 51066
+    },
+    {
+        "Id": 100172015,
+        "MemoriaId": 10017201,
+        "PassiveSkillId": 51067
+    },
+    {
+        "Id": 100173015,
+        "MemoriaId": 10017301,
+        "PassiveSkillId": 51068
+    },
+    {
+        "Id": 100174014,
+        "MemoriaId": 10017401,
+        "PassiveSkillId": 51069
+    },
+    {
+        "Id": 100181015,
+        "MemoriaId": 10018101,
+        "PassiveSkillId": 51070
+    },
+    {
+        "Id": 100182015,
+        "MemoriaId": 10018201,
+        "PassiveSkillId": 51071
+    },
+    {
+        "Id": 100183014,
+        "MemoriaId": 10018301,
+        "PassiveSkillId": 51072
+    },
+    {
+        "Id": 100184015,
+        "MemoriaId": 10018401,
+        "PassiveSkillId": 51073
+    },
+    {
+        "Id": 100191015,
+        "MemoriaId": 10019101,
+        "PassiveSkillId": 51078
+    },
+    {
+        "Id": 100192014,
+        "MemoriaId": 10019201,
+        "PassiveSkillId": 51079
+    },
+    {
+        "Id": 100193015,
+        "MemoriaId": 10019301,
+        "PassiveSkillId": 51080
+    },
+    {
+        "Id": 100194015,
+        "MemoriaId": 10019401,
+        "PassiveSkillId": 51081
+    },
+    {
+        "Id": 100201014,
+        "MemoriaId": 10020101,
+        "PassiveSkillId": 51082
+    },
+    {
+        "Id": 100202015,
+        "MemoriaId": 10020201,
+        "PassiveSkillId": 51083
+    },
+    {
+        "Id": 100203015,
+        "MemoriaId": 10020301,
+        "PassiveSkillId": 51084
+    },
+    {
+        "Id": 100204015,
+        "MemoriaId": 10020401,
+        "PassiveSkillId": 51085
+    },
+    {
+        "Id": 100211015,
+        "MemoriaId": 10021101,
+        "PassiveSkillId": 51086
+    },
+    {
+        "Id": 100212015,
+        "MemoriaId": 10021201,
+        "PassiveSkillId": 51087
+    },
+    {
+        "Id": 100213015,
+        "MemoriaId": 10021301,
+        "PassiveSkillId": 51088
+    },
+    {
+        "Id": 100214014,
+        "MemoriaId": 10021401,
+        "PassiveSkillId": 51089
+    },
+    {
+        "Id": 100221015,
+        "MemoriaId": 10022101,
+        "PassiveSkillId": 51090
+    },
+    {
+        "Id": 100222015,
+        "MemoriaId": 10022201,
+        "PassiveSkillId": 51091
+    },
+    {
+        "Id": 100223015,
+        "MemoriaId": 10022301,
+        "PassiveSkillId": 51092
+    },
+    {
+        "Id": 100224014,
+        "MemoriaId": 10022401,
+        "PassiveSkillId": 51093
+    },
+    {
+        "Id": 100231015,
+        "MemoriaId": 10023101,
+        "PassiveSkillId": 51094
+    },
+    {
+        "Id": 100232015,
+        "MemoriaId": 10023201,
+        "PassiveSkillId": 51095
+    },
+    {
+        "Id": 100233015,
+        "MemoriaId": 10023301,
+        "PassiveSkillId": 51096
+    },
+    {
+        "Id": 100234014,
+        "MemoriaId": 10023401,
+        "PassiveSkillId": 51097
+    },
+    {
+        "Id": 100241015,
+        "MemoriaId": 10024101,
+        "PassiveSkillId": 51098
+    },
+    {
+        "Id": 100242015,
+        "MemoriaId": 10024201,
+        "PassiveSkillId": 51099
+    },
+    {
+        "Id": 100243015,
+        "MemoriaId": 10024301,
+        "PassiveSkillId": 51100
+    },
+    {
+        "Id": 100244014,
+        "MemoriaId": 10024401,
+        "PassiveSkillId": 51101
+    },
+    {
+        "Id": 100251015,
+        "MemoriaId": 10025101,
+        "PassiveSkillId": 51102
+    },
+    {
+        "Id": 100252015,
+        "MemoriaId": 10025201,
+        "PassiveSkillId": 51103
+    },
+    {
+        "Id": 100253014,
+        "MemoriaId": 10025301,
+        "PassiveSkillId": 51104
+    },
+    {
+        "Id": 100254015,
+        "MemoriaId": 10025401,
+        "PassiveSkillId": 51105
+    },
+    {
+        "Id": 100261015,
+        "MemoriaId": 10026101,
+        "PassiveSkillId": 51106
+    },
+    {
+        "Id": 100262014,
+        "MemoriaId": 10026201,
+        "PassiveSkillId": 51107
+    },
+    {
+        "Id": 100263015,
+        "MemoriaId": 10026301,
+        "PassiveSkillId": 51108
+    },
+    {
+        "Id": 100264015,
+        "MemoriaId": 10026401,
+        "PassiveSkillId": 51109
+    },
+    {
+        "Id": 100271014,
+        "MemoriaId": 10027101,
+        "PassiveSkillId": 51110
+    },
+    {
+        "Id": 100272015,
+        "MemoriaId": 10027201,
+        "PassiveSkillId": 51111
+    },
+    {
+        "Id": 100273015,
+        "MemoriaId": 10027301,
+        "PassiveSkillId": 51112
+    },
+    {
+        "Id": 100274015,
+        "MemoriaId": 10027401,
+        "PassiveSkillId": 51113
+    },
+    {
+        "Id": 100281015,
+        "MemoriaId": 10028101,
+        "PassiveSkillId": 51115
+    },
+    {
+        "Id": 100282015,
+        "MemoriaId": 10028201,
+        "PassiveSkillId": 51116
+    },
+    {
+        "Id": 100283015,
+        "MemoriaId": 10028301,
+        "PassiveSkillId": 51117
+    },
+    {
+        "Id": 100284014,
+        "MemoriaId": 10028401,
+        "PassiveSkillId": 51118
+    },
+    {
+        "Id": 100291015,
+        "MemoriaId": 10029101,
+        "PassiveSkillId": 51119
+    },
+    {
+        "Id": 100292015,
+        "MemoriaId": 10029201,
+        "PassiveSkillId": 51120
+    },
+    {
+        "Id": 100293014,
+        "MemoriaId": 10029301,
+        "PassiveSkillId": 51121
+    },
+    {
+        "Id": 100294015,
+        "MemoriaId": 10029401,
+        "PassiveSkillId": 51122
+    },
+    {
+        "Id": 100301015,
+        "MemoriaId": 10030101,
+        "PassiveSkillId": 51123
+    },
+    {
+        "Id": 100302014,
+        "MemoriaId": 10030201,
+        "PassiveSkillId": 51124
+    },
+    {
+        "Id": 100303015,
+        "MemoriaId": 10030301,
+        "PassiveSkillId": 51125
+    },
+    {
+        "Id": 100304015,
+        "MemoriaId": 10030401,
+        "PassiveSkillId": 51126
+    },
+    {
+        "Id": 100312015,
+        "MemoriaId": 10031201,
+        "PassiveSkillId": 51114
+    },
+    {
+        "Id": 100321014,
+        "MemoriaId": 10032101,
+        "PassiveSkillId": 51127
+    },
+    {
+        "Id": 100322015,
+        "MemoriaId": 10032201,
+        "PassiveSkillId": 51128
+    },
+    {
+        "Id": 100323015,
+        "MemoriaId": 10032301,
+        "PassiveSkillId": 51129
+    },
+    {
+        "Id": 100324015,
+        "MemoriaId": 10032401,
+        "PassiveSkillId": 51130
+    },
+    {
+        "Id": 100331015,
+        "MemoriaId": 10033101,
+        "PassiveSkillId": 51131
+    },
+    {
+        "Id": 100332015,
+        "MemoriaId": 10033201,
+        "PassiveSkillId": 51132
+    },
+    {
+        "Id": 100333015,
+        "MemoriaId": 10033301,
+        "PassiveSkillId": 51133
+    },
+    {
+        "Id": 100334014,
+        "MemoriaId": 10033401,
+        "PassiveSkillId": 51134
+    },
+    {
+        "Id": 100341015,
+        "MemoriaId": 10034101,
+        "PassiveSkillId": 51135
+    },
+    {
+        "Id": 100342015,
+        "MemoriaId": 10034201,
+        "PassiveSkillId": 51136
+    },
+    {
+        "Id": 100343014,
+        "MemoriaId": 10034301,
+        "PassiveSkillId": 51137
+    },
+    {
+        "Id": 100344015,
+        "MemoriaId": 10034401,
+        "PassiveSkillId": 51138
+    },
+    {
+        "Id": 100351015,
+        "MemoriaId": 10035101,
+        "PassiveSkillId": 51139
+    },
+    {
+        "Id": 100352014,
+        "MemoriaId": 10035201,
+        "PassiveSkillId": 51140
+    },
+    {
+        "Id": 100353015,
+        "MemoriaId": 10035301,
+        "PassiveSkillId": 51141
+    },
+    {
+        "Id": 100354015,
+        "MemoriaId": 10035401,
+        "PassiveSkillId": 51142
+    },
+    {
+        "Id": 100361015,
+        "MemoriaId": 10036101,
+        "PassiveSkillId": 51143
+    },
+    {
+        "Id": 100362015,
+        "MemoriaId": 10036201,
+        "PassiveSkillId": 51144
+    },
+    {
+        "Id": 100363015,
+        "MemoriaId": 10036301,
+        "PassiveSkillId": 51145
+    },
+    {
+        "Id": 100364015,
+        "MemoriaId": 10036401,
+        "PassiveSkillId": 51146
+    },
+    {
+        "Id": 100371015,
+        "MemoriaId": 10037101,
+        "PassiveSkillId": 51152
+    },
+    {
+        "Id": 100372015,
+        "MemoriaId": 10037201,
+        "PassiveSkillId": 51153
+    },
+    {
+        "Id": 100373015,
+        "MemoriaId": 10037301,
+        "PassiveSkillId": 51154
+    },
+    {
+        "Id": 100374015,
+        "MemoriaId": 10037401,
+        "PassiveSkillId": 51147
+    },
+    {
+        "Id": 100381014,
+        "MemoriaId": 10038101,
+        "PassiveSkillId": 51148
+    },
+    {
+        "Id": 100382015,
+        "MemoriaId": 10038201,
+        "PassiveSkillId": 51149
+    },
+    {
+        "Id": 100383015,
+        "MemoriaId": 10038301,
+        "PassiveSkillId": 51150
+    },
+    {
+        "Id": 100384015,
+        "MemoriaId": 10038401,
+        "PassiveSkillId": 51151
+    },
+    {
+        "Id": 100394015,
+        "MemoriaId": 10039401,
+        "PassiveSkillId": 51155
+    },
+    {
+        "Id": 100401015,
+        "MemoriaId": 10040101,
+        "PassiveSkillId": 51156
+    },
+    {
+        "Id": 100402015,
+        "MemoriaId": 10040201,
+        "PassiveSkillId": 51157
+    },
+    {
+        "Id": 100403015,
+        "MemoriaId": 10040301,
+        "PassiveSkillId": 51158
+    },
+    {
+        "Id": 100404014,
+        "MemoriaId": 10040401,
+        "PassiveSkillId": 51159
+    },
+    {
+        "Id": 100411015,
+        "MemoriaId": 10041101,
+        "PassiveSkillId": 51160
+    },
+    {
+        "Id": 100412015,
+        "MemoriaId": 10041201,
+        "PassiveSkillId": 51161
+    },
+    {
+        "Id": 100413014,
+        "MemoriaId": 10041301,
+        "PassiveSkillId": 51162
+    },
+    {
+        "Id": 100414015,
+        "MemoriaId": 10041401,
+        "PassiveSkillId": 51163
+    },
+    {
+        "Id": 100421015,
+        "MemoriaId": 10042101,
+        "PassiveSkillId": 51164
+    },
+    {
+        "Id": 100422015,
+        "MemoriaId": 10042201,
+        "PassiveSkillId": 51165
+    },
+    {
+        "Id": 100423015,
+        "MemoriaId": 10042301,
+        "PassiveSkillId": 51166
+    },
+    {
+        "Id": 100424015,
+        "MemoriaId": 10042401,
+        "PassiveSkillId": 51167
+    },
+    {
+        "Id": 100431015,
+        "MemoriaId": 10043101,
+        "PassiveSkillId": 51168
+    },
+    {
+        "Id": 100432015,
+        "MemoriaId": 10043201,
+        "PassiveSkillId": 51169
+    },
+    {
+        "Id": 100433015,
+        "MemoriaId": 10043301,
+        "PassiveSkillId": 51170
+    },
+    {
+        "Id": 100434014,
+        "MemoriaId": 10043401,
+        "PassiveSkillId": 51171
+    },
+    {
+        "Id": 100441015,
+        "MemoriaId": 10044101,
+        "PassiveSkillId": 51172
+    },
+    {
+        "Id": 100442015,
+        "MemoriaId": 10044201,
+        "PassiveSkillId": 51173
+    },
+    {
+        "Id": 100443015,
+        "MemoriaId": 10044301,
+        "PassiveSkillId": 51174
+    },
+    {
+        "Id": 100444014,
+        "MemoriaId": 10044401,
+        "PassiveSkillId": 51175
+    },
+    {
+        "Id": 100451015,
+        "MemoriaId": 10045101,
+        "PassiveSkillId": 51176
+    },
+    {
+        "Id": 100452015,
+        "MemoriaId": 10045201,
+        "PassiveSkillId": 51177
+    },
+    {
+        "Id": 100453015,
+        "MemoriaId": 10045301,
+        "PassiveSkillId": 51178
+    },
+    {
+        "Id": 100454014,
+        "MemoriaId": 10045401,
+        "PassiveSkillId": 51179
+    },
+    {
+        "Id": 100461015,
+        "MemoriaId": 10046101,
+        "PassiveSkillId": 51180
+    },
+    {
+        "Id": 100462015,
+        "MemoriaId": 10046201,
+        "PassiveSkillId": 51181
+    },
+    {
+        "Id": 100463015,
+        "MemoriaId": 10046301,
+        "PassiveSkillId": 51182
+    },
+    {
+        "Id": 100463025,
+        "MemoriaId": 10046302,
+        "PassiveSkillId": 51184
+    },
+    {
+        "Id": 100464015,
+        "MemoriaId": 10046401,
+        "PassiveSkillId": 51183
+    },
+    {
+        "Id": 100471015,
+        "MemoriaId": 10047101,
+        "PassiveSkillId": 51185
+    },
+    {
+        "Id": 100472015,
+        "MemoriaId": 10047201,
+        "PassiveSkillId": 51186
+    },
+    {
+        "Id": 100473014,
+        "MemoriaId": 10047301,
+        "PassiveSkillId": 51187
+    },
+    {
+        "Id": 100474015,
+        "MemoriaId": 10047401,
+        "PassiveSkillId": 51188
+    },
+    {
+        "Id": 100481015,
+        "MemoriaId": 10048101,
+        "PassiveSkillId": 51189
+    },
+    {
+        "Id": 100481025,
+        "MemoriaId": 10048102,
+        "PassiveSkillId": 51193
+    },
+    {
+        "Id": 100482015,
+        "MemoriaId": 10048201,
+        "PassiveSkillId": 51190
+    },
+    {
+        "Id": 100483015,
+        "MemoriaId": 10048301,
+        "PassiveSkillId": 51191
+    },
+    {
+        "Id": 100484015,
+        "MemoriaId": 10048401,
+        "PassiveSkillId": 51192
+    },
+    {
+        "Id": 100491015,
+        "MemoriaId": 10049101,
+        "PassiveSkillId": 51194
+    },
+    {
+        "Id": 100492014,
+        "MemoriaId": 10049201,
+        "PassiveSkillId": 51195
+    },
+    {
+        "Id": 100493015,
+        "MemoriaId": 10049301,
+        "PassiveSkillId": 51196
+    },
+    {
+        "Id": 100494015,
+        "MemoriaId": 10049401,
+        "PassiveSkillId": 51197
+    },
+    {
+        "Id": 100501014,
+        "MemoriaId": 10050101,
+        "PassiveSkillId": 51198
+    },
+    {
+        "Id": 100502015,
+        "MemoriaId": 10050201,
+        "PassiveSkillId": 51199
+    },
+    {
+        "Id": 100503015,
+        "MemoriaId": 10050301,
+        "PassiveSkillId": 51200
+    },
+    {
+        "Id": 100504015,
+        "MemoriaId": 10050401,
+        "PassiveSkillId": 51201
+    },
+    {
+        "Id": 100511015,
+        "MemoriaId": 10051101,
+        "PassiveSkillId": 51202
+    },
+    {
+        "Id": 100512015,
+        "MemoriaId": 10051201,
+        "PassiveSkillId": 51203
+    },
+    {
+        "Id": 100513015,
+        "MemoriaId": 10051301,
+        "PassiveSkillId": 51204
+    },
+    {
+        "Id": 100514014,
+        "MemoriaId": 10051401,
+        "PassiveSkillId": 51205
+    },
+    {
+        "Id": 100521015,
+        "MemoriaId": 10052101,
+        "PassiveSkillId": 51206
+    },
+    {
+        "Id": 100522015,
+        "MemoriaId": 10052201,
+        "PassiveSkillId": 51207
+    },
+    {
+        "Id": 100523015,
+        "MemoriaId": 10052301,
+        "PassiveSkillId": 51208
+    },
+    {
+        "Id": 100524015,
+        "MemoriaId": 10052401,
+        "PassiveSkillId": 51209
+    },
+    {
+        "Id": 100531015,
+        "MemoriaId": 10053101,
+        "PassiveSkillId": 51210
+    },
+    {
+        "Id": 100532015,
+        "MemoriaId": 10053201,
+        "PassiveSkillId": 51211
+    },
+    {
+        "Id": 100533014,
+        "MemoriaId": 10053301,
+        "PassiveSkillId": 51212
+    },
+    {
+        "Id": 100534015,
+        "MemoriaId": 10053401,
+        "PassiveSkillId": 51213
+    },
+    {
+        "Id": 100541015,
+        "MemoriaId": 10054101,
+        "PassiveSkillId": 51214
+    },
+    {
+        "Id": 100542014,
+        "MemoriaId": 10054201,
+        "PassiveSkillId": 51215
+    },
+    {
+        "Id": 100543015,
+        "MemoriaId": 10054301,
+        "PassiveSkillId": 51216
+    },
+    {
+        "Id": 100544015,
+        "MemoriaId": 10054401,
+        "PassiveSkillId": 51217
+    },
+    {
+        "Id": 100551014,
+        "MemoriaId": 10055101,
+        "PassiveSkillId": 51218
+    },
+    {
+        "Id": 100552015,
+        "MemoriaId": 10055201,
+        "PassiveSkillId": 51219
+    },
+    {
+        "Id": 100553015,
+        "MemoriaId": 10055301,
+        "PassiveSkillId": 51220
+    },
+    {
+        "Id": 100554015,
+        "MemoriaId": 10055401,
+        "PassiveSkillId": 51221
+    },
+    {
+        "Id": 100561015,
+        "MemoriaId": 10056101,
+        "PassiveSkillId": 51222
+    },
+    {
+        "Id": 100562015,
+        "MemoriaId": 10056201,
+        "PassiveSkillId": 51223
+    },
+    {
+        "Id": 100563015,
+        "MemoriaId": 10056301,
+        "PassiveSkillId": 51224
+    },
+    {
+        "Id": 100564014,
+        "MemoriaId": 10056401,
+        "PassiveSkillId": 51225
+    },
+    {
+        "Id": 100571015,
+        "MemoriaId": 10057101,
+        "PassiveSkillId": 51226
+    },
+    {
+        "Id": 100572015,
+        "MemoriaId": 10057201,
+        "PassiveSkillId": 51227
+    },
+    {
+        "Id": 100573014,
+        "MemoriaId": 10057301,
+        "PassiveSkillId": 51228
+    },
+    {
+        "Id": 100574015,
+        "MemoriaId": 10057401,
+        "PassiveSkillId": 51229
+    },
+    {
+        "Id": 100581015,
+        "MemoriaId": 10058101,
+        "PassiveSkillId": 51230
+    },
+    {
+        "Id": 100582015,
+        "MemoriaId": 10058201,
+        "PassiveSkillId": 51231
+    },
+    {
+        "Id": 100583015,
+        "MemoriaId": 10058301,
+        "PassiveSkillId": 51232
+    },
+    {
+        "Id": 100584015,
+        "MemoriaId": 10058401,
+        "PassiveSkillId": 51233
+    },
+    {
+        "Id": 100601015,
+        "MemoriaId": 10060101,
+        "PassiveSkillId": 51238
+    },
+    {
+        "Id": 100602015,
+        "MemoriaId": 10060201,
+        "PassiveSkillId": 51239
+    },
+    {
+        "Id": 100603015,
+        "MemoriaId": 10060301,
+        "PassiveSkillId": 51240
+    },
+    {
+        "Id": 100604015,
+        "MemoriaId": 10060401,
+        "PassiveSkillId": 51241
+    },
+    {
+        "Id": 100611015,
+        "MemoriaId": 10061101,
+        "PassiveSkillId": 51242
+    },
+    {
+        "Id": 100612015,
+        "MemoriaId": 10061201,
+        "PassiveSkillId": 51243
+    },
+    {
+        "Id": 100613014,
+        "MemoriaId": 10061301,
+        "PassiveSkillId": 51244
+    },
+    {
+        "Id": 100614015,
+        "MemoriaId": 10061401,
+        "PassiveSkillId": 51245
+    },
+    {
+        "Id": 100631014,
+        "MemoriaId": 10063101,
+        "PassiveSkillId": 51246
+    },
+    {
+        "Id": 100632015,
+        "MemoriaId": 10063201,
+        "PassiveSkillId": 51247
+    },
+    {
+        "Id": 100633015,
+        "MemoriaId": 10063301,
+        "PassiveSkillId": 51248
+    },
+    {
+        "Id": 100634015,
+        "MemoriaId": 10063401,
+        "PassiveSkillId": 51249
+    },
+    {
+        "Id": 100641015,
+        "MemoriaId": 10064101,
+        "PassiveSkillId": 51250
+    },
+    {
+        "Id": 100642015,
+        "MemoriaId": 10064201,
+        "PassiveSkillId": 51251
+    },
+    {
+        "Id": 100643015,
+        "MemoriaId": 10064301,
+        "PassiveSkillId": 51252
+    },
+    {
+        "Id": 100644015,
+        "MemoriaId": 10064401,
+        "PassiveSkillId": 51253
+    },
+    {
+        "Id": 100651015,
+        "MemoriaId": 10065101,
+        "PassiveSkillId": 51254
+    },
+    {
+        "Id": 100652014,
+        "MemoriaId": 10065201,
+        "PassiveSkillId": 51255
+    },
+    {
+        "Id": 100653015,
+        "MemoriaId": 10065301,
+        "PassiveSkillId": 51256
+    },
+    {
+        "Id": 100654015,
+        "MemoriaId": 10065401,
+        "PassiveSkillId": 51257
+    },
+    {
+        "Id": 100661015,
+        "MemoriaId": 10066101,
+        "PassiveSkillId": 51258
+    },
+    {
+        "Id": 100662015,
+        "MemoriaId": 10066201,
+        "PassiveSkillId": 51259
+    },
+    {
+        "Id": 100663015,
+        "MemoriaId": 10066301,
+        "PassiveSkillId": 51260
+    },
+    {
+        "Id": 100664014,
+        "MemoriaId": 10066401,
+        "PassiveSkillId": 51261
+    },
+    {
+        "Id": 100671014,
+        "MemoriaId": 10067101,
+        "PassiveSkillId": 51262
+    },
+    {
+        "Id": 100672015,
+        "MemoriaId": 10067201,
+        "PassiveSkillId": 51263
+    },
+    {
+        "Id": 100673015,
+        "MemoriaId": 10067301,
+        "PassiveSkillId": 51264
+    },
+    {
+        "Id": 100674015,
+        "MemoriaId": 10067401,
+        "PassiveSkillId": 51265
+    },
+    {
+        "Id": 100681015,
+        "MemoriaId": 10068101,
+        "PassiveSkillId": 51266
+    },
+    {
+        "Id": 100682014,
+        "MemoriaId": 10068201,
+        "PassiveSkillId": 51267
+    },
+    {
+        "Id": 100683015,
+        "MemoriaId": 10068301,
+        "PassiveSkillId": 51268
+    },
+    {
+        "Id": 100684015,
+        "MemoriaId": 10068401,
+        "PassiveSkillId": 51269
+    },
+    {
+        "Id": 100691015,
+        "MemoriaId": 10069101,
+        "PassiveSkillId": 51270
+    },
+    {
+        "Id": 100692015,
+        "MemoriaId": 10069201,
+        "PassiveSkillId": 51271
+    },
+    {
+        "Id": 100693015,
+        "MemoriaId": 10069301,
+        "PassiveSkillId": 51272
+    },
+    {
+        "Id": 100694015,
+        "MemoriaId": 10069401,
+        "PassiveSkillId": 51273
+    },
+    {
+        "Id": 100701015,
+        "MemoriaId": 10070101,
+        "PassiveSkillId": 51274
+    },
+    {
+        "Id": 100702015,
+        "MemoriaId": 10070201,
+        "PassiveSkillId": 51275
+    },
+    {
+        "Id": 100703015,
+        "MemoriaId": 10070301,
+        "PassiveSkillId": 51276
+    },
+    {
+        "Id": 100704015,
+        "MemoriaId": 10070401,
+        "PassiveSkillId": 51277
+    },
+    {
+        "Id": 100711014,
+        "MemoriaId": 10071101,
+        "PassiveSkillId": 51278
+    },
+    {
+        "Id": 100712015,
+        "MemoriaId": 10071201,
+        "PassiveSkillId": 51279
+    },
+    {
+        "Id": 100713015,
+        "MemoriaId": 10071301,
+        "PassiveSkillId": 51280
+    },
+    {
+        "Id": 100714015,
+        "MemoriaId": 10071401,
+        "PassiveSkillId": 51281
+    },
+    {
+        "Id": 100721014,
+        "MemoriaId": 10072101,
+        "PassiveSkillId": 51282
+    },
+    {
+        "Id": 100722015,
+        "MemoriaId": 10072201,
+        "PassiveSkillId": 51283
+    },
+    {
+        "Id": 100723015,
+        "MemoriaId": 10072301,
+        "PassiveSkillId": 51284
+    },
+    {
+        "Id": 100724015,
+        "MemoriaId": 10072401,
+        "PassiveSkillId": 51285
+    },
+    {
+        "Id": 100731015,
+        "MemoriaId": 10073101,
+        "PassiveSkillId": 51286
+    },
+    {
+        "Id": 100732015,
+        "MemoriaId": 10073201,
+        "PassiveSkillId": 51287
+    },
+    {
+        "Id": 100733014,
+        "MemoriaId": 10073301,
+        "PassiveSkillId": 51288
+    },
+    {
+        "Id": 100734015,
+        "MemoriaId": 10073401,
+        "PassiveSkillId": 51289
+    },
+    {
+        "Id": 100741015,
+        "MemoriaId": 10074101,
+        "PassiveSkillId": 51290
+    },
+    {
+        "Id": 100742015,
+        "MemoriaId": 10074201,
+        "PassiveSkillId": 51291
+    },
+    {
+        "Id": 100743015,
+        "MemoriaId": 10074301,
+        "PassiveSkillId": 51292
+    },
+    {
+        "Id": 100744014,
+        "MemoriaId": 10074401,
+        "PassiveSkillId": 51293
+    },
+    {
+        "Id": 100751014,
+        "MemoriaId": 10075101,
+        "PassiveSkillId": 51294
+    },
+    {
+        "Id": 100752015,
+        "MemoriaId": 10075201,
+        "PassiveSkillId": 51295
+    },
+    {
+        "Id": 100753015,
+        "MemoriaId": 10075301,
+        "PassiveSkillId": 51296
+    },
+    {
+        "Id": 100754015,
+        "MemoriaId": 10075401,
+        "PassiveSkillId": 51297
+    },
+    {
+        "Id": 100761015,
+        "MemoriaId": 10076101,
+        "PassiveSkillId": 51298
+    },
+    {
+        "Id": 100762014,
+        "MemoriaId": 10076201,
+        "PassiveSkillId": 51299
+    },
+    {
+        "Id": 100763015,
+        "MemoriaId": 10076301,
+        "PassiveSkillId": 51300
+    },
+    {
+        "Id": 100764015,
+        "MemoriaId": 10076401,
+        "PassiveSkillId": 51301
+    },
+    {
+        "Id": 100771015,
+        "MemoriaId": 10077101,
+        "PassiveSkillId": 51302
+    },
+    {
+        "Id": 100772015,
+        "MemoriaId": 10077201,
+        "PassiveSkillId": 51303
+    },
+    {
+        "Id": 100773014,
+        "MemoriaId": 10077301,
+        "PassiveSkillId": 51304
+    },
+    {
+        "Id": 100774015,
+        "MemoriaId": 10077401,
+        "PassiveSkillId": 51305
+    },
+    {
+        "Id": 100781015,
+        "MemoriaId": 10078101,
+        "PassiveSkillId": 51306
+    },
+    {
+        "Id": 100782015,
+        "MemoriaId": 10078201,
+        "PassiveSkillId": 51307
+    },
+    {
+        "Id": 100783014,
+        "MemoriaId": 10078301,
+        "PassiveSkillId": 51308
+    },
+    {
+        "Id": 100784015,
+        "MemoriaId": 10078401,
+        "PassiveSkillId": 51309
+    },
+    {
+        "Id": 100791015,
+        "MemoriaId": 10079101,
+        "PassiveSkillId": 51310
+    },
+    {
+        "Id": 100792015,
+        "MemoriaId": 10079201,
+        "PassiveSkillId": 51311
+    },
+    {
+        "Id": 100793015,
+        "MemoriaId": 10079301,
+        "PassiveSkillId": 51312
+    },
+    {
+        "Id": 100794015,
+        "MemoriaId": 10079401,
+        "PassiveSkillId": 51313
+    },
+    {
+        "Id": 100801015,
+        "MemoriaId": 10080101,
+        "PassiveSkillId": 51314
+    },
+    {
+        "Id": 100802014,
+        "MemoriaId": 10080201,
+        "PassiveSkillId": 51315
+    },
+    {
+        "Id": 100803015,
+        "MemoriaId": 10080301,
+        "PassiveSkillId": 51316
+    },
+    {
+        "Id": 100804015,
+        "MemoriaId": 10080401,
+        "PassiveSkillId": 51317
+    },
+    {
+        "Id": 100811015,
+        "MemoriaId": 10081101,
+        "PassiveSkillId": 51318
+    },
+    {
+        "Id": 100812015,
+        "MemoriaId": 10081201,
+        "PassiveSkillId": 51319
+    },
+    {
+        "Id": 100813014,
+        "MemoriaId": 10081301,
+        "PassiveSkillId": 51320
+    },
+    {
+        "Id": 100814015,
+        "MemoriaId": 10081401,
+        "PassiveSkillId": 51321
+    },
+    {
+        "Id": 100821015,
+        "MemoriaId": 10082101,
+        "PassiveSkillId": 51322
+    },
+    {
+        "Id": 100822015,
+        "MemoriaId": 10082201,
+        "PassiveSkillId": 51323
+    },
+    {
+        "Id": 100823014,
+        "MemoriaId": 10082301,
+        "PassiveSkillId": 51324
+    },
+    {
+        "Id": 100824015,
+        "MemoriaId": 10082401,
+        "PassiveSkillId": 51325
+    },
+    {
+        "Id": 100831015,
+        "MemoriaId": 10083101,
+        "PassiveSkillId": 51326
+    },
+    {
+        "Id": 100832015,
+        "MemoriaId": 10083201,
+        "PassiveSkillId": 51327
+    },
+    {
+        "Id": 100833015,
+        "MemoriaId": 10083301,
+        "PassiveSkillId": 51328
+    },
+    {
+        "Id": 100834014,
+        "MemoriaId": 10083401,
+        "PassiveSkillId": 51329
+    },
+    {
+        "Id": 100841015,
+        "MemoriaId": 10084101,
+        "PassiveSkillId": 51330
+    },
+    {
+        "Id": 100842015,
+        "MemoriaId": 10084201,
+        "PassiveSkillId": 51331
+    },
+    {
+        "Id": 100843015,
+        "MemoriaId": 10084301,
+        "PassiveSkillId": 51332
+    },
+    {
+        "Id": 100844014,
+        "MemoriaId": 10084401,
+        "PassiveSkillId": 51333
+    },
+    {
+        "Id": 100851015,
+        "MemoriaId": 10085101,
+        "PassiveSkillId": 51334
+    },
+    {
+        "Id": 100852014,
+        "MemoriaId": 10085201,
+        "PassiveSkillId": 51335
+    },
+    {
+        "Id": 100853015,
+        "MemoriaId": 10085301,
+        "PassiveSkillId": 51336
+    },
+    {
+        "Id": 100854015,
+        "MemoriaId": 10085401,
+        "PassiveSkillId": 51337
+    },
+    {
+        "Id": 100861015,
+        "MemoriaId": 10086101,
+        "PassiveSkillId": 51338
+    },
+    {
+        "Id": 100862014,
+        "MemoriaId": 10086201,
+        "PassiveSkillId": 51339
+    },
+    {
+        "Id": 100863015,
+        "MemoriaId": 10086301,
+        "PassiveSkillId": 51340
+    },
+    {
+        "Id": 100864015,
+        "MemoriaId": 10086401,
+        "PassiveSkillId": 51341
+    },
+    {
+        "Id": 100871015,
+        "MemoriaId": 10087101,
+        "PassiveSkillId": 51342
+    },
+    {
+        "Id": 100872014,
+        "MemoriaId": 10087201,
+        "PassiveSkillId": 51343
+    },
+    {
+        "Id": 100873015,
+        "MemoriaId": 10087301,
+        "PassiveSkillId": 51344
+    },
+    {
+        "Id": 100874015,
+        "MemoriaId": 10087401,
+        "PassiveSkillId": 51345
+    },
+    {
+        "Id": 100881015,
+        "MemoriaId": 10088101,
+        "PassiveSkillId": 51346
+    },
+    {
+        "Id": 100882015,
+        "MemoriaId": 10088201,
+        "PassiveSkillId": 51347
+    },
+    {
+        "Id": 100883015,
+        "MemoriaId": 10088301,
+        "PassiveSkillId": 51348
+    },
+    {
+        "Id": 100884015,
+        "MemoriaId": 10088401,
+        "PassiveSkillId": 51349
+    },
+    {
+        "Id": 100891015,
+        "MemoriaId": 10089101,
+        "PassiveSkillId": 51350
+    },
+    {
+        "Id": 100892014,
+        "MemoriaId": 10089201,
+        "PassiveSkillId": 51351
+    },
+    {
+        "Id": 100893015,
+        "MemoriaId": 10089301,
+        "PassiveSkillId": 51352
+    },
+    {
+        "Id": 100894015,
+        "MemoriaId": 10089401,
+        "PassiveSkillId": 51353
+    },
+    {
+        "Id": 100901015,
+        "MemoriaId": 10090101,
+        "PassiveSkillId": 51354
+    },
+    {
+        "Id": 100902015,
+        "MemoriaId": 10090201,
+        "PassiveSkillId": 51355
+    },
+    {
+        "Id": 100903014,
+        "MemoriaId": 10090301,
+        "PassiveSkillId": 51356
+    },
+    {
+        "Id": 100904015,
+        "MemoriaId": 10090401,
+        "PassiveSkillId": 51357
+    },
+    {
+        "Id": 100911015,
+        "MemoriaId": 10091101,
+        "PassiveSkillId": 51358
+    },
+    {
+        "Id": 100912015,
+        "MemoriaId": 10091201,
+        "PassiveSkillId": 51359
+    },
+    {
+        "Id": 100913015,
+        "MemoriaId": 10091301,
+        "PassiveSkillId": 51360
+    },
+    {
+        "Id": 100914014,
+        "MemoriaId": 10091401,
+        "PassiveSkillId": 51361
+    },
+    {
+        "Id": 100921015,
+        "MemoriaId": 10092101,
+        "PassiveSkillId": 51362
+    },
+    {
+        "Id": 100922015,
+        "MemoriaId": 10092201,
+        "PassiveSkillId": 51363
+    },
+    {
+        "Id": 100923015,
+        "MemoriaId": 10092301,
+        "PassiveSkillId": 51364
+    },
+    {
+        "Id": 100924015,
+        "MemoriaId": 10092401,
+        "PassiveSkillId": 51365
+    },
+    {
+        "Id": 100931015,
+        "MemoriaId": 10093101,
+        "PassiveSkillId": 51366
+    },
+    {
+        "Id": 100932014,
+        "MemoriaId": 10093201,
+        "PassiveSkillId": 51367
+    },
+    {
+        "Id": 100933015,
+        "MemoriaId": 10093301,
+        "PassiveSkillId": 51368
+    },
+    {
+        "Id": 100934015,
+        "MemoriaId": 10093401,
+        "PassiveSkillId": 51369
+    },
+    {
+        "Id": 100941015,
+        "MemoriaId": 10094101,
+        "PassiveSkillId": 51370
+    },
+    {
+        "Id": 100942015,
+        "MemoriaId": 10094201,
+        "PassiveSkillId": 51371
+    },
+    {
+        "Id": 100943014,
+        "MemoriaId": 10094301,
+        "PassiveSkillId": 51372
+    },
+    {
+        "Id": 100944015,
+        "MemoriaId": 10094401,
+        "PassiveSkillId": 51373
+    },
+    {
+        "Id": 100951015,
+        "MemoriaId": 10095101,
+        "PassiveSkillId": 51374
+    },
+    {
+        "Id": 100952015,
+        "MemoriaId": 10095201,
+        "PassiveSkillId": 51375
+    },
+    {
+        "Id": 100953015,
+        "MemoriaId": 10095301,
+        "PassiveSkillId": 51376
+    },
+    {
+        "Id": 100954014,
+        "MemoriaId": 10095401,
+        "PassiveSkillId": 51377
+    },
+    {
+        "Id": 100961014,
+        "MemoriaId": 10096101,
+        "PassiveSkillId": 51378
+    },
+    {
+        "Id": 100962015,
+        "MemoriaId": 10096201,
+        "PassiveSkillId": 51379
+    },
+    {
+        "Id": 100963015,
+        "MemoriaId": 10096301,
+        "PassiveSkillId": 51380
+    },
+    {
+        "Id": 100964015,
+        "MemoriaId": 10096401,
+        "PassiveSkillId": 51381
+    },
+    {
+        "Id": 100971015,
+        "MemoriaId": 10097101,
+        "PassiveSkillId": 51382
+    },
+    {
+        "Id": 100972014,
+        "MemoriaId": 10097201,
+        "PassiveSkillId": 51383
+    },
+    {
+        "Id": 100973015,
+        "MemoriaId": 10097301,
+        "PassiveSkillId": 51384
+    },
+    {
+        "Id": 100974015,
+        "MemoriaId": 10097401,
+        "PassiveSkillId": 51385
+    },
+    {
+        "Id": 100981015,
+        "MemoriaId": 10098101,
+        "PassiveSkillId": 51386
+    },
+    {
+        "Id": 100982015,
+        "MemoriaId": 10098201,
+        "PassiveSkillId": 51387
+    },
+    {
+        "Id": 100983014,
+        "MemoriaId": 10098301,
+        "PassiveSkillId": 51388
+    },
+    {
+        "Id": 100984015,
+        "MemoriaId": 10098401,
+        "PassiveSkillId": 51389
+    },
+    {
+        "Id": 100991015,
+        "MemoriaId": 10099101,
+        "PassiveSkillId": 51390
+    },
+    {
+        "Id": 100992015,
+        "MemoriaId": 10099201,
+        "PassiveSkillId": 51391
+    },
+    {
+        "Id": 100993015,
+        "MemoriaId": 10099301,
+        "PassiveSkillId": 51392
+    },
+    {
+        "Id": 100994014,
+        "MemoriaId": 10099401,
+        "PassiveSkillId": 51393
+    }
+]

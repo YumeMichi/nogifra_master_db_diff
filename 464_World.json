@@ -1,0 +1,242 @@
+[
+    {
+        "Id": 1,
+        "Name": "チャンネル1",
+        "ShortName": "1",
+        "WorldGroupId": 1
+    },
+    {
+        "Id": 2,
+        "Name": "チャンネル2",
+        "ShortName": "2",
+        "WorldGroupId": 2
+    },
+    {
+        "Id": 3,
+        "Name": "チャンネル3",
+        "ShortName": "3",
+        "WorldGroupId": 3
+    },
+    {
+        "Id": 4,
+        "Name": "チャンネル4",
+        "ShortName": "4",
+        "WorldGroupId": 4
+    },
+    {
+        "Id": 5,
+        "Name": "チャンネル5",
+        "ShortName": "5",
+        "WorldGroupId": 5
+    },
+    {
+        "Id": 6,
+        "Name": "チャンネル6",
+        "ShortName": "6",
+        "WorldGroupId": 6
+    },
+    {
+        "Id": 7,
+        "Name": "チャンネル7",
+        "ShortName": "7",
+        "WorldGroupId": 7
+    },
+    {
+        "Id": 8,
+        "Name": "チャンネル8",
+        "ShortName": "8",
+        "WorldGroupId": 8
+    },
+    {
+        "Id": 9,
+        "Name": "チャンネル9",
+        "ShortName": "9",
+        "WorldGroupId": 9
+    },
+    {
+        "Id": 10,
+        "Name": "チャンネル10",
+        "ShortName": "10",
+        "WorldGroupId": 10
+    },
+    {
+        "Id": 11,
+        "Name": "チャンネル11",
+        "ShortName": "11",
+        "WorldGroupId": 11
+    },
+    {
+        "Id": 12,
+        "Name": "チャンネル12",
+        "ShortName": "12",
+        "WorldGroupId": 12
+    },
+    {
+        "Id": 13,
+        "Name": "チャンネル13",
+        "ShortName": "13",
+        "WorldGroupId": 13
+    },
+    {
+        "Id": 14,
+        "Name": "チャンネル14",
+        "ShortName": "14",
+        "WorldGroupId": 14
+    },
+    {
+        "Id": 15,
+        "Name": "チャンネル15",
+        "ShortName": "15",
+        "WorldGroupId": 15
+    },
+    {
+        "Id": 16,
+        "Name": "チャンネル16",
+        "ShortName": "16",
+        "WorldGroupId": 16
+    },
+    {
+        "Id": 17,
+        "Name": "チャンネル17",
+        "ShortName": "17",
+        "WorldGroupId": 17
+    },
+    {
+        "Id": 18,
+        "Name": "チャンネル18",
+        "ShortName": "18",
+        "WorldGroupId": 18
+    },
+    {
+        "Id": 19,
+        "Name": "チャンネル19",
+        "ShortName": "19",
+        "WorldGroupId": 19
+    },
+    {
+        "Id": 20,
+        "Name": "チャンネル20",
+        "ShortName": "20",
+        "WorldGroupId": 20
+    },
+    {
+        "Id": 21,
+        "Name": "チャンネル21",
+        "ShortName": "21",
+        "WorldGroupId": 21
+    },
+    {
+        "Id": 22,
+        "Name": "チャンネル22",
+        "ShortName": "22",
+        "WorldGroupId": 22
+    },
+    {
+        "Id": 23,
+        "Name": "チャンネル23",
+        "ShortName": "23",
+        "WorldGroupId": 23
+    },
+    {
+        "Id": 24,
+        "Name": "チャンネル24",
+        "ShortName": "24",
+        "WorldGroupId": 24
+    },
+    {
+        "Id": 25,
+        "Name": "チャンネル25",
+        "ShortName": "25",
+        "WorldGroupId": 25
+    },
+    {
+        "Id": 26,
+        "Name": "チャンネル26",
+        "ShortName": "26",
+        "WorldGroupId": 26
+    },
+    {
+        "Id": 27,
+        "Name": "チャンネル27",
+        "ShortName": "27",
+        "WorldGroupId": 27
+    },
+    {
+        "Id": 28,
+        "Name": "チャンネル28",
+        "ShortName": "28",
+        "WorldGroupId": 28
+    },
+    {
+        "Id": 29,
+        "Name": "チャンネル29",
+        "ShortName": "29",
+        "WorldGroupId": 29
+    },
+    {
+        "Id": 30,
+        "Name": "チャンネル30",
+        "ShortName": "30",
+        "WorldGroupId": 30
+    },
+    {
+        "Id": 31,
+        "Name": "チャンネル31",
+        "ShortName": "31",
+        "WorldGroupId": 31
+    },
+    {
+        "Id": 32,
+        "Name": "チャンネル32",
+        "ShortName": "32",
+        "WorldGroupId": 32
+    },
+    {
+        "Id": 33,
+        "Name": "チャンネル33",
+        "ShortName": "33",
+        "WorldGroupId": 33
+    },
+    {
+        "Id": 34,
+        "Name": "チャンネル34",
+        "ShortName": "34",
+        "WorldGroupId": 34
+    },
+    {
+        "Id": 35,
+        "Name": "チャンネル35",
+        "ShortName": "35",
+        "WorldGroupId": 35
+    },
+    {
+        "Id": 36,
+        "Name": "チャンネル36",
+        "ShortName": "36",
+        "WorldGroupId": 36
+    },
+    {
+        "Id": 37,
+        "Name": "チャンネル37",
+        "ShortName": "37",
+        "WorldGroupId": 37
+    },
+    {
+        "Id": 38,
+        "Name": "チャンネル38",
+        "ShortName": "38",
+        "WorldGroupId": 38
+    },
+    {
+        "Id": 39,
+        "Name": "チャンネル39",
+        "ShortName": "39",
+        "WorldGroupId": 39
+    },
+    {
+        "Id": 40,
+        "Name": "チャンネル40",
+        "ShortName": "40",
+        "WorldGroupId": 40
+    }
+]

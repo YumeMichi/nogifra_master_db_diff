@@ -1,0 +1,261 @@
+[
+    {
+        "Id": 102,
+        "ItemId": 111010001,
+        "ItemType": 111,
+        "Quantity": 3,
+        "VipLevel": 1
+    },
+    {
+        "Id": 103,
+        "ItemId": 111090001,
+        "ItemType": 111,
+        "Quantity": 5,
+        "VipLevel": 1
+    },
+    {
+        "Id": 201,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "Quantity": 20,
+        "VipLevel": 2
+    },
+    {
+        "Id": 202,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 2
+    },
+    {
+        "Id": 203,
+        "ItemId": 111020001,
+        "ItemType": 111,
+        "Quantity": 1000,
+        "VipLevel": 2
+    },
+    {
+        "Id": 204,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "Quantity": 25,
+        "VipLevel": 2
+    },
+    {
+        "Id": 301,
+        "ItemId": 111081003,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 3
+    },
+    {
+        "Id": 302,
+        "ItemId": 111010002,
+        "ItemType": 111,
+        "Quantity": 2,
+        "VipLevel": 3
+    },
+    {
+        "Id": 303,
+        "ItemId": 0,
+        "ItemType": 102,
+        "Quantity": 500000,
+        "VipLevel": 3
+    },
+    {
+        "Id": 401,
+        "ItemId": 111100006,
+        "ItemType": 111,
+        "Quantity": 50,
+        "VipLevel": 4
+    },
+    {
+        "Id": 402,
+        "ItemId": 111010004,
+        "ItemType": 111,
+        "Quantity": 5,
+        "VipLevel": 4
+    },
+    {
+        "Id": 403,
+        "ItemId": 111010005,
+        "ItemType": 111,
+        "Quantity": 5,
+        "VipLevel": 4
+    },
+    {
+        "Id": 501,
+        "ItemId": 111030003,
+        "ItemType": 111,
+        "Quantity": 20,
+        "VipLevel": 5
+    },
+    {
+        "Id": 502,
+        "ItemId": 111030001,
+        "ItemType": 111,
+        "Quantity": 1000,
+        "VipLevel": 5
+    },
+    {
+        "Id": 503,
+        "ItemId": 111030002,
+        "ItemType": 111,
+        "Quantity": 25,
+        "VipLevel": 5
+    },
+    {
+        "Id": 601,
+        "ItemId": 111081004,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 6
+    },
+    {
+        "Id": 602,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "Quantity": 50,
+        "VipLevel": 6
+    },
+    {
+        "Id": 603,
+        "ItemId": 0,
+        "ItemType": 102,
+        "Quantity": 1500000,
+        "VipLevel": 6
+    },
+    {
+        "Id": 701,
+        "ItemId": 111100007,
+        "ItemType": 111,
+        "Quantity": 20,
+        "VipLevel": 7
+    },
+    {
+        "Id": 702,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 25,
+        "VipLevel": 7
+    },
+    {
+        "Id": 703,
+        "ItemId": 111090002,
+        "ItemType": 111,
+        "Quantity": 30,
+        "VipLevel": 7
+    },
+    {
+        "Id": 801,
+        "ItemId": 111010003,
+        "ItemType": 111,
+        "Quantity": 3,
+        "VipLevel": 8
+    },
+    {
+        "Id": 803,
+        "ItemId": 111020001,
+        "ItemType": 111,
+        "Quantity": 1000,
+        "VipLevel": 8
+    },
+    {
+        "Id": 804,
+        "ItemId": 111020002,
+        "ItemType": 111,
+        "Quantity": 25,
+        "VipLevel": 8
+    },
+    {
+        "Id": 901,
+        "ItemId": 111081005,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 9
+    },
+    {
+        "Id": 902,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "Quantity": 100,
+        "VipLevel": 9
+    },
+    {
+        "Id": 903,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 50,
+        "VipLevel": 9
+    },
+    {
+        "Id": 1001,
+        "ItemId": 111100007,
+        "ItemType": 111,
+        "Quantity": 50,
+        "VipLevel": 10
+    },
+    {
+        "Id": 1002,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 70,
+        "VipLevel": 10
+    },
+    {
+        "Id": 1003,
+        "ItemId": 111090003,
+        "ItemType": 111,
+        "Quantity": 25,
+        "VipLevel": 10
+    },
+    {
+        "Id": 1101,
+        "ItemId": 111010003,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 11
+    },
+    {
+        "Id": 1102,
+        "ItemId": 111060003,
+        "ItemType": 111,
+        "Quantity": 30,
+        "VipLevel": 11
+    },
+    {
+        "Id": 1103,
+        "ItemId": 111010004,
+        "ItemType": 111,
+        "Quantity": 20,
+        "VipLevel": 11
+    },
+    {
+        "Id": 1104,
+        "ItemId": 111010005,
+        "ItemType": 111,
+        "Quantity": 20,
+        "VipLevel": 11
+    },
+    {
+        "Id": 1201,
+        "ItemId": 111081006,
+        "ItemType": 111,
+        "Quantity": 10,
+        "VipLevel": 12
+    },
+    {
+        "Id": 1202,
+        "ItemId": 111100009,
+        "ItemType": 111,
+        "Quantity": 200,
+        "VipLevel": 12
+    },
+    {
+        "Id": 1203,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 100,
+        "VipLevel": 12
+    }
+]

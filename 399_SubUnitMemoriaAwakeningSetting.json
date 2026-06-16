@@ -1,0 +1,114 @@
+[
+    {
+        "AwakeningCount": 0,
+        "AwakeningSettingGroupId": 301,
+        "FragmentQuantity": 40,
+        "Id": 3011,
+        "MaxLevel": 35,
+        "MoneyQuantity": 0
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 301,
+        "FragmentQuantity": 40,
+        "Id": 3012,
+        "MaxLevel": 40,
+        "MoneyQuantity": 50000
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 301,
+        "FragmentQuantity": 80,
+        "Id": 3013,
+        "MaxLevel": 45,
+        "MoneyQuantity": 100000
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 301,
+        "FragmentQuantity": 120,
+        "Id": 3014,
+        "MaxLevel": 50,
+        "MoneyQuantity": 200000
+    },
+    {
+        "AwakeningCount": 0,
+        "AwakeningSettingGroupId": 302,
+        "FragmentQuantity": 40,
+        "Id": 3021,
+        "MaxLevel": 35,
+        "MoneyQuantity": 0
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 302,
+        "FragmentQuantity": 40,
+        "Id": 3022,
+        "MaxLevel": 40,
+        "MoneyQuantity": 50000
+    },
+    {
+        "AwakeningCount": 0,
+        "AwakeningSettingGroupId": 401,
+        "FragmentQuantity": 40,
+        "Id": 4011,
+        "MaxLevel": 40,
+        "MoneyQuantity": 0
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 401,
+        "FragmentQuantity": 40,
+        "Id": 4012,
+        "MaxLevel": 45,
+        "MoneyQuantity": 50000
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 401,
+        "FragmentQuantity": 80,
+        "Id": 4013,
+        "MaxLevel": 50,
+        "MoneyQuantity": 100000
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 401,
+        "FragmentQuantity": 120,
+        "Id": 4014,
+        "MaxLevel": 55,
+        "MoneyQuantity": 200000
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 401,
+        "FragmentQuantity": 160,
+        "Id": 4015,
+        "MaxLevel": 60,
+        "MoneyQuantity": 500000
+    },
+    {
+        "AwakeningCount": 0,
+        "AwakeningSettingGroupId": 402,
+        "FragmentQuantity": 40,
+        "Id": 4021,
+        "MaxLevel": 40,
+        "MoneyQuantity": 0
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 402,
+        "FragmentQuantity": 40,
+        "Id": 4022,
+        "MaxLevel": 45,
+        "MoneyQuantity": 50000
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 402,
+        "FragmentQuantity": 80,
+        "Id": 4023,
+        "MaxLevel": 50,
+        "MoneyQuantity": 100000
+    }
+]

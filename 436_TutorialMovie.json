@@ -1,0 +1,233 @@
+[
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_00b.usm",
+        "Id": 1,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 1,
+        "Order": 3,
+        "ThumbnailId": "Tutorial_00b",
+        "Title": "教えて！乃木坂的フラクタル #02",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_01.usm",
+        "Id": 2,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 2,
+        "Order": 4,
+        "ThumbnailId": "Tutorial_01",
+        "Title": "教えて！乃木坂的フラクタル #03",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_02.usm",
+        "Id": 3,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 3,
+        "Order": 6,
+        "ThumbnailId": "Tutorial_02",
+        "Title": "教えて！乃木坂的フラクタル #04",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_03.usm",
+        "Id": 4,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 4,
+        "Order": 7,
+        "ThumbnailId": "Tutorial_03",
+        "Title": "プロデュースってなに？",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_Full_Download.usm",
+        "Id": 5,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 5,
+        "Order": 5,
+        "ThumbnailId": "Tutorial_Full_Download",
+        "Title": "撮影メイキング",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_05.usm",
+        "Id": 7,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 7,
+        "Order": 101,
+        "ThumbnailId": "Tutorial_05",
+        "Title": "リメイクってなに？",
+        "TutorialId": 20
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_09.usm",
+        "Id": 8,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 8,
+        "Order": 102,
+        "ThumbnailId": "Tutorial_09",
+        "Title": "セットリストってなに？",
+        "TutorialId": 21
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_06.usm",
+        "Id": 9,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 9,
+        "Order": 103,
+        "ThumbnailId": "Tutorial_06",
+        "Title": "思い出ってなに？",
+        "TutorialId": 2
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_07.usm",
+        "Id": 10,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 10,
+        "Order": 104,
+        "ThumbnailId": "Tutorial_07",
+        "Title": "ノギメモってなに？",
+        "TutorialId": 4
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_08.usm",
+        "Id": 11,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 11,
+        "Order": 105,
+        "ThumbnailId": "Tutorial_08",
+        "Title": "スタイルってなに？",
+        "TutorialId": 5
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_11.usm",
+        "Id": 12,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 12,
+        "Order": 106,
+        "ThumbnailId": "Tutorial_11",
+        "Title": "乃木WEBってなに？",
+        "TutorialId": 13
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_04.usm",
+        "Id": 13,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 13,
+        "Order": 107,
+        "ThumbnailId": "Tutorial_04",
+        "Title": "ホームってなに？",
+        "TutorialId": 19
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_17.usm",
+        "Id": 14,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 14,
+        "Order": 108,
+        "ThumbnailId": "Tutorial_17",
+        "Title": "ガチャってなに？",
+        "TutorialId": 24
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_10.usm",
+        "Id": 15,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 15,
+        "Order": 109,
+        "ThumbnailId": "Tutorial_10",
+        "Title": "グループってなに？",
+        "TutorialId": 12
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_13.usm",
+        "Id": 16,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 16,
+        "Order": 110,
+        "ThumbnailId": "Tutorial_13",
+        "Title": "レッスンってなに？",
+        "TutorialId": 16
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_14.usm",
+        "Id": 17,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 17,
+        "Order": 111,
+        "ThumbnailId": "Tutorial_14",
+        "Title": "イベントってなに？",
+        "TutorialId": 17
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_12.usm",
+        "Id": 18,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 18,
+        "Order": 112,
+        "ThumbnailId": "Tutorial_12",
+        "Title": "トレーニングってなに？",
+        "TutorialId": 14
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_16.usm",
+        "Id": 19,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 19,
+        "Order": 114,
+        "ThumbnailId": "Tutorial_16",
+        "Title": "対抗ツアーってなに？",
+        "TutorialId": 31
+    },
+    {
+        "FilePath": "Movies/Tutorial/Op_Movie.usm",
+        "Id": 20,
+        "IsBeforeSignup": true,
+        "IsPreInstall": false,
+        "MovieType": 20,
+        "Order": 1,
+        "ThumbnailId": "Op_Movie",
+        "Title": "オープニングムービー",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial_00a.usm",
+        "Id": 21,
+        "IsBeforeSignup": true,
+        "IsPreInstall": true,
+        "MovieType": 21,
+        "Order": 2,
+        "ThumbnailId": "Tutorial_00a",
+        "Title": "教えて！乃木坂的フラクタル #01",
+        "TutorialId": 0
+    },
+    {
+        "FilePath": "Movies/Tutorial/Tutorial_18.usm",
+        "Id": 22,
+        "IsBeforeSignup": false,
+        "IsPreInstall": false,
+        "MovieType": 22,
+        "Order": 113,
+        "ThumbnailId": "Tutorial_18",
+        "Title": "お見立て会ってなに？",
+        "TutorialId": 10
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "EyecatchType": 1,
+        "Id": 1,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 2,
+        "Id": 2,
+        "LastPriorityTime": "15:00:00",
+        "TopPriorityTime": "05:00:00"
+    },
+    {
+        "EyecatchType": 3,
+        "Id": 3,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 4,
+        "Id": 4,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 5,
+        "Id": 5,
+        "LastPriorityTime": "04:59:59",
+        "TopPriorityTime": "19:00:00"
+    },
+    {
+        "EyecatchType": 6,
+        "Id": 6,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 7,
+        "Id": 7,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 8,
+        "Id": 8,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 9,
+        "Id": 9,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 10,
+        "Id": 10,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 11,
+        "Id": 11,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    },
+    {
+        "EyecatchType": 12,
+        "Id": 12,
+        "LastPriorityTime": "",
+        "TopPriorityTime": ""
+    }
+]

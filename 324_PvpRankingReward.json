@@ -1,0 +1,1094 @@
+[
+    {
+        "Id": 101,
+        "RewardGroupId": 1,
+        "RewardId": 0,
+        "RewardQuantity": 800,
+        "RewardType": 104
+    },
+    {
+        "Id": 102,
+        "RewardGroupId": 1,
+        "RewardId": 7,
+        "RewardQuantity": 400,
+        "RewardType": 190
+    },
+    {
+        "Id": 103,
+        "RewardGroupId": 1,
+        "RewardId": 0,
+        "RewardQuantity": 3000,
+        "RewardType": 160
+    },
+    {
+        "Id": 201,
+        "RewardGroupId": 2,
+        "RewardId": 0,
+        "RewardQuantity": 700,
+        "RewardType": 104
+    },
+    {
+        "Id": 202,
+        "RewardGroupId": 2,
+        "RewardId": 7,
+        "RewardQuantity": 320,
+        "RewardType": 190
+    },
+    {
+        "Id": 203,
+        "RewardGroupId": 2,
+        "RewardId": 0,
+        "RewardQuantity": 2500,
+        "RewardType": 160
+    },
+    {
+        "Id": 301,
+        "RewardGroupId": 3,
+        "RewardId": 0,
+        "RewardQuantity": 600,
+        "RewardType": 104
+    },
+    {
+        "Id": 302,
+        "RewardGroupId": 3,
+        "RewardId": 7,
+        "RewardQuantity": 280,
+        "RewardType": 190
+    },
+    {
+        "Id": 303,
+        "RewardGroupId": 3,
+        "RewardId": 0,
+        "RewardQuantity": 2200,
+        "RewardType": 160
+    },
+    {
+        "Id": 401,
+        "RewardGroupId": 4,
+        "RewardId": 0,
+        "RewardQuantity": 550,
+        "RewardType": 104
+    },
+    {
+        "Id": 402,
+        "RewardGroupId": 4,
+        "RewardId": 7,
+        "RewardQuantity": 240,
+        "RewardType": 190
+    },
+    {
+        "Id": 403,
+        "RewardGroupId": 4,
+        "RewardId": 0,
+        "RewardQuantity": 2000,
+        "RewardType": 160
+    },
+    {
+        "Id": 501,
+        "RewardGroupId": 5,
+        "RewardId": 0,
+        "RewardQuantity": 500,
+        "RewardType": 104
+    },
+    {
+        "Id": 502,
+        "RewardGroupId": 5,
+        "RewardId": 7,
+        "RewardQuantity": 230,
+        "RewardType": 190
+    },
+    {
+        "Id": 503,
+        "RewardGroupId": 5,
+        "RewardId": 0,
+        "RewardQuantity": 1800,
+        "RewardType": 160
+    },
+    {
+        "Id": 601,
+        "RewardGroupId": 6,
+        "RewardId": 0,
+        "RewardQuantity": 480,
+        "RewardType": 104
+    },
+    {
+        "Id": 602,
+        "RewardGroupId": 6,
+        "RewardId": 7,
+        "RewardQuantity": 220,
+        "RewardType": 190
+    },
+    {
+        "Id": 603,
+        "RewardGroupId": 6,
+        "RewardId": 0,
+        "RewardQuantity": 1700,
+        "RewardType": 160
+    },
+    {
+        "Id": 701,
+        "RewardGroupId": 7,
+        "RewardId": 0,
+        "RewardQuantity": 460,
+        "RewardType": 104
+    },
+    {
+        "Id": 702,
+        "RewardGroupId": 7,
+        "RewardId": 7,
+        "RewardQuantity": 210,
+        "RewardType": 190
+    },
+    {
+        "Id": 703,
+        "RewardGroupId": 7,
+        "RewardId": 0,
+        "RewardQuantity": 1600,
+        "RewardType": 160
+    },
+    {
+        "Id": 801,
+        "RewardGroupId": 8,
+        "RewardId": 0,
+        "RewardQuantity": 440,
+        "RewardType": 104
+    },
+    {
+        "Id": 802,
+        "RewardGroupId": 8,
+        "RewardId": 7,
+        "RewardQuantity": 200,
+        "RewardType": 190
+    },
+    {
+        "Id": 803,
+        "RewardGroupId": 8,
+        "RewardId": 0,
+        "RewardQuantity": 1500,
+        "RewardType": 160
+    },
+    {
+        "Id": 901,
+        "RewardGroupId": 9,
+        "RewardId": 0,
+        "RewardQuantity": 420,
+        "RewardType": 104
+    },
+    {
+        "Id": 902,
+        "RewardGroupId": 9,
+        "RewardId": 7,
+        "RewardQuantity": 190,
+        "RewardType": 190
+    },
+    {
+        "Id": 903,
+        "RewardGroupId": 9,
+        "RewardId": 0,
+        "RewardQuantity": 1400,
+        "RewardType": 160
+    },
+    {
+        "Id": 1001,
+        "RewardGroupId": 10,
+        "RewardId": 0,
+        "RewardQuantity": 400,
+        "RewardType": 104
+    },
+    {
+        "Id": 1002,
+        "RewardGroupId": 10,
+        "RewardId": 7,
+        "RewardQuantity": 180,
+        "RewardType": 190
+    },
+    {
+        "Id": 1003,
+        "RewardGroupId": 10,
+        "RewardId": 0,
+        "RewardQuantity": 1300,
+        "RewardType": 160
+    },
+    {
+        "Id": 1101,
+        "RewardGroupId": 11,
+        "RewardId": 0,
+        "RewardQuantity": 380,
+        "RewardType": 104
+    },
+    {
+        "Id": 1102,
+        "RewardGroupId": 11,
+        "RewardId": 7,
+        "RewardQuantity": 176,
+        "RewardType": 190
+    },
+    {
+        "Id": 1103,
+        "RewardGroupId": 11,
+        "RewardId": 0,
+        "RewardQuantity": 1250,
+        "RewardType": 160
+    },
+    {
+        "Id": 1201,
+        "RewardGroupId": 12,
+        "RewardId": 0,
+        "RewardQuantity": 360,
+        "RewardType": 104
+    },
+    {
+        "Id": 1202,
+        "RewardGroupId": 12,
+        "RewardId": 7,
+        "RewardQuantity": 172,
+        "RewardType": 190
+    },
+    {
+        "Id": 1203,
+        "RewardGroupId": 12,
+        "RewardId": 0,
+        "RewardQuantity": 1200,
+        "RewardType": 160
+    },
+    {
+        "Id": 1301,
+        "RewardGroupId": 13,
+        "RewardId": 0,
+        "RewardQuantity": 340,
+        "RewardType": 104
+    },
+    {
+        "Id": 1302,
+        "RewardGroupId": 13,
+        "RewardId": 7,
+        "RewardQuantity": 168,
+        "RewardType": 190
+    },
+    {
+        "Id": 1303,
+        "RewardGroupId": 13,
+        "RewardId": 0,
+        "RewardQuantity": 1100,
+        "RewardType": 160
+    },
+    {
+        "Id": 1401,
+        "RewardGroupId": 14,
+        "RewardId": 0,
+        "RewardQuantity": 320,
+        "RewardType": 104
+    },
+    {
+        "Id": 1402,
+        "RewardGroupId": 14,
+        "RewardId": 7,
+        "RewardQuantity": 164,
+        "RewardType": 190
+    },
+    {
+        "Id": 1403,
+        "RewardGroupId": 14,
+        "RewardId": 0,
+        "RewardQuantity": 1050,
+        "RewardType": 160
+    },
+    {
+        "Id": 1501,
+        "RewardGroupId": 15,
+        "RewardId": 0,
+        "RewardQuantity": 300,
+        "RewardType": 104
+    },
+    {
+        "Id": 1502,
+        "RewardGroupId": 15,
+        "RewardId": 7,
+        "RewardQuantity": 160,
+        "RewardType": 190
+    },
+    {
+        "Id": 1503,
+        "RewardGroupId": 15,
+        "RewardId": 0,
+        "RewardQuantity": 1000,
+        "RewardType": 160
+    },
+    {
+        "Id": 1601,
+        "RewardGroupId": 16,
+        "RewardId": 0,
+        "RewardQuantity": 280,
+        "RewardType": 104
+    },
+    {
+        "Id": 1602,
+        "RewardGroupId": 16,
+        "RewardId": 7,
+        "RewardQuantity": 152,
+        "RewardType": 190
+    },
+    {
+        "Id": 1603,
+        "RewardGroupId": 16,
+        "RewardId": 0,
+        "RewardQuantity": 950,
+        "RewardType": 160
+    },
+    {
+        "Id": 1701,
+        "RewardGroupId": 17,
+        "RewardId": 0,
+        "RewardQuantity": 270,
+        "RewardType": 104
+    },
+    {
+        "Id": 1702,
+        "RewardGroupId": 17,
+        "RewardId": 7,
+        "RewardQuantity": 144,
+        "RewardType": 190
+    },
+    {
+        "Id": 1703,
+        "RewardGroupId": 17,
+        "RewardId": 0,
+        "RewardQuantity": 900,
+        "RewardType": 160
+    },
+    {
+        "Id": 1801,
+        "RewardGroupId": 18,
+        "RewardId": 0,
+        "RewardQuantity": 260,
+        "RewardType": 104
+    },
+    {
+        "Id": 1802,
+        "RewardGroupId": 18,
+        "RewardId": 7,
+        "RewardQuantity": 136,
+        "RewardType": 190
+    },
+    {
+        "Id": 1803,
+        "RewardGroupId": 18,
+        "RewardId": 0,
+        "RewardQuantity": 850,
+        "RewardType": 160
+    },
+    {
+        "Id": 1901,
+        "RewardGroupId": 19,
+        "RewardId": 0,
+        "RewardQuantity": 250,
+        "RewardType": 104
+    },
+    {
+        "Id": 1902,
+        "RewardGroupId": 19,
+        "RewardId": 7,
+        "RewardQuantity": 128,
+        "RewardType": 190
+    },
+    {
+        "Id": 1903,
+        "RewardGroupId": 19,
+        "RewardId": 0,
+        "RewardQuantity": 750,
+        "RewardType": 160
+    },
+    {
+        "Id": 2001,
+        "RewardGroupId": 20,
+        "RewardId": 0,
+        "RewardQuantity": 240,
+        "RewardType": 104
+    },
+    {
+        "Id": 2002,
+        "RewardGroupId": 20,
+        "RewardId": 7,
+        "RewardQuantity": 120,
+        "RewardType": 190
+    },
+    {
+        "Id": 2003,
+        "RewardGroupId": 20,
+        "RewardId": 0,
+        "RewardQuantity": 700,
+        "RewardType": 160
+    },
+    {
+        "Id": 2101,
+        "RewardGroupId": 21,
+        "RewardId": 0,
+        "RewardQuantity": 230,
+        "RewardType": 104
+    },
+    {
+        "Id": 2102,
+        "RewardGroupId": 21,
+        "RewardId": 7,
+        "RewardQuantity": 112,
+        "RewardType": 190
+    },
+    {
+        "Id": 2103,
+        "RewardGroupId": 21,
+        "RewardId": 0,
+        "RewardQuantity": 650,
+        "RewardType": 160
+    },
+    {
+        "Id": 2201,
+        "RewardGroupId": 22,
+        "RewardId": 0,
+        "RewardQuantity": 220,
+        "RewardType": 104
+    },
+    {
+        "Id": 2202,
+        "RewardGroupId": 22,
+        "RewardId": 7,
+        "RewardQuantity": 104,
+        "RewardType": 190
+    },
+    {
+        "Id": 2203,
+        "RewardGroupId": 22,
+        "RewardId": 0,
+        "RewardQuantity": 600,
+        "RewardType": 160
+    },
+    {
+        "Id": 2301,
+        "RewardGroupId": 23,
+        "RewardId": 0,
+        "RewardQuantity": 210,
+        "RewardType": 104
+    },
+    {
+        "Id": 2302,
+        "RewardGroupId": 23,
+        "RewardId": 7,
+        "RewardQuantity": 96,
+        "RewardType": 190
+    },
+    {
+        "Id": 2303,
+        "RewardGroupId": 23,
+        "RewardId": 0,
+        "RewardQuantity": 550,
+        "RewardType": 160
+    },
+    {
+        "Id": 2401,
+        "RewardGroupId": 24,
+        "RewardId": 0,
+        "RewardQuantity": 200,
+        "RewardType": 104
+    },
+    {
+        "Id": 2402,
+        "RewardGroupId": 24,
+        "RewardId": 7,
+        "RewardQuantity": 88,
+        "RewardType": 190
+    },
+    {
+        "Id": 2403,
+        "RewardGroupId": 24,
+        "RewardId": 0,
+        "RewardQuantity": 500,
+        "RewardType": 160
+    },
+    {
+        "Id": 2501,
+        "RewardGroupId": 25,
+        "RewardId": 0,
+        "RewardQuantity": 190,
+        "RewardType": 104
+    },
+    {
+        "Id": 2502,
+        "RewardGroupId": 25,
+        "RewardId": 7,
+        "RewardQuantity": 76,
+        "RewardType": 190
+    },
+    {
+        "Id": 2503,
+        "RewardGroupId": 25,
+        "RewardId": 0,
+        "RewardQuantity": 450,
+        "RewardType": 160
+    },
+    {
+        "Id": 2601,
+        "RewardGroupId": 26,
+        "RewardId": 0,
+        "RewardQuantity": 180,
+        "RewardType": 104
+    },
+    {
+        "Id": 2602,
+        "RewardGroupId": 26,
+        "RewardId": 7,
+        "RewardQuantity": 68,
+        "RewardType": 190
+    },
+    {
+        "Id": 2603,
+        "RewardGroupId": 26,
+        "RewardId": 0,
+        "RewardQuantity": 400,
+        "RewardType": 160
+    },
+    {
+        "Id": 2701,
+        "RewardGroupId": 27,
+        "RewardId": 0,
+        "RewardQuantity": 170,
+        "RewardType": 104
+    },
+    {
+        "Id": 2702,
+        "RewardGroupId": 27,
+        "RewardId": 7,
+        "RewardQuantity": 60,
+        "RewardType": 190
+    },
+    {
+        "Id": 2703,
+        "RewardGroupId": 27,
+        "RewardId": 0,
+        "RewardQuantity": 350,
+        "RewardType": 160
+    },
+    {
+        "Id": 2801,
+        "RewardGroupId": 28,
+        "RewardId": 0,
+        "RewardQuantity": 160,
+        "RewardType": 104
+    },
+    {
+        "Id": 2802,
+        "RewardGroupId": 28,
+        "RewardId": 7,
+        "RewardQuantity": 52,
+        "RewardType": 190
+    },
+    {
+        "Id": 2803,
+        "RewardGroupId": 28,
+        "RewardId": 0,
+        "RewardQuantity": 300,
+        "RewardType": 160
+    },
+    {
+        "Id": 2901,
+        "RewardGroupId": 29,
+        "RewardId": 0,
+        "RewardQuantity": 150,
+        "RewardType": 104
+    },
+    {
+        "Id": 2902,
+        "RewardGroupId": 29,
+        "RewardId": 7,
+        "RewardQuantity": 44,
+        "RewardType": 190
+    },
+    {
+        "Id": 2903,
+        "RewardGroupId": 29,
+        "RewardId": 0,
+        "RewardQuantity": 250,
+        "RewardType": 160
+    },
+    {
+        "Id": 3001,
+        "RewardGroupId": 30,
+        "RewardId": 0,
+        "RewardQuantity": 145,
+        "RewardType": 104
+    },
+    {
+        "Id": 3002,
+        "RewardGroupId": 30,
+        "RewardId": 7,
+        "RewardQuantity": 40,
+        "RewardType": 190
+    },
+    {
+        "Id": 3003,
+        "RewardGroupId": 30,
+        "RewardId": 0,
+        "RewardQuantity": 230,
+        "RewardType": 160
+    },
+    {
+        "Id": 3101,
+        "RewardGroupId": 31,
+        "RewardId": 0,
+        "RewardQuantity": 140,
+        "RewardType": 104
+    },
+    {
+        "Id": 3102,
+        "RewardGroupId": 31,
+        "RewardId": 7,
+        "RewardQuantity": 38,
+        "RewardType": 190
+    },
+    {
+        "Id": 3103,
+        "RewardGroupId": 31,
+        "RewardId": 0,
+        "RewardQuantity": 210,
+        "RewardType": 160
+    },
+    {
+        "Id": 3201,
+        "RewardGroupId": 32,
+        "RewardId": 0,
+        "RewardQuantity": 135,
+        "RewardType": 104
+    },
+    {
+        "Id": 3202,
+        "RewardGroupId": 32,
+        "RewardId": 7,
+        "RewardQuantity": 36,
+        "RewardType": 190
+    },
+    {
+        "Id": 3203,
+        "RewardGroupId": 32,
+        "RewardId": 0,
+        "RewardQuantity": 205,
+        "RewardType": 160
+    },
+    {
+        "Id": 3301,
+        "RewardGroupId": 33,
+        "RewardId": 0,
+        "RewardQuantity": 130,
+        "RewardType": 104
+    },
+    {
+        "Id": 3302,
+        "RewardGroupId": 33,
+        "RewardId": 7,
+        "RewardQuantity": 34,
+        "RewardType": 190
+    },
+    {
+        "Id": 3303,
+        "RewardGroupId": 33,
+        "RewardId": 0,
+        "RewardQuantity": 200,
+        "RewardType": 160
+    },
+    {
+        "Id": 3401,
+        "RewardGroupId": 34,
+        "RewardId": 0,
+        "RewardQuantity": 125,
+        "RewardType": 104
+    },
+    {
+        "Id": 3402,
+        "RewardGroupId": 34,
+        "RewardId": 7,
+        "RewardQuantity": 32,
+        "RewardType": 190
+    },
+    {
+        "Id": 3403,
+        "RewardGroupId": 34,
+        "RewardId": 0,
+        "RewardQuantity": 195,
+        "RewardType": 160
+    },
+    {
+        "Id": 3501,
+        "RewardGroupId": 35,
+        "RewardId": 0,
+        "RewardQuantity": 120,
+        "RewardType": 104
+    },
+    {
+        "Id": 3502,
+        "RewardGroupId": 35,
+        "RewardId": 7,
+        "RewardQuantity": 30,
+        "RewardType": 190
+    },
+    {
+        "Id": 3503,
+        "RewardGroupId": 35,
+        "RewardId": 0,
+        "RewardQuantity": 190,
+        "RewardType": 160
+    },
+    {
+        "Id": 3601,
+        "RewardGroupId": 36,
+        "RewardId": 0,
+        "RewardQuantity": 115,
+        "RewardType": 104
+    },
+    {
+        "Id": 3602,
+        "RewardGroupId": 36,
+        "RewardId": 7,
+        "RewardQuantity": 28,
+        "RewardType": 190
+    },
+    {
+        "Id": 3603,
+        "RewardGroupId": 36,
+        "RewardId": 0,
+        "RewardQuantity": 185,
+        "RewardType": 160
+    },
+    {
+        "Id": 3701,
+        "RewardGroupId": 37,
+        "RewardId": 0,
+        "RewardQuantity": 110,
+        "RewardType": 104
+    },
+    {
+        "Id": 3702,
+        "RewardGroupId": 37,
+        "RewardId": 7,
+        "RewardQuantity": 26,
+        "RewardType": 190
+    },
+    {
+        "Id": 3703,
+        "RewardGroupId": 37,
+        "RewardId": 0,
+        "RewardQuantity": 180,
+        "RewardType": 160
+    },
+    {
+        "Id": 3801,
+        "RewardGroupId": 38,
+        "RewardId": 0,
+        "RewardQuantity": 105,
+        "RewardType": 104
+    },
+    {
+        "Id": 3802,
+        "RewardGroupId": 38,
+        "RewardId": 7,
+        "RewardQuantity": 24,
+        "RewardType": 190
+    },
+    {
+        "Id": 3803,
+        "RewardGroupId": 38,
+        "RewardId": 0,
+        "RewardQuantity": 175,
+        "RewardType": 160
+    },
+    {
+        "Id": 3901,
+        "RewardGroupId": 39,
+        "RewardId": 0,
+        "RewardQuantity": 100,
+        "RewardType": 104
+    },
+    {
+        "Id": 3902,
+        "RewardGroupId": 39,
+        "RewardId": 7,
+        "RewardQuantity": 22,
+        "RewardType": 190
+    },
+    {
+        "Id": 3903,
+        "RewardGroupId": 39,
+        "RewardId": 0,
+        "RewardQuantity": 170,
+        "RewardType": 160
+    },
+    {
+        "Id": 4001,
+        "RewardGroupId": 40,
+        "RewardId": 0,
+        "RewardQuantity": 95,
+        "RewardType": 104
+    },
+    {
+        "Id": 4002,
+        "RewardGroupId": 40,
+        "RewardId": 7,
+        "RewardQuantity": 20,
+        "RewardType": 190
+    },
+    {
+        "Id": 4003,
+        "RewardGroupId": 40,
+        "RewardId": 0,
+        "RewardQuantity": 165,
+        "RewardType": 160
+    },
+    {
+        "Id": 4101,
+        "RewardGroupId": 41,
+        "RewardId": 0,
+        "RewardQuantity": 90,
+        "RewardType": 104
+    },
+    {
+        "Id": 4102,
+        "RewardGroupId": 41,
+        "RewardId": 7,
+        "RewardQuantity": 19,
+        "RewardType": 190
+    },
+    {
+        "Id": 4103,
+        "RewardGroupId": 41,
+        "RewardId": 0,
+        "RewardQuantity": 160,
+        "RewardType": 160
+    },
+    {
+        "Id": 4201,
+        "RewardGroupId": 42,
+        "RewardId": 0,
+        "RewardQuantity": 85,
+        "RewardType": 104
+    },
+    {
+        "Id": 4202,
+        "RewardGroupId": 42,
+        "RewardId": 7,
+        "RewardQuantity": 18,
+        "RewardType": 190
+    },
+    {
+        "Id": 4203,
+        "RewardGroupId": 42,
+        "RewardId": 0,
+        "RewardQuantity": 155,
+        "RewardType": 160
+    },
+    {
+        "Id": 4301,
+        "RewardGroupId": 43,
+        "RewardId": 0,
+        "RewardQuantity": 80,
+        "RewardType": 104
+    },
+    {
+        "Id": 4302,
+        "RewardGroupId": 43,
+        "RewardId": 7,
+        "RewardQuantity": 17,
+        "RewardType": 190
+    },
+    {
+        "Id": 4303,
+        "RewardGroupId": 43,
+        "RewardId": 0,
+        "RewardQuantity": 150,
+        "RewardType": 160
+    },
+    {
+        "Id": 4401,
+        "RewardGroupId": 44,
+        "RewardId": 0,
+        "RewardQuantity": 75,
+        "RewardType": 104
+    },
+    {
+        "Id": 4402,
+        "RewardGroupId": 44,
+        "RewardId": 7,
+        "RewardQuantity": 16,
+        "RewardType": 190
+    },
+    {
+        "Id": 4403,
+        "RewardGroupId": 44,
+        "RewardId": 0,
+        "RewardQuantity": 145,
+        "RewardType": 160
+    },
+    {
+        "Id": 4501,
+        "RewardGroupId": 45,
+        "RewardId": 0,
+        "RewardQuantity": 70,
+        "RewardType": 104
+    },
+    {
+        "Id": 4502,
+        "RewardGroupId": 45,
+        "RewardId": 7,
+        "RewardQuantity": 16,
+        "RewardType": 190
+    },
+    {
+        "Id": 4503,
+        "RewardGroupId": 45,
+        "RewardId": 0,
+        "RewardQuantity": 140,
+        "RewardType": 160
+    },
+    {
+        "Id": 4601,
+        "RewardGroupId": 46,
+        "RewardId": 0,
+        "RewardQuantity": 65,
+        "RewardType": 104
+    },
+    {
+        "Id": 4602,
+        "RewardGroupId": 46,
+        "RewardId": 7,
+        "RewardQuantity": 15,
+        "RewardType": 190
+    },
+    {
+        "Id": 4603,
+        "RewardGroupId": 46,
+        "RewardId": 0,
+        "RewardQuantity": 135,
+        "RewardType": 160
+    },
+    {
+        "Id": 4701,
+        "RewardGroupId": 47,
+        "RewardId": 0,
+        "RewardQuantity": 60,
+        "RewardType": 104
+    },
+    {
+        "Id": 4702,
+        "RewardGroupId": 47,
+        "RewardId": 7,
+        "RewardQuantity": 14,
+        "RewardType": 190
+    },
+    {
+        "Id": 4703,
+        "RewardGroupId": 47,
+        "RewardId": 0,
+        "RewardQuantity": 130,
+        "RewardType": 160
+    },
+    {
+        "Id": 4801,
+        "RewardGroupId": 48,
+        "RewardId": 0,
+        "RewardQuantity": 55,
+        "RewardType": 104
+    },
+    {
+        "Id": 4802,
+        "RewardGroupId": 48,
+        "RewardId": 7,
+        "RewardQuantity": 13,
+        "RewardType": 190
+    },
+    {
+        "Id": 4803,
+        "RewardGroupId": 48,
+        "RewardId": 0,
+        "RewardQuantity": 125,
+        "RewardType": 160
+    },
+    {
+        "Id": 4901,
+        "RewardGroupId": 49,
+        "RewardId": 0,
+        "RewardQuantity": 50,
+        "RewardType": 104
+    },
+    {
+        "Id": 4902,
+        "RewardGroupId": 49,
+        "RewardId": 7,
+        "RewardQuantity": 12,
+        "RewardType": 190
+    },
+    {
+        "Id": 4903,
+        "RewardGroupId": 49,
+        "RewardId": 0,
+        "RewardQuantity": 120,
+        "RewardType": 160
+    },
+    {
+        "Id": 5001,
+        "RewardGroupId": 50,
+        "RewardId": 0,
+        "RewardQuantity": 45,
+        "RewardType": 104
+    },
+    {
+        "Id": 5002,
+        "RewardGroupId": 50,
+        "RewardId": 7,
+        "RewardQuantity": 12,
+        "RewardType": 190
+    },
+    {
+        "Id": 5003,
+        "RewardGroupId": 50,
+        "RewardId": 0,
+        "RewardQuantity": 115,
+        "RewardType": 160
+    },
+    {
+        "Id": 5101,
+        "RewardGroupId": 51,
+        "RewardId": 0,
+        "RewardQuantity": 40,
+        "RewardType": 104
+    },
+    {
+        "Id": 5102,
+        "RewardGroupId": 51,
+        "RewardId": 7,
+        "RewardQuantity": 11,
+        "RewardType": 190
+    },
+    {
+        "Id": 5103,
+        "RewardGroupId": 51,
+        "RewardId": 0,
+        "RewardQuantity": 110,
+        "RewardType": 160
+    },
+    {
+        "Id": 5201,
+        "RewardGroupId": 52,
+        "RewardId": 0,
+        "RewardQuantity": 35,
+        "RewardType": 104
+    },
+    {
+        "Id": 5202,
+        "RewardGroupId": 52,
+        "RewardId": 7,
+        "RewardQuantity": 10,
+        "RewardType": 190
+    },
+    {
+        "Id": 5203,
+        "RewardGroupId": 52,
+        "RewardId": 0,
+        "RewardQuantity": 105,
+        "RewardType": 160
+    }
+]

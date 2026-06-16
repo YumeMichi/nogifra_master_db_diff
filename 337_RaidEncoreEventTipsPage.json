@@ -1,0 +1,44 @@
+[
+    {
+        "EncoreEventTipsId": 1,
+        "Id": 101,
+        "Page": 1,
+        "ResourceId": 400101
+    },
+    {
+        "EncoreEventTipsId": 1,
+        "Id": 102,
+        "Page": 2,
+        "ResourceId": 400102
+    },
+    {
+        "EncoreEventTipsId": 1,
+        "Id": 103,
+        "Page": 3,
+        "ResourceId": 400103
+    },
+    {
+        "EncoreEventTipsId": 2,
+        "Id": 201,
+        "Page": 1,
+        "ResourceId": 400201
+    },
+    {
+        "EncoreEventTipsId": 2,
+        "Id": 202,
+        "Page": 2,
+        "ResourceId": 400202
+    },
+    {
+        "EncoreEventTipsId": 3,
+        "Id": 301,
+        "Page": 1,
+        "ResourceId": 400301
+    },
+    {
+        "EncoreEventTipsId": 4,
+        "Id": 401,
+        "Page": 1,
+        "ResourceId": 400401
+    }
+]

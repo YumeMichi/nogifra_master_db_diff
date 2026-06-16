@@ -1,0 +1,16 @@
+[
+    {
+        "GroupId": 1000,
+        "Id": 100001,
+        "ItemId": 111021302,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "GroupId": 1000,
+        "Id": 100002,
+        "ItemId": 111021303,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    }
+]

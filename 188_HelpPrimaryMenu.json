@@ -1,0 +1,157 @@
+[
+    {
+        "Id": 1,
+        "TitleName": "ホーム",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 2,
+        "TitleName": "プロフィール",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 3,
+        "TitleName": "イベントニュース",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 4,
+        "TitleName": "グローバルメニュー",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 5,
+        "TitleName": "プロデュース",
+        "ViewName": "TownProduce"
+    },
+    {
+        "Id": 6,
+        "TitleName": "ライブ",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 7,
+        "TitleName": "マネジメント",
+        "ViewName": "TownHome"
+    },
+    {
+        "Id": 8,
+        "TitleName": "メンバー",
+        "ViewName": "TownMember"
+    },
+    {
+        "Id": 9,
+        "TitleName": "グループ",
+        "ViewName": "TownGuildTop"
+    },
+    {
+        "Id": 10,
+        "TitleName": "思い出",
+        "ViewName": "TownArchive"
+    },
+    {
+        "Id": 11,
+        "TitleName": "ガチャ",
+        "ViewName": "TownGachaTop"
+    },
+    {
+        "Id": 12,
+        "TitleName": "軍団ライブ",
+        "ViewName": "TownGameEventTop"
+    },
+    {
+        "Id": 13,
+        "TitleName": "ルーム",
+        "ViewName": "TownInventory"
+    },
+    {
+        "Id": 14,
+        "TitleName": "ランキング",
+        "ViewName": "TownRanking"
+    },
+    {
+        "Id": 15,
+        "TitleName": "月ログインボーナス",
+        "ViewName": "TownMonthlyLoginBonusListDialog"
+    },
+    {
+        "Id": 16,
+        "TitleName": "お見立て会TOP",
+        "ViewName": "TownPvpTop"
+    },
+    {
+        "Id": 17,
+        "TitleName": "乃木WEBTOP",
+        "ViewName": "TownGuildRaid"
+    },
+    {
+        "Id": 18,
+        "TitleName": "ノギメモ一覧",
+        "ViewName": "TownMemoriaList"
+    },
+    {
+        "Id": 19,
+        "TitleName": "軍団ライブ",
+        "ViewName": "TownGameEventQuestList"
+    },
+    {
+        "Id": 20,
+        "TitleName": "軍団ライブ",
+        "ViewName": "TownGameEventCorpsChoice"
+    },
+    {
+        "Id": 21,
+        "TitleName": "グループ対抗ツアー",
+        "ViewName": "TownGvgMap"
+    },
+    {
+        "Id": 22,
+        "TitleName": "グループ対抗ツアー",
+        "ViewName": "TownGvgBattleStatus"
+    },
+    {
+        "Id": 23,
+        "TitleName": "グループ対抗ツアー",
+        "ViewName": "TownGvgTeamList"
+    },
+    {
+        "Id": 24,
+        "TitleName": "フラコレ",
+        "ViewName": "TownGuildTop"
+    },
+    {
+        "Id": 25,
+        "TitleName": "フラコレ",
+        "ViewName": "TownGroupLinksGachaTop"
+    },
+    {
+        "Id": 26,
+        "TitleName": "フラコレ",
+        "ViewName": "TownGroupLinks"
+    },
+    {
+        "Id": 27,
+        "TitleName": "フラコレ",
+        "ViewName": "TownGroupLinksCardList"
+    },
+    {
+        "Id": 28,
+        "TitleName": "アンコールライブ",
+        "ViewName": "TownGameEventEncoreEventMap"
+    },
+    {
+        "Id": 29,
+        "TitleName": "軍団ライブ",
+        "ViewName": "TownGameEventAreaEventQuestSelect"
+    },
+    {
+        "Id": 30,
+        "TitleName": "ラインナップガチャ",
+        "ViewName": "TownLimitedGachaTop"
+    },
+    {
+        "Id": 31,
+        "TitleName": "アワードライブ",
+        "ViewName": "TownPvpExTop"
+    }
+]

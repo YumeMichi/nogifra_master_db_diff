@@ -1,0 +1,890 @@
+[
+    {
+        "AreaId": 8100101,
+        "Id": 8100101,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100102,
+        "Id": 8100102,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100103,
+        "Id": 8100103,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100104,
+        "Id": 8100104,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100105,
+        "Id": 8100105,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100106,
+        "Id": 8100106,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100107,
+        "Id": 8100107,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100108,
+        "Id": 8100108,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100109,
+        "Id": 8100109,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100110,
+        "Id": 8100110,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100111,
+        "Id": 8100111,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100112,
+        "Id": 8100112,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100113,
+        "Id": 8100113,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100114,
+        "Id": 8100114,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100115,
+        "Id": 8100115,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100116,
+        "Id": 8100116,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100117,
+        "Id": 8100117,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100118,
+        "Id": 8100118,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100119,
+        "Id": 8100119,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100120,
+        "Id": 8100120,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100201,
+        "Id": 8100201,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100202,
+        "Id": 8100202,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100203,
+        "Id": 8100203,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100204,
+        "Id": 8100204,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100205,
+        "Id": 8100205,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100206,
+        "Id": 8100206,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100207,
+        "Id": 8100207,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100208,
+        "Id": 8100208,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100209,
+        "Id": 8100209,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100210,
+        "Id": 8100210,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100211,
+        "Id": 8100211,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100212,
+        "Id": 8100212,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100213,
+        "Id": 8100213,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100214,
+        "Id": 8100214,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100215,
+        "Id": 8100215,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100216,
+        "Id": 8100216,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100217,
+        "Id": 8100217,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100218,
+        "Id": 8100218,
+        "ItemId": 111083002,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100219,
+        "Id": 8100219,
+        "ItemId": 111083003,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100220,
+        "Id": 8100220,
+        "ItemId": 111083004,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100221,
+        "Id": 8100221,
+        "ItemId": 111083001,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100301,
+        "Id": 8100301,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100302,
+        "Id": 8100302,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100303,
+        "Id": 8100303,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100304,
+        "Id": 8100304,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100305,
+        "Id": 8100305,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100306,
+        "Id": 8100306,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100307,
+        "Id": 8100307,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100308,
+        "Id": 8100308,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100309,
+        "Id": 8100309,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100310,
+        "Id": 8100310,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100311,
+        "Id": 8100311,
+        "ItemId": 111083006,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100401,
+        "Id": 8100401,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100402,
+        "Id": 8100402,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100403,
+        "Id": 8100403,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100404,
+        "Id": 8100404,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100405,
+        "Id": 8100405,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100406,
+        "Id": 8100406,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100407,
+        "Id": 8100407,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100408,
+        "Id": 8100408,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100409,
+        "Id": 8100409,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100410,
+        "Id": 8100410,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100411,
+        "Id": 8100411,
+        "ItemId": 111083007,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100412,
+        "Id": 8100412,
+        "ItemId": 111151008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100501,
+        "Id": 8100501,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100502,
+        "Id": 8100502,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100504,
+        "Id": 8100504,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100505,
+        "Id": 8100505,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100506,
+        "Id": 8100506,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100507,
+        "Id": 8100507,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100508,
+        "Id": 8100508,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100509,
+        "Id": 8100509,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100510,
+        "Id": 8100510,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100511,
+        "Id": 8100511,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100512,
+        "Id": 8100512,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100513,
+        "Id": 8100513,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100514,
+        "Id": 8100514,
+        "ItemId": 111083008,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100515,
+        "Id": 8100515,
+        "ItemId": 111151013,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100601,
+        "Id": 8100601,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100602,
+        "Id": 8100602,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100603,
+        "Id": 8100603,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100604,
+        "Id": 8100604,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100605,
+        "Id": 8100605,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100606,
+        "Id": 8100606,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100607,
+        "Id": 8100607,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100608,
+        "Id": 8100608,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100609,
+        "Id": 8100609,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100610,
+        "Id": 8100610,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100611,
+        "Id": 8100611,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100612,
+        "Id": 8100612,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100613,
+        "Id": 8100613,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100614,
+        "Id": 8100614,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100615,
+        "Id": 8100615,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100616,
+        "Id": 8100616,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100617,
+        "Id": 8100617,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100618,
+        "Id": 8100618,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100619,
+        "Id": 8100619,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100620,
+        "Id": 8100620,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100621,
+        "Id": 8100621,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100622,
+        "Id": 8100622,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100623,
+        "Id": 8100623,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100624,
+        "Id": 8100624,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100625,
+        "Id": 8100625,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100626,
+        "Id": 8100626,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100627,
+        "Id": 8100627,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100628,
+        "Id": 8100628,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100629,
+        "Id": 8100629,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100630,
+        "Id": 8100630,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100631,
+        "Id": 8100631,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100632,
+        "Id": 8100632,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100633,
+        "Id": 8100633,
+        "ItemId": 111083010,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100701,
+        "Id": 8100701,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100702,
+        "Id": 8100702,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100703,
+        "Id": 8100703,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100704,
+        "Id": 8100704,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100705,
+        "Id": 8100705,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100706,
+        "Id": 8100706,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100707,
+        "Id": 8100707,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100708,
+        "Id": 8100708,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100709,
+        "Id": 8100709,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100710,
+        "Id": 8100710,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100711,
+        "Id": 8100711,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100712,
+        "Id": 8100712,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100713,
+        "Id": 8100713,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100714,
+        "Id": 8100714,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100715,
+        "Id": 8100715,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100716,
+        "Id": 8100716,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100717,
+        "Id": 8100717,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100718,
+        "Id": 8100718,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100719,
+        "Id": 8100719,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100720,
+        "Id": 8100720,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100721,
+        "Id": 8100721,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100722,
+        "Id": 8100722,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100723,
+        "Id": 8100723,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100724,
+        "Id": 8100724,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100725,
+        "Id": 8100725,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100726,
+        "Id": 8100726,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100727,
+        "Id": 8100727,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100728,
+        "Id": 8100728,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100729,
+        "Id": 8100729,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100730,
+        "Id": 8100730,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100731,
+        "Id": 8100731,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100732,
+        "Id": 8100732,
+        "ItemId": 111083011,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100801,
+        "Id": 8100801,
+        "ItemId": 111083013,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100802,
+        "Id": 8100802,
+        "ItemId": 111083013,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100803,
+        "Id": 8100803,
+        "ItemId": 111083013,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100804,
+        "Id": 8100804,
+        "ItemId": 111083013,
+        "ItemType": 111
+    },
+    {
+        "AreaId": 8100805,
+        "Id": 8100805,
+        "ItemId": 111083013,
+        "ItemType": 111
+    }
+]

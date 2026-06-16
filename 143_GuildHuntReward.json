@@ -1,0 +1,128 @@
+[
+    {
+        "Id": 1,
+        "Rarity": 1,
+        "RewardItemId": 0,
+        "RewardQuantity": 5000,
+        "RewardType": 102
+    },
+    {
+        "Id": 2,
+        "Rarity": 2,
+        "RewardItemId": 0,
+        "RewardQuantity": 15000,
+        "RewardType": 102
+    },
+    {
+        "Id": 3,
+        "Rarity": 1,
+        "RewardItemId": 111020001,
+        "RewardQuantity": 5,
+        "RewardType": 111
+    },
+    {
+        "Id": 4,
+        "Rarity": 2,
+        "RewardItemId": 111020002,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 5,
+        "Rarity": 3,
+        "RewardItemId": 0,
+        "RewardQuantity": 50,
+        "RewardType": 104
+    },
+    {
+        "Id": 6,
+        "Rarity": 3,
+        "RewardItemId": 111100009,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 7,
+        "Rarity": 1,
+        "RewardItemId": 111090001,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 8,
+        "Rarity": 2,
+        "RewardItemId": 111090002,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 9,
+        "Rarity": 3,
+        "RewardItemId": 111090003,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 10,
+        "Rarity": 1,
+        "RewardItemId": 111100001,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 11,
+        "Rarity": 2,
+        "RewardItemId": 111100002,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 12,
+        "Rarity": 1,
+        "RewardItemId": 111100005,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 13,
+        "Rarity": 2,
+        "RewardItemId": 111100006,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 14,
+        "Rarity": 1,
+        "RewardItemId": 111030001,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 15,
+        "Rarity": 2,
+        "RewardItemId": 111030002,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 16,
+        "Rarity": 2,
+        "RewardItemId": 111060004,
+        "RewardQuantity": 1,
+        "RewardType": 111
+    },
+    {
+        "Id": 17,
+        "Rarity": 2,
+        "RewardItemId": 190000019,
+        "RewardQuantity": 3,
+        "RewardType": 190
+    },
+    {
+        "Id": 18,
+        "Rarity": 3,
+        "RewardItemId": 190000019,
+        "RewardQuantity": 15,
+        "RewardType": 190
+    }
+]

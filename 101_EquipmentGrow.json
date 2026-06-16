@@ -1,0 +1,202 @@
+[
+    {
+        "FromGrowLevel": 0,
+        "GrowGroupId": 1000,
+        "Id": 100,
+        "MaxGrowPercentage": 0.085796446,
+        "MinGrowPercentage": 0,
+        "ToGrowLevel": 10
+    },
+    {
+        "FromGrowLevel": 10,
+        "GrowGroupId": 1000,
+        "Id": 101,
+        "MaxGrowPercentage": 0.17819029,
+        "MinGrowPercentage": 0.085796446,
+        "ToGrowLevel": 20
+    },
+    {
+        "FromGrowLevel": 20,
+        "GrowGroupId": 1000,
+        "Id": 102,
+        "MaxGrowPercentage": 0.27410325,
+        "MinGrowPercentage": 0.17819029,
+        "ToGrowLevel": 30
+    },
+    {
+        "FromGrowLevel": 30,
+        "GrowGroupId": 1000,
+        "Id": 103,
+        "MaxGrowPercentage": 0.3726253,
+        "MinGrowPercentage": 0.27410325,
+        "ToGrowLevel": 40
+    },
+    {
+        "FromGrowLevel": 40,
+        "GrowGroupId": 1000,
+        "Id": 104,
+        "MaxGrowPercentage": 0.4732697,
+        "MinGrowPercentage": 0.3726253,
+        "ToGrowLevel": 50
+    },
+    {
+        "FromGrowLevel": 50,
+        "GrowGroupId": 1000,
+        "Id": 105,
+        "MaxGrowPercentage": 0.5757254,
+        "MinGrowPercentage": 0.4732697,
+        "ToGrowLevel": 60
+    },
+    {
+        "FromGrowLevel": 60,
+        "GrowGroupId": 1000,
+        "Id": 106,
+        "MaxGrowPercentage": 0.6797734,
+        "MinGrowPercentage": 0.5757254,
+        "ToGrowLevel": 70
+    },
+    {
+        "FromGrowLevel": 70,
+        "GrowGroupId": 1000,
+        "Id": 107,
+        "MaxGrowPercentage": 0.7852497,
+        "MinGrowPercentage": 0.6797734,
+        "ToGrowLevel": 80
+    },
+    {
+        "FromGrowLevel": 80,
+        "GrowGroupId": 1000,
+        "Id": 108,
+        "MaxGrowPercentage": 0.89202636,
+        "MinGrowPercentage": 0.7852497,
+        "ToGrowLevel": 90
+    },
+    {
+        "FromGrowLevel": 90,
+        "GrowGroupId": 1000,
+        "Id": 109,
+        "MaxGrowPercentage": 1,
+        "MinGrowPercentage": 0.89202636,
+        "ToGrowLevel": 100
+    },
+    {
+        "FromGrowLevel": 100,
+        "GrowGroupId": 1000,
+        "Id": 110,
+        "MaxGrowPercentage": 1.1085135,
+        "MinGrowPercentage": 1,
+        "ToGrowLevel": 110
+    },
+    {
+        "FromGrowLevel": 110,
+        "GrowGroupId": 1000,
+        "Id": 111,
+        "MaxGrowPercentage": 1.2175696,
+        "MinGrowPercentage": 1.1085135,
+        "ToGrowLevel": 120
+    },
+    {
+        "FromGrowLevel": 120,
+        "GrowGroupId": 1000,
+        "Id": 112,
+        "MaxGrowPercentage": 1.3271708,
+        "MinGrowPercentage": 1.2175696,
+        "ToGrowLevel": 130
+    },
+    {
+        "FromGrowLevel": 130,
+        "GrowGroupId": 1000,
+        "Id": 113,
+        "MaxGrowPercentage": 1.4373202,
+        "MinGrowPercentage": 1.3271708,
+        "ToGrowLevel": 140
+    },
+    {
+        "FromGrowLevel": 140,
+        "GrowGroupId": 1000,
+        "Id": 114,
+        "MaxGrowPercentage": 1.5480204,
+        "MinGrowPercentage": 1.4373202,
+        "ToGrowLevel": 150
+    },
+    {
+        "FromGrowLevel": 150,
+        "GrowGroupId": 1000,
+        "Id": 115,
+        "MaxGrowPercentage": 1.6592739,
+        "MinGrowPercentage": 1.5480204,
+        "ToGrowLevel": 160
+    },
+    {
+        "FromGrowLevel": 160,
+        "GrowGroupId": 1000,
+        "Id": 116,
+        "MaxGrowPercentage": 1.7710838,
+        "MinGrowPercentage": 1.6592739,
+        "ToGrowLevel": 170
+    },
+    {
+        "FromGrowLevel": 170,
+        "GrowGroupId": 1000,
+        "Id": 117,
+        "MaxGrowPercentage": 1.8834527,
+        "MinGrowPercentage": 1.7710838,
+        "ToGrowLevel": 180
+    },
+    {
+        "FromGrowLevel": 180,
+        "GrowGroupId": 1000,
+        "Id": 118,
+        "MaxGrowPercentage": 1.9963834,
+        "MinGrowPercentage": 1.8834527,
+        "ToGrowLevel": 190
+    },
+    {
+        "FromGrowLevel": 190,
+        "GrowGroupId": 1000,
+        "Id": 119,
+        "MaxGrowPercentage": 2.1098788,
+        "MinGrowPercentage": 1.9963834,
+        "ToGrowLevel": 200
+    },
+    {
+        "FromGrowLevel": 200,
+        "GrowGroupId": 1000,
+        "Id": 120,
+        "MaxGrowPercentage": 2.2239418,
+        "MinGrowPercentage": 2.1098788,
+        "ToGrowLevel": 210
+    },
+    {
+        "FromGrowLevel": 210,
+        "GrowGroupId": 1000,
+        "Id": 121,
+        "MaxGrowPercentage": 2.338575,
+        "MinGrowPercentage": 2.2239418,
+        "ToGrowLevel": 220
+    },
+    {
+        "FromGrowLevel": 220,
+        "GrowGroupId": 1000,
+        "Id": 122,
+        "MaxGrowPercentage": 2.4537814,
+        "MinGrowPercentage": 2.338575,
+        "ToGrowLevel": 230
+    },
+    {
+        "FromGrowLevel": 230,
+        "GrowGroupId": 1000,
+        "Id": 123,
+        "MaxGrowPercentage": 2.5695636,
+        "MinGrowPercentage": 2.4537814,
+        "ToGrowLevel": 240
+    },
+    {
+        "FromGrowLevel": 240,
+        "GrowGroupId": 1000,
+        "Id": 124,
+        "MaxGrowPercentage": 2.685925,
+        "MinGrowPercentage": 2.5695636,
+        "ToGrowLevel": 250
+    }
+]

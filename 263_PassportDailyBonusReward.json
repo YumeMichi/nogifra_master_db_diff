@@ -1,0 +1,142 @@
+[
+    {
+        "EffectGroupId": 1,
+        "Id": 1,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 160
+    },
+    {
+        "EffectGroupId": 1,
+        "Id": 2,
+        "ItemId": 0,
+        "ItemType": 102,
+        "Quantity": 100000
+    },
+    {
+        "EffectGroupId": 2,
+        "Id": 3,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 110
+    },
+    {
+        "EffectGroupId": 2,
+        "Id": 4,
+        "ItemId": 111081008,
+        "ItemType": 111,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 3,
+        "Id": 5,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 220
+    },
+    {
+        "EffectGroupId": 3,
+        "Id": 6,
+        "ItemId": 111010001,
+        "ItemType": 111,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 3,
+        "Id": 7,
+        "ItemId": 111010005,
+        "ItemType": 111,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 4,
+        "Id": 8,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 70
+    },
+    {
+        "EffectGroupId": 4,
+        "Id": 9,
+        "ItemId": 2,
+        "ItemType": 190,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 4,
+        "Id": 10,
+        "ItemId": 111010004,
+        "ItemType": 111,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 5,
+        "Id": 11,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 80
+    },
+    {
+        "EffectGroupId": 5,
+        "Id": 12,
+        "ItemId": 111010005,
+        "ItemType": 111,
+        "Quantity": 3
+    },
+    {
+        "EffectGroupId": 5,
+        "Id": 13,
+        "ItemId": 111100004,
+        "ItemType": 111,
+        "Quantity": 5
+    },
+    {
+        "EffectGroupId": 6,
+        "Id": 14,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 100
+    },
+    {
+        "EffectGroupId": 6,
+        "Id": 15,
+        "ItemId": 111010005,
+        "ItemType": 111,
+        "Quantity": 2
+    },
+    {
+        "EffectGroupId": 6,
+        "Id": 16,
+        "ItemId": 111100010,
+        "ItemType": 111,
+        "Quantity": 3
+    },
+    {
+        "EffectGroupId": 7,
+        "Id": 17,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 110
+    },
+    {
+        "EffectGroupId": 7,
+        "Id": 18,
+        "ItemId": 111081030,
+        "ItemType": 111,
+        "Quantity": 1
+    },
+    {
+        "EffectGroupId": 8,
+        "Id": 19,
+        "ItemId": 111031001,
+        "ItemType": 111,
+        "Quantity": 800
+    },
+    {
+        "EffectGroupId": 8,
+        "Id": 20,
+        "ItemId": 111031002,
+        "ItemType": 111,
+        "Quantity": 10
+    }
+]

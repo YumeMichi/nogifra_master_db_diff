@@ -1,0 +1,3575 @@
+[
+    {
+        "AddType": 1,
+        "Id": 10000102,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000102,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10000202,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000202,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10000302,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000302,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10000402,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000402,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10002102,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002102,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10002202,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002202,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10002302,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002302,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.14
+    },
+    {
+        "AddType": 1,
+        "Id": 10002402,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002402,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10004101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10004101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10004145,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 1,
+        "Id": 10004146,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10000201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 1,
+        "Id": 10004201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10004301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10004401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10004401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10005101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10005201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10005301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10005301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10005401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10005401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10006101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10006201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10006301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10006301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10006401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10006401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10007101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10007201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10007201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 1,
+        "Id": 10007301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10007401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10007401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10008101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10008101,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 3,
+        "Id": 10008201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10008301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10008401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10008401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10009101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009101,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10009201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10009301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10009301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10009401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10009401,
+        "ParameterType": 6,
+        "ParameterValueFrom": 300,
+        "ParameterValueTo": 950
+    },
+    {
+        "AddType": 3,
+        "Id": 10010101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010101,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 3,
+        "Id": 10010201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10010301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10010301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10010401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10010401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10011101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10011201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10011201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10011301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10011401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10011401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10012101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10012101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10012201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012201,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10012301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10012401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10012401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10013101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013101,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10013201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013201,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10013301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10013301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10013401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10013401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10014101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10014201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10014301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10014301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10014401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10014401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 3,
+        "Id": 10015101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015101,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10015201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10015201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10015301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015301,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10015401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10015401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10016101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10016101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10016201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016201,
+        "ParameterType": 6,
+        "ParameterValueFrom": 800,
+        "ParameterValueTo": 1900
+    },
+    {
+        "AddType": 3,
+        "Id": 10016301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10016401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10016401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10017101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10017201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10017301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10017301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10017401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10017401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10018101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018101,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10018201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10018301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10018301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10018401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10018401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10019101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019101,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10019201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10019201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10019301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10019401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10019401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10020101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10020101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10020201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10020301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10020401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10020401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10021101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021101,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10021201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10021301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10021301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10021401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10021401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10022101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10022201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10022301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10022301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10022401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10022401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10023101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10023201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10023201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 1,
+        "Id": 10023301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10023401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10023401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10024101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10024101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10024201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024201,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10024301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024301,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10024401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10024401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10025101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025101,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10025201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10025301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10025301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10025401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10025401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10026101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026101,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10026201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10026201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10026301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10026401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10026401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10027101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10027101,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 3,
+        "Id": 10027201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027201,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10027301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10027401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10027401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10028101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10028201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10028301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10028301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10028401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10028401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10029101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10029201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029201,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10029301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10029301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.02,
+        "ParameterValueTo": 0.06
+    },
+    {
+        "AddType": 1,
+        "Id": 10029401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10029401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10030101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10030201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10030201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10030301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10030401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10030401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10031201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10031201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10032101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10032101,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 2,
+        "Id": 10032201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032201,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10032301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10032401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10032401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10033101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033101,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10033201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10033301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10033301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10033401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10033401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10034101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10034201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10034301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10034301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10034401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10034401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10035101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10035201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10035201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10035301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10035401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10035401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10036101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036101,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10036201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036201,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10036301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036301,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10036401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10036401,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10037101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10037201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10037301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10037401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10037401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10038101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10038101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10038201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038201,
+        "ParameterType": 12,
+        "ParameterValueFrom": 0.12,
+        "ParameterValueTo": 0.38
+    },
+    {
+        "AddType": 3,
+        "Id": 10038301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10038401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10038401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10039401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10039401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10040101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040101,
+        "ParameterType": 17,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10040201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10040301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10040301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10040401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10040401,
+        "ParameterType": 12,
+        "ParameterValueFrom": 0.05,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "Id": 10041101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10041201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041201,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10041301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10041301,
+        "ParameterType": 11,
+        "ParameterValueFrom": 0.05,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 3,
+        "Id": 10041401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10041401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10042101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10042201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10042301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10042401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10042401,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 2,
+        "Id": 10043101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043101,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10043201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10043201,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 1,
+        "Id": 10043301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043301,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10043401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10043401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10044101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10044101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10044201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10044301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044301,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10044401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10044401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 3,
+        "Id": 10045101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045101,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10045201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10045301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10045301,
+        "ParameterType": 17,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10045401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10045401,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10046101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046101,
+        "ParameterType": 19,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10046201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10046301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10046302,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046302,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10046401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10046401,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10047101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047101,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10047201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10047301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10047301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10047401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10047401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 2,
+        "Id": 10048101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048101,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10048102,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048102,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10048201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048201,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10048301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10048401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10048401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10049101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049101,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10049201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10049201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10049301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10049401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10049401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10050101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10050101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10050201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10050301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050301,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10050401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10050401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10051101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10051201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051201,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 2,
+        "Id": 10051301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10051301,
+        "ParameterType": 17,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10051401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10051401,
+        "ParameterType": 12,
+        "ParameterValueFrom": 0.05,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 3,
+        "Id": 10052101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052101,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10052201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10052301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10052401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10052401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10053101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053101,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10053201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10053301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10053301,
+        "ParameterType": 11,
+        "ParameterValueFrom": 0.05,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "Id": 10053401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10053401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10054101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10054201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10054201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 3,
+        "Id": 10054301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10054401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10054401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10055101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10055101,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10055201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055201,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10055301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10055401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10055401,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10056101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10056201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056201,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10056301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10056301,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10056401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10056401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10057101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10057201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10057301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10057301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10057401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10057401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10058101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058101,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10058201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10058301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058301,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10058401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10058401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10059101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10059101,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10059201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059201,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 3,
+        "Id": 10059301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059301,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10059401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10059401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10060101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10060201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060201,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10060301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10060401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10060401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10061101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061101,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10061201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10061301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10061301,
+        "ParameterType": 11,
+        "ParameterValueFrom": 0.05,
+        "ParameterValueTo": 0.15
+    },
+    {
+        "AddType": 1,
+        "Id": 10061401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10061401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10063101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10063101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10063201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063201,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10063301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10063401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10063401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10064101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10064201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064201,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 3,
+        "Id": 10064301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10064401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10064401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10065101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065101,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10065201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10065201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 1,
+        "Id": 10065301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10065401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10065401,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10066101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10066201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066201,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "Id": 10066301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10066301,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10066401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10066401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10067101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10067101,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 1,
+        "Id": 10067201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067201,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10067301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10067401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10067401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10068101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068101,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10068201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10068201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10068301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068301,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10068401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10068401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10069101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10069201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10069301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10069401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10069401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10070101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070101,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10070201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070201,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10070301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10070301,
+        "ParameterType": 17,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10070401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10070401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10071101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10071101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10071201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071201,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10071301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10071401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10071401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10072101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072101,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10072201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10072201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10072301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 2,
+        "Id": 10072401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10072401,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10073101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10073201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073201,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 3,
+        "Id": 10073301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10073301,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 2,
+        "Id": 10073401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10073401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10074101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10074201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10074301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10074301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 3,
+        "Id": 10074401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10074401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.06,
+        "ParameterValueTo": 0.2
+    },
+    {
+        "AddType": 3,
+        "Id": 10075101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10075101,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 2,
+        "Id": 10075201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075201,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10075301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 2,
+        "Id": 10075401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10075401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "Id": 10076101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076101,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10076201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10076201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10076301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10076401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10076401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10077101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10077201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077201,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "Id": 10077301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10077301,
+        "ParameterType": 3,
+        "ParameterValueFrom": 4,
+        "ParameterValueTo": 12
+    },
+    {
+        "AddType": 2,
+        "Id": 10077401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10077401,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10078101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078101,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10078201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10078301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10078301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10078401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10078401,
+        "ParameterType": 2,
+        "ParameterValueFrom": 4,
+        "ParameterValueTo": 12
+    },
+    {
+        "AddType": 1,
+        "Id": 10079101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10079201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079201,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 2,
+        "Id": 10079301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079301,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10079401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10079401,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10080101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080101,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 3,
+        "Id": 10080201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10080201,
+        "ParameterType": 22,
+        "ParameterValueFrom": 0.01,
+        "ParameterValueTo": 0.03
+    },
+    {
+        "AddType": 1,
+        "Id": 10080301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10080401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10080401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10081101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10081201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081201,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10081301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10081301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10081401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10081401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10082101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10082201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10082301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10082401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10082401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10083101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083101,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10083201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10083301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10083301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10083401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10083401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10084101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10084101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10084201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084201,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 2,
+        "Id": 10084301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084301,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10084401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10084401,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10085101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10085201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10085201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10085301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085301,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 3,
+        "Id": 10085401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10085401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 2,
+        "Id": 10086101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086101,
+        "ParameterType": 4,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 2,
+        "Id": 10086201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086201,
+        "ParameterType": 2,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10086301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10086301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10086401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10086401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10087101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087101,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10087201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10087301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10087301,
+        "ParameterType": 21,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.13
+    },
+    {
+        "AddType": 1,
+        "Id": 10087401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10087401,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10088101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10088201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088201,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10088301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10088401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10088401,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10089101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10089201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10089201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10089301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10089401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10089401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 2,
+        "Id": 10090101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090101,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10090201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090201,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10090301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10090301,
+        "ParameterType": 2,
+        "ParameterValueFrom": 4,
+        "ParameterValueTo": 12
+    },
+    {
+        "AddType": 1,
+        "Id": 10090401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10090401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10091101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091101,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10091201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10091301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10091301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10091401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10091401,
+        "ParameterType": 6,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10092101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10092201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092201,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10092301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092301,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10092401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10092401,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10093101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093101,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10093201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10093201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10093301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "Id": 10093401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10093401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10094101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10094201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094201,
+        "ParameterType": 3,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10094301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10094301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10094401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10094401,
+        "ParameterType": 1,
+        "ParameterValueFrom": 10,
+        "ParameterValueTo": 30
+    },
+    {
+        "AddType": 1,
+        "Id": 10095101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10095201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095201,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10095301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10095301,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10095401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10095401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10096101,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10096101,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10096201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096201,
+        "ParameterType": 17,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10096301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 3,
+        "Id": 10096401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10096401,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 3,
+        "Id": 10097101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097101,
+        "ParameterType": 13,
+        "ParameterValueFrom": 30,
+        "ParameterValueTo": 100
+    },
+    {
+        "AddType": 1,
+        "Id": 10097201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10097201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 2,
+        "Id": 10097301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097301,
+        "ParameterType": 18,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 2,
+        "Id": 10097401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10097401,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 1,
+        "Id": 10098101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098101,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10098201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10098301,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10098301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10098401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10098401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 2,
+        "Id": 10099101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099101,
+        "ParameterType": 16,
+        "ParameterValueFrom": 15,
+        "ParameterValueTo": 50
+    },
+    {
+        "AddType": 3,
+        "Id": 10099201,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099201,
+        "ParameterType": 20,
+        "ParameterValueFrom": 0.015,
+        "ParameterValueTo": 0.05
+    },
+    {
+        "AddType": 1,
+        "Id": 10099301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10099301,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10099401,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10099401,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10102101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 3,
+        "Id": 10103301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10103401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10001401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10202101,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10203201,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002201,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10203301,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.04,
+        "ParameterValueTo": 0.14
+    },
+    {
+        "AddType": 1,
+        "Id": 10203401,
+        "MemoriaGrowthGroupId": 201,
+        "MemoriaId": 10002401,
+        "ParameterType": 10,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 1,
+        "Id": 10302101,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003101,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    },
+    {
+        "AddType": 1,
+        "Id": 10303201,
+        "MemoriaGrowthGroupId": 301,
+        "MemoriaId": 10003201,
+        "ParameterType": 7,
+        "ParameterValueFrom": 0.03,
+        "ParameterValueTo": 0.1
+    },
+    {
+        "AddType": 3,
+        "Id": 10303301,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003301,
+        "ParameterType": 23,
+        "ParameterValueFrom": 0.1,
+        "ParameterValueTo": 0.3
+    },
+    {
+        "AddType": 1,
+        "Id": 10303401,
+        "MemoriaGrowthGroupId": 401,
+        "MemoriaId": 10003401,
+        "ParameterType": 5,
+        "ParameterValueFrom": 0.08,
+        "ParameterValueTo": 0.25
+    }
+]

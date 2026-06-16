@@ -1,0 +1,42 @@
+[
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 100,
+        "Id": 101,
+        "LevelFrom": 1,
+        "LevelTo": 25
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 100,
+        "Id": 201,
+        "LevelFrom": 1,
+        "LevelTo": 30
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 100,
+        "Id": 301,
+        "LevelFrom": 1,
+        "LevelTo": 35
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 100,
+        "Id": 401,
+        "LevelFrom": 1,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 501,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 100,
+        "Id": 501,
+        "LevelFrom": 1,
+        "LevelTo": 50
+    }
+]

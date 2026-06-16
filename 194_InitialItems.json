@@ -1,0 +1,212 @@
+[
+    {
+        "Id": 1,
+        "ItemId": 1,
+        "ItemType": 170,
+        "Quantity": 1,
+        "SetNumber": 1
+    },
+    {
+        "Id": 2,
+        "ItemId": 1,
+        "ItemType": 180,
+        "Quantity": 1,
+        "SetNumber": 1
+    },
+    {
+        "Id": 3,
+        "ItemId": 1000001,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 1
+    },
+    {
+        "Id": 4,
+        "ItemId": 1000002,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 2
+    },
+    {
+        "Id": 5,
+        "ItemId": 1000003,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 3
+    },
+    {
+        "Id": 6,
+        "ItemId": 1000004,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 4
+    },
+    {
+        "Id": 7,
+        "ItemId": 1000005,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 5
+    },
+    {
+        "Id": 8,
+        "ItemId": 1000006,
+        "ItemType": 240,
+        "Quantity": 1,
+        "SetNumber": 6
+    },
+    {
+        "Id": 21,
+        "ItemId": 0,
+        "ItemType": 102,
+        "Quantity": 100000,
+        "SetNumber": 0
+    },
+    {
+        "Id": 22,
+        "ItemId": 111100001,
+        "ItemType": 111,
+        "Quantity": 5,
+        "SetNumber": 0
+    },
+    {
+        "Id": 27,
+        "ItemId": 128101011,
+        "ItemType": 150,
+        "Quantity": 60,
+        "SetNumber": 1
+    },
+    {
+        "Id": 28,
+        "ItemId": 111090002,
+        "ItemType": 111,
+        "Quantity": 5,
+        "SetNumber": 0
+    },
+    {
+        "Id": 29,
+        "ItemId": 10002,
+        "ItemType": 190,
+        "Quantity": 50,
+        "SetNumber": 0
+    },
+    {
+        "Id": 30,
+        "ItemId": 111100006,
+        "ItemType": 111,
+        "Quantity": 10,
+        "SetNumber": 0
+    },
+    {
+        "Id": 31,
+        "ItemId": 111140101,
+        "ItemType": 111,
+        "Quantity": 5,
+        "SetNumber": 0
+    },
+    {
+        "Id": 32,
+        "ItemId": 111100005,
+        "ItemType": 111,
+        "Quantity": 30,
+        "SetNumber": 0
+    },
+    {
+        "Id": 33,
+        "ItemId": 111141101,
+        "ItemType": 111,
+        "Quantity": 5,
+        "SetNumber": 0
+    },
+    {
+        "Id": 34,
+        "ItemId": 0,
+        "ItemType": 140,
+        "Quantity": 5000,
+        "SetNumber": 0
+    },
+    {
+        "Id": 35,
+        "ItemId": 111100003,
+        "ItemType": 111,
+        "Quantity": 5,
+        "SetNumber": 0
+    },
+    {
+        "Id": 36,
+        "ItemId": 111090001,
+        "ItemType": 111,
+        "Quantity": 30,
+        "SetNumber": 0
+    },
+    {
+        "Id": 37,
+        "ItemId": 111100001,
+        "ItemType": 111,
+        "Quantity": 10,
+        "SetNumber": 0
+    },
+    {
+        "Id": 38,
+        "ItemId": 111100002,
+        "ItemType": 111,
+        "Quantity": 10,
+        "SetNumber": 0
+    },
+    {
+        "Id": 39,
+        "ItemId": 111081001,
+        "ItemType": 111,
+        "Quantity": 20,
+        "SetNumber": 0
+    },
+    {
+        "Id": 40,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 5000,
+        "SetNumber": 0
+    },
+    {
+        "Id": 41,
+        "ItemId": 111081005,
+        "ItemType": 111,
+        "Quantity": 10,
+        "SetNumber": 0
+    },
+    {
+        "Id": 42,
+        "ItemId": 111081006,
+        "ItemType": 111,
+        "Quantity": 10,
+        "SetNumber": 0
+    },
+    {
+        "Id": 44,
+        "ItemId": 10082101,
+        "ItemType": 113,
+        "Quantity": 40,
+        "SetNumber": 0
+    },
+    {
+        "Id": 45,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 5000,
+        "SetNumber": 0
+    },
+    {
+        "Id": 46,
+        "ItemId": 0,
+        "ItemType": 104,
+        "Quantity": 8200,
+        "SetNumber": 0
+    },
+    {
+        "Id": 47,
+        "ItemId": 148301011,
+        "ItemType": 150,
+        "Quantity": 60,
+        "SetNumber": 2
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "Id": 1,
+        "IntervalNumber": 5,
+        "ItemId": 800001,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "TargetEndLessonStageOrder": 0,
+        "TargetStartLessonStageOrder": 301
+    },
+    {
+        "Id": 2,
+        "IntervalNumber": 10,
+        "ItemId": 0,
+        "ItemQuantity": 200,
+        "ItemType": 104,
+        "TargetEndLessonStageOrder": 0,
+        "TargetStartLessonStageOrder": 301
+    },
+    {
+        "Id": 3,
+        "IntervalNumber": 50,
+        "ItemId": 0,
+        "ItemQuantity": 500,
+        "ItemType": 104,
+        "TargetEndLessonStageOrder": 0,
+        "TargetStartLessonStageOrder": 301
+    }
+]

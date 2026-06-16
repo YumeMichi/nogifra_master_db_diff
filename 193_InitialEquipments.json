@@ -1,0 +1,74 @@
+[
+    {
+        "EquipmentId": 310110000,
+        "GradeType": 1,
+        "Id": 1,
+        "UnitType": 1
+    },
+    {
+        "EquipmentId": 310110000,
+        "GradeType": 1,
+        "Id": 2,
+        "UnitType": 1
+    },
+    {
+        "EquipmentId": 310110000,
+        "GradeType": 1,
+        "Id": 3,
+        "UnitType": 1
+    },
+    {
+        "EquipmentId": 310210000,
+        "GradeType": 1,
+        "Id": 4,
+        "UnitType": 2
+    },
+    {
+        "EquipmentId": 310210000,
+        "GradeType": 1,
+        "Id": 5,
+        "UnitType": 2
+    },
+    {
+        "EquipmentId": 310210000,
+        "GradeType": 1,
+        "Id": 6,
+        "UnitType": 2
+    },
+    {
+        "EquipmentId": 310310000,
+        "GradeType": 1,
+        "Id": 7,
+        "UnitType": 3
+    },
+    {
+        "EquipmentId": 310310000,
+        "GradeType": 1,
+        "Id": 8,
+        "UnitType": 3
+    },
+    {
+        "EquipmentId": 310310000,
+        "GradeType": 1,
+        "Id": 9,
+        "UnitType": 3
+    },
+    {
+        "EquipmentId": 310110000,
+        "GradeType": 3,
+        "Id": 10,
+        "UnitType": 1
+    },
+    {
+        "EquipmentId": 310210000,
+        "GradeType": 3,
+        "Id": 11,
+        "UnitType": 2
+    },
+    {
+        "EquipmentId": 310310000,
+        "GradeType": 3,
+        "Id": 12,
+        "UnitType": 3
+    }
+]

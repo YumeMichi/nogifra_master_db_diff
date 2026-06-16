@@ -1,0 +1,317 @@
+[
+    {
+        "Id": 101,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 102,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 103,
+        "ItemId": 111030001,
+        "ItemQuantity": 150,
+        "ItemType": 111,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 104,
+        "ItemId": 111100005,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 1
+    },
+    {
+        "Id": 201,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 2
+    },
+    {
+        "Id": 202,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 2
+    },
+    {
+        "Id": 203,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 2
+    },
+    {
+        "Id": 301,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 302,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 303,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 304,
+        "ItemId": 111030002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 305,
+        "ItemId": 111100006,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 306,
+        "ItemId": 10002,
+        "ItemQuantity": 3,
+        "ItemType": 190,
+        "RewardGroupId": 3
+    },
+    {
+        "Id": 401,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 402,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 403,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 404,
+        "ItemId": 111030002,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 405,
+        "ItemId": 111100006,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 4
+    },
+    {
+        "Id": 501,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 502,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 503,
+        "ItemId": 111030001,
+        "ItemQuantity": 60,
+        "ItemType": 111,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 504,
+        "ItemId": 111030002,
+        "ItemQuantity": 6,
+        "ItemType": 111,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 505,
+        "ItemId": 111100006,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 506,
+        "ItemId": 10002,
+        "ItemQuantity": 3,
+        "ItemType": 190,
+        "RewardGroupId": 5
+    },
+    {
+        "Id": 601,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 602,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 603,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 605,
+        "ItemId": 111100006,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 6
+    },
+    {
+        "Id": 701,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 702,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 703,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 705,
+        "ItemId": 111100006,
+        "ItemQuantity": 9,
+        "ItemType": 111,
+        "RewardGroupId": 7
+    },
+    {
+        "Id": 801,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 802,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 803,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 805,
+        "ItemId": 111100006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RewardGroupId": 8
+    },
+    {
+        "Id": 901,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 902,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 903,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 904,
+        "ItemId": 111030002,
+        "ItemQuantity": 3,
+        "ItemType": 111,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 905,
+        "ItemId": 111100006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RewardGroupId": 9
+    },
+    {
+        "Id": 1001,
+        "ItemId": 0,
+        "ItemQuantity": 30000,
+        "ItemType": 102,
+        "RewardGroupId": 10
+    },
+    {
+        "Id": 1002,
+        "ItemId": 0,
+        "ItemQuantity": 15,
+        "ItemType": 104,
+        "RewardGroupId": 10
+    },
+    {
+        "Id": 1003,
+        "ItemId": 111030001,
+        "ItemQuantity": 30,
+        "ItemType": 111,
+        "RewardGroupId": 10
+    },
+    {
+        "Id": 1005,
+        "ItemId": 111100006,
+        "ItemQuantity": 15,
+        "ItemType": 111,
+        "RewardGroupId": 10
+    }
+]

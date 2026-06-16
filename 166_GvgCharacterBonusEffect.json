@@ -1,0 +1,16 @@
+[
+    {
+        "AddType": 1,
+        "CharacterBonusGroupId": 1,
+        "Id": 1,
+        "ParameterType": 5,
+        "Value": 0.2
+    },
+    {
+        "AddType": 1,
+        "CharacterBonusGroupId": 1,
+        "Id": 2,
+        "ParameterType": 7,
+        "Value": 0.5
+    }
+]

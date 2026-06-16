@@ -1,0 +1,3087 @@
+[
+    {
+        "Id": 10001022,
+        "RankId": 1000102,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001032,
+        "RankId": 1000103,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001042,
+        "RankId": 1000104,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001051,
+        "RankId": 1000105,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001052,
+        "RankId": 1000105,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001062,
+        "RankId": 1000106,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001072,
+        "RankId": 1000107,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001081,
+        "RankId": 1000108,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001082,
+        "RankId": 1000108,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001092,
+        "RankId": 1000109,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001101,
+        "RankId": 1000110,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001102,
+        "RankId": 1000110,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001111,
+        "RankId": 1000111,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001112,
+        "RankId": 1000111,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001121,
+        "RankId": 1000112,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001122,
+        "RankId": 1000112,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001131,
+        "RankId": 1000113,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001132,
+        "RankId": 1000113,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001141,
+        "RankId": 1000114,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001142,
+        "RankId": 1000114,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001151,
+        "RankId": 1000115,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001152,
+        "RankId": 1000115,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001161,
+        "RankId": 1000116,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001162,
+        "RankId": 1000116,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001171,
+        "RankId": 1000117,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001172,
+        "RankId": 1000117,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001181,
+        "RankId": 1000118,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001182,
+        "RankId": 1000118,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001191,
+        "RankId": 1000119,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001192,
+        "RankId": 1000119,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10001201,
+        "RankId": 1000120,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10001202,
+        "RankId": 1000120,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10002021,
+        "RankId": 1000202,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002031,
+        "RankId": 1000203,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002041,
+        "RankId": 1000204,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002051,
+        "RankId": 1000205,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002061,
+        "RankId": 1000206,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002071,
+        "RankId": 1000207,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002081,
+        "RankId": 1000208,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002091,
+        "RankId": 1000209,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002101,
+        "RankId": 1000210,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002111,
+        "RankId": 1000211,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002121,
+        "RankId": 1000212,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002131,
+        "RankId": 1000213,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002132,
+        "RankId": 1000213,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10002141,
+        "RankId": 1000214,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002151,
+        "RankId": 1000215,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002161,
+        "RankId": 1000216,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002171,
+        "RankId": 1000217,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002181,
+        "RankId": 1000218,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002191,
+        "RankId": 1000219,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002201,
+        "RankId": 1000220,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10002202,
+        "RankId": 1000220,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10003021,
+        "RankId": 1000302,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003031,
+        "RankId": 1000303,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003041,
+        "RankId": 1000304,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003051,
+        "RankId": 1000305,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003061,
+        "RankId": 1000306,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003071,
+        "RankId": 1000307,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003081,
+        "RankId": 1000308,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003091,
+        "RankId": 1000309,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003101,
+        "RankId": 1000310,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003111,
+        "RankId": 1000311,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003121,
+        "RankId": 1000312,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003131,
+        "RankId": 1000313,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003132,
+        "RankId": 1000313,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10003141,
+        "RankId": 1000314,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003151,
+        "RankId": 1000315,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003161,
+        "RankId": 1000316,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003171,
+        "RankId": 1000317,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003181,
+        "RankId": 1000318,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003191,
+        "RankId": 1000319,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003201,
+        "RankId": 1000320,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003202,
+        "RankId": 1000320,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10003211,
+        "RankId": 1000321,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003221,
+        "RankId": 1000322,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10003222,
+        "RankId": 1000322,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10004021,
+        "RankId": 1000402,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004031,
+        "RankId": 1000403,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004041,
+        "RankId": 1000404,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004051,
+        "RankId": 1000405,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004061,
+        "RankId": 1000406,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004071,
+        "RankId": 1000407,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004081,
+        "RankId": 1000408,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004091,
+        "RankId": 1000409,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004101,
+        "RankId": 1000410,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004111,
+        "RankId": 1000411,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004121,
+        "RankId": 1000412,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004131,
+        "RankId": 1000413,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004132,
+        "RankId": 1000413,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10004141,
+        "RankId": 1000414,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004151,
+        "RankId": 1000415,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004161,
+        "RankId": 1000416,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004171,
+        "RankId": 1000417,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004181,
+        "RankId": 1000418,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004191,
+        "RankId": 1000419,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004201,
+        "RankId": 1000420,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004202,
+        "RankId": 1000420,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10004211,
+        "RankId": 1000421,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004221,
+        "RankId": 1000422,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10004222,
+        "RankId": 1000422,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10005021,
+        "RankId": 1000502,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005031,
+        "RankId": 1000503,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005041,
+        "RankId": 1000504,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005042,
+        "RankId": 1000504,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10005051,
+        "RankId": 1000505,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005061,
+        "RankId": 1000506,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005071,
+        "RankId": 1000507,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005081,
+        "RankId": 1000508,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005091,
+        "RankId": 1000509,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005101,
+        "RankId": 1000510,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005111,
+        "RankId": 1000511,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005121,
+        "RankId": 1000512,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005131,
+        "RankId": 1000513,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005132,
+        "RankId": 1000513,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10005141,
+        "RankId": 1000514,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005151,
+        "RankId": 1000515,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005161,
+        "RankId": 1000516,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005171,
+        "RankId": 1000517,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005181,
+        "RankId": 1000518,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005191,
+        "RankId": 1000519,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005201,
+        "RankId": 1000520,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10005202,
+        "RankId": 1000520,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10006021,
+        "RankId": 1000602,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006031,
+        "RankId": 1000603,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006041,
+        "RankId": 1000604,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006042,
+        "RankId": 1000604,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10006051,
+        "RankId": 1000605,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006061,
+        "RankId": 1000606,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006071,
+        "RankId": 1000607,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006081,
+        "RankId": 1000608,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006091,
+        "RankId": 1000609,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006101,
+        "RankId": 1000610,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006111,
+        "RankId": 1000611,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006121,
+        "RankId": 1000612,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006131,
+        "RankId": 1000613,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006132,
+        "RankId": 1000613,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10006141,
+        "RankId": 1000614,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006151,
+        "RankId": 1000615,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006161,
+        "RankId": 1000616,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006171,
+        "RankId": 1000617,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006181,
+        "RankId": 1000618,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006191,
+        "RankId": 1000619,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006201,
+        "RankId": 1000620,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10006202,
+        "RankId": 1000620,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007021,
+        "RankId": 1000702,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007031,
+        "RankId": 1000703,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007041,
+        "RankId": 1000704,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007042,
+        "RankId": 1000704,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007051,
+        "RankId": 1000705,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007061,
+        "RankId": 1000706,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007071,
+        "RankId": 1000707,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007081,
+        "RankId": 1000708,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007091,
+        "RankId": 1000709,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007101,
+        "RankId": 1000710,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007111,
+        "RankId": 1000711,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007121,
+        "RankId": 1000712,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007131,
+        "RankId": 1000713,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007132,
+        "RankId": 1000713,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007141,
+        "RankId": 1000714,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007151,
+        "RankId": 1000715,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007161,
+        "RankId": 1000716,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007171,
+        "RankId": 1000717,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007181,
+        "RankId": 1000718,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007191,
+        "RankId": 1000719,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007201,
+        "RankId": 1000720,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007202,
+        "RankId": 1000720,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007211,
+        "RankId": 1000721,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007212,
+        "RankId": 1000721,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007221,
+        "RankId": 1000722,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007222,
+        "RankId": 1000722,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007231,
+        "RankId": 1000723,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007232,
+        "RankId": 1000723,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007241,
+        "RankId": 1000724,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007242,
+        "RankId": 1000724,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007251,
+        "RankId": 1000725,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007252,
+        "RankId": 1000725,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007261,
+        "RankId": 1000726,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007262,
+        "RankId": 1000726,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007271,
+        "RankId": 1000727,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007272,
+        "RankId": 1000727,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007281,
+        "RankId": 1000728,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007282,
+        "RankId": 1000728,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007291,
+        "RankId": 1000729,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007292,
+        "RankId": 1000729,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10007301,
+        "RankId": 1000730,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10007302,
+        "RankId": 1000730,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008021,
+        "RankId": 1000802,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008032,
+        "RankId": 1000803,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008041,
+        "RankId": 1000804,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008042,
+        "RankId": 1000804,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008051,
+        "RankId": 1000805,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008062,
+        "RankId": 1000806,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008072,
+        "RankId": 1000807,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008081,
+        "RankId": 1000808,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008091,
+        "RankId": 1000809,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008101,
+        "RankId": 1000810,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008102,
+        "RankId": 1000810,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008111,
+        "RankId": 1000811,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008112,
+        "RankId": 1000811,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008121,
+        "RankId": 1000812,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008131,
+        "RankId": 1000813,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008132,
+        "RankId": 1000813,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008141,
+        "RankId": 1000814,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008142,
+        "RankId": 1000814,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008151,
+        "RankId": 1000815,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008152,
+        "RankId": 1000815,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008161,
+        "RankId": 1000816,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008171,
+        "RankId": 1000817,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008181,
+        "RankId": 1000818,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008182,
+        "RankId": 1000818,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008191,
+        "RankId": 1000819,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008192,
+        "RankId": 1000819,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10008201,
+        "RankId": 1000820,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10008202,
+        "RankId": 1000820,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10009021,
+        "RankId": 1000902,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009031,
+        "RankId": 1000903,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009041,
+        "RankId": 1000904,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009042,
+        "RankId": 1000904,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10009051,
+        "RankId": 1000905,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009061,
+        "RankId": 1000906,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009071,
+        "RankId": 1000907,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009081,
+        "RankId": 1000908,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009091,
+        "RankId": 1000909,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009101,
+        "RankId": 1000910,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009111,
+        "RankId": 1000911,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009121,
+        "RankId": 1000912,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009131,
+        "RankId": 1000913,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009132,
+        "RankId": 1000913,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10009141,
+        "RankId": 1000914,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009151,
+        "RankId": 1000915,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009161,
+        "RankId": 1000916,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009171,
+        "RankId": 1000917,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009181,
+        "RankId": 1000918,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009191,
+        "RankId": 1000919,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009201,
+        "RankId": 1000920,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10009202,
+        "RankId": 1000920,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010021,
+        "RankId": 1001002,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010032,
+        "RankId": 1001003,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010041,
+        "RankId": 1001004,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010042,
+        "RankId": 1001004,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010051,
+        "RankId": 1001005,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010062,
+        "RankId": 1001006,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010072,
+        "RankId": 1001007,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010081,
+        "RankId": 1001008,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010091,
+        "RankId": 1001009,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010101,
+        "RankId": 1001010,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010102,
+        "RankId": 1001010,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010111,
+        "RankId": 1001011,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010112,
+        "RankId": 1001011,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010121,
+        "RankId": 1001012,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010131,
+        "RankId": 1001013,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010132,
+        "RankId": 1001013,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010141,
+        "RankId": 1001014,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010142,
+        "RankId": 1001014,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010151,
+        "RankId": 1001015,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010152,
+        "RankId": 1001015,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010161,
+        "RankId": 1001016,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010171,
+        "RankId": 1001017,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010181,
+        "RankId": 1001018,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010182,
+        "RankId": 1001018,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010191,
+        "RankId": 1001019,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010192,
+        "RankId": 1001019,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10010201,
+        "RankId": 1001020,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10010202,
+        "RankId": 1001020,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10011021,
+        "RankId": 1001102,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011031,
+        "RankId": 1001103,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011041,
+        "RankId": 1001104,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011042,
+        "RankId": 1001104,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10011051,
+        "RankId": 1001105,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011061,
+        "RankId": 1001106,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011071,
+        "RankId": 1001107,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011081,
+        "RankId": 1001108,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011091,
+        "RankId": 1001109,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011101,
+        "RankId": 1001110,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011111,
+        "RankId": 1001111,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011121,
+        "RankId": 1001112,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011131,
+        "RankId": 1001113,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011132,
+        "RankId": 1001113,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10011141,
+        "RankId": 1001114,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011151,
+        "RankId": 1001115,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011161,
+        "RankId": 1001116,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011171,
+        "RankId": 1001117,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011181,
+        "RankId": 1001118,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011191,
+        "RankId": 1001119,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011201,
+        "RankId": 1001120,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10011202,
+        "RankId": 1001120,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10012021,
+        "RankId": 1001202,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012031,
+        "RankId": 1001203,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012041,
+        "RankId": 1001204,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012042,
+        "RankId": 1001204,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10012051,
+        "RankId": 1001205,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012061,
+        "RankId": 1001206,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012071,
+        "RankId": 1001207,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012081,
+        "RankId": 1001208,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012091,
+        "RankId": 1001209,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012101,
+        "RankId": 1001210,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012111,
+        "RankId": 1001211,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012121,
+        "RankId": 1001212,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012131,
+        "RankId": 1001213,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012132,
+        "RankId": 1001213,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10012141,
+        "RankId": 1001214,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012151,
+        "RankId": 1001215,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012161,
+        "RankId": 1001216,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012171,
+        "RankId": 1001217,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012181,
+        "RankId": 1001218,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012191,
+        "RankId": 1001219,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012201,
+        "RankId": 1001220,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10012202,
+        "RankId": 1001220,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10013021,
+        "RankId": 1001302,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013031,
+        "RankId": 1001303,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013041,
+        "RankId": 1001304,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013051,
+        "RankId": 1001305,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013061,
+        "RankId": 1001306,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013071,
+        "RankId": 1001307,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013081,
+        "RankId": 1001308,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013091,
+        "RankId": 1001309,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013101,
+        "RankId": 1001310,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013111,
+        "RankId": 1001311,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013121,
+        "RankId": 1001312,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013131,
+        "RankId": 1001313,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013141,
+        "RankId": 1001314,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013151,
+        "RankId": 1001315,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013161,
+        "RankId": 1001316,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013171,
+        "RankId": 1001317,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013181,
+        "RankId": 1001318,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013191,
+        "RankId": 1001319,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013201,
+        "RankId": 1001320,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013211,
+        "RankId": 1001321,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013221,
+        "RankId": 1001322,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013231,
+        "RankId": 1001323,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013241,
+        "RankId": 1001324,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013251,
+        "RankId": 1001325,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013261,
+        "RankId": 1001326,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013271,
+        "RankId": 1001327,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013281,
+        "RankId": 1001328,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013291,
+        "RankId": 1001329,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013301,
+        "RankId": 1001330,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013311,
+        "RankId": 1001331,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013321,
+        "RankId": 1001332,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013331,
+        "RankId": 1001333,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013341,
+        "RankId": 1001334,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013351,
+        "RankId": 1001335,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013361,
+        "RankId": 1001336,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013371,
+        "RankId": 1001337,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013381,
+        "RankId": 1001338,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013391,
+        "RankId": 1001339,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013401,
+        "RankId": 1001340,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013411,
+        "RankId": 1001341,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013421,
+        "RankId": 1001342,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013431,
+        "RankId": 1001343,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013441,
+        "RankId": 1001344,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013451,
+        "RankId": 1001345,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013461,
+        "RankId": 1001346,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013471,
+        "RankId": 1001347,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013481,
+        "RankId": 1001348,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013491,
+        "RankId": 1001349,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013501,
+        "RankId": 1001350,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013511,
+        "RankId": 1001351,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013521,
+        "RankId": 1001352,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013531,
+        "RankId": 1001353,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013541,
+        "RankId": 1001354,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013551,
+        "RankId": 1001355,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013561,
+        "RankId": 1001356,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013571,
+        "RankId": 1001357,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013581,
+        "RankId": 1001358,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013591,
+        "RankId": 1001359,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013601,
+        "RankId": 1001360,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013611,
+        "RankId": 1001361,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013621,
+        "RankId": 1001362,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013631,
+        "RankId": 1001363,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013641,
+        "RankId": 1001364,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013651,
+        "RankId": 1001365,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013661,
+        "RankId": 1001366,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013671,
+        "RankId": 1001367,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013681,
+        "RankId": 1001368,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013691,
+        "RankId": 1001369,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013701,
+        "RankId": 1001370,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013711,
+        "RankId": 1001371,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013721,
+        "RankId": 1001372,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013731,
+        "RankId": 1001373,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013741,
+        "RankId": 1001374,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013751,
+        "RankId": 1001375,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013761,
+        "RankId": 1001376,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013771,
+        "RankId": 1001377,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013781,
+        "RankId": 1001378,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013791,
+        "RankId": 1001379,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013801,
+        "RankId": 1001380,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013811,
+        "RankId": 1001381,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013821,
+        "RankId": 1001382,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013831,
+        "RankId": 1001383,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013841,
+        "RankId": 1001384,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013851,
+        "RankId": 1001385,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013861,
+        "RankId": 1001386,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013871,
+        "RankId": 1001387,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013881,
+        "RankId": 1001388,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013891,
+        "RankId": 1001389,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013901,
+        "RankId": 1001390,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013911,
+        "RankId": 1001391,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013921,
+        "RankId": 1001392,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013931,
+        "RankId": 1001393,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013941,
+        "RankId": 1001394,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013951,
+        "RankId": 1001395,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013961,
+        "RankId": 1001396,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013971,
+        "RankId": 1001397,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013981,
+        "RankId": 1001398,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013991,
+        "RankId": 1001399,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10013992,
+        "RankId": 1001399,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10014021,
+        "RankId": 1001402,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014031,
+        "RankId": 1001403,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014041,
+        "RankId": 1001404,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014042,
+        "RankId": 1001404,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10014051,
+        "RankId": 1001405,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014061,
+        "RankId": 1001406,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014071,
+        "RankId": 1001407,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014081,
+        "RankId": 1001408,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014091,
+        "RankId": 1001409,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014101,
+        "RankId": 1001410,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014111,
+        "RankId": 1001411,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014121,
+        "RankId": 1001412,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014131,
+        "RankId": 1001413,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014132,
+        "RankId": 1001413,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10014141,
+        "RankId": 1001414,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014151,
+        "RankId": 1001415,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014161,
+        "RankId": 1001416,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014171,
+        "RankId": 1001417,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014181,
+        "RankId": 1001418,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014191,
+        "RankId": 1001419,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014201,
+        "RankId": 1001420,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10014202,
+        "RankId": 1001420,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10015021,
+        "RankId": 1001502,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015031,
+        "RankId": 1001503,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015041,
+        "RankId": 1001504,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015042,
+        "RankId": 1001504,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10015051,
+        "RankId": 1001505,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015061,
+        "RankId": 1001506,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015071,
+        "RankId": 1001507,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015081,
+        "RankId": 1001508,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015091,
+        "RankId": 1001509,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015101,
+        "RankId": 1001510,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015111,
+        "RankId": 1001511,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015121,
+        "RankId": 1001512,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015131,
+        "RankId": 1001513,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015132,
+        "RankId": 1001513,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10015141,
+        "RankId": 1001514,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015151,
+        "RankId": 1001515,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015161,
+        "RankId": 1001516,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015171,
+        "RankId": 1001517,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015181,
+        "RankId": 1001518,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015191,
+        "RankId": 1001519,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015201,
+        "RankId": 1001520,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10015202,
+        "RankId": 1001520,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10016021,
+        "RankId": 1001602,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016031,
+        "RankId": 1001603,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016041,
+        "RankId": 1001604,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016042,
+        "RankId": 1001604,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10016051,
+        "RankId": 1001605,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016061,
+        "RankId": 1001606,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016071,
+        "RankId": 1001607,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016081,
+        "RankId": 1001608,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016091,
+        "RankId": 1001609,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016101,
+        "RankId": 1001610,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016111,
+        "RankId": 1001611,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016121,
+        "RankId": 1001612,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016131,
+        "RankId": 1001613,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016132,
+        "RankId": 1001613,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10016141,
+        "RankId": 1001614,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016151,
+        "RankId": 1001615,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016161,
+        "RankId": 1001616,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016171,
+        "RankId": 1001617,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016181,
+        "RankId": 1001618,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016191,
+        "RankId": 1001619,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016201,
+        "RankId": 1001620,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10016202,
+        "RankId": 1001620,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10017021,
+        "RankId": 1001702,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017031,
+        "RankId": 1001703,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017041,
+        "RankId": 1001704,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017042,
+        "RankId": 1001704,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10017051,
+        "RankId": 1001705,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017061,
+        "RankId": 1001706,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017071,
+        "RankId": 1001707,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017081,
+        "RankId": 1001708,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017091,
+        "RankId": 1001709,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017101,
+        "RankId": 1001710,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017111,
+        "RankId": 1001711,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017121,
+        "RankId": 1001712,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017131,
+        "RankId": 1001713,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017132,
+        "RankId": 1001713,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10017141,
+        "RankId": 1001714,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017151,
+        "RankId": 1001715,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017161,
+        "RankId": 1001716,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017171,
+        "RankId": 1001717,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017181,
+        "RankId": 1001718,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017191,
+        "RankId": 1001719,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017201,
+        "RankId": 1001720,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10017202,
+        "RankId": 1001720,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10018021,
+        "RankId": 1001802,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018031,
+        "RankId": 1001803,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018041,
+        "RankId": 1001804,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018042,
+        "RankId": 1001804,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10018051,
+        "RankId": 1001805,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018061,
+        "RankId": 1001806,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018071,
+        "RankId": 1001807,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018081,
+        "RankId": 1001808,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018091,
+        "RankId": 1001809,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018101,
+        "RankId": 1001810,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018111,
+        "RankId": 1001811,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018121,
+        "RankId": 1001812,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018131,
+        "RankId": 1001813,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018132,
+        "RankId": 1001813,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10018141,
+        "RankId": 1001814,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018151,
+        "RankId": 1001815,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018161,
+        "RankId": 1001816,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018171,
+        "RankId": 1001817,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018181,
+        "RankId": 1001818,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018191,
+        "RankId": 1001819,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018201,
+        "RankId": 1001820,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10018202,
+        "RankId": 1001820,
+        "RewardSettingType": 2
+    },
+    {
+        "Id": 10019021,
+        "RankId": 1001902,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019031,
+        "RankId": 1001903,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019041,
+        "RankId": 1001904,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019051,
+        "RankId": 1001905,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019061,
+        "RankId": 1001906,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019071,
+        "RankId": 1001907,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019081,
+        "RankId": 1001908,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019091,
+        "RankId": 1001909,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019101,
+        "RankId": 1001910,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019111,
+        "RankId": 1001911,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019121,
+        "RankId": 1001912,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019131,
+        "RankId": 1001913,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019141,
+        "RankId": 1001914,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019151,
+        "RankId": 1001915,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019161,
+        "RankId": 1001916,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019171,
+        "RankId": 1001917,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019181,
+        "RankId": 1001918,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019191,
+        "RankId": 1001919,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019201,
+        "RankId": 1001920,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019211,
+        "RankId": 1001921,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019221,
+        "RankId": 1001922,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019231,
+        "RankId": 1001923,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019241,
+        "RankId": 1001924,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019251,
+        "RankId": 1001925,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019261,
+        "RankId": 1001926,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019271,
+        "RankId": 1001927,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019281,
+        "RankId": 1001928,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019291,
+        "RankId": 1001929,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019301,
+        "RankId": 1001930,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019311,
+        "RankId": 1001931,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019321,
+        "RankId": 1001932,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019331,
+        "RankId": 1001933,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019341,
+        "RankId": 1001934,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019351,
+        "RankId": 1001935,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019361,
+        "RankId": 1001936,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019371,
+        "RankId": 1001937,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019381,
+        "RankId": 1001938,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019391,
+        "RankId": 1001939,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019401,
+        "RankId": 1001940,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019411,
+        "RankId": 1001941,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019421,
+        "RankId": 1001942,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019431,
+        "RankId": 1001943,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019441,
+        "RankId": 1001944,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019451,
+        "RankId": 1001945,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019461,
+        "RankId": 1001946,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019471,
+        "RankId": 1001947,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019481,
+        "RankId": 1001948,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019491,
+        "RankId": 1001949,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019501,
+        "RankId": 1001950,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019511,
+        "RankId": 1001951,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019521,
+        "RankId": 1001952,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019531,
+        "RankId": 1001953,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019541,
+        "RankId": 1001954,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019551,
+        "RankId": 1001955,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019561,
+        "RankId": 1001956,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019571,
+        "RankId": 1001957,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019581,
+        "RankId": 1001958,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019591,
+        "RankId": 1001959,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019601,
+        "RankId": 1001960,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019611,
+        "RankId": 1001961,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019621,
+        "RankId": 1001962,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019631,
+        "RankId": 1001963,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019641,
+        "RankId": 1001964,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019651,
+        "RankId": 1001965,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019661,
+        "RankId": 1001966,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019671,
+        "RankId": 1001967,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019681,
+        "RankId": 1001968,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019691,
+        "RankId": 1001969,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019701,
+        "RankId": 1001970,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019711,
+        "RankId": 1001971,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019721,
+        "RankId": 1001972,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019731,
+        "RankId": 1001973,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019741,
+        "RankId": 1001974,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019751,
+        "RankId": 1001975,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019761,
+        "RankId": 1001976,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019771,
+        "RankId": 1001977,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019781,
+        "RankId": 1001978,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019791,
+        "RankId": 1001979,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019801,
+        "RankId": 1001980,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019811,
+        "RankId": 1001981,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019821,
+        "RankId": 1001982,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019831,
+        "RankId": 1001983,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019841,
+        "RankId": 1001984,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019851,
+        "RankId": 1001985,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019861,
+        "RankId": 1001986,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019871,
+        "RankId": 1001987,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019881,
+        "RankId": 1001988,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019891,
+        "RankId": 1001989,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019901,
+        "RankId": 1001990,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019911,
+        "RankId": 1001991,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019921,
+        "RankId": 1001992,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019931,
+        "RankId": 1001993,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019941,
+        "RankId": 1001994,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019951,
+        "RankId": 1001995,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019961,
+        "RankId": 1001996,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019971,
+        "RankId": 1001997,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019981,
+        "RankId": 1001998,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019991,
+        "RankId": 1001999,
+        "RewardSettingType": 1
+    },
+    {
+        "Id": 10019992,
+        "RankId": 1001999,
+        "RewardSettingType": 2
+    }
+]

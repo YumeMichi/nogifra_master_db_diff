@@ -1,0 +1,32 @@
+[
+    {
+        "FromExtendCount": 1,
+        "Id": 1,
+        "NeededCoinQuantity": 30,
+        "ToExtendCount": 29
+    },
+    {
+        "FromExtendCount": 30,
+        "Id": 2,
+        "NeededCoinQuantity": 60,
+        "ToExtendCount": 59
+    },
+    {
+        "FromExtendCount": 60,
+        "Id": 3,
+        "NeededCoinQuantity": 90,
+        "ToExtendCount": 89
+    },
+    {
+        "FromExtendCount": 90,
+        "Id": 4,
+        "NeededCoinQuantity": 120,
+        "ToExtendCount": 119
+    },
+    {
+        "FromExtendCount": 120,
+        "Id": 5,
+        "NeededCoinQuantity": 150,
+        "ToExtendCount": 149
+    }
+]

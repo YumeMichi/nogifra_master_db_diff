@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "StartSeasonId": 1
+    },
+    {
+        "Id": 2,
+        "StartSeasonId": 8
+    },
+    {
+        "Id": 3,
+        "StartSeasonId": 9
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "IsDefault": true
+    },
+    {
+        "Id": 2,
+        "IsDefault": false
+    },
+    {
+        "Id": 3,
+        "IsDefault": false
+    }
+]

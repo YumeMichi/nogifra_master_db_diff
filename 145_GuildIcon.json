@@ -1,0 +1,642 @@
+[
+    {
+        "CharacterId": 101,
+        "Id": 1,
+        "IsGivingFromFirst": true,
+        "Name": "秋元 真夏",
+        "Phonetic": "あきもと まなつ",
+        "RegistrationDate": "2020-05-01T00:00:00+09:00",
+        "ResourceId": 101101101,
+        "Tooltip": "秋元 真夏のアイコン"
+    },
+    {
+        "CharacterId": 102,
+        "Id": 2,
+        "IsGivingFromFirst": true,
+        "Name": "生田 絵梨花",
+        "Phonetic": "いくた えりか",
+        "RegistrationDate": "2020-05-02T00:00:00+09:00",
+        "ResourceId": 101101102,
+        "Tooltip": "生田 絵梨花のアイコン"
+    },
+    {
+        "CharacterId": 106,
+        "Id": 3,
+        "IsGivingFromFirst": true,
+        "Name": "齋藤 飛鳥",
+        "Phonetic": "さいとう あすか",
+        "RegistrationDate": "2020-05-03T00:00:00+09:00",
+        "ResourceId": 101101106,
+        "Tooltip": "齋藤 飛鳥のアイコン"
+    },
+    {
+        "CharacterId": 110,
+        "Id": 4,
+        "IsGivingFromFirst": true,
+        "Name": "高山 一実",
+        "Phonetic": "たかやま かずみ",
+        "RegistrationDate": "2020-05-04T00:00:00+09:00",
+        "ResourceId": 101101110,
+        "Tooltip": "高山 一実のアイコン"
+    },
+    {
+        "CharacterId": 112,
+        "Id": 5,
+        "IsGivingFromFirst": true,
+        "Name": "樋口 日奈",
+        "Phonetic": "ひぐち ひな",
+        "RegistrationDate": "2020-05-05T00:00:00+09:00",
+        "ResourceId": 101101112,
+        "Tooltip": "樋口 日奈のアイコン"
+    },
+    {
+        "CharacterId": 113,
+        "Id": 6,
+        "IsGivingFromFirst": true,
+        "Name": "星野 みなみ",
+        "Phonetic": "ほしの みなみ",
+        "RegistrationDate": "2020-05-06T00:00:00+09:00",
+        "ResourceId": 101101113,
+        "Tooltip": "星野 みなみのアイコン"
+    },
+    {
+        "CharacterId": 114,
+        "Id": 7,
+        "IsGivingFromFirst": true,
+        "Name": "松村 沙友理",
+        "Phonetic": "まつむら さゆり",
+        "RegistrationDate": "2020-05-07T00:00:00+09:00",
+        "ResourceId": 101101114,
+        "Tooltip": "松村 沙友理のアイコン"
+    },
+    {
+        "CharacterId": 115,
+        "Id": 8,
+        "IsGivingFromFirst": true,
+        "Name": "和田 まあや",
+        "Phonetic": "わだ まあや",
+        "RegistrationDate": "2020-05-08T00:00:00+09:00",
+        "ResourceId": 101101115,
+        "Tooltip": "和田 まあやのアイコン"
+    },
+    {
+        "CharacterId": 117,
+        "Id": 9,
+        "IsGivingFromFirst": true,
+        "Name": "伊藤 純奈",
+        "Phonetic": "いとう じゅんな",
+        "RegistrationDate": "2020-05-09T00:00:00+09:00",
+        "ResourceId": 101101117,
+        "Tooltip": "伊藤 純奈のアイコン"
+    },
+    {
+        "CharacterId": 118,
+        "Id": 10,
+        "IsGivingFromFirst": true,
+        "Name": "北野 日奈子",
+        "Phonetic": "きたの ひなこ",
+        "RegistrationDate": "2020-05-10T00:00:00+09:00",
+        "ResourceId": 101101118,
+        "Tooltip": "北野 日奈子のアイコン"
+    },
+    {
+        "CharacterId": 120,
+        "Id": 11,
+        "IsGivingFromFirst": true,
+        "Name": "新内 眞衣",
+        "Phonetic": "しんうち まい",
+        "RegistrationDate": "2020-05-11T00:00:00+09:00",
+        "ResourceId": 101101120,
+        "Tooltip": "新内 眞衣のアイコン"
+    },
+    {
+        "CharacterId": 121,
+        "Id": 12,
+        "IsGivingFromFirst": true,
+        "Name": "鈴木 絢音",
+        "Phonetic": "すずき あやね",
+        "RegistrationDate": "2020-05-12T00:00:00+09:00",
+        "ResourceId": 101101121,
+        "Tooltip": "鈴木 絢音のアイコン"
+    },
+    {
+        "CharacterId": 122,
+        "Id": 13,
+        "IsGivingFromFirst": true,
+        "Name": "寺田 蘭世",
+        "Phonetic": "てらだ らんぜ",
+        "RegistrationDate": "2020-05-13T00:00:00+09:00",
+        "ResourceId": 101101122,
+        "Tooltip": "寺田 蘭世のアイコン"
+    },
+    {
+        "CharacterId": 124,
+        "Id": 15,
+        "IsGivingFromFirst": true,
+        "Name": "山崎 怜奈",
+        "Phonetic": "やまざき れな",
+        "RegistrationDate": "2020-05-15T00:00:00+09:00",
+        "ResourceId": 101101124,
+        "Tooltip": "山崎 怜奈のアイコン"
+    },
+    {
+        "CharacterId": 125,
+        "Id": 16,
+        "IsGivingFromFirst": true,
+        "Name": "渡辺 みり愛",
+        "Phonetic": "わたなべ みりあ",
+        "RegistrationDate": "2020-05-16T00:00:00+09:00",
+        "ResourceId": 101101125,
+        "Tooltip": "渡辺 みり愛のアイコン"
+    },
+    {
+        "CharacterId": 126,
+        "Id": 17,
+        "IsGivingFromFirst": true,
+        "Name": "伊藤 理々杏",
+        "Phonetic": "いとう りりあ",
+        "RegistrationDate": "2020-05-17T00:00:00+09:00",
+        "ResourceId": 101101126,
+        "Tooltip": "伊藤 理々杏のアイコン"
+    },
+    {
+        "CharacterId": 127,
+        "Id": 18,
+        "IsGivingFromFirst": true,
+        "Name": "岩本 蓮加",
+        "Phonetic": "いわもと れんか",
+        "RegistrationDate": "2020-05-18T00:00:00+09:00",
+        "ResourceId": 101101127,
+        "Tooltip": "岩本 蓮加のアイコン"
+    },
+    {
+        "CharacterId": 128,
+        "Id": 19,
+        "IsGivingFromFirst": true,
+        "Name": "梅澤 美波",
+        "Phonetic": "うめざわ みなみ",
+        "RegistrationDate": "2020-05-19T00:00:00+09:00",
+        "ResourceId": 101101128,
+        "Tooltip": "梅澤 美波のアイコン"
+    },
+    {
+        "CharacterId": 129,
+        "Id": 20,
+        "IsGivingFromFirst": true,
+        "Name": "大園 桃子",
+        "Phonetic": "おおぞの ももこ",
+        "RegistrationDate": "2020-05-20T00:00:00+09:00",
+        "ResourceId": 101101129,
+        "Tooltip": "大園 桃子のアイコン"
+    },
+    {
+        "CharacterId": 130,
+        "Id": 21,
+        "IsGivingFromFirst": true,
+        "Name": "久保 史緒里",
+        "Phonetic": "くぼ しおり",
+        "RegistrationDate": "2020-05-21T00:00:00+09:00",
+        "ResourceId": 101101130,
+        "Tooltip": "久保 史緒里のアイコン"
+    },
+    {
+        "CharacterId": 131,
+        "Id": 22,
+        "IsGivingFromFirst": true,
+        "Name": "阪口 珠美",
+        "Phonetic": "さかぐち たまみ",
+        "RegistrationDate": "2020-05-22T00:00:00+09:00",
+        "ResourceId": 101101131,
+        "Tooltip": "阪口 珠美のアイコン"
+    },
+    {
+        "CharacterId": 132,
+        "Id": 23,
+        "IsGivingFromFirst": true,
+        "Name": "佐藤 楓",
+        "Phonetic": "さとう かえで",
+        "RegistrationDate": "2020-05-23T00:00:00+09:00",
+        "ResourceId": 101101132,
+        "Tooltip": "佐藤 楓のアイコン"
+    },
+    {
+        "CharacterId": 133,
+        "Id": 24,
+        "IsGivingFromFirst": true,
+        "Name": "中村 麗乃",
+        "Phonetic": "なかむら れの",
+        "RegistrationDate": "2020-05-24T00:00:00+09:00",
+        "ResourceId": 101101133,
+        "Tooltip": "中村 麗乃のアイコン"
+    },
+    {
+        "CharacterId": 134,
+        "Id": 25,
+        "IsGivingFromFirst": true,
+        "Name": "向井 葉月",
+        "Phonetic": "むかい はづき",
+        "RegistrationDate": "2020-05-25T00:00:00+09:00",
+        "ResourceId": 101101134,
+        "Tooltip": "向井 葉月のアイコン"
+    },
+    {
+        "CharacterId": 135,
+        "Id": 26,
+        "IsGivingFromFirst": true,
+        "Name": "山下 美月",
+        "Phonetic": "やました みづき",
+        "RegistrationDate": "2020-05-26T00:00:00+09:00",
+        "ResourceId": 101101135,
+        "Tooltip": "山下 美月のアイコン"
+    },
+    {
+        "CharacterId": 136,
+        "Id": 27,
+        "IsGivingFromFirst": true,
+        "Name": "吉田 綾乃クリスティー",
+        "Phonetic": "よしだ あやのくりすてぃー",
+        "RegistrationDate": "2020-05-27T00:00:00+09:00",
+        "ResourceId": 101101136,
+        "Tooltip": "吉田 綾乃クリスティーのアイコン"
+    },
+    {
+        "CharacterId": 137,
+        "Id": 28,
+        "IsGivingFromFirst": true,
+        "Name": "与田 祐希",
+        "Phonetic": "よだ ゆうき",
+        "RegistrationDate": "2020-05-28T00:00:00+09:00",
+        "ResourceId": 101101137,
+        "Tooltip": "与田 祐希のアイコン"
+    },
+    {
+        "CharacterId": 138,
+        "Id": 29,
+        "IsGivingFromFirst": true,
+        "Name": "遠藤 さくら",
+        "Phonetic": "えんどう さくら",
+        "RegistrationDate": "2020-05-29T00:00:00+09:00",
+        "ResourceId": 101101138,
+        "Tooltip": "遠藤 さくらのアイコン"
+    },
+    {
+        "CharacterId": 139,
+        "Id": 30,
+        "IsGivingFromFirst": true,
+        "Name": "賀喜 遥香",
+        "Phonetic": "かき はるか",
+        "RegistrationDate": "2020-05-30T00:00:00+09:00",
+        "ResourceId": 101101139,
+        "Tooltip": "賀喜 遥香のアイコン"
+    },
+    {
+        "CharacterId": 140,
+        "Id": 31,
+        "IsGivingFromFirst": true,
+        "Name": "掛橋 沙耶香",
+        "Phonetic": "かけはし さやか",
+        "RegistrationDate": "2020-05-31T00:00:00+09:00",
+        "ResourceId": 101101140,
+        "Tooltip": "掛橋 沙耶香のアイコン"
+    },
+    {
+        "CharacterId": 141,
+        "Id": 32,
+        "IsGivingFromFirst": true,
+        "Name": "金川 紗耶",
+        "Phonetic": "かながわ さや",
+        "RegistrationDate": "2020-06-01T00:00:00+09:00",
+        "ResourceId": 101101141,
+        "Tooltip": "金川 紗耶のアイコン"
+    },
+    {
+        "CharacterId": 142,
+        "Id": 33,
+        "IsGivingFromFirst": true,
+        "Name": "北川 悠理",
+        "Phonetic": "きたがわ ゆり",
+        "RegistrationDate": "2020-06-02T00:00:00+09:00",
+        "ResourceId": 101101142,
+        "Tooltip": "北川 悠理のアイコン"
+    },
+    {
+        "CharacterId": 143,
+        "Id": 34,
+        "IsGivingFromFirst": true,
+        "Name": "柴田 柚菜",
+        "Phonetic": "しばた ゆな",
+        "RegistrationDate": "2020-06-05T00:00:00+09:00",
+        "ResourceId": 101101143,
+        "Tooltip": "柴田 柚菜のアイコン"
+    },
+    {
+        "CharacterId": 144,
+        "Id": 35,
+        "IsGivingFromFirst": true,
+        "Name": "清宮 レイ",
+        "Phonetic": "せいみや れい",
+        "RegistrationDate": "2020-06-06T00:00:00+09:00",
+        "ResourceId": 101101144,
+        "Tooltip": "清宮 レイのアイコン"
+    },
+    {
+        "CharacterId": 145,
+        "Id": 36,
+        "IsGivingFromFirst": true,
+        "Name": "田村 真佑",
+        "Phonetic": "たむら まゆ",
+        "RegistrationDate": "2020-06-07T00:00:00+09:00",
+        "ResourceId": 101101145,
+        "Tooltip": "田村 真佑のアイコン"
+    },
+    {
+        "CharacterId": 146,
+        "Id": 37,
+        "IsGivingFromFirst": true,
+        "Name": "筒井 あやめ",
+        "Phonetic": "つつい あやめ",
+        "RegistrationDate": "2020-06-08T00:00:00+09:00",
+        "ResourceId": 101101146,
+        "Tooltip": "筒井 あやめのアイコン"
+    },
+    {
+        "CharacterId": 147,
+        "Id": 38,
+        "IsGivingFromFirst": true,
+        "Name": "早川 聖来",
+        "Phonetic": "はやかわ せいら",
+        "RegistrationDate": "2020-06-09T00:00:00+09:00",
+        "ResourceId": 101101147,
+        "Tooltip": "早川 聖来のアイコン"
+    },
+    {
+        "CharacterId": 148,
+        "Id": 39,
+        "IsGivingFromFirst": true,
+        "Name": "矢久保 美緒",
+        "Phonetic": "やくぼ みお",
+        "RegistrationDate": "2020-06-12T00:00:00+09:00",
+        "ResourceId": 101101148,
+        "Tooltip": "矢久保 美緒のアイコン"
+    },
+    {
+        "CharacterId": 149,
+        "Id": 40,
+        "IsGivingFromFirst": true,
+        "Name": "黒見 明香",
+        "Phonetic": "くろみ はるか",
+        "RegistrationDate": "2020-06-03T00:00:00+09:00",
+        "ResourceId": 101101149,
+        "Tooltip": "黒見 明香のアイコン"
+    },
+    {
+        "CharacterId": 150,
+        "Id": 41,
+        "IsGivingFromFirst": true,
+        "Name": "佐藤 璃果",
+        "Phonetic": "さとう りか",
+        "RegistrationDate": "2020-06-04T00:00:00+09:00",
+        "ResourceId": 101101150,
+        "Tooltip": "佐藤 璃果のアイコン"
+    },
+    {
+        "CharacterId": 151,
+        "Id": 42,
+        "IsGivingFromFirst": true,
+        "Name": "林 瑠奈",
+        "Phonetic": "はやし るな",
+        "RegistrationDate": "2020-06-10T00:00:00+09:00",
+        "ResourceId": 101101151,
+        "Tooltip": "林 瑠奈のアイコン"
+    },
+    {
+        "CharacterId": 152,
+        "Id": 43,
+        "IsGivingFromFirst": true,
+        "Name": "松尾 美佑",
+        "Phonetic": "まつお みゆ",
+        "RegistrationDate": "2020-06-11T00:00:00+09:00",
+        "ResourceId": 101101152,
+        "Tooltip": "松尾 美佑のアイコン"
+    },
+    {
+        "CharacterId": 153,
+        "Id": 44,
+        "IsGivingFromFirst": true,
+        "Name": "弓木 奈於",
+        "Phonetic": "ゆみき なお",
+        "RegistrationDate": "2020-06-13T00:00:00+09:00",
+        "ResourceId": 101101153,
+        "Tooltip": "弓木 奈於のアイコン"
+    },
+    {
+        "CharacterId": 154,
+        "Id": 45,
+        "IsGivingFromFirst": true,
+        "Name": "五百城茉央",
+        "Phonetic": "いおきまお",
+        "RegistrationDate": "2020-06-14T00:00:00+09:00",
+        "ResourceId": 101101154,
+        "Tooltip": "五百城茉央のアイコン"
+    },
+    {
+        "CharacterId": 155,
+        "Id": 46,
+        "IsGivingFromFirst": true,
+        "Name": "池田瑛紗",
+        "Phonetic": "いけだてれさ",
+        "RegistrationDate": "2020-06-15T00:00:00+09:00",
+        "ResourceId": 101101155,
+        "Tooltip": "池田瑛紗のアイコン"
+    },
+    {
+        "CharacterId": 156,
+        "Id": 47,
+        "IsGivingFromFirst": true,
+        "Name": "一ノ瀬美空",
+        "Phonetic": "いちのせみく",
+        "RegistrationDate": "2020-06-16T00:00:00+09:00",
+        "ResourceId": 101101156,
+        "Tooltip": "一ノ瀬美空のアイコン"
+    },
+    {
+        "CharacterId": 157,
+        "Id": 48,
+        "IsGivingFromFirst": true,
+        "Name": "井上和",
+        "Phonetic": "いのうえなぎ",
+        "RegistrationDate": "2020-06-17T00:00:00+09:00",
+        "ResourceId": 101101157,
+        "Tooltip": "井上和のアイコン"
+    },
+    {
+        "CharacterId": 158,
+        "Id": 49,
+        "IsGivingFromFirst": true,
+        "Name": "岡本姫奈",
+        "Phonetic": "おかもとひな",
+        "RegistrationDate": "2020-06-18T00:00:00+09:00",
+        "ResourceId": 101101158,
+        "Tooltip": "岡本姫奈のアイコン"
+    },
+    {
+        "CharacterId": 159,
+        "Id": 50,
+        "IsGivingFromFirst": true,
+        "Name": "小川彩",
+        "Phonetic": "おがわあや",
+        "RegistrationDate": "2020-06-19T00:00:00+09:00",
+        "ResourceId": 101101159,
+        "Tooltip": "小川彩のアイコン"
+    },
+    {
+        "CharacterId": 160,
+        "Id": 51,
+        "IsGivingFromFirst": true,
+        "Name": "奥田いろは",
+        "Phonetic": "おくだいろは",
+        "RegistrationDate": "2020-06-20T00:00:00+09:00",
+        "ResourceId": 101101160,
+        "Tooltip": "奥田いろはのアイコン"
+    },
+    {
+        "CharacterId": 161,
+        "Id": 52,
+        "IsGivingFromFirst": true,
+        "Name": "川﨑桜",
+        "Phonetic": "かわさきさくら",
+        "RegistrationDate": "2020-06-21T00:00:00+09:00",
+        "ResourceId": 101101161,
+        "Tooltip": "川﨑桜のアイコン"
+    },
+    {
+        "CharacterId": 162,
+        "Id": 53,
+        "IsGivingFromFirst": true,
+        "Name": "菅原咲月",
+        "Phonetic": "すがわらさつき",
+        "RegistrationDate": "2020-06-22T00:00:00+09:00",
+        "ResourceId": 101101162,
+        "Tooltip": "菅原咲月のアイコン"
+    },
+    {
+        "CharacterId": 163,
+        "Id": 54,
+        "IsGivingFromFirst": true,
+        "Name": "冨里奈央",
+        "Phonetic": "とみさとなお",
+        "RegistrationDate": "2020-06-23T00:00:00+09:00",
+        "ResourceId": 101101163,
+        "Tooltip": "冨里奈央のアイコン"
+    },
+    {
+        "CharacterId": 164,
+        "Id": 55,
+        "IsGivingFromFirst": true,
+        "Name": "中西アルノ",
+        "Phonetic": "なかにしあるの",
+        "RegistrationDate": "2020-06-24T00:00:00+09:00",
+        "ResourceId": 101101164,
+        "Tooltip": "中西アルノのアイコン"
+    },
+    {
+        "CharacterId": 165,
+        "Id": 56,
+        "IsGivingFromFirst": true,
+        "Name": "愛宕心響",
+        "Phonetic": "あたごここね",
+        "RegistrationDate": "2020-06-25T00:00:00+09:00",
+        "ResourceId": 101101165,
+        "Tooltip": "愛宕心響のアイコン"
+    },
+    {
+        "CharacterId": 166,
+        "Id": 57,
+        "IsGivingFromFirst": true,
+        "Name": "大越ひなの",
+        "Phonetic": "おおこしひなの",
+        "RegistrationDate": "2020-06-26T00:00:00+09:00",
+        "ResourceId": 101101166,
+        "Tooltip": "大越ひなののアイコン"
+    },
+    {
+        "CharacterId": 168,
+        "Id": 59,
+        "IsGivingFromFirst": true,
+        "Name": "海邉朱莉",
+        "Phonetic": "かいべあかり",
+        "RegistrationDate": "2020-06-28T00:00:00+09:00",
+        "ResourceId": 101101168,
+        "Tooltip": "海邉朱莉のアイコン"
+    },
+    {
+        "CharacterId": 169,
+        "Id": 60,
+        "IsGivingFromFirst": true,
+        "Name": "川端晃菜",
+        "Phonetic": "かわばたひな",
+        "RegistrationDate": "2020-06-29T00:00:00+09:00",
+        "ResourceId": 101101169,
+        "Tooltip": "川端晃菜のアイコン"
+    },
+    {
+        "CharacterId": 170,
+        "Id": 61,
+        "IsGivingFromFirst": true,
+        "Name": "鈴木佑捺",
+        "Phonetic": "すずきゆうな",
+        "RegistrationDate": "2020-06-30T00:00:00+09:00",
+        "ResourceId": 101101170,
+        "Tooltip": "鈴木佑捺のアイコン"
+    },
+    {
+        "CharacterId": 171,
+        "Id": 62,
+        "IsGivingFromFirst": true,
+        "Name": "瀬戸口心月",
+        "Phonetic": "せとぐちみつき",
+        "RegistrationDate": "2020-07-01T00:00:00+09:00",
+        "ResourceId": 101101171,
+        "Tooltip": "瀬戸口心月のアイコン"
+    },
+    {
+        "CharacterId": 172,
+        "Id": 63,
+        "IsGivingFromFirst": true,
+        "Name": "長嶋凛桜",
+        "Phonetic": "ながしまりお",
+        "RegistrationDate": "2020-07-02T00:00:00+09:00",
+        "ResourceId": 101101172,
+        "Tooltip": "長嶋凛桜のアイコン"
+    },
+    {
+        "CharacterId": 173,
+        "Id": 64,
+        "IsGivingFromFirst": true,
+        "Name": "増田三莉音",
+        "Phonetic": "ますだみりね",
+        "RegistrationDate": "2020-07-03T00:00:00+09:00",
+        "ResourceId": 101101173,
+        "Tooltip": "増田三莉音のアイコン"
+    },
+    {
+        "CharacterId": 174,
+        "Id": 65,
+        "IsGivingFromFirst": true,
+        "Name": "森平麗心",
+        "Phonetic": "もりひらうるみ",
+        "RegistrationDate": "2020-07-04T00:00:00+09:00",
+        "ResourceId": 101101174,
+        "Tooltip": "森平麗心のアイコン"
+    },
+    {
+        "CharacterId": 175,
+        "Id": 66,
+        "IsGivingFromFirst": true,
+        "Name": "矢田萌華",
+        "Phonetic": "やだもえか",
+        "RegistrationDate": "2020-07-05T00:00:00+09:00",
+        "ResourceId": 101101175,
+        "Tooltip": "矢田萌華のアイコン"
+    }
+]

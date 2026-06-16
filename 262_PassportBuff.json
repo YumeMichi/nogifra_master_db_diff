@@ -1,0 +1,30 @@
+[
+    {
+        "BuffType": 1,
+        "BuffValue": 15,
+        "Description": "プロデュースライブ経験値 +15%",
+        "EffectGroupId": 1,
+        "Id": 1
+    },
+    {
+        "BuffType": 2,
+        "BuffValue": 1,
+        "Description": "プロデュース無料短縮ライブ回数 +1回",
+        "EffectGroupId": 1,
+        "Id": 2
+    },
+    {
+        "BuffType": 3,
+        "BuffValue": 1,
+        "Description": "セレクトショップ無料更新回数 +1回",
+        "EffectGroupId": 1,
+        "Id": 3
+    },
+    {
+        "BuffType": 4,
+        "BuffValue": 3,
+        "Description": "デザイン無料更新回数 +3回",
+        "EffectGroupId": 1,
+        "Id": 4
+    }
+]

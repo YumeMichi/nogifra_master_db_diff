@@ -1,0 +1,346 @@
+[
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 12,
+        "Id": 1011,
+        "LevelFrom": 1,
+        "LevelTo": 5
+    },
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 12,
+        "GrowthPercentageTo": 29,
+        "Id": 1012,
+        "LevelFrom": 5,
+        "LevelTo": 10
+    },
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 29,
+        "GrowthPercentageTo": 48,
+        "Id": 1013,
+        "LevelFrom": 10,
+        "LevelTo": 15
+    },
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 48,
+        "GrowthPercentageTo": 71,
+        "Id": 1014,
+        "LevelFrom": 15,
+        "LevelTo": 20
+    },
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 71,
+        "GrowthPercentageTo": 100,
+        "Id": 1015,
+        "LevelFrom": 20,
+        "LevelTo": 25
+    },
+    {
+        "GrowthGroupId": 101,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 1016,
+        "LevelFrom": 25,
+        "LevelTo": 30
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 10,
+        "Id": 2011,
+        "LevelFrom": 1,
+        "LevelTo": 6
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 10,
+        "GrowthPercentageTo": 26,
+        "Id": 2012,
+        "LevelFrom": 6,
+        "LevelTo": 12
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 26,
+        "GrowthPercentageTo": 46,
+        "Id": 2013,
+        "LevelFrom": 12,
+        "LevelTo": 18
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 46,
+        "GrowthPercentageTo": 70,
+        "Id": 2014,
+        "LevelFrom": 18,
+        "LevelTo": 24
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 70,
+        "GrowthPercentageTo": 100,
+        "Id": 2015,
+        "LevelFrom": 24,
+        "LevelTo": 30
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 2016,
+        "LevelFrom": 30,
+        "LevelTo": 35
+    },
+    {
+        "GrowthGroupId": 201,
+        "GrowthPercentageFrom": 110,
+        "GrowthPercentageTo": 120,
+        "Id": 2017,
+        "LevelFrom": 35,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 10,
+        "Id": 3011,
+        "LevelFrom": 1,
+        "LevelTo": 7
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 10,
+        "GrowthPercentageTo": 25,
+        "Id": 3012,
+        "LevelFrom": 7,
+        "LevelTo": 14
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 25,
+        "GrowthPercentageTo": 44,
+        "Id": 3013,
+        "LevelFrom": 14,
+        "LevelTo": 21
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 44,
+        "GrowthPercentageTo": 68,
+        "Id": 3014,
+        "LevelFrom": 21,
+        "LevelTo": 28
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 68,
+        "GrowthPercentageTo": 100,
+        "Id": 3015,
+        "LevelFrom": 28,
+        "LevelTo": 35
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 3016,
+        "LevelFrom": 35,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 110,
+        "GrowthPercentageTo": 120,
+        "Id": 3017,
+        "LevelFrom": 40,
+        "LevelTo": 45
+    },
+    {
+        "GrowthGroupId": 301,
+        "GrowthPercentageFrom": 120,
+        "GrowthPercentageTo": 130,
+        "Id": 3018,
+        "LevelFrom": 45,
+        "LevelTo": 50
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 10,
+        "Id": 3021,
+        "LevelFrom": 1,
+        "LevelTo": 7
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 10,
+        "GrowthPercentageTo": 25,
+        "Id": 3022,
+        "LevelFrom": 7,
+        "LevelTo": 14
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 25,
+        "GrowthPercentageTo": 44,
+        "Id": 3023,
+        "LevelFrom": 14,
+        "LevelTo": 21
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 44,
+        "GrowthPercentageTo": 68,
+        "Id": 3024,
+        "LevelFrom": 21,
+        "LevelTo": 28
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 68,
+        "GrowthPercentageTo": 100,
+        "Id": 3025,
+        "LevelFrom": 28,
+        "LevelTo": 35
+    },
+    {
+        "GrowthGroupId": 302,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 3026,
+        "LevelFrom": 35,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 10,
+        "Id": 4011,
+        "LevelFrom": 1,
+        "LevelTo": 8
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 10,
+        "GrowthPercentageTo": 25,
+        "Id": 4012,
+        "LevelFrom": 8,
+        "LevelTo": 16
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 25,
+        "GrowthPercentageTo": 44,
+        "Id": 4013,
+        "LevelFrom": 16,
+        "LevelTo": 24
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 44,
+        "GrowthPercentageTo": 68,
+        "Id": 4014,
+        "LevelFrom": 24,
+        "LevelTo": 32
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 68,
+        "GrowthPercentageTo": 100,
+        "Id": 4015,
+        "LevelFrom": 32,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 4016,
+        "LevelFrom": 40,
+        "LevelTo": 45
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 110,
+        "GrowthPercentageTo": 120,
+        "Id": 4017,
+        "LevelFrom": 45,
+        "LevelTo": 50
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 120,
+        "GrowthPercentageTo": 130,
+        "Id": 4018,
+        "LevelFrom": 50,
+        "LevelTo": 55
+    },
+    {
+        "GrowthGroupId": 401,
+        "GrowthPercentageFrom": 130,
+        "GrowthPercentageTo": 140,
+        "Id": 4019,
+        "LevelFrom": 55,
+        "LevelTo": 60
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 0,
+        "GrowthPercentageTo": 10,
+        "Id": 4021,
+        "LevelFrom": 1,
+        "LevelTo": 8
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 10,
+        "GrowthPercentageTo": 25,
+        "Id": 4022,
+        "LevelFrom": 8,
+        "LevelTo": 16
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 25,
+        "GrowthPercentageTo": 44,
+        "Id": 4023,
+        "LevelFrom": 16,
+        "LevelTo": 24
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 44,
+        "GrowthPercentageTo": 68,
+        "Id": 4024,
+        "LevelFrom": 24,
+        "LevelTo": 32
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 68,
+        "GrowthPercentageTo": 100,
+        "Id": 4025,
+        "LevelFrom": 32,
+        "LevelTo": 40
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 100,
+        "GrowthPercentageTo": 110,
+        "Id": 4026,
+        "LevelFrom": 40,
+        "LevelTo": 45
+    },
+    {
+        "GrowthGroupId": 402,
+        "GrowthPercentageFrom": 110,
+        "GrowthPercentageTo": 120,
+        "Id": 4027,
+        "LevelFrom": 45,
+        "LevelTo": 50
+    }
+]

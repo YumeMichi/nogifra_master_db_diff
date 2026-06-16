@@ -1,0 +1,173 @@
+[
+    {
+        "EndAt": "2022-04-14T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10001,
+        "RaidId": 410121,
+        "RaidType": 4,
+        "StartAt": "2022-03-24T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2022-06-09T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10002,
+        "RaidId": 410211,
+        "RaidType": 4,
+        "StartAt": "2022-05-26T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2022-08-11T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10003,
+        "RaidId": 410301,
+        "RaidType": 4,
+        "StartAt": "2022-07-28T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2022-09-08T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10004,
+        "RaidId": 410321,
+        "RaidType": 4,
+        "StartAt": "2022-08-25T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2022-12-05T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10005,
+        "RaidId": 410351,
+        "RaidType": 4,
+        "StartAt": "2022-11-21T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2023-01-19T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 1,
+        "Id": 10006,
+        "RaidId": 410511,
+        "RaidType": 4,
+        "StartAt": "2023-01-05T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2023-03-16T16:59:59+09:00",
+        "ExchangeMenuId": 240059,
+        "HomeButtonResourceId": 1,
+        "Id": 10007,
+        "RaidId": 410591,
+        "RaidType": 4,
+        "StartAt": "2023-03-02T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2023-06-08T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10008,
+        "Id": 10008,
+        "RaidId": 410691,
+        "RaidType": 4,
+        "StartAt": "2023-05-25T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2023-09-04T16:59:59+09:00",
+        "ExchangeMenuId": 240065,
+        "HomeButtonResourceId": 10009,
+        "Id": 10009,
+        "RaidId": 410851,
+        "RaidType": 4,
+        "StartAt": "2023-08-21T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2023-11-09T16:59:59+09:00",
+        "ExchangeMenuId": 240051,
+        "HomeButtonResourceId": 10010,
+        "Id": 10010,
+        "RaidId": 410891,
+        "RaidType": 4,
+        "StartAt": "2023-10-26T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2024-01-10T16:59:59+09:00",
+        "ExchangeMenuId": 248059,
+        "HomeButtonResourceId": 10011,
+        "Id": 10011,
+        "RaidId": 411061,
+        "RaidType": 4,
+        "StartAt": "2023-12-28T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2024-03-27T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10012,
+        "Id": 10012,
+        "RaidId": 411081,
+        "RaidType": 4,
+        "StartAt": "2024-03-14T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2024-05-18T23:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10013,
+        "Id": 10013,
+        "RaidId": 411251,
+        "RaidType": 4,
+        "StartAt": "2024-05-09T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2024-07-17T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10014,
+        "Id": 10014,
+        "RaidId": 411341,
+        "RaidType": 4,
+        "StartAt": "2024-07-04T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2024-11-13T16:59:59+09:00",
+        "ExchangeMenuId": 248098,
+        "HomeButtonResourceId": 10015,
+        "Id": 10015,
+        "RaidId": 411461,
+        "RaidType": 4,
+        "StartAt": "2024-10-31T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2025-01-22T16:59:59+09:00",
+        "ExchangeMenuId": 248102,
+        "HomeButtonResourceId": 10016,
+        "Id": 10016,
+        "RaidId": 411541,
+        "RaidType": 4,
+        "StartAt": "2025-01-09T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2025-06-25T16:59:59+09:00",
+        "ExchangeMenuId": 240055,
+        "HomeButtonResourceId": 10017,
+        "Id": 10017,
+        "RaidId": 411781,
+        "RaidType": 4,
+        "StartAt": "2025-06-12T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2025-07-23T16:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10018,
+        "Id": 10018,
+        "RaidId": 411791,
+        "RaidType": 4,
+        "StartAt": "2025-07-10T17:00:00+09:00"
+    },
+    {
+        "EndAt": "2025-11-30T23:59:59+09:00",
+        "ExchangeMenuId": 0,
+        "HomeButtonResourceId": 10019,
+        "Id": 10019,
+        "RaidId": 411911,
+        "RaidType": 4,
+        "StartAt": "2025-11-20T17:00:00+09:00"
+    }
+]

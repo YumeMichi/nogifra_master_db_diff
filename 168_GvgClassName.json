@@ -1,0 +1,57 @@
+[
+    {
+        "GuildClassType": 1,
+        "Id": 1,
+        "Name": "ブロンズ"
+    },
+    {
+        "GuildClassType": 2,
+        "Id": 2,
+        "Name": "シルバー(S3)"
+    },
+    {
+        "GuildClassType": 3,
+        "Id": 3,
+        "Name": "シルバー(S2)"
+    },
+    {
+        "GuildClassType": 4,
+        "Id": 4,
+        "Name": "シルバー(S1)"
+    },
+    {
+        "GuildClassType": 5,
+        "Id": 5,
+        "Name": "ゴールド(G3)"
+    },
+    {
+        "GuildClassType": 6,
+        "Id": 6,
+        "Name": "ゴールド(G2)"
+    },
+    {
+        "GuildClassType": 7,
+        "Id": 7,
+        "Name": "ゴールド(G1)"
+    },
+    {
+        "GuildClassType": 8,
+        "Id": 8,
+        "Name": "ダイヤモンド(D3)"
+    },
+    {
+        "GuildClassType": 9,
+        "Id": 9,
+        "Name": "ダイヤモンド(D2)"
+    },
+    {
+        "GuildClassType": 10,
+        "Id": 10,
+        "Name": "ダイヤモンド(D1)"
+    },
+    {
+        "GuildClassType": 11,
+        "Id": 11,
+        "Name": "レジェンド"
+    }
+]

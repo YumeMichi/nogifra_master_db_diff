@@ -1,0 +1,16 @@
+[
+    {
+        "GuildRewardType": 3,
+        "Id": 1,
+        "RewardGroupId": 1,
+        "RewardItemId": 1,
+        "RewardQuantity": 1
+    },
+    {
+        "GuildRewardType": 3,
+        "Id": 2,
+        "RewardGroupId": 2,
+        "RewardItemId": 1,
+        "RewardQuantity": 1
+    }
+]

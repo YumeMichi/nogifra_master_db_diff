@@ -1,0 +1,79 @@
+[
+    {
+        "GuildClassGroupType": 1,
+        "GuildClassType": 1,
+        "Id": 1,
+        "PointRangeFrom": 0,
+        "PointRangeTo": 199
+    },
+    {
+        "GuildClassGroupType": 2,
+        "GuildClassType": 2,
+        "Id": 2,
+        "PointRangeFrom": 200,
+        "PointRangeTo": 399
+    },
+    {
+        "GuildClassGroupType": 2,
+        "GuildClassType": 3,
+        "Id": 3,
+        "PointRangeFrom": 400,
+        "PointRangeTo": 599
+    },
+    {
+        "GuildClassGroupType": 2,
+        "GuildClassType": 4,
+        "Id": 4,
+        "PointRangeFrom": 600,
+        "PointRangeTo": 799
+    },
+    {
+        "GuildClassGroupType": 3,
+        "GuildClassType": 5,
+        "Id": 5,
+        "PointRangeFrom": 800,
+        "PointRangeTo": 999
+    },
+    {
+        "GuildClassGroupType": 3,
+        "GuildClassType": 6,
+        "Id": 6,
+        "PointRangeFrom": 1000,
+        "PointRangeTo": 1199
+    },
+    {
+        "GuildClassGroupType": 3,
+        "GuildClassType": 7,
+        "Id": 7,
+        "PointRangeFrom": 1200,
+        "PointRangeTo": 1399
+    },
+    {
+        "GuildClassGroupType": 4,
+        "GuildClassType": 8,
+        "Id": 8,
+        "PointRangeFrom": 1400,
+        "PointRangeTo": 1599
+    },
+    {
+        "GuildClassGroupType": 4,
+        "GuildClassType": 9,
+        "Id": 9,
+        "PointRangeFrom": 1600,
+        "PointRangeTo": 1799
+    },
+    {
+        "GuildClassGroupType": 4,
+        "GuildClassType": 10,
+        "Id": 10,
+        "PointRangeFrom": 1800,
+        "PointRangeTo": 1999
+    },
+    {
+        "GuildClassGroupType": 5,
+        "GuildClassType": 11,
+        "Id": 11,
+        "PointRangeFrom": 2000,
+        "PointRangeTo": 99999
+    }
+]

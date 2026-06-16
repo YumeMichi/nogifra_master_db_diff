@@ -1,0 +1,3754 @@
+[
+    {
+        "AvatarIdentificationType": 12,
+        "GroupNumber": 1,
+        "Id": 1001,
+        "TargetGroupId": 100,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 1011,
+        "TargetGroupId": 101,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 4,
+        "GroupNumber": 1,
+        "Id": 1021,
+        "TargetGroupId": 102,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 11,
+        "GroupNumber": 1,
+        "Id": 2011,
+        "TargetGroupId": 201,
+        "Value": 201
+    },
+    {
+        "AvatarIdentificationType": 11,
+        "GroupNumber": 1,
+        "Id": 2021,
+        "TargetGroupId": 202,
+        "Value": 202
+    },
+    {
+        "AvatarIdentificationType": 11,
+        "GroupNumber": 1,
+        "Id": 2031,
+        "TargetGroupId": 203,
+        "Value": 203
+    },
+    {
+        "AvatarIdentificationType": 11,
+        "GroupNumber": 1,
+        "Id": 2041,
+        "TargetGroupId": 204,
+        "Value": 204
+    },
+    {
+        "AvatarIdentificationType": 8,
+        "GroupNumber": 1,
+        "Id": 11101,
+        "TargetGroupId": 111,
+        "Value": 1
+    },
+    {
+        "AvatarIdentificationType": 8,
+        "GroupNumber": 1,
+        "Id": 11201,
+        "TargetGroupId": 112,
+        "Value": 2
+    },
+    {
+        "AvatarIdentificationType": 8,
+        "GroupNumber": 1,
+        "Id": 11301,
+        "TargetGroupId": 113,
+        "Value": 3
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21011,
+        "TargetGroupId": 2101,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21012,
+        "TargetGroupId": 2101,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21021,
+        "TargetGroupId": 2102,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21022,
+        "TargetGroupId": 2102,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21061,
+        "TargetGroupId": 2106,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21062,
+        "TargetGroupId": 2106,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21091,
+        "TargetGroupId": 2109,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21101,
+        "TargetGroupId": 2110,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21102,
+        "TargetGroupId": 2110,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21111,
+        "TargetGroupId": 2111,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21121,
+        "TargetGroupId": 2112,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21122,
+        "TargetGroupId": 2112,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21131,
+        "TargetGroupId": 2113,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21132,
+        "TargetGroupId": 2113,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21141,
+        "TargetGroupId": 2114,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21142,
+        "TargetGroupId": 2114,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21151,
+        "TargetGroupId": 2115,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21152,
+        "TargetGroupId": 2115,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21171,
+        "TargetGroupId": 2117,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21172,
+        "TargetGroupId": 2117,
+        "Value": 117
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21181,
+        "TargetGroupId": 2118,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21182,
+        "TargetGroupId": 2118,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21201,
+        "TargetGroupId": 2120,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21202,
+        "TargetGroupId": 2120,
+        "Value": 120
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21211,
+        "TargetGroupId": 2121,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21212,
+        "TargetGroupId": 2121,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21221,
+        "TargetGroupId": 2122,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21222,
+        "TargetGroupId": 2122,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21231,
+        "TargetGroupId": 2123,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21241,
+        "TargetGroupId": 2124,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21242,
+        "TargetGroupId": 2124,
+        "Value": 124
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21251,
+        "TargetGroupId": 2125,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21252,
+        "TargetGroupId": 2125,
+        "Value": 125
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21261,
+        "TargetGroupId": 2126,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21262,
+        "TargetGroupId": 2126,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21271,
+        "TargetGroupId": 2127,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21272,
+        "TargetGroupId": 2127,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21281,
+        "TargetGroupId": 2128,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21282,
+        "TargetGroupId": 2128,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21291,
+        "TargetGroupId": 2129,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21292,
+        "TargetGroupId": 2129,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21301,
+        "TargetGroupId": 2130,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21302,
+        "TargetGroupId": 2130,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21311,
+        "TargetGroupId": 2131,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21312,
+        "TargetGroupId": 2131,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21321,
+        "TargetGroupId": 2132,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21322,
+        "TargetGroupId": 2132,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21331,
+        "TargetGroupId": 2133,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21332,
+        "TargetGroupId": 2133,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21341,
+        "TargetGroupId": 2134,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21342,
+        "TargetGroupId": 2134,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21351,
+        "TargetGroupId": 2135,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21352,
+        "TargetGroupId": 2135,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21361,
+        "TargetGroupId": 2136,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21362,
+        "TargetGroupId": 2136,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21371,
+        "TargetGroupId": 2137,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21372,
+        "TargetGroupId": 2137,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21381,
+        "TargetGroupId": 2138,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21382,
+        "TargetGroupId": 2138,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21391,
+        "TargetGroupId": 2139,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21392,
+        "TargetGroupId": 2139,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21401,
+        "TargetGroupId": 2140,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21402,
+        "TargetGroupId": 2140,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21411,
+        "TargetGroupId": 2141,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21412,
+        "TargetGroupId": 2141,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21421,
+        "TargetGroupId": 2142,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21422,
+        "TargetGroupId": 2142,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21431,
+        "TargetGroupId": 2143,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21432,
+        "TargetGroupId": 2143,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21441,
+        "TargetGroupId": 2144,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21442,
+        "TargetGroupId": 2144,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21451,
+        "TargetGroupId": 2145,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21452,
+        "TargetGroupId": 2145,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21461,
+        "TargetGroupId": 2146,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21462,
+        "TargetGroupId": 2146,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21471,
+        "TargetGroupId": 2147,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21472,
+        "TargetGroupId": 2147,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21481,
+        "TargetGroupId": 2148,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21482,
+        "TargetGroupId": 2148,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21491,
+        "TargetGroupId": 2149,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21492,
+        "TargetGroupId": 2149,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21501,
+        "TargetGroupId": 2150,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21502,
+        "TargetGroupId": 2150,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21511,
+        "TargetGroupId": 2151,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21512,
+        "TargetGroupId": 2151,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21521,
+        "TargetGroupId": 2152,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21522,
+        "TargetGroupId": 2152,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 21531,
+        "TargetGroupId": 2153,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 21532,
+        "TargetGroupId": 2153,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30011,
+        "TargetGroupId": 3001,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30012,
+        "TargetGroupId": 3001,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30013,
+        "TargetGroupId": 3001,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30014,
+        "TargetGroupId": 3001,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30021,
+        "TargetGroupId": 3002,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30022,
+        "TargetGroupId": 3002,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30023,
+        "TargetGroupId": 3002,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30025,
+        "TargetGroupId": 3002,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30031,
+        "TargetGroupId": 3003,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30033,
+        "TargetGroupId": 3003,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30034,
+        "TargetGroupId": 3003,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30035,
+        "TargetGroupId": 3003,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30041,
+        "TargetGroupId": 3004,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30042,
+        "TargetGroupId": 3004,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30043,
+        "TargetGroupId": 3004,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30044,
+        "TargetGroupId": 3004,
+        "Value": 125
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30045,
+        "TargetGroupId": 3004,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30051,
+        "TargetGroupId": 3005,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30052,
+        "TargetGroupId": 3005,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30053,
+        "TargetGroupId": 3005,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30054,
+        "TargetGroupId": 3005,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30055,
+        "TargetGroupId": 3005,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30061,
+        "TargetGroupId": 3006,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30062,
+        "TargetGroupId": 3006,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30063,
+        "TargetGroupId": 3006,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30064,
+        "TargetGroupId": 3006,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30065,
+        "TargetGroupId": 3006,
+        "Value": 120
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30071,
+        "TargetGroupId": 3007,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30073,
+        "TargetGroupId": 3007,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30074,
+        "TargetGroupId": 3007,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30075,
+        "TargetGroupId": 3007,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30081,
+        "TargetGroupId": 3008,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30082,
+        "TargetGroupId": 3008,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30084,
+        "TargetGroupId": 3008,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30085,
+        "TargetGroupId": 3008,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30091,
+        "TargetGroupId": 3009,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30092,
+        "TargetGroupId": 3009,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30093,
+        "TargetGroupId": 3009,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30094,
+        "TargetGroupId": 3009,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30095,
+        "TargetGroupId": 3009,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30101,
+        "TargetGroupId": 3010,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30102,
+        "TargetGroupId": 3010,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30104,
+        "TargetGroupId": 3010,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30105,
+        "TargetGroupId": 3010,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30111,
+        "TargetGroupId": 3011,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30113,
+        "TargetGroupId": 3011,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30114,
+        "TargetGroupId": 3011,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30115,
+        "TargetGroupId": 3011,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30121,
+        "TargetGroupId": 3012,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30122,
+        "TargetGroupId": 3012,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30123,
+        "TargetGroupId": 3012,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30124,
+        "TargetGroupId": 3012,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30125,
+        "TargetGroupId": 3012,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30131,
+        "TargetGroupId": 3013,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30132,
+        "TargetGroupId": 3013,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30133,
+        "TargetGroupId": 3013,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30134,
+        "TargetGroupId": 3013,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30135,
+        "TargetGroupId": 3013,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30141,
+        "TargetGroupId": 3014,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30142,
+        "TargetGroupId": 3014,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30143,
+        "TargetGroupId": 3014,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30144,
+        "TargetGroupId": 3014,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30145,
+        "TargetGroupId": 3014,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30151,
+        "TargetGroupId": 3015,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30152,
+        "TargetGroupId": 3015,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30154,
+        "TargetGroupId": 3015,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30155,
+        "TargetGroupId": 3015,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30161,
+        "TargetGroupId": 3016,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30162,
+        "TargetGroupId": 3016,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30163,
+        "TargetGroupId": 3016,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30164,
+        "TargetGroupId": 3016,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30165,
+        "TargetGroupId": 3016,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30171,
+        "TargetGroupId": 3017,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30172,
+        "TargetGroupId": 3017,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30173,
+        "TargetGroupId": 3017,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30174,
+        "TargetGroupId": 3017,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 30175,
+        "TargetGroupId": 3017,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30181,
+        "TargetGroupId": 3018,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30182,
+        "TargetGroupId": 3018,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30183,
+        "TargetGroupId": 3018,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30184,
+        "TargetGroupId": 3018,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30191,
+        "TargetGroupId": 3019,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30192,
+        "TargetGroupId": 3019,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30193,
+        "TargetGroupId": 3019,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 30201,
+        "TargetGroupId": 3020,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 30202,
+        "TargetGroupId": 3020,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 30203,
+        "TargetGroupId": 3020,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 30204,
+        "TargetGroupId": 3020,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40011,
+        "TargetGroupId": 4001,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40012,
+        "TargetGroupId": 4001,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40013,
+        "TargetGroupId": 4001,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40014,
+        "TargetGroupId": 4001,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 40015,
+        "TargetGroupId": 4001,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40021,
+        "TargetGroupId": 4002,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40022,
+        "TargetGroupId": 4002,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40023,
+        "TargetGroupId": 4002,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40024,
+        "TargetGroupId": 4002,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40031,
+        "TargetGroupId": 4003,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40032,
+        "TargetGroupId": 4003,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40033,
+        "TargetGroupId": 4003,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40041,
+        "TargetGroupId": 4004,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40042,
+        "TargetGroupId": 4004,
+        "Value": 124
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40051,
+        "TargetGroupId": 4005,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40052,
+        "TargetGroupId": 4005,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40053,
+        "TargetGroupId": 4005,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40054,
+        "TargetGroupId": 4005,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 40061,
+        "TargetGroupId": 4006,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40062,
+        "TargetGroupId": 4006,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40063,
+        "TargetGroupId": 4006,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40064,
+        "TargetGroupId": 4006,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 40071,
+        "TargetGroupId": 4007,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40072,
+        "TargetGroupId": 4007,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40073,
+        "TargetGroupId": 4007,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40074,
+        "TargetGroupId": 4007,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 1,
+        "GroupNumber": 1,
+        "Id": 40081,
+        "TargetGroupId": 4008,
+        "Value": 0
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40082,
+        "TargetGroupId": 4008,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40083,
+        "TargetGroupId": 4008,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40084,
+        "TargetGroupId": 4008,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40091,
+        "TargetGroupId": 4009,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40092,
+        "TargetGroupId": 4009,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40093,
+        "TargetGroupId": 4009,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40101,
+        "TargetGroupId": 4010,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40102,
+        "TargetGroupId": 4010,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40103,
+        "TargetGroupId": 4010,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40111,
+        "TargetGroupId": 4011,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40112,
+        "TargetGroupId": 4011,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40113,
+        "TargetGroupId": 4011,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40121,
+        "TargetGroupId": 4012,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40122,
+        "TargetGroupId": 4012,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40123,
+        "TargetGroupId": 4012,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40131,
+        "TargetGroupId": 4013,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40132,
+        "TargetGroupId": 4013,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40141,
+        "TargetGroupId": 4014,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40142,
+        "TargetGroupId": 4014,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40143,
+        "TargetGroupId": 4014,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40151,
+        "TargetGroupId": 4015,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40152,
+        "TargetGroupId": 4015,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40153,
+        "TargetGroupId": 4015,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40154,
+        "TargetGroupId": 4015,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 40155,
+        "TargetGroupId": 4015,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40161,
+        "TargetGroupId": 4016,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40162,
+        "TargetGroupId": 4016,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40171,
+        "TargetGroupId": 4017,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40172,
+        "TargetGroupId": 4017,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40173,
+        "TargetGroupId": 4017,
+        "Value": 120
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40181,
+        "TargetGroupId": 4018,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40182,
+        "TargetGroupId": 4018,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40183,
+        "TargetGroupId": 4018,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40191,
+        "TargetGroupId": 4019,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40192,
+        "TargetGroupId": 4019,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40193,
+        "TargetGroupId": 4019,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40194,
+        "TargetGroupId": 4019,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40201,
+        "TargetGroupId": 4020,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40202,
+        "TargetGroupId": 4020,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40203,
+        "TargetGroupId": 4020,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40211,
+        "TargetGroupId": 4021,
+        "Value": 117
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40212,
+        "TargetGroupId": 4021,
+        "Value": 125
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40221,
+        "TargetGroupId": 4022,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40222,
+        "TargetGroupId": 4022,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40231,
+        "TargetGroupId": 4023,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40232,
+        "TargetGroupId": 4023,
+        "Value": 120
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40233,
+        "TargetGroupId": 4023,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40241,
+        "TargetGroupId": 4024,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40242,
+        "TargetGroupId": 4024,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40243,
+        "TargetGroupId": 4024,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40251,
+        "TargetGroupId": 4025,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40252,
+        "TargetGroupId": 4025,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40253,
+        "TargetGroupId": 4025,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40254,
+        "TargetGroupId": 4025,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40261,
+        "TargetGroupId": 4026,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40262,
+        "TargetGroupId": 4026,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 40263,
+        "TargetGroupId": 4026,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 40264,
+        "TargetGroupId": 4026,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 40265,
+        "TargetGroupId": 4026,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40271,
+        "TargetGroupId": 4027,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40272,
+        "TargetGroupId": 4027,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 40281,
+        "TargetGroupId": 4028,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 40282,
+        "TargetGroupId": 4028,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100101,
+        "TargetGroupId": 1001,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100102,
+        "TargetGroupId": 1001,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100103,
+        "TargetGroupId": 1001,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100104,
+        "TargetGroupId": 1001,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100105,
+        "TargetGroupId": 1001,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100106,
+        "TargetGroupId": 1001,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100107,
+        "TargetGroupId": 1001,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 100108,
+        "TargetGroupId": 1001,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 100109,
+        "TargetGroupId": 1001,
+        "Value": 501
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 100110,
+        "TargetGroupId": 1001,
+        "Value": 502
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 100111,
+        "TargetGroupId": 1001,
+        "Value": 503
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 12,
+        "Id": 100112,
+        "TargetGroupId": 1001,
+        "Value": 504
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100201,
+        "TargetGroupId": 1002,
+        "Value": 117
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100202,
+        "TargetGroupId": 1002,
+        "Value": 118
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100203,
+        "TargetGroupId": 1002,
+        "Value": 120
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100204,
+        "TargetGroupId": 1002,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100205,
+        "TargetGroupId": 1002,
+        "Value": 122
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100206,
+        "TargetGroupId": 1002,
+        "Value": 124
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100207,
+        "TargetGroupId": 1002,
+        "Value": 125
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100301,
+        "TargetGroupId": 1003,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100302,
+        "TargetGroupId": 1003,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100303,
+        "TargetGroupId": 1003,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100304,
+        "TargetGroupId": 1003,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100305,
+        "TargetGroupId": 1003,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100306,
+        "TargetGroupId": 1003,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100307,
+        "TargetGroupId": 1003,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 100308,
+        "TargetGroupId": 1003,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 100309,
+        "TargetGroupId": 1003,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 100310,
+        "TargetGroupId": 1003,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 100311,
+        "TargetGroupId": 1003,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 12,
+        "Id": 100312,
+        "TargetGroupId": 1003,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100401,
+        "TargetGroupId": 1004,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100402,
+        "TargetGroupId": 1004,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100403,
+        "TargetGroupId": 1004,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100404,
+        "TargetGroupId": 1004,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100405,
+        "TargetGroupId": 1004,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100406,
+        "TargetGroupId": 1004,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100407,
+        "TargetGroupId": 1004,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 100408,
+        "TargetGroupId": 1004,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 100409,
+        "TargetGroupId": 1004,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 100410,
+        "TargetGroupId": 1004,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 100411,
+        "TargetGroupId": 1004,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 12,
+        "Id": 100412,
+        "TargetGroupId": 1004,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 13,
+        "Id": 100413,
+        "TargetGroupId": 1004,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 14,
+        "Id": 100414,
+        "TargetGroupId": 1004,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 15,
+        "Id": 100415,
+        "TargetGroupId": 1004,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 16,
+        "Id": 100416,
+        "TargetGroupId": 1004,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100501,
+        "TargetGroupId": 1005,
+        "Value": 154
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100502,
+        "TargetGroupId": 1005,
+        "Value": 155
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100503,
+        "TargetGroupId": 1005,
+        "Value": 156
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100504,
+        "TargetGroupId": 1005,
+        "Value": 157
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100505,
+        "TargetGroupId": 1005,
+        "Value": 158
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100506,
+        "TargetGroupId": 1005,
+        "Value": 159
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100507,
+        "TargetGroupId": 1005,
+        "Value": 160
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 100508,
+        "TargetGroupId": 1005,
+        "Value": 161
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 100509,
+        "TargetGroupId": 1005,
+        "Value": 162
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 100510,
+        "TargetGroupId": 1005,
+        "Value": 163
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 100511,
+        "TargetGroupId": 1005,
+        "Value": 164
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 100601,
+        "TargetGroupId": 1006,
+        "Value": 165
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 100602,
+        "TargetGroupId": 1006,
+        "Value": 166
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 100603,
+        "TargetGroupId": 1006,
+        "Value": 167
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 100604,
+        "TargetGroupId": 1006,
+        "Value": 168
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 100605,
+        "TargetGroupId": 1006,
+        "Value": 169
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 100606,
+        "TargetGroupId": 1006,
+        "Value": 170
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 100607,
+        "TargetGroupId": 1006,
+        "Value": 171
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 100608,
+        "TargetGroupId": 1006,
+        "Value": 172
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 100609,
+        "TargetGroupId": 1006,
+        "Value": 173
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 100610,
+        "TargetGroupId": 1006,
+        "Value": 174
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 100611,
+        "TargetGroupId": 1006,
+        "Value": 175
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 101301,
+        "TargetGroupId": 1013,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 101302,
+        "TargetGroupId": 1013,
+        "Value": 102
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 101303,
+        "TargetGroupId": 1013,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 101304,
+        "TargetGroupId": 1013,
+        "Value": 110
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 101305,
+        "TargetGroupId": 1013,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 101306,
+        "TargetGroupId": 1013,
+        "Value": 113
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 101307,
+        "TargetGroupId": 1013,
+        "Value": 114
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 101308,
+        "TargetGroupId": 1013,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 101309,
+        "TargetGroupId": 1013,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 101310,
+        "TargetGroupId": 1013,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 101311,
+        "TargetGroupId": 1013,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 12,
+        "Id": 101312,
+        "TargetGroupId": 1013,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 13,
+        "Id": 101313,
+        "TargetGroupId": 1013,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 14,
+        "Id": 101314,
+        "TargetGroupId": 1013,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 15,
+        "Id": 101315,
+        "TargetGroupId": 1013,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 16,
+        "Id": 101316,
+        "TargetGroupId": 1013,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 17,
+        "Id": 101317,
+        "TargetGroupId": 1013,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 18,
+        "Id": 101318,
+        "TargetGroupId": 1013,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 19,
+        "Id": 101319,
+        "TargetGroupId": 1013,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 20,
+        "Id": 101320,
+        "TargetGroupId": 1013,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 21,
+        "Id": 101321,
+        "TargetGroupId": 1013,
+        "Value": 501
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 22,
+        "Id": 101322,
+        "TargetGroupId": 1013,
+        "Value": 502
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 23,
+        "Id": 101323,
+        "TargetGroupId": 1013,
+        "Value": 503
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 24,
+        "Id": 101324,
+        "TargetGroupId": 1013,
+        "Value": 504
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 28,
+        "Id": 103401,
+        "TargetGroupId": 1034,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 27,
+        "Id": 103402,
+        "TargetGroupId": 1034,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 26,
+        "Id": 103403,
+        "TargetGroupId": 1034,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 25,
+        "Id": 103404,
+        "TargetGroupId": 1034,
+        "Value": 129
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 24,
+        "Id": 103405,
+        "TargetGroupId": 1034,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 23,
+        "Id": 103406,
+        "TargetGroupId": 1034,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 22,
+        "Id": 103407,
+        "TargetGroupId": 1034,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 21,
+        "Id": 103408,
+        "TargetGroupId": 1034,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 20,
+        "Id": 103409,
+        "TargetGroupId": 1034,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 19,
+        "Id": 103410,
+        "TargetGroupId": 1034,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 18,
+        "Id": 103411,
+        "TargetGroupId": 1034,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 17,
+        "Id": 103412,
+        "TargetGroupId": 1034,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 16,
+        "Id": 103413,
+        "TargetGroupId": 1034,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 15,
+        "Id": 103414,
+        "TargetGroupId": 1034,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 14,
+        "Id": 103415,
+        "TargetGroupId": 1034,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 13,
+        "Id": 103416,
+        "TargetGroupId": 1034,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 12,
+        "Id": 103417,
+        "TargetGroupId": 1034,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 11,
+        "Id": 103418,
+        "TargetGroupId": 1034,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 10,
+        "Id": 103419,
+        "TargetGroupId": 1034,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 9,
+        "Id": 103420,
+        "TargetGroupId": 1034,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 8,
+        "Id": 103421,
+        "TargetGroupId": 1034,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 7,
+        "Id": 103422,
+        "TargetGroupId": 1034,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 6,
+        "Id": 103423,
+        "TargetGroupId": 1034,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 5,
+        "Id": 103424,
+        "TargetGroupId": 1034,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 103425,
+        "TargetGroupId": 1034,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 103426,
+        "TargetGroupId": 1034,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 103427,
+        "TargetGroupId": 1034,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 103428,
+        "TargetGroupId": 1034,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 402901,
+        "TargetGroupId": 4029,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 402902,
+        "TargetGroupId": 4029,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403001,
+        "TargetGroupId": 4030,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403002,
+        "TargetGroupId": 4030,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403101,
+        "TargetGroupId": 4031,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403102,
+        "TargetGroupId": 4031,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403201,
+        "TargetGroupId": 4032,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403202,
+        "TargetGroupId": 4032,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 403203,
+        "TargetGroupId": 4032,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 403204,
+        "TargetGroupId": 4032,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403301,
+        "TargetGroupId": 4033,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403302,
+        "TargetGroupId": 4033,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403401,
+        "TargetGroupId": 4034,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403402,
+        "TargetGroupId": 4034,
+        "Value": 121
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 403403,
+        "TargetGroupId": 4034,
+        "Value": 124
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 4,
+        "Id": 403404,
+        "TargetGroupId": 4034,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403501,
+        "TargetGroupId": 4035,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403502,
+        "TargetGroupId": 4035,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 403503,
+        "TargetGroupId": 4035,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403601,
+        "TargetGroupId": 4036,
+        "Value": 112
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403602,
+        "TargetGroupId": 4036,
+        "Value": 115
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403701,
+        "TargetGroupId": 4037,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403702,
+        "TargetGroupId": 4037,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 403703,
+        "TargetGroupId": 4037,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403801,
+        "TargetGroupId": 4038,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403802,
+        "TargetGroupId": 4038,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 403803,
+        "TargetGroupId": 4038,
+        "Value": 136
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 403901,
+        "TargetGroupId": 4039,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 403902,
+        "TargetGroupId": 4039,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404001,
+        "TargetGroupId": 4040,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404002,
+        "TargetGroupId": 4040,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 404003,
+        "TargetGroupId": 4040,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404101,
+        "TargetGroupId": 4041,
+        "Value": 101
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404102,
+        "TargetGroupId": 4041,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404201,
+        "TargetGroupId": 4042,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404202,
+        "TargetGroupId": 4042,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404301,
+        "TargetGroupId": 4043,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404302,
+        "TargetGroupId": 4043,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404401,
+        "TargetGroupId": 4044,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404402,
+        "TargetGroupId": 4044,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404501,
+        "TargetGroupId": 4045,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404502,
+        "TargetGroupId": 4045,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404601,
+        "TargetGroupId": 4046,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404602,
+        "TargetGroupId": 4046,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404701,
+        "TargetGroupId": 4047,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404702,
+        "TargetGroupId": 4047,
+        "Value": 106
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 404703,
+        "TargetGroupId": 4047,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404801,
+        "TargetGroupId": 4048,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404802,
+        "TargetGroupId": 4048,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 404901,
+        "TargetGroupId": 4049,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 404902,
+        "TargetGroupId": 4049,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 404903,
+        "TargetGroupId": 4049,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405001,
+        "TargetGroupId": 4050,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405002,
+        "TargetGroupId": 4050,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 405003,
+        "TargetGroupId": 4050,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405101,
+        "TargetGroupId": 4051,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405102,
+        "TargetGroupId": 4051,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405201,
+        "TargetGroupId": 4052,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405202,
+        "TargetGroupId": 4052,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405301,
+        "TargetGroupId": 4053,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405302,
+        "TargetGroupId": 4053,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405401,
+        "TargetGroupId": 4054,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405402,
+        "TargetGroupId": 4054,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405501,
+        "TargetGroupId": 4055,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405502,
+        "TargetGroupId": 4055,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405601,
+        "TargetGroupId": 4056,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405602,
+        "TargetGroupId": 4056,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405701,
+        "TargetGroupId": 4057,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405702,
+        "TargetGroupId": 4057,
+        "Value": 142
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405801,
+        "TargetGroupId": 4058,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405802,
+        "TargetGroupId": 4058,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 405901,
+        "TargetGroupId": 4059,
+        "Value": 126
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 405902,
+        "TargetGroupId": 4059,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406001,
+        "TargetGroupId": 4060,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406002,
+        "TargetGroupId": 4060,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406101,
+        "TargetGroupId": 4061,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406102,
+        "TargetGroupId": 4061,
+        "Value": 147
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406201,
+        "TargetGroupId": 4062,
+        "Value": 128
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406202,
+        "TargetGroupId": 4062,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 406203,
+        "TargetGroupId": 4062,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406301,
+        "TargetGroupId": 4063,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406302,
+        "TargetGroupId": 4063,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406401,
+        "TargetGroupId": 4064,
+        "Value": 163
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406402,
+        "TargetGroupId": 4064,
+        "Value": 164
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406501,
+        "TargetGroupId": 4065,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406502,
+        "TargetGroupId": 4065,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 406503,
+        "TargetGroupId": 4065,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406601,
+        "TargetGroupId": 4066,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 406602,
+        "TargetGroupId": 4066,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406701,
+        "TargetGroupId": 4067,
+        "Value": 158
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406801,
+        "TargetGroupId": 4068,
+        "Value": 127
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 406901,
+        "TargetGroupId": 4069,
+        "Value": 133
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407001,
+        "TargetGroupId": 4070,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407101,
+        "TargetGroupId": 4071,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407201,
+        "TargetGroupId": 4072,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 407202,
+        "TargetGroupId": 4072,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407301,
+        "TargetGroupId": 4073,
+        "Value": 134
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407401,
+        "TargetGroupId": 4074,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407501,
+        "TargetGroupId": 4075,
+        "Value": 137
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407601,
+        "TargetGroupId": 4076,
+        "Value": 156
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407701,
+        "TargetGroupId": 4077,
+        "Value": 154
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 407702,
+        "TargetGroupId": 4077,
+        "Value": 157
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 3,
+        "Id": 407703,
+        "TargetGroupId": 4077,
+        "Value": 162
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407801,
+        "TargetGroupId": 4078,
+        "Value": 145
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 407901,
+        "TargetGroupId": 4079,
+        "Value": 160
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408001,
+        "TargetGroupId": 4080,
+        "Value": 135
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408101,
+        "TargetGroupId": 4081,
+        "Value": 140
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 408102,
+        "TargetGroupId": 4081,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408201,
+        "TargetGroupId": 4082,
+        "Value": 143
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408301,
+        "TargetGroupId": 4083,
+        "Value": 132
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408401,
+        "TargetGroupId": 4084,
+        "Value": 162
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408501,
+        "TargetGroupId": 4085,
+        "Value": 157
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408601,
+        "TargetGroupId": 4086,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408701,
+        "TargetGroupId": 4087,
+        "Value": 144
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408801,
+        "TargetGroupId": 4088,
+        "Value": 131
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 408901,
+        "TargetGroupId": 4089,
+        "Value": 138
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409001,
+        "TargetGroupId": 4090,
+        "Value": 139
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409101,
+        "TargetGroupId": 4091,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409201,
+        "TargetGroupId": 4092,
+        "Value": 150
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409301,
+        "TargetGroupId": 4093,
+        "Value": 130
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409401,
+        "TargetGroupId": 4094,
+        "Value": 154
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409501,
+        "TargetGroupId": 4095,
+        "Value": 163
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409601,
+        "TargetGroupId": 4096,
+        "Value": 155
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409701,
+        "TargetGroupId": 4097,
+        "Value": 163
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409801,
+        "TargetGroupId": 4098,
+        "Value": 151
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 409901,
+        "TargetGroupId": 4099,
+        "Value": 159
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410001,
+        "TargetGroupId": 4100,
+        "Value": 159
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 410002,
+        "TargetGroupId": 4100,
+        "Value": 160
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410101,
+        "TargetGroupId": 4101,
+        "Value": 161
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410201,
+        "TargetGroupId": 4102,
+        "Value": 157
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 410202,
+        "TargetGroupId": 4102,
+        "Value": 162
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410301,
+        "TargetGroupId": 4103,
+        "Value": 152
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 410302,
+        "TargetGroupId": 4103,
+        "Value": 148
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410401,
+        "TargetGroupId": 4104,
+        "Value": 149
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410501,
+        "TargetGroupId": 4105,
+        "Value": 141
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 410502,
+        "TargetGroupId": 4105,
+        "Value": 153
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 1,
+        "Id": 410601,
+        "TargetGroupId": 4106,
+        "Value": 146
+    },
+    {
+        "AvatarIdentificationType": 7,
+        "GroupNumber": 2,
+        "Id": 410602,
+        "TargetGroupId": 4106,
+        "Value": 158
+    }
+]

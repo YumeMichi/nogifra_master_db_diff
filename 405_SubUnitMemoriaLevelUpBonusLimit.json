@@ -1,0 +1,17 @@
+[
+    {
+        "EffectType": 1,
+        "Id": 1,
+        "ParamLimit": 0.6
+    },
+    {
+        "EffectType": 2,
+        "Id": 2,
+        "ParamLimit": 0.6
+    },
+    {
+        "EffectType": 3,
+        "Id": 3,
+        "ParamLimit": 0.36
+    }
+]

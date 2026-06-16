@@ -1,0 +1,322 @@
+[
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 1,
+        "Id": 1,
+        "ItemId": 111030003,
+        "ItemQuantity": 10,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 1,
+        "Id": 2,
+        "ItemId": 0,
+        "ItemQuantity": 4000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 1,
+        "Id": 3,
+        "ItemId": 111030003,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 1,
+        "Id": 4,
+        "ItemId": 0,
+        "ItemQuantity": 10000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 1,
+        "Id": 5,
+        "ItemId": 111030003,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 1,
+        "Id": 6,
+        "ItemId": 0,
+        "ItemQuantity": 25000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 1,
+        "Id": 7,
+        "ItemId": 111030003,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 1,
+        "Id": 8,
+        "ItemId": 0,
+        "ItemQuantity": 80000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 2,
+        "Id": 9,
+        "ItemId": 111030003,
+        "ItemQuantity": 20,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 2,
+        "Id": 10,
+        "ItemId": 0,
+        "ItemQuantity": 4000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 2,
+        "Id": 11,
+        "ItemId": 111030003,
+        "ItemQuantity": 30,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 2,
+        "Id": 12,
+        "ItemId": 0,
+        "ItemQuantity": 10000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 2,
+        "Id": 13,
+        "ItemId": 111030003,
+        "ItemQuantity": 50,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 2,
+        "Id": 14,
+        "ItemId": 0,
+        "ItemQuantity": 25000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 2,
+        "Id": 15,
+        "ItemId": 111030003,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 2,
+        "Id": 16,
+        "ItemId": 0,
+        "ItemQuantity": 80000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 3,
+        "Id": 17,
+        "ItemId": 111030003,
+        "ItemQuantity": 40,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 3,
+        "Id": 18,
+        "ItemId": 0,
+        "ItemQuantity": 4000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 3,
+        "Id": 19,
+        "ItemId": 111030003,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 3,
+        "Id": 20,
+        "ItemId": 0,
+        "ItemQuantity": 10000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 3,
+        "Id": 21,
+        "ItemId": 111030003,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 3,
+        "Id": 22,
+        "ItemId": 0,
+        "ItemQuantity": 25000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 3,
+        "Id": 23,
+        "ItemId": 111030003,
+        "ItemQuantity": 120,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 3,
+        "Id": 24,
+        "ItemId": 0,
+        "ItemQuantity": 80000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 4,
+        "Id": 25,
+        "ItemId": 111030003,
+        "ItemQuantity": 60,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 4,
+        "Id": 26,
+        "ItemId": 0,
+        "ItemQuantity": 4000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 4,
+        "Id": 27,
+        "ItemId": 111030003,
+        "ItemQuantity": 80,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 4,
+        "Id": 28,
+        "ItemId": 0,
+        "ItemQuantity": 10000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 4,
+        "Id": 29,
+        "ItemId": 111030003,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 4,
+        "Id": 30,
+        "ItemId": 0,
+        "ItemQuantity": 25000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 4,
+        "Id": 31,
+        "ItemId": 111030003,
+        "ItemQuantity": 150,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 4,
+        "Id": 32,
+        "ItemId": 0,
+        "ItemQuantity": 80000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 5,
+        "Id": 33,
+        "ItemId": 111030003,
+        "ItemQuantity": 100,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 1,
+        "AwakeningSettingGroupId": 5,
+        "Id": 34,
+        "ItemId": 0,
+        "ItemQuantity": 4000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 5,
+        "Id": 35,
+        "ItemId": 111030003,
+        "ItemQuantity": 120,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 2,
+        "AwakeningSettingGroupId": 5,
+        "Id": 36,
+        "ItemId": 0,
+        "ItemQuantity": 10000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 5,
+        "Id": 37,
+        "ItemId": 111030003,
+        "ItemQuantity": 150,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 3,
+        "AwakeningSettingGroupId": 5,
+        "Id": 38,
+        "ItemId": 0,
+        "ItemQuantity": 25000,
+        "ItemType": 102
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 5,
+        "Id": 39,
+        "ItemId": 111030003,
+        "ItemQuantity": 250,
+        "ItemType": 111
+    },
+    {
+        "AwakeningCount": 4,
+        "AwakeningSettingGroupId": 5,
+        "Id": 40,
+        "ItemId": 0,
+        "ItemQuantity": 80000,
+        "ItemType": 102
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "CharacterId": 101,
+        "CostumeId": 100100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 102,
+        "CostumeId": 100200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 106,
+        "CostumeId": 100600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 110,
+        "CostumeId": 101000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 112,
+        "CostumeId": 101200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 113,
+        "CostumeId": 101300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 114,
+        "CostumeId": 101400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 115,
+        "CostumeId": 101500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 117,
+        "CostumeId": 101700,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 118,
+        "CostumeId": 101800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 120,
+        "CostumeId": 102000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 121,
+        "CostumeId": 102100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 122,
+        "CostumeId": 102200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 124,
+        "CostumeId": 102400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 125,
+        "CostumeId": 102500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 126,
+        "CostumeId": 102600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 127,
+        "CostumeId": 102700,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 128,
+        "CostumeId": 102800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 129,
+        "CostumeId": 102900,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 130,
+        "CostumeId": 103000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 131,
+        "CostumeId": 103100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 132,
+        "CostumeId": 103200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 133,
+        "CostumeId": 103300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 134,
+        "CostumeId": 103400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 135,
+        "CostumeId": 103500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 136,
+        "CostumeId": 103600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 137,
+        "CostumeId": 103700,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 138,
+        "CostumeId": 103800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 139,
+        "CostumeId": 103900,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 140,
+        "CostumeId": 104000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 141,
+        "CostumeId": 104100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 142,
+        "CostumeId": 104200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 143,
+        "CostumeId": 104300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 144,
+        "CostumeId": 104400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 145,
+        "CostumeId": 104500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 146,
+        "CostumeId": 104600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 147,
+        "CostumeId": 104700,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 148,
+        "CostumeId": 104800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 149,
+        "CostumeId": 104900,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 150,
+        "CostumeId": 105000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 151,
+        "CostumeId": 105100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 152,
+        "CostumeId": 105200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 153,
+        "CostumeId": 105300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 154,
+        "CostumeId": 105400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 155,
+        "CostumeId": 105500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 156,
+        "CostumeId": 105600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 157,
+        "CostumeId": 105700,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 158,
+        "CostumeId": 105800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 159,
+        "CostumeId": 105900,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 160,
+        "CostumeId": 106000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 161,
+        "CostumeId": 106100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 162,
+        "CostumeId": 106200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 163,
+        "CostumeId": 106300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 164,
+        "CostumeId": 106400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 165,
+        "CostumeId": 106500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 166,
+        "CostumeId": 106600,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 168,
+        "CostumeId": 106800,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 169,
+        "CostumeId": 106900,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 170,
+        "CostumeId": 107000,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 171,
+        "CostumeId": 107100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 172,
+        "CostumeId": 107200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 173,
+        "CostumeId": 107300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 174,
+        "CostumeId": 107400,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 175,
+        "CostumeId": 107500,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 501,
+        "CostumeId": 150100,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 502,
+        "CostumeId": 150200,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 503,
+        "CostumeId": 150300,
+        "CostumeRelationId": 1
+    },
+    {
+        "CharacterId": 504,
+        "CostumeId": 150400,
+        "CostumeRelationId": 1
+    }
+]

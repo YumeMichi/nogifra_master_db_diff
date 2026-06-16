@@ -1,0 +1,802 @@
+[
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1,
+        "Id": 601001,
+        "Level": 1,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.01,
+        "Id": 601002,
+        "Level": 2,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1.01,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.02,
+        "Id": 601003,
+        "Level": 3,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1.01,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.02,
+        "Id": 601004,
+        "Level": 4,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1.02,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.03,
+        "Id": 601005,
+        "Level": 5,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1,
+        "CorrectExpRate": 1.03,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.04,
+        "Id": 601006,
+        "Level": 6,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.01,
+        "CorrectExpRate": 1.03,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.05,
+        "Id": 601007,
+        "Level": 7,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.01,
+        "CorrectExpRate": 1.04,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.07,
+        "Id": 601008,
+        "Level": 8,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.01,
+        "CorrectExpRate": 1.05,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.08,
+        "Id": 601009,
+        "Level": 9,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.01,
+        "CorrectExpRate": 1.06,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.09,
+        "Id": 601010,
+        "Level": 10,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.01,
+        "CorrectExpRate": 1.06,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.11,
+        "Id": 601011,
+        "Level": 11,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.02,
+        "CorrectExpRate": 1.07,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.14,
+        "Id": 601012,
+        "Level": 12,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.02,
+        "CorrectExpRate": 1.08,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.15,
+        "Id": 601013,
+        "Level": 13,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.02,
+        "CorrectExpRate": 1.09,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.17,
+        "Id": 601014,
+        "Level": 14,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.02,
+        "CorrectExpRate": 1.1,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.18,
+        "Id": 601015,
+        "Level": 15,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.03,
+        "CorrectExpRate": 1.11,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.22,
+        "Id": 601016,
+        "Level": 16,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.03,
+        "CorrectExpRate": 1.12,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.24,
+        "Id": 601017,
+        "Level": 17,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.03,
+        "CorrectExpRate": 1.13,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.26,
+        "Id": 601018,
+        "Level": 18,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.03,
+        "CorrectExpRate": 1.14,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.28,
+        "Id": 601019,
+        "Level": 19,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.04,
+        "CorrectExpRate": 1.15,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.32,
+        "Id": 601020,
+        "Level": 20,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.04,
+        "CorrectExpRate": 1.16,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.34,
+        "Id": 601021,
+        "Level": 21,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.04,
+        "CorrectExpRate": 1.17,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.37,
+        "Id": 601022,
+        "Level": 22,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.05,
+        "CorrectExpRate": 1.18,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.42,
+        "Id": 601023,
+        "Level": 23,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.05,
+        "CorrectExpRate": 1.19,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.45,
+        "Id": 601024,
+        "Level": 24,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.05,
+        "CorrectExpRate": 1.2,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.48,
+        "Id": 601025,
+        "Level": 25,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.06,
+        "CorrectExpRate": 1.22,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.54,
+        "Id": 601026,
+        "Level": 26,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.06,
+        "CorrectExpRate": 1.23,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.57,
+        "Id": 601027,
+        "Level": 27,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.06,
+        "CorrectExpRate": 1.24,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.6,
+        "Id": 601028,
+        "Level": 28,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.06,
+        "CorrectExpRate": 1.26,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.68,
+        "Id": 601029,
+        "Level": 29,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.07,
+        "CorrectExpRate": 1.27,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.72,
+        "Id": 601030,
+        "Level": 30,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.07,
+        "CorrectExpRate": 1.28,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.76,
+        "Id": 601031,
+        "Level": 31,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.07,
+        "CorrectExpRate": 1.3,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.83,
+        "Id": 601032,
+        "Level": 32,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.08,
+        "CorrectExpRate": 1.31,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.88,
+        "Id": 601033,
+        "Level": 33,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.08,
+        "CorrectExpRate": 1.32,
+        "CorrectRecommendedDeckTotalBattlePointRate": 1.92,
+        "Id": 601034,
+        "Level": 34,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.08,
+        "CorrectExpRate": 1.35,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.02,
+        "Id": 601035,
+        "Level": 35,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.09,
+        "CorrectExpRate": 1.36,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.07,
+        "Id": 601036,
+        "Level": 36,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.09,
+        "CorrectExpRate": 1.37,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.12,
+        "Id": 601037,
+        "Level": 37,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.1,
+        "CorrectExpRate": 1.39,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.24,
+        "Id": 601038,
+        "Level": 38,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.1,
+        "CorrectExpRate": 1.4,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.28,
+        "Id": 601039,
+        "Level": 39,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.1,
+        "CorrectExpRate": 1.42,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.34,
+        "Id": 601040,
+        "Level": 40,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.11,
+        "CorrectExpRate": 1.44,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.47,
+        "Id": 601041,
+        "Level": 41,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.11,
+        "CorrectExpRate": 1.45,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.54,
+        "Id": 601042,
+        "Level": 42,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.11,
+        "CorrectExpRate": 1.48,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.66,
+        "Id": 601043,
+        "Level": 43,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.12,
+        "CorrectExpRate": 1.49,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.74,
+        "Id": 601044,
+        "Level": 44,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.12,
+        "CorrectExpRate": 1.51,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.81,
+        "Id": 601045,
+        "Level": 45,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.13,
+        "CorrectExpRate": 1.53,
+        "CorrectRecommendedDeckTotalBattlePointRate": 2.96,
+        "Id": 601046,
+        "Level": 46,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.13,
+        "CorrectExpRate": 1.55,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.04,
+        "Id": 601047,
+        "Level": 47,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.13,
+        "CorrectExpRate": 1.56,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.13,
+        "Id": 601048,
+        "Level": 48,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.14,
+        "CorrectExpRate": 1.59,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.3,
+        "Id": 601049,
+        "Level": 49,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.14,
+        "CorrectExpRate": 1.6,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.38,
+        "Id": 601050,
+        "Level": 50,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.15,
+        "CorrectExpRate": 1.63,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.57,
+        "Id": 601051,
+        "Level": 51,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.15,
+        "CorrectExpRate": 1.64,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.66,
+        "Id": 601052,
+        "Level": 52,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.15,
+        "CorrectExpRate": 1.66,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.76,
+        "Id": 601053,
+        "Level": 53,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.16,
+        "CorrectExpRate": 1.69,
+        "CorrectRecommendedDeckTotalBattlePointRate": 3.96,
+        "Id": 601054,
+        "Level": 54,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.16,
+        "CorrectExpRate": 1.7,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.07,
+        "Id": 601055,
+        "Level": 55,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.17,
+        "CorrectExpRate": 1.73,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.29,
+        "Id": 601056,
+        "Level": 56,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.17,
+        "CorrectExpRate": 1.75,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.41,
+        "Id": 601057,
+        "Level": 57,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.17,
+        "CorrectExpRate": 1.76,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.53,
+        "Id": 601058,
+        "Level": 58,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.18,
+        "CorrectExpRate": 1.79,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.78,
+        "Id": 601059,
+        "Level": 59,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.18,
+        "CorrectExpRate": 1.81,
+        "CorrectRecommendedDeckTotalBattlePointRate": 4.91,
+        "Id": 601060,
+        "Level": 60,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.19,
+        "CorrectExpRate": 1.84,
+        "CorrectRecommendedDeckTotalBattlePointRate": 5.16,
+        "Id": 601061,
+        "Level": 61,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.19,
+        "CorrectExpRate": 1.86,
+        "CorrectRecommendedDeckTotalBattlePointRate": 5.3,
+        "Id": 601062,
+        "Level": 62,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.19,
+        "CorrectExpRate": 1.87,
+        "CorrectRecommendedDeckTotalBattlePointRate": 5.44,
+        "Id": 601063,
+        "Level": 63,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.2,
+        "CorrectExpRate": 1.9,
+        "CorrectRecommendedDeckTotalBattlePointRate": 5.71,
+        "Id": 601064,
+        "Level": 64,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.2,
+        "CorrectExpRate": 1.92,
+        "CorrectRecommendedDeckTotalBattlePointRate": 5.87,
+        "Id": 601065,
+        "Level": 65,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.21,
+        "CorrectExpRate": 1.95,
+        "CorrectRecommendedDeckTotalBattlePointRate": 6.18,
+        "Id": 601066,
+        "Level": 66,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.21,
+        "CorrectExpRate": 1.97,
+        "CorrectRecommendedDeckTotalBattlePointRate": 6.35,
+        "Id": 601067,
+        "Level": 67,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.21,
+        "CorrectExpRate": 1.99,
+        "CorrectRecommendedDeckTotalBattlePointRate": 6.51,
+        "Id": 601068,
+        "Level": 68,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.22,
+        "CorrectExpRate": 2.02,
+        "CorrectRecommendedDeckTotalBattlePointRate": 6.86,
+        "Id": 601069,
+        "Level": 69,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.22,
+        "CorrectExpRate": 2.04,
+        "CorrectRecommendedDeckTotalBattlePointRate": 7.04,
+        "Id": 601070,
+        "Level": 70,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.23,
+        "CorrectExpRate": 2.07,
+        "CorrectRecommendedDeckTotalBattlePointRate": 7.38,
+        "Id": 601071,
+        "Level": 71,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.23,
+        "CorrectExpRate": 2.09,
+        "CorrectRecommendedDeckTotalBattlePointRate": 7.57,
+        "Id": 601072,
+        "Level": 72,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.24,
+        "CorrectExpRate": 2.13,
+        "CorrectRecommendedDeckTotalBattlePointRate": 7.96,
+        "Id": 601073,
+        "Level": 73,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.24,
+        "CorrectExpRate": 2.14,
+        "CorrectRecommendedDeckTotalBattlePointRate": 8.17,
+        "Id": 601074,
+        "Level": 74,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.24,
+        "CorrectExpRate": 2.16,
+        "CorrectRecommendedDeckTotalBattlePointRate": 8.34,
+        "Id": 601075,
+        "Level": 75,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.25,
+        "CorrectExpRate": 2.2,
+        "CorrectRecommendedDeckTotalBattlePointRate": 8.77,
+        "Id": 601076,
+        "Level": 76,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.25,
+        "CorrectExpRate": 2.21,
+        "CorrectRecommendedDeckTotalBattlePointRate": 8.99,
+        "Id": 601077,
+        "Level": 77,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.26,
+        "CorrectExpRate": 2.25,
+        "CorrectRecommendedDeckTotalBattlePointRate": 9.45,
+        "Id": 601078,
+        "Level": 78,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.26,
+        "CorrectExpRate": 2.27,
+        "CorrectRecommendedDeckTotalBattlePointRate": 9.68,
+        "Id": 601079,
+        "Level": 79,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.27,
+        "CorrectExpRate": 2.31,
+        "CorrectRecommendedDeckTotalBattlePointRate": 10.16,
+        "Id": 601080,
+        "Level": 80,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.27,
+        "CorrectExpRate": 2.33,
+        "CorrectRecommendedDeckTotalBattlePointRate": 10.41,
+        "Id": 601081,
+        "Level": 81,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.27,
+        "CorrectExpRate": 2.34,
+        "CorrectRecommendedDeckTotalBattlePointRate": 10.63,
+        "Id": 601082,
+        "Level": 82,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.28,
+        "CorrectExpRate": 2.38,
+        "CorrectRecommendedDeckTotalBattlePointRate": 11.15,
+        "Id": 601083,
+        "Level": 83,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.28,
+        "CorrectExpRate": 2.4,
+        "CorrectRecommendedDeckTotalBattlePointRate": 11.42,
+        "Id": 601084,
+        "Level": 84,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.29,
+        "CorrectExpRate": 2.43,
+        "CorrectRecommendedDeckTotalBattlePointRate": 11.93,
+        "Id": 601085,
+        "Level": 85,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.29,
+        "CorrectExpRate": 2.45,
+        "CorrectRecommendedDeckTotalBattlePointRate": 12.21,
+        "Id": 601086,
+        "Level": 86,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.29,
+        "CorrectExpRate": 2.49,
+        "CorrectRecommendedDeckTotalBattlePointRate": 12.8,
+        "Id": 601087,
+        "Level": 87,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.3,
+        "CorrectExpRate": 2.51,
+        "CorrectRecommendedDeckTotalBattlePointRate": 13.1,
+        "Id": 601088,
+        "Level": 88,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.3,
+        "CorrectExpRate": 2.55,
+        "CorrectRecommendedDeckTotalBattlePointRate": 13.72,
+        "Id": 601089,
+        "Level": 89,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.31,
+        "CorrectExpRate": 2.57,
+        "CorrectRecommendedDeckTotalBattlePointRate": 14.03,
+        "Id": 601090,
+        "Level": 90,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.31,
+        "CorrectExpRate": 2.59,
+        "CorrectRecommendedDeckTotalBattlePointRate": 14.36,
+        "Id": 601091,
+        "Level": 91,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.31,
+        "CorrectExpRate": 2.63,
+        "CorrectRecommendedDeckTotalBattlePointRate": 14.97,
+        "Id": 601092,
+        "Level": 92,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.32,
+        "CorrectExpRate": 2.65,
+        "CorrectRecommendedDeckTotalBattlePointRate": 15.31,
+        "Id": 601093,
+        "Level": 93,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.32,
+        "CorrectExpRate": 2.69,
+        "CorrectRecommendedDeckTotalBattlePointRate": 16.01,
+        "Id": 601094,
+        "Level": 94,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.32,
+        "CorrectExpRate": 2.71,
+        "CorrectRecommendedDeckTotalBattlePointRate": 16.37,
+        "Id": 601095,
+        "Level": 95,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.33,
+        "CorrectExpRate": 2.75,
+        "CorrectRecommendedDeckTotalBattlePointRate": 17.06,
+        "Id": 601096,
+        "Level": 96,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.33,
+        "CorrectExpRate": 2.77,
+        "CorrectRecommendedDeckTotalBattlePointRate": 17.43,
+        "Id": 601097,
+        "Level": 97,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.34,
+        "CorrectExpRate": 2.81,
+        "CorrectRecommendedDeckTotalBattlePointRate": 18.21,
+        "Id": 601098,
+        "Level": 98,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.34,
+        "CorrectExpRate": 2.83,
+        "CorrectRecommendedDeckTotalBattlePointRate": 18.61,
+        "Id": 601099,
+        "Level": 99,
+        "LevelCorrectionGroupId": 601
+    },
+    {
+        "CorrectClearRewardQuantityRate": 1.35,
+        "CorrectExpRate": 2.87,
+        "CorrectRecommendedDeckTotalBattlePointRate": 19.42,
+        "Id": 601100,
+        "Level": 100,
+        "LevelCorrectionGroupId": 601
+    }
+]

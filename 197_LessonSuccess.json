@@ -1,0 +1,20 @@
+[
+    {
+        "Id": 1,
+        "SuccessType": 1,
+        "UpRate": 1,
+        "Weight": 85
+    },
+    {
+        "Id": 2,
+        "SuccessType": 2,
+        "UpRate": 2,
+        "Weight": 10
+    },
+    {
+        "Id": 3,
+        "SuccessType": 3,
+        "UpRate": 10,
+        "Weight": 5
+    }
+]

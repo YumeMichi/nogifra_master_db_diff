@@ -1,0 +1,34 @@
+[
+    {
+        "AceAuraPoint": 0,
+        "GradeType": 5,
+        "Id": 1,
+        "MakePrice": 1500,
+        "MakeResultType": 1,
+        "StarCount": 0
+    },
+    {
+        "AceAuraPoint": 0,
+        "GradeType": 5,
+        "Id": 2,
+        "MakePrice": 1500,
+        "MakeResultType": 2,
+        "StarCount": 1
+    },
+    {
+        "AceAuraPoint": 1,
+        "GradeType": 5,
+        "Id": 3,
+        "MakePrice": 5000,
+        "MakeResultType": 3,
+        "StarCount": 0
+    },
+    {
+        "AceAuraPoint": 1,
+        "GradeType": 5,
+        "Id": 4,
+        "MakePrice": 5000,
+        "MakeResultType": 4,
+        "StarCount": 1
+    }
+]

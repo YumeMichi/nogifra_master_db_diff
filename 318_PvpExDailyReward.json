@@ -1,0 +1,206 @@
+[
+    {
+        "FromRanking": 1,
+        "Id": 100101,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 1
+    },
+    {
+        "FromRanking": 2,
+        "Id": 100102,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 2
+    },
+    {
+        "FromRanking": 3,
+        "Id": 100103,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 3
+    },
+    {
+        "FromRanking": 4,
+        "Id": 100104,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 4
+    },
+    {
+        "FromRanking": 5,
+        "Id": 100105,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 5
+    },
+    {
+        "FromRanking": 6,
+        "Id": 100106,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 6
+    },
+    {
+        "FromRanking": 7,
+        "Id": 100107,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 7
+    },
+    {
+        "FromRanking": 8,
+        "Id": 100108,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 8
+    },
+    {
+        "FromRanking": 9,
+        "Id": 100109,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 9
+    },
+    {
+        "FromRanking": 10,
+        "Id": 100110,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 10
+    },
+    {
+        "FromRanking": 11,
+        "Id": 100111,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 11
+    },
+    {
+        "FromRanking": 12,
+        "Id": 100112,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 12
+    },
+    {
+        "FromRanking": 13,
+        "Id": 100113,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 13
+    },
+    {
+        "FromRanking": 14,
+        "Id": 100114,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 14
+    },
+    {
+        "FromRanking": 15,
+        "Id": 100115,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 15
+    },
+    {
+        "FromRanking": 16,
+        "Id": 100116,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 16
+    },
+    {
+        "FromRanking": 17,
+        "Id": 100117,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 17
+    },
+    {
+        "FromRanking": 18,
+        "Id": 100118,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 18
+    },
+    {
+        "FromRanking": 19,
+        "Id": 100119,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 19
+    },
+    {
+        "FromRanking": 20,
+        "Id": 100120,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 20
+    },
+    {
+        "FromRanking": 21,
+        "Id": 100121,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 25
+    },
+    {
+        "FromRanking": 26,
+        "Id": 100122,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 30
+    },
+    {
+        "FromRanking": 31,
+        "Id": 100123,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 40
+    },
+    {
+        "FromRanking": 41,
+        "Id": 100124,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 50
+    },
+    {
+        "FromRanking": 51,
+        "Id": 100125,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 70
+    },
+    {
+        "FromRanking": 71,
+        "Id": 100126,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 100
+    },
+    {
+        "FromRanking": 101,
+        "Id": 100127,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 130
+    },
+    {
+        "FromRanking": 131,
+        "Id": 100128,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 160
+    },
+    {
+        "FromRanking": 161,
+        "Id": 100129,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 200
+    },
+    {
+        "FromRanking": 201,
+        "Id": 100130,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 250
+    },
+    {
+        "FromRanking": 251,
+        "Id": 100131,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 300
+    },
+    {
+        "FromRanking": 301,
+        "Id": 100132,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 400
+    },
+    {
+        "FromRanking": 401,
+        "Id": 100133,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 500
+    },
+    {
+        "FromRanking": 501,
+        "Id": 100134,
+        "StartPvpExScheduleId": 1001,
+        "ToRanking": 0
+    }
+]

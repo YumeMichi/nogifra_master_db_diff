@@ -1,0 +1,116 @@
+[
+    {
+        "ErrorCode": 1,
+        "Id": 1,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 2,
+        "Id": 2,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 3,
+        "Id": 3,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 4,
+        "Id": 4,
+        "Logic": 4,
+        "Message": "ライブ履歴がありません。"
+    },
+    {
+        "ErrorCode": 5,
+        "Id": 5,
+        "Logic": 2,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 6,
+        "Id": 6,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 7,
+        "Id": 7,
+        "Logic": 2,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 8,
+        "Id": 8,
+        "Logic": 4,
+        "Message": "エントリー期間外のため、エントリーできませんでした。"
+    },
+    {
+        "ErrorCode": 9,
+        "Id": 9,
+        "Logic": 4,
+        "Message": "残り回数が足りないため、エントリーできませんでした。"
+    },
+    {
+        "ErrorCode": 10,
+        "Id": 10,
+        "Logic": 4,
+        "Message": "既にエントリー済みなため、エントリーできませんでした。"
+    },
+    {
+        "ErrorCode": 11,
+        "Id": 11,
+        "Logic": 3,
+        "Message": "会場の所有権が変わったため、会場入りできませんでした。"
+    },
+    {
+        "ErrorCode": 12,
+        "Id": 12,
+        "Logic": 4,
+        "Message": "今は会場入りできません。"
+    },
+    {
+        "ErrorCode": 13,
+        "Id": 13,
+        "Logic": 4,
+        "Message": "これ以上会場入りできません。"
+    },
+    {
+        "ErrorCode": 14,
+        "Id": 14,
+        "Logic": 4,
+        "Message": "既に会場入り中です。"
+    },
+    {
+        "ErrorCode": 15,
+        "Id": 15,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 16,
+        "Id": 16,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 17,
+        "Id": 17,
+        "Logic": 1,
+        "Message": ""
+    },
+    {
+        "ErrorCode": 18,
+        "Id": 18,
+        "Logic": 4,
+        "Message": "これ以上会場入りできません。"
+    },
+    {
+        "ErrorCode": 19,
+        "Id": 19,
+        "Logic": 4,
+        "Message": "エントリークールタイム中です。"
+    }
+]

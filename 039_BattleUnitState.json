@@ -1,0 +1,1022 @@
+[
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1,
+        "Name": "アピール力アップ",
+        "PlayEffectType": 1,
+        "ResourceId": 1,
+        "Text": "アピール力が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 2,
+        "Name": "ディフェンスアップ",
+        "PlayEffectType": 2,
+        "ResourceId": 2,
+        "Text": "ディフェンスが一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 3,
+        "Name": "フィジカルアップ",
+        "PlayEffectType": 2,
+        "ResourceId": 3,
+        "Text": "フィジカルが一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4,
+        "Name": "メンタルアップ",
+        "PlayEffectType": 2,
+        "ResourceId": 4,
+        "Text": "メンタルが一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 5,
+        "Name": "命中率アップ",
+        "PlayEffectType": 3,
+        "ResourceId": 5,
+        "Text": "命中率が一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 6,
+        "Name": "回避率アップ",
+        "PlayEffectType": 4,
+        "ResourceId": 6,
+        "Text": "回避率が一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 7,
+        "Name": "アピールガード(努力)",
+        "PlayEffectType": 2,
+        "ResourceId": 7,
+        "Text": "努力タイプから受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 8,
+        "Name": "アピールガード(感謝)",
+        "PlayEffectType": 2,
+        "ResourceId": 8,
+        "Text": "感謝タイプから受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 9,
+        "Name": "アピールガード(笑顔)",
+        "PlayEffectType": 2,
+        "ResourceId": 9,
+        "Text": "笑顔タイプから受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 10,
+        "Name": "会心アピール耐性アップ",
+        "PlayEffectType": 2,
+        "ResourceId": 10,
+        "Text": "会心アピール耐性が一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 11,
+        "Name": "会心率アップ",
+        "PlayEffectType": 1,
+        "ResourceId": 11,
+        "Text": "会心率が一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 12,
+        "Name": "アピールブースト(努力)",
+        "PlayEffectType": 1,
+        "ResourceId": 12,
+        "Text": "努力タイプへ与えるアピールを一定割合増加させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 13,
+        "Name": "アピールブースト(感謝)",
+        "PlayEffectType": 1,
+        "ResourceId": 13,
+        "Text": "感謝タイプへ与えるアピールを一定割合増加させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 14,
+        "Name": "アピールブースト(笑顔)",
+        "PlayEffectType": 1,
+        "ResourceId": 14,
+        "Text": "笑顔タイプへ与えるアピールを一定割合増加させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 901,
+        "Name": "努力の詩",
+        "PlayEffectType": 0,
+        "ResourceId": 901,
+        "Text": "味方メンバーのアピール力が行動1回毎に上昇する（上昇値には上限あり）"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 902,
+        "Name": "感謝の詩",
+        "PlayEffectType": 0,
+        "ResourceId": 902,
+        "Text": "味方メンバーのアピール時、ライバルのHP上限の一定割合をアピールに加算する（加算値には上限あり）"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 903,
+        "Name": "笑顔の詩",
+        "PlayEffectType": 0,
+        "ResourceId": 903,
+        "Text": "味方メンバーの会心アピールが一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1001,
+        "Name": "反響",
+        "PlayEffectType": 2,
+        "ResourceId": 1001,
+        "Text": "リフレクトが一定値上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1002,
+        "Name": "興奮",
+        "PlayEffectType": 1,
+        "ResourceId": 1002,
+        "Text": "アピール力とディフェンスが一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1003,
+        "Name": "熱中",
+        "PlayEffectType": 1,
+        "ResourceId": 1003,
+        "Text": "アピール力とディフェンスが一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1004,
+        "Name": "陽動",
+        "PlayEffectType": 2,
+        "ResourceId": 1004,
+        "Text": "ディフェンスが一定割合上昇し、アピールを受けた際に一定確率でライバルに「落胆」を付与する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1005,
+        "Name": "集中",
+        "PlayEffectType": 1,
+        "ResourceId": 1005,
+        "Text": "アピール力が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1006,
+        "Name": "根性",
+        "PlayEffectType": 2,
+        "ResourceId": 1006,
+        "Text": "クリティカルを受けた際、アピールを無効化する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1007,
+        "Name": "堅忍",
+        "PlayEffectType": 2,
+        "ResourceId": 1007,
+        "Text": "自動HP回復を一定値上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1008,
+        "Name": "勇気",
+        "PlayEffectType": 2,
+        "ResourceId": 1008,
+        "Text": "「勇気」付与時の残りSP×一定値分のアピールを無効化する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1009,
+        "Name": "魅了",
+        "PlayEffectType": 2,
+        "ResourceId": 1009,
+        "Text": "ライバルから受けるランダム対象のアピールを集中させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1010,
+        "Name": "全開",
+        "PlayEffectType": 1,
+        "ResourceId": 1010,
+        "Text": "アピール力が一定割合上昇するが、受けるアピールも一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1011,
+        "Name": "威圧",
+        "PlayEffectType": 2,
+        "ResourceId": 1011,
+        "Text": "ディフェンスが一定割合上昇し、アピールを受けた際に一定確率でライバルに「転倒」を付与する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1012,
+        "Name": "神気",
+        "PlayEffectType": 1,
+        "ResourceId": 1012,
+        "Text": "アピール力が一定割合上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1013,
+        "Name": "軽快",
+        "PlayEffectType": 4,
+        "ResourceId": 1013,
+        "Text": "アピール力と回避率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1014,
+        "Name": "不屈",
+        "PlayEffectType": 2,
+        "ResourceId": 1014,
+        "Text": "HP上限の一定割合を超えた分のアピールを無効化し、無効化したアピールをライバルに反射する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1015,
+        "Name": "強運",
+        "PlayEffectType": 1,
+        "ResourceId": 1015,
+        "Text": "アピール力と会心率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1017,
+        "Name": "結束",
+        "PlayEffectType": 2,
+        "ResourceId": 1017,
+        "Text": "受けるアピールを一定割合低下し、回避率が一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1019,
+        "Name": "機敏",
+        "PlayEffectType": 3,
+        "ResourceId": 1019,
+        "Text": "アピール力と命中率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1020,
+        "Name": "防音",
+        "PlayEffectType": 2,
+        "ResourceId": 1020,
+        "Text": "会心アピール耐性を一定値上昇し、受けるアピールを一定割合低下する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1021,
+        "Name": "柔軟",
+        "PlayEffectType": 2,
+        "ResourceId": 1021,
+        "Text": "リフレクト耐性を一定値上昇し、受けるアピールを一定割合低下する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1022,
+        "Name": "集音",
+        "PlayEffectType": 1,
+        "ResourceId": 1022,
+        "Text": "アピール力とリフレクト耐性が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1023,
+        "Name": "幸運",
+        "PlayEffectType": 1,
+        "ResourceId": 1023,
+        "Text": "アピール力と会心率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1024,
+        "Name": "光華",
+        "PlayEffectType": 2,
+        "ResourceId": 1024,
+        "Text": "会心率が一定割合上昇し、リフレクトが一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1025,
+        "Name": "静音",
+        "PlayEffectType": 2,
+        "ResourceId": 1025,
+        "Text": "会心アピール耐性を一定値上昇し、受けるアピールを一定割合低下する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1026,
+        "Name": "軽業",
+        "PlayEffectType": 2,
+        "ResourceId": 1026,
+        "Text": "受けるアピールを一定割合低下し、アピールを受けた際に一定確率でライバルを「命中率ダウン」状態にする"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1027,
+        "Name": "舞踏",
+        "PlayEffectType": 2,
+        "ResourceId": 1027,
+        "Text": "ディフェンスと回避率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1028,
+        "Name": "情熱",
+        "PlayEffectType": 1,
+        "ResourceId": 1028,
+        "Text": "毎ターン残りHPから一定割合のHPを失うが、アピール力が一定割合上昇し、会心アピールを一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1029,
+        "Name": "交響",
+        "PlayEffectType": 2,
+        "ResourceId": 1029,
+        "Text": "リフレクトが一定値上昇し、サゲ効果耐性を一定割合増加する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1030,
+        "Name": "豪運",
+        "PlayEffectType": 1,
+        "ResourceId": 1030,
+        "Text": "会心アピールが一定値上昇し、会心率が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1031,
+        "Name": "倍音",
+        "PlayEffectType": 1,
+        "ResourceId": 1031,
+        "Text": "アピール力が一定値上昇し、リフレクト耐性が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1032,
+        "Name": "夢中",
+        "PlayEffectType": 2,
+        "ResourceId": 1032,
+        "Text": "リフレクト耐性が一定割合上昇し、デバフ・サゲ効果耐性が上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1033,
+        "Name": "音響",
+        "PlayEffectType": 2,
+        "ResourceId": 1033,
+        "Text": "リフレクトが一定値上昇し、リフレクト耐性が一定割合上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1034,
+        "Name": "熱意",
+        "PlayEffectType": 1,
+        "ResourceId": 1034,
+        "Text": "アピール成功時に会心アピールになる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1035,
+        "Name": "牽制",
+        "PlayEffectType": 2,
+        "ResourceId": 1035,
+        "Text": "デバフ・サゲ効果耐性貫通が一定値上昇し、受けるアピールを一定割合低下させる"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1036,
+        "Name": "奏響",
+        "PlayEffectType": 2,
+        "ResourceId": 1036,
+        "Text": "リフレクトが一定値上昇し、自動HP回復を一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1037,
+        "Name": "静謐",
+        "PlayEffectType": 2,
+        "ResourceId": 1037,
+        "Text": "受けるアピールを一定割合減少させ、自動HP回復を一定値上昇する"
+    },
+    {
+        "Category": 1,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 1038,
+        "Name": "聡明",
+        "PlayEffectType": 3,
+        "ResourceId": 1038,
+        "Text": "命中率と会心率が一定割合上昇する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 1,
+        "Id": 2001,
+        "Name": "アピール力ダウン",
+        "PlayEffectType": 5,
+        "ResourceId": 2001,
+        "Text": "アピール力が一定割合減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 2,
+        "Id": 2002,
+        "Name": "ディフェンスダウン",
+        "PlayEffectType": 6,
+        "ResourceId": 2002,
+        "Text": "ディフェンスが一定割合減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 3,
+        "Id": 2003,
+        "Name": "フィジカルダウン",
+        "PlayEffectType": 6,
+        "ResourceId": 2003,
+        "Text": "フィジカルが一定割合減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 4,
+        "Id": 2004,
+        "Name": "メンタルダウン",
+        "PlayEffectType": 6,
+        "ResourceId": 2004,
+        "Text": "メンタルが一定割合減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 5,
+        "Id": 2005,
+        "Name": "命中率ダウン",
+        "PlayEffectType": 7,
+        "ResourceId": 2005,
+        "Text": "命中率が一定値減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 1,
+        "DisplayOrder": 6,
+        "Id": 2006,
+        "Name": "回避率ダウン",
+        "PlayEffectType": 8,
+        "ResourceId": 2006,
+        "Text": "回避率が一定値減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 1,
+        "Id": 3001,
+        "Name": "転倒",
+        "PlayEffectType": 9,
+        "ResourceId": 3001,
+        "Text": "行動ができなくなる"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 2,
+        "Id": 3002,
+        "Name": "雑音",
+        "PlayEffectType": 11,
+        "ResourceId": 3002,
+        "Text": "スキルが使用できなくなる"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 1,
+        "Id": 3003,
+        "Name": "落胆",
+        "PlayEffectType": 9,
+        "ResourceId": 3003,
+        "Text": "行動ができなくなる"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 3,
+        "Id": 3004,
+        "Name": "衰弱",
+        "PlayEffectType": 10,
+        "ResourceId": 3004,
+        "Text": "残りHPの一定割合分のアピールを行動毎に受ける"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 2,
+        "Id": 3005,
+        "Name": "心労",
+        "PlayEffectType": 10,
+        "ResourceId": 3005,
+        "Text": "「心労」付与時に受けたアピールの一定割合を行動毎に受ける"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 3,
+        "Id": 3006,
+        "Name": "嫉妬",
+        "PlayEffectType": 9,
+        "ResourceId": 3006,
+        "Text": "HPが回復しなくなる"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 4,
+        "Id": 3007,
+        "Name": "空腹",
+        "PlayEffectType": 6,
+        "ResourceId": 3007,
+        "Text": "受けるアピールが一定割合上昇し、アピール力が一定割合減少する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 4,
+        "Id": 3008,
+        "Name": "執着",
+        "PlayEffectType": 6,
+        "ResourceId": 3008,
+        "Text": "受けるアピールが一定割合上昇し、ライバルから受けるランダム対象のアピールが集中する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 5,
+        "Id": 3009,
+        "Name": "混乱",
+        "PlayEffectType": 10,
+        "ResourceId": 3009,
+        "Text": "残りHPの一定割合分のアピールを行動毎に受ける"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 5,
+        "Id": 3010,
+        "Name": "緊張",
+        "PlayEffectType": 5,
+        "ResourceId": 3010,
+        "Text": "アピール力とディフェンスが一定割合低下する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 2,
+        "DisplayOrder": 6,
+        "Id": 3011,
+        "Name": "不調",
+        "PlayEffectType": 5,
+        "ResourceId": 3011,
+        "Text": "アピール力と会心率が一定割合低下する"
+    },
+    {
+        "Category": 2,
+        "DisplayGroupId": 3,
+        "DisplayOrder": 6,
+        "Id": 3012,
+        "Name": "弱音",
+        "PlayEffectType": 6,
+        "ResourceId": 3012,
+        "Text": "フィジカルとメンタルが一定割合低下する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4001,
+        "Name": "重奏",
+        "PlayEffectType": 12,
+        "ResourceId": 4001,
+        "Text": "アピール力と消費SPが一定割合上昇する。重奏の効果中に再度重奏が付与されるとさらに効果が上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4002,
+        "Name": "熱血",
+        "PlayEffectType": 12,
+        "ResourceId": 4002,
+        "Text": "必ず会心アピールに成功となり、サゲ効果を受けなくなる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4003,
+        "Name": "聖域",
+        "PlayEffectType": 15,
+        "ResourceId": 4003,
+        "Text": "アピールを一定確率で無効化し、ライバルを「落胆」状態にする"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4004,
+        "Name": "円陣",
+        "PlayEffectType": 12,
+        "ResourceId": 4004,
+        "Text": "アピール力とデバフ・サゲ効果耐性を一定割合上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4005,
+        "Name": "遮音",
+        "PlayEffectType": 13,
+        "ResourceId": 4005,
+        "Text": "受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4006,
+        "Name": "熱狂",
+        "PlayEffectType": 12,
+        "ResourceId": 4006,
+        "Text": "アピール力が行動毎に上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4007,
+        "Name": "復活",
+        "PlayEffectType": 0,
+        "ResourceId": 1,
+        "Text": "戦闘不能時に復活する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4008,
+        "Name": "不屈",
+        "PlayEffectType": 13,
+        "ResourceId": 4008,
+        "Text": "サゲ効果耐性を一定割合増加し、リタイアが確定するアピールを受ける場合、「不屈」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4009,
+        "Name": "声援",
+        "PlayEffectType": 13,
+        "ResourceId": 4007,
+        "Text": "自動HP回復を一定値上昇し、受けるアピールを一定割合減少し、メンタルが一定割合増加する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4010,
+        "Name": "根性",
+        "PlayEffectType": 12,
+        "ResourceId": 4009,
+        "Text": "サゲ効果耐性とアピール力を一定割合増加し、リタイアが確定するアピールを受ける場合、「根性」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4011,
+        "Name": "希望",
+        "PlayEffectType": 12,
+        "ResourceId": 4010,
+        "Text": "アピール力とディフェンスを一定割合増加し、リタイアが確定するアピールを受ける場合、「希望」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4012,
+        "Name": "光輝",
+        "PlayEffectType": 12,
+        "ResourceId": 4011,
+        "Text": "会心率を一定割合増加し、受けるアピールを一定割合減少させ、リタイアが確定するアピールを受ける場合、「光輝」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4013,
+        "Name": "翻弄",
+        "PlayEffectType": 13,
+        "ResourceId": 4012,
+        "Text": "ディフェンスとフィジカルが一定割合上昇し、アピールを受けた際に一定確率でライバルを「不調」状態にする"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4014,
+        "Name": "抱擁",
+        "PlayEffectType": 12,
+        "ResourceId": 4013,
+        "Text": "アピール力が一定割合上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4015,
+        "Name": "独占",
+        "PlayEffectType": 13,
+        "ResourceId": 4014,
+        "Text": "サゲ効果耐性を一定割合増加し、受けるアピールを一定割合減少させ、リタイアが確定するアピールを独占状態の自身が受ける場合、「独占」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4016,
+        "Name": "追走",
+        "PlayEffectType": 13,
+        "ResourceId": 4015,
+        "Text": "受けるアピールを一定割合低下し、回避率が一定値上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4017,
+        "Name": "脚光",
+        "PlayEffectType": 13,
+        "ResourceId": 4016,
+        "Text": "受けるアピールを一定割合低下し、アピールを受けた際に一定確率でライバルを「アピール力ダウン」状態にする"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4018,
+        "Name": "決心",
+        "PlayEffectType": 13,
+        "ResourceId": 4017,
+        "Text": "ライバルから受けるアピールが集中し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4019,
+        "Name": "残響",
+        "PlayEffectType": 13,
+        "ResourceId": 4018,
+        "Text": "リフレクトが一定値上昇し、受けるアピールを一定割合減少させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4020,
+        "Name": "保護",
+        "PlayEffectType": 13,
+        "ResourceId": 4019,
+        "Text": "会心アピール耐性を一定値上昇し、受けるアピールを一定割合低下する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4021,
+        "Name": "臨機",
+        "PlayEffectType": 13,
+        "ResourceId": 4020,
+        "Text": "リフレクト耐性が一定値上昇し、受けるアピールを一定割合低下させる"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4022,
+        "Name": "瞑想",
+        "PlayEffectType": 13,
+        "ResourceId": 4021,
+        "Text": "サゲ効果耐性と会心アピール耐性を一定割合増加し、リタイアが確定するアピールを受ける場合、「瞑想」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4023,
+        "Name": "旋回",
+        "PlayEffectType": 15,
+        "ResourceId": 4022,
+        "Text": "アピール力と回避率が一定割合上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4024,
+        "Name": "平穏",
+        "PlayEffectType": 13,
+        "ResourceId": 4023,
+        "Text": "受けるアピールを一定割合低下し、アピールを受けた際にライバルのバフ・アゲ効果を解除し、リタイアが確定するアピールを受ける場合、「平穏」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4025,
+        "Name": "躍動",
+        "PlayEffectType": 13,
+        "ResourceId": 4025,
+        "Text": "リフレクトが一定値上昇し、リタイアが確定するアピールを受ける場合、「躍動」状態のターン数を消費してアピールを無効化し、回復する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4026,
+        "Name": "平静",
+        "PlayEffectType": 13,
+        "ResourceId": 4026,
+        "Text": "受けるアピールを一定割合低下させ、アピールを受けた際、一定の確率で自身のデバフ・サゲ効果を解除する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 4027,
+        "Name": "華麗",
+        "PlayEffectType": 13,
+        "ResourceId": 4027,
+        "Text": "ディフェンスが一定割合上昇し、アピールを受けた際に一定確率でライバルを「空腹」状態にする"
+    },
+    {
+        "Category": 4,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 5001,
+        "Name": "トラスト",
+        "PlayEffectType": 16,
+        "ResourceId": 5001,
+        "Text": "親密度解放することで指定されたメンバーのアピール力が上昇し、受けるアピールが低下する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 8001,
+        "Name": "フィジカルダメージアップ",
+        "PlayEffectType": 12,
+        "ResourceId": 8001,
+        "Text": "ライバルに与えるフィジカルアピールが一定割合上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 8002,
+        "Name": "メンタルダメージアップ",
+        "PlayEffectType": 12,
+        "ResourceId": 8002,
+        "Text": "ライバルに与えるメンタルアピールが一定割合上昇する"
+    },
+    {
+        "Category": 3,
+        "DisplayGroupId": 0,
+        "DisplayOrder": 0,
+        "Id": 8003,
+        "Name": "ダメージアップ",
+        "PlayEffectType": 12,
+        "ResourceId": 8003,
+        "Text": "ライバルに与えるアピールが一定割合上昇する"
+    }
+]

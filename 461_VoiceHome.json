@@ -1,0 +1,227 @@
+[
+    {
+        "CueName": "{0}_chara_sys_3001",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "11:59:59",
+        "Id": 1001,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": "5:00:00"
+    },
+    {
+        "CueName": "{0}_chara_sys_3002",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "16:59:59",
+        "Id": 1002,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": "12:00:00"
+    },
+    {
+        "CueName": "{0}_chara_sys_3003",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "4:59:59",
+        "Id": 1003,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": "17:00:00"
+    },
+    {
+        "CueName": "{0}_chara_sys_3038",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2001,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_sys_3039",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2002,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_sys_3044",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2003,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_sys_3047",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2004,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_sys_3048",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2005,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0017",
+        "EndAt": "0001-01-01T00:00:00+09:00",
+        "EndTime": "",
+        "Id": 2006,
+        "Priority": 0,
+        "StartAt": "0001-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0027",
+        "EndAt": "2022-01-03T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3002,
+        "Priority": 0,
+        "StartAt": "2022-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0029",
+        "EndAt": "2022-02-28T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3003,
+        "Priority": 90,
+        "StartAt": "2022-02-12T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0030",
+        "EndAt": "2022-02-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3004,
+        "Priority": 100,
+        "StartAt": "2022-02-14T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0031",
+        "EndAt": "2022-03-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3005,
+        "Priority": 110,
+        "StartAt": "2022-03-14T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0028",
+        "EndAt": "2022-08-31T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3006,
+        "Priority": 120,
+        "StartAt": "2022-08-12T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_event_0001",
+        "EndAt": "2022-10-31T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3007,
+        "Priority": 130,
+        "StartAt": "2022-10-27T14:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0026",
+        "EndAt": "2022-12-25T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3008,
+        "Priority": 140,
+        "StartAt": "2022-12-24T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0027",
+        "EndAt": "2023-01-03T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3009,
+        "Priority": 150,
+        "StartAt": "2023-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0033",
+        "EndAt": "2023-02-28T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3010,
+        "Priority": 160,
+        "StartAt": "2023-02-12T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0030",
+        "EndAt": "2023-02-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3011,
+        "Priority": 170,
+        "StartAt": "2023-02-14T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0031",
+        "EndAt": "2023-03-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3012,
+        "Priority": 180,
+        "StartAt": "2023-03-14T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0034",
+        "EndAt": "2023-08-31T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3013,
+        "Priority": 190,
+        "StartAt": "2023-08-12T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0026",
+        "EndAt": "2023-12-25T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3014,
+        "Priority": 200,
+        "StartAt": "2023-12-24T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0027",
+        "EndAt": "2024-01-03T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3015,
+        "Priority": 210,
+        "StartAt": "2024-01-01T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0030",
+        "EndAt": "2024-02-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3016,
+        "Priority": 220,
+        "StartAt": "2024-02-14T00:00:00+09:00",
+        "StartTime": ""
+    },
+    {
+        "CueName": "{0}_chara_0031",
+        "EndAt": "2024-03-14T23:59:59+09:00",
+        "EndTime": "",
+        "Id": 3017,
+        "Priority": 230,
+        "StartAt": "2024-03-14T00:00:00+09:00",
+        "StartTime": ""
+    }
+]

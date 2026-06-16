@@ -1,0 +1,32 @@
+[
+    {
+        "CategoryResourceId": 290128001,
+        "Id": 10001,
+        "Name": "第一弾",
+        "Priority": 100
+    },
+    {
+        "CategoryResourceId": 290128002,
+        "Id": 20001,
+        "Name": "第二弾",
+        "Priority": 95
+    },
+    {
+        "CategoryResourceId": 290128003,
+        "Id": 20002,
+        "Name": "第三弾",
+        "Priority": 90
+    },
+    {
+        "CategoryResourceId": 290128004,
+        "Id": 20003,
+        "Name": "第四弾",
+        "Priority": 85
+    },
+    {
+        "CategoryResourceId": 290128005,
+        "Id": 20004,
+        "Name": "第五弾",
+        "Priority": 80
+    }
+]
