@@ -31833,6 +31833,42 @@
         "StartAt": "0001-01-01T00:00:00+09:00"
     },
     {
+        "CampaignLoginBonusId": 2200378,
+        "Day": 1,
+        "Id": 220037801,
+        "ItemId": 190010656,
+        "ItemQuantity": 50,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200378,
+        "Day": 2,
+        "Id": 220037802,
+        "ItemId": 0,
+        "ItemQuantity": 1000,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200385,
+        "Day": 1,
+        "Id": 220038501,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200385,
+        "Day": 1,
+        "Id": 220038502,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
         "CampaignLoginBonusId": 2200386,
         "Day": 1,
         "Id": 220038601,
@@ -31947,6 +31983,114 @@
         "ItemId": 111040459,
         "ItemQuantity": 1,
         "ItemType": 111,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200389,
+        "Day": 1,
+        "Id": 220038901,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200389,
+        "Day": 1,
+        "Id": 220038902,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200390,
+        "Day": 1,
+        "Id": 220039001,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200390,
+        "Day": 1,
+        "Id": 220039002,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200391,
+        "Day": 1,
+        "Id": 220039101,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200391,
+        "Day": 1,
+        "Id": 220039102,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200392,
+        "Day": 1,
+        "Id": 220039201,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200392,
+        "Day": 1,
+        "Id": 220039202,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200393,
+        "Day": 1,
+        "Id": 220039301,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200393,
+        "Day": 1,
+        "Id": 220039302,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200394,
+        "Day": 1,
+        "Id": 220039401,
+        "ItemId": 0,
+        "ItemQuantity": 100,
+        "ItemType": 104,
+        "StartAt": "0001-01-01T00:00:00+09:00"
+    },
+    {
+        "CampaignLoginBonusId": 2200394,
+        "Day": 1,
+        "Id": 220039402,
+        "ItemId": 190300128,
+        "ItemQuantity": 1,
+        "ItemType": 190,
         "StartAt": "0001-01-01T00:00:00+09:00"
     },
     {

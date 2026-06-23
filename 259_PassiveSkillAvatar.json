@@ -10644,6 +10644,24 @@
         "PassiveSkillId": 155102063
     },
     {
+        "AvatarId": 155103061,
+        "Breakthrough": 1,
+        "Id": 155103061,
+        "PassiveSkillId": 155103061
+    },
+    {
+        "AvatarId": 155103061,
+        "Breakthrough": 3,
+        "Id": 155103062,
+        "PassiveSkillId": 155103062
+    },
+    {
+        "AvatarId": 155103061,
+        "Breakthrough": 6,
+        "Id": 155103063,
+        "PassiveSkillId": 155103063
+    },
+    {
         "AvatarId": 155201041,
         "Breakthrough": 1,
         "Id": 155201041,
@@ -12592,6 +12610,24 @@
         "Breakthrough": 6,
         "Id": 161302063,
         "PassiveSkillId": 161302063
+    },
+    {
+        "AvatarId": 161303061,
+        "Breakthrough": 1,
+        "Id": 161303061,
+        "PassiveSkillId": 161303061
+    },
+    {
+        "AvatarId": 161303061,
+        "Breakthrough": 3,
+        "Id": 161303062,
+        "PassiveSkillId": 161303062
+    },
+    {
+        "AvatarId": 161303061,
+        "Breakthrough": 6,
+        "Id": 161303063,
+        "PassiveSkillId": 161303063
     },
     {
         "AvatarId": 162101041,

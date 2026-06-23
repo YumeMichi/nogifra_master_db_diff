@@ -31764,5 +31764,82 @@
         "ConditionId": 146202051,
         "ConditionValue": 0,
         "Id": 260610042
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061701,
+        "ConditionId": 156202051,
+        "ConditionValue": 0,
+        "Id": 260617011
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061701,
+        "ConditionId": 161303061,
+        "ConditionValue": 0,
+        "Id": 260617012
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061702,
+        "ConditionId": 141201051,
+        "ConditionValue": 0,
+        "Id": 260617021
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061702,
+        "ConditionId": 161303061,
+        "ConditionValue": 0,
+        "Id": 260617022
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061703,
+        "ConditionId": 155103061,
+        "ConditionValue": 0,
+        "Id": 260617031
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061703,
+        "ConditionId": 156101051,
+        "ConditionValue": 0,
+        "Id": 260617032
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061704,
+        "ConditionId": 139302041,
+        "ConditionValue": 0,
+        "Id": 260617041
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061704,
+        "ConditionId": 141101051,
+        "ConditionValue": 0,
+        "Id": 260617042
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061704,
+        "ConditionId": 155103061,
+        "ConditionValue": 0,
+        "Id": 260617043
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061704,
+        "ConditionId": 162101041,
+        "ConditionValue": 0,
+        "Id": 260617044
+    },
+    {
+        "ArcanumConditionType": 1,
+        "ArcanumId": 26061704,
+        "ConditionId": 163301051,
+        "ConditionValue": 0,
+        "Id": 260617045
     }
 ]

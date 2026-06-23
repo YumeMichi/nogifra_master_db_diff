@@ -15288,6 +15288,36 @@
         "RewardType": 180
     },
     {
+        "Id": 155103061,
+        "OpenRewardGroupId": 155103061,
+        "RewardId": 15510301,
+        "RewardType": 240
+    },
+    {
+        "Id": 155103062,
+        "OpenRewardGroupId": 155103061,
+        "RewardId": 15510302,
+        "RewardType": 240
+    },
+    {
+        "Id": 155103063,
+        "OpenRewardGroupId": 155103061,
+        "RewardId": 155103061,
+        "RewardType": 220
+    },
+    {
+        "Id": 155103064,
+        "OpenRewardGroupId": 155103061,
+        "RewardId": 155103062,
+        "RewardType": 220
+    },
+    {
+        "Id": 155103065,
+        "OpenRewardGroupId": 155103061,
+        "RewardId": 15531603,
+        "RewardType": 180
+    },
+    {
         "Id": 155201041,
         "OpenRewardGroupId": 155201041,
         "RewardId": 15520101,
@@ -18273,6 +18303,36 @@
         "Id": 161302065,
         "OpenRewardGroupId": 161302061,
         "RewardId": 16133602,
+        "RewardType": 180
+    },
+    {
+        "Id": 161303061,
+        "OpenRewardGroupId": 161303061,
+        "RewardId": 16130301,
+        "RewardType": 240
+    },
+    {
+        "Id": 161303062,
+        "OpenRewardGroupId": 161303061,
+        "RewardId": 16130302,
+        "RewardType": 240
+    },
+    {
+        "Id": 161303063,
+        "OpenRewardGroupId": 161303061,
+        "RewardId": 161303061,
+        "RewardType": 220
+    },
+    {
+        "Id": 161303064,
+        "OpenRewardGroupId": 161303061,
+        "RewardId": 161303062,
+        "RewardType": 220
+    },
+    {
+        "Id": 161303065,
+        "OpenRewardGroupId": 161303061,
+        "RewardId": 16133603,
         "RewardType": 180
     },
     {

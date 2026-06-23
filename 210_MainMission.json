@@ -28820,6 +28820,28 @@
         "TransitionType": 99
     },
     {
+        "AchievedCount": 70,
+        "CountGroupId": 1835517,
+        "Id": 15517001,
+        "MissionGroupId": 15517,
+        "RewardGroupId": 18355171,
+        "Stage": 1,
+        "Title": "[Monopoly]池田瑛紗のメンバーの欠片を70個集めよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 99
+    },
+    {
+        "AchievedCount": 140,
+        "CountGroupId": 1835517,
+        "Id": 15517002,
+        "MissionGroupId": 15517,
+        "RewardGroupId": 18355172,
+        "Stage": 2,
+        "Title": "[Monopoly]池田瑛紗のメンバーの欠片を140個集めよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 99
+    },
+    {
         "AchievedCount": 1,
         "CountGroupId": 1940012,
         "Id": 15530111,
@@ -32787,6 +32809,28 @@
         "RewardGroupId": 18361192,
         "Stage": 2,
         "Title": "[銭湯ラプソディー]川﨑桜のメンバーの欠片を140個集めよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 99
+    },
+    {
+        "AchievedCount": 70,
+        "CountGroupId": 1836120,
+        "Id": 16120001,
+        "MissionGroupId": 16120,
+        "RewardGroupId": 18361201,
+        "Stage": 1,
+        "Title": "[歩道橋]川﨑桜のメンバーの欠片を70個集めよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 99
+    },
+    {
+        "AchievedCount": 140,
+        "CountGroupId": 1836120,
+        "Id": 16120002,
+        "MissionGroupId": 16120,
+        "RewardGroupId": 18361202,
+        "Stage": 2,
+        "Title": "[歩道橋]川﨑桜のメンバーの欠片を140個集めよう",
         "TransitionOptionId": 0,
         "TransitionType": 99
     },

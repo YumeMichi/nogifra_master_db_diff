@@ -1,10 +1,10 @@
 {
-    "input": "dump/masterdata_basic_216685d034a73bf9d8ef44dcfc64361f02111f3c.bytes",
+    "input": "dump/masterdata_basic_9f810b3bca7ed8a92d7c09f15fc14cb76744c7ef.bytes",
     "output_dir": "masterdata",
     "parsed": 467,
     "failed": 0,
-    "consumed_bytes": 34978763,
-    "total_bytes": 34978779,
+    "consumed_bytes": 35033734,
+    "total_bytes": 35033750,
     "sections": [
         {
             "index": 0,
@@ -112,9 +112,9 @@
             "manager_field": "Arcanum",
             "type": "ArcanumData[]",
             "kind": "array",
-            "count": 1553,
+            "count": 1557,
             "bytes_start": 110778,
-            "bytes_end": 258326,
+            "bytes_end": 258700,
             "output_file": "masterdata/005_Arcanum.json",
             "preview": [
                 {
@@ -130,8 +130,8 @@
             "type": "ArcanumItemAvatarData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 258326,
-            "bytes_end": 258426,
+            "bytes_start": 258700,
+            "bytes_end": 258800,
             "output_file": "masterdata/006_ArcanumItemAvatar.json",
             "preview": [
                 {
@@ -148,8 +148,8 @@
             "type": "ArcanumItemMemoriaData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 258426,
-            "bytes_end": 258478,
+            "bytes_start": 258800,
+            "bytes_end": 258852,
             "output_file": "masterdata/007_ArcanumItemMemoria.json",
             "preview": [
                 {
@@ -165,9 +165,9 @@
             "manager_field": "ArcanumPassiveSkill",
             "type": "ArcanumPassiveSkillData[]",
             "kind": "array",
-            "count": 1553,
-            "bytes_start": 258478,
-            "bytes_end": 277118,
+            "count": 1557,
+            "bytes_start": 258852,
+            "bytes_end": 277540,
             "output_file": "masterdata/008_ArcanumPassiveSkill.json",
             "preview": [
                 {
@@ -182,9 +182,9 @@
             "manager_field": "ArcanumResonanceItemSetting",
             "type": "ArcanumResonanceItemSettingData[]",
             "kind": "array",
-            "count": 4538,
-            "bytes_start": 277118,
-            "bytes_end": 367882,
+            "count": 4549,
+            "bytes_start": 277540,
+            "bytes_end": 368524,
             "output_file": "masterdata/009_ArcanumResonanceItemSetting.json",
             "preview": [
                 {
@@ -202,8 +202,8 @@
             "type": "ArchivePhotoData[]",
             "kind": "array",
             "count": 134,
-            "bytes_start": 367882,
-            "bytes_end": 386868,
+            "bytes_start": 368524,
+            "bytes_end": 387510,
             "output_file": "masterdata/010_ArchivePhoto.json",
             "preview": [
                 {
@@ -226,8 +226,8 @@
             "type": "AreaEventData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 386868,
-            "bytes_end": 388700,
+            "bytes_start": 387510,
+            "bytes_end": 389342,
             "output_file": "masterdata/011_AreaEvent.json",
             "preview": [
                 {
@@ -254,8 +254,8 @@
             "type": "AreaEventAdvData[]",
             "kind": "array",
             "count": 49,
-            "bytes_start": 388700,
-            "bytes_end": 390782,
+            "bytes_start": 389342,
+            "bytes_end": 391424,
             "output_file": "masterdata/012_AreaEventAdv.json",
             "preview": [
                 {
@@ -274,8 +274,8 @@
             "type": "AreaEventAreaData[]",
             "kind": "array",
             "count": 148,
-            "bytes_start": 390782,
-            "bytes_end": 418806,
+            "bytes_start": 391424,
+            "bytes_end": 419448,
             "output_file": "masterdata/013_AreaEventArea.json",
             "preview": [
                 {
@@ -295,8 +295,8 @@
             "type": "AreaEventChallengeCountBuySettingData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 418806,
-            "bytes_end": 418970,
+            "bytes_start": 419448,
+            "bytes_end": 419612,
             "output_file": "masterdata/014_AreaEventChallengeCountBuySetting.json",
             "preview": [
                 {
@@ -313,8 +313,8 @@
             "type": "AreaEventClearRewardData[]",
             "kind": "array",
             "count": 5570,
-            "bytes_start": 418970,
-            "bytes_end": 541514,
+            "bytes_start": 419612,
+            "bytes_end": 542156,
             "output_file": "masterdata/015_AreaEventClearReward.json",
             "preview": [
                 {
@@ -334,8 +334,8 @@
             "type": "AreaEventLevelCorrectionData[]",
             "kind": "array",
             "count": 100,
-            "bytes_start": 541514,
-            "bytes_end": 543918,
+            "bytes_start": 542156,
+            "bytes_end": 544560,
             "output_file": "masterdata/016_AreaEventLevelCorrection.json",
             "preview": [
                 {
@@ -354,8 +354,8 @@
             "type": "AreaEventPickupItemData[]",
             "kind": "array",
             "count": 148,
-            "bytes_start": 543918,
-            "bytes_end": 546290,
+            "bytes_start": 544560,
+            "bytes_end": 546932,
             "output_file": "masterdata/017_AreaEventPickupItem.json",
             "preview": [
                 {
@@ -372,8 +372,8 @@
             "type": "AreaEventPointRewardData[]",
             "kind": "array",
             "count": 885,
-            "bytes_start": 546290,
-            "bytes_end": 564879,
+            "bytes_start": 546932,
+            "bytes_end": 565521,
             "output_file": "masterdata/018_AreaEventPointReward.json",
             "preview": [
                 {
@@ -392,8 +392,8 @@
             "type": "AreaEventPointRewardGroupData[]",
             "kind": "array",
             "count": 306,
-            "bytes_start": 564879,
-            "bytes_end": 568555,
+            "bytes_start": 565521,
+            "bytes_end": 569197,
             "output_file": "masterdata/019_AreaEventPointRewardGroup.json",
             "preview": [
                 {
@@ -409,8 +409,8 @@
             "type": "AreaEventQuestData[]",
             "kind": "array",
             "count": 738,
-            "bytes_start": 568555,
-            "bytes_end": 634877,
+            "bytes_start": 569197,
+            "bytes_end": 635519,
             "output_file": "masterdata/020_AreaEventQuest.json",
             "preview": [
                 {
@@ -441,8 +441,8 @@
             "type": "AreaEventReleaseConditionData[]",
             "kind": "array",
             "count": 73,
-            "bytes_start": 634877,
-            "bytes_end": 637071,
+            "bytes_start": 635519,
+            "bytes_end": 637713,
             "output_file": "masterdata/021_AreaEventReleaseCondition.json",
             "preview": [
                 {
@@ -458,9 +458,9 @@
             "manager_field": "AvatarBonus",
             "type": "AvatarBonusData[]",
             "kind": "array",
-            "count": 5128,
-            "bytes_start": 637071,
-            "bytes_end": 719123,
+            "count": 5148,
+            "bytes_start": 637713,
+            "bytes_end": 720085,
             "output_file": "masterdata/022_AvatarBonus.json",
             "preview": [
                 {
@@ -476,9 +476,9 @@
             "manager_field": "AvatarBonusSchedule",
             "type": "AvatarBonusScheduleData[]",
             "kind": "array",
-            "count": 510,
-            "bytes_start": 719123,
-            "bytes_end": 776247,
+            "count": 512,
+            "bytes_start": 720085,
+            "bytes_end": 777433,
             "output_file": "masterdata/023_AvatarBonusSchedule.json",
             "preview": [
                 {
@@ -494,8 +494,8 @@
             "type": "AvatarGroupMemberData[]",
             "kind": "array",
             "count": 43,
-            "bytes_start": 776247,
-            "bytes_end": 776810,
+            "bytes_start": 777433,
+            "bytes_end": 777996,
             "output_file": "masterdata/024_AvatarGroupMember.json",
             "preview": [
                 {
@@ -512,8 +512,8 @@
             "type": "AvatarOutGameMotionData[]",
             "kind": "array",
             "count": 204,
-            "bytes_start": 776810,
-            "bytes_end": 793338,
+            "bytes_start": 777996,
+            "bytes_end": 794524,
             "output_file": "masterdata/025_AvatarOutGameMotion.json",
             "preview": [
                 {
@@ -531,8 +531,8 @@
             "type": "AvatarRarityRelationData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 793338,
-            "bytes_end": 793414,
+            "bytes_start": 794524,
+            "bytes_end": 794600,
             "output_file": "masterdata/026_AvatarRarityRelation.json",
             "preview": [
                 {
@@ -548,8 +548,8 @@
             "type": "AvatarRaritySettingData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 793414,
-            "bytes_end": 793466,
+            "bytes_start": 794600,
+            "bytes_end": 794652,
             "output_file": "masterdata/027_AvatarRaritySetting.json",
             "preview": [
                 {
@@ -564,8 +564,8 @@
             "type": "BackstageBoxLunchData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 793466,
-            "bytes_end": 793710,
+            "bytes_start": 794652,
+            "bytes_end": 794896,
             "output_file": "masterdata/028_BackstageBoxLunch.json",
             "preview": [
                 {
@@ -588,8 +588,8 @@
             "type": "BackstageExtendGaugeData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 793710,
-            "bytes_end": 793794,
+            "bytes_start": 794896,
+            "bytes_end": 794980,
             "output_file": "masterdata/029_BackstageExtendGauge.json",
             "preview": [
                 {
@@ -606,8 +606,8 @@
             "type": "BattleFailedTipsData[]",
             "kind": "array",
             "count": 19,
-            "bytes_start": 793794,
-            "bytes_end": 794344,
+            "bytes_start": 794980,
+            "bytes_end": 795530,
             "output_file": "masterdata/030_BattleFailedTips.json",
             "preview": [
                 {
@@ -627,8 +627,8 @@
             "type": "BattleMusicData[]",
             "kind": "array",
             "count": 77,
-            "bytes_start": 794344,
-            "bytes_end": 821016,
+            "bytes_start": 795530,
+            "bytes_end": 822202,
             "output_file": "masterdata/031_BattleMusic.json",
             "preview": [
                 {
@@ -659,8 +659,8 @@
             "type": "BattleMusicGroupData[]",
             "kind": "array",
             "count": 242,
-            "bytes_start": 821016,
-            "bytes_end": 826706,
+            "bytes_start": 822202,
+            "bytes_end": 827892,
             "output_file": "masterdata/032_BattleMusicGroup.json",
             "preview": [
                 {
@@ -674,9 +674,9 @@
             "manager_field": "BattleSkill",
             "type": "BattleSkillData[]",
             "kind": "array",
-            "count": 2530,
-            "bytes_start": 826706,
-            "bytes_end": 944228,
+            "count": 2534,
+            "bytes_start": 827892,
+            "bytes_end": 945598,
             "output_file": "masterdata/033_BattleSkill.json",
             "preview": [
                 {
@@ -693,9 +693,9 @@
             "manager_field": "BattleSkillEffect",
             "type": "BattleSkillEffectData[]",
             "kind": "array",
-            "count": 55453,
-            "bytes_start": 944228,
-            "bytes_end": 2275104,
+            "count": 55778,
+            "bytes_start": 945598,
+            "bytes_end": 2284274,
             "output_file": "masterdata/034_BattleSkillEffect.json",
             "preview": [
                 {
@@ -711,9 +711,9 @@
             "manager_field": "BattleSkillLevel",
             "type": "BattleSkillLevelData[]",
             "kind": "array",
-            "count": 2866,
-            "bytes_start": 2275104,
-            "bytes_end": 3156842,
+            "count": 2870,
+            "bytes_start": 2284274,
+            "bytes_end": 3169024,
             "output_file": "masterdata/035_BattleSkillLevel.json",
             "preview": [
                 {
@@ -732,8 +732,8 @@
             "type": "BattleStateFilterSettingData[]",
             "kind": "array",
             "count": 87,
-            "bytes_start": 3156842,
-            "bytes_end": 3163910,
+            "bytes_start": 3169024,
+            "bytes_end": 3176092,
             "output_file": "masterdata/036_BattleStateFilterSetting.json",
             "preview": [
                 {
@@ -752,8 +752,8 @@
             "type": "BattleUnitResistanceStateData[]",
             "kind": "array",
             "count": 260,
-            "bytes_start": 3163910,
-            "bytes_end": 3167034,
+            "bytes_start": 3176092,
+            "bytes_end": 3179216,
             "output_file": "masterdata/037_BattleUnitResistanceState.json",
             "preview": [
                 {
@@ -769,8 +769,8 @@
             "type": "BattleUnitResistanceStateGroupData[]",
             "kind": "array",
             "count": 103,
-            "bytes_start": 3167034,
-            "bytes_end": 3167862,
+            "bytes_start": 3179216,
+            "bytes_end": 3180044,
             "output_file": "masterdata/038_BattleUnitResistanceStateGroup.json",
             "preview": [
                 {
@@ -785,8 +785,8 @@
             "type": "BattleUnitStateData[]",
             "kind": "array",
             "count": 102,
-            "bytes_start": 3167862,
-            "bytes_end": 3177942,
+            "bytes_start": 3180044,
+            "bytes_end": 3190124,
             "output_file": "masterdata/039_BattleUnitState.json",
             "preview": [
                 {
@@ -806,9 +806,9 @@
             "manager_field": "BattleUnitStateEntity",
             "type": "BattleUnitStateEntityData[]",
             "kind": "array",
-            "count": 1390,
-            "bytes_start": 3177942,
-            "bytes_end": 3298514,
+            "count": 1393,
+            "bytes_start": 3190124,
+            "bytes_end": 3311292,
             "output_file": "masterdata/040_BattleUnitStateEntity.json",
             "preview": [
                 {
@@ -825,8 +825,8 @@
             "type": "BattleUnitStateResistanceParameterData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 3298514,
-            "bytes_end": 3298734,
+            "bytes_start": 3311292,
+            "bytes_end": 3311512,
             "output_file": "masterdata/041_BattleUnitStateResistanceParameter.json",
             "preview": [
                 {
@@ -842,8 +842,8 @@
             "type": "BattleUnitStateResistancePenetrationParameterData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 3298734,
-            "bytes_end": 3298762,
+            "bytes_start": 3311512,
+            "bytes_end": 3311540,
             "output_file": "masterdata/042_BattleUnitStateResistancePenetrationParameter.json",
             "preview": [
                 {
@@ -859,8 +859,8 @@
             "type": "BeginnerLoginBonusData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 3298762,
-            "bytes_end": 3298858,
+            "bytes_start": 3311540,
+            "bytes_end": 3311636,
             "output_file": "masterdata/043_BeginnerLoginBonus.json",
             "preview": [
                 {
@@ -878,8 +878,8 @@
             "type": "BeginnerLoginBonusRewardData[]",
             "kind": "array",
             "count": 37,
-            "bytes_start": 3298858,
-            "bytes_end": 3299750,
+            "bytes_start": 3311636,
+            "bytes_end": 3312528,
             "output_file": "masterdata/044_BeginnerLoginBonusReward.json",
             "preview": [
                 {
@@ -898,8 +898,8 @@
             "type": "BestCharacterRankingPhysicalRewardData[]",
             "kind": "array",
             "count": 2413,
-            "bytes_start": 3299750,
-            "bytes_end": 3457094,
+            "bytes_start": 3312528,
+            "bytes_end": 3469872,
             "output_file": "masterdata/045_BestCharacterRankingPhysicalReward.json",
             "preview": [
                 {
@@ -919,8 +919,8 @@
             "type": "BgmFeeData[]",
             "kind": "array",
             "count": 43,
-            "bytes_start": 3457094,
-            "bytes_end": 3459364,
+            "bytes_start": 3469872,
+            "bytes_end": 3472142,
             "output_file": "masterdata/046_BgmFee.json",
             "preview": [
                 {
@@ -936,8 +936,8 @@
             "type": "BreakthroughResourceData[]",
             "kind": "array",
             "count": 80,
-            "bytes_start": 3459364,
-            "bytes_end": 3461288,
+            "bytes_start": 3472142,
+            "bytes_end": 3474066,
             "output_file": "masterdata/047_BreakthroughResource.json",
             "preview": [
                 {
@@ -955,9 +955,9 @@
             "manager_field": "CampaignLoginBonus",
             "type": "CampaignLoginBonusData[]",
             "kind": "array",
-            "count": 785,
-            "bytes_start": 3461288,
-            "bytes_end": 3609226,
+            "count": 793,
+            "bytes_start": 3474066,
+            "bytes_end": 3623406,
             "output_file": "masterdata/048_CampaignLoginBonus.json",
             "preview": [
                 {
@@ -978,9 +978,9 @@
             "manager_field": "CampaignLoginBonusReward",
             "type": "CampaignLoginBonusRewardData[]",
             "kind": "array",
-            "count": 4592,
-            "bytes_start": 3609226,
-            "bytes_end": 3967406,
+            "count": 4608,
+            "bytes_start": 3623406,
+            "bytes_end": 3982834,
             "output_file": "masterdata/049_CampaignLoginBonusReward.json",
             "preview": [
                 {
@@ -1000,8 +1000,8 @@
             "type": "CampaignMissionData[]",
             "kind": "array",
             "count": 6231,
-            "bytes_start": 3967406,
-            "bytes_end": 4385844,
+            "bytes_start": 3982834,
+            "bytes_end": 4401272,
             "output_file": "masterdata/050_CampaignMission.json",
             "preview": [
                 {
@@ -1023,8 +1023,8 @@
             "type": "CampaignMissionGroupData[]",
             "kind": "array",
             "count": 2020,
-            "bytes_start": 4385844,
-            "bytes_end": 4418168,
+            "bytes_start": 4401272,
+            "bytes_end": 4433596,
             "output_file": "masterdata/051_CampaignMissionGroup.json",
             "preview": [
                 {
@@ -1041,8 +1041,8 @@
             "type": "CampaignMissionScheduleData[]",
             "kind": "array",
             "count": 73,
-            "bytes_start": 4418168,
-            "bytes_end": 4427224,
+            "bytes_start": 4433596,
+            "bytes_end": 4442652,
             "output_file": "masterdata/052_CampaignMissionSchedule.json",
             "preview": [
                 {
@@ -1061,8 +1061,8 @@
             "type": "CampaignMissionTabData[]",
             "kind": "array",
             "count": 32,
-            "bytes_start": 4427224,
-            "bytes_end": 4427866,
+            "bytes_start": 4442652,
+            "bytes_end": 4443294,
             "output_file": "masterdata/053_CampaignMissionTab.json",
             "preview": [
                 {
@@ -1077,8 +1077,8 @@
             "type": "CampaignMissionTipsData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 4427866,
-            "bytes_end": 4427900,
+            "bytes_start": 4443294,
+            "bytes_end": 4443328,
             "output_file": "masterdata/054_CampaignMissionTips.json",
             "preview": [
                 {
@@ -1094,8 +1094,8 @@
             "type": "CampaignMissionTipsPageData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 4427900,
-            "bytes_end": 4427936,
+            "bytes_start": 4443328,
+            "bytes_end": 4443364,
             "output_file": "masterdata/055_CampaignMissionTipsPage.json",
             "preview": [
                 {
@@ -1112,8 +1112,8 @@
             "type": "CenterPhotoData[]",
             "kind": "array",
             "count": 35,
-            "bytes_start": 4427936,
-            "bytes_end": 4431900,
+            "bytes_start": 4443364,
+            "bytes_end": 4447328,
             "output_file": "masterdata/056_CenterPhoto.json",
             "preview": [
                 {
@@ -1134,8 +1134,8 @@
             "type": "CenterSelectData[]",
             "kind": "array",
             "count": 64,
-            "bytes_start": 4431900,
-            "bytes_end": 4434248,
+            "bytes_start": 4447328,
+            "bytes_end": 4449676,
             "output_file": "masterdata/057_CenterSelect.json",
             "preview": [
                 {
@@ -1152,8 +1152,8 @@
             "type": "CenterSelectCharacterNameData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 4434248,
-            "bytes_end": 4434312,
+            "bytes_start": 4449676,
+            "bytes_end": 4449740,
             "output_file": "masterdata/058_CenterSelectCharacterName.json",
             "preview": [
                 {
@@ -1170,8 +1170,8 @@
             "type": "CharacterData[]",
             "kind": "array",
             "count": 69,
-            "bytes_start": 4434312,
-            "bytes_end": 4458669,
+            "bytes_start": 4449740,
+            "bytes_end": 4474097,
             "output_file": "masterdata/059_Character.json",
             "preview": [
                 {
@@ -1201,8 +1201,8 @@
             "type": "CharacterBodySettingData[]",
             "kind": "array",
             "count": 68,
-            "bytes_start": 4458669,
-            "bytes_end": 4459489,
+            "bytes_start": 4474097,
+            "bytes_end": 4474917,
             "output_file": "masterdata/060_CharacterBodySetting.json",
             "preview": [
                 {
@@ -1218,8 +1218,8 @@
             "type": "CharacterGroupMemberData[]",
             "kind": "array",
             "count": 43,
-            "bytes_start": 4459489,
-            "bytes_end": 4460009,
+            "bytes_start": 4474917,
+            "bytes_end": 4475437,
             "output_file": "masterdata/061_CharacterGroupMember.json",
             "preview": [
                 {
@@ -1235,8 +1235,8 @@
             "type": "CharacterRankData[]",
             "kind": "array",
             "count": 31,
-            "bytes_start": 4460009,
-            "bytes_end": 4460549,
+            "bytes_start": 4475437,
+            "bytes_end": 4475977,
             "output_file": "masterdata/062_CharacterRank.json",
             "preview": [
                 {
@@ -1252,8 +1252,8 @@
             "type": "CharacterRankConditionData[]",
             "kind": "array",
             "count": 1421,
-            "bytes_start": 4460549,
-            "bytes_end": 4582759,
+            "bytes_start": 4475977,
+            "bytes_end": 4598187,
             "output_file": "masterdata/063_CharacterRankCondition.json",
             "preview": [
                 {
@@ -1274,8 +1274,8 @@
             "type": "CharacterRankMessageData[]",
             "kind": "array",
             "count": 1436,
-            "bytes_start": 4582759,
-            "bytes_end": 4656327,
+            "bytes_start": 4598187,
+            "bytes_end": 4671755,
             "output_file": "masterdata/064_CharacterRankMessage.json",
             "preview": [
                 {
@@ -1290,8 +1290,8 @@
             "type": "CharacterRankRewardData[]",
             "kind": "array",
             "count": 3465,
-            "bytes_start": 4656327,
-            "bytes_end": 4725631,
+            "bytes_start": 4671755,
+            "bytes_end": 4741059,
             "output_file": "masterdata/065_CharacterRankReward.json",
             "preview": [
                 {
@@ -1309,8 +1309,8 @@
             "type": "CharacterRankSkillData[]",
             "kind": "array",
             "count": 1096,
-            "bytes_start": 4725631,
-            "bytes_end": 4772709,
+            "bytes_start": 4741059,
+            "bytes_end": 4788137,
             "output_file": "masterdata/066_CharacterRankSkill.json",
             "preview": [
                 {
@@ -1326,8 +1326,8 @@
             "type": "CharacterRankSkillEffectData[]",
             "kind": "array",
             "count": 1096,
-            "bytes_start": 4772709,
-            "bytes_end": 4785865,
+            "bytes_start": 4788137,
+            "bytes_end": 4801293,
             "output_file": "masterdata/067_CharacterRankSkillEffect.json",
             "preview": [
                 {
@@ -1343,8 +1343,8 @@
             "type": "ChargeRewardData[]",
             "kind": "array",
             "count": 1647,
-            "bytes_start": 4785865,
-            "bytes_end": 4818809,
+            "bytes_start": 4801293,
+            "bytes_end": 4834237,
             "output_file": "masterdata/068_ChargeReward.json",
             "preview": [
                 {
@@ -1362,8 +1362,8 @@
             "type": "ChargeRewardGroupData[]",
             "kind": "array",
             "count": 487,
-            "bytes_start": 4818809,
-            "bytes_end": 4844247,
+            "bytes_start": 4834237,
+            "bytes_end": 4859675,
             "output_file": "masterdata/069_ChargeRewardGroup.json",
             "preview": [
                 {
@@ -1380,8 +1380,8 @@
             "type": "ChargeRewardScheduleData[]",
             "kind": "array",
             "count": 46,
-            "bytes_start": 4844247,
-            "bytes_end": 4849449,
+            "bytes_start": 4859675,
+            "bytes_end": 4864877,
             "output_file": "masterdata/070_ChargeRewardSchedule.json",
             "preview": [
                 {
@@ -1398,8 +1398,8 @@
             "type": "ChatSettingsData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 4849449,
-            "bytes_end": 4849513,
+            "bytes_start": 4864877,
+            "bytes_end": 4864941,
             "output_file": "masterdata/071_ChatSettings.json",
             "preview": [
                 {
@@ -1415,8 +1415,8 @@
             "type": "ChatStampData[]",
             "kind": "array",
             "count": 169,
-            "bytes_start": 4849513,
-            "bytes_end": 4879864,
+            "bytes_start": 4864941,
+            "bytes_end": 4895292,
             "output_file": "masterdata/072_ChatStamp.json",
             "preview": [
                 {
@@ -1438,8 +1438,8 @@
             "type": "ChatStampCategoryData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 4879864,
-            "bytes_end": 4879978,
+            "bytes_start": 4895292,
+            "bytes_end": 4895406,
             "output_file": "masterdata/073_ChatStampCategory.json",
             "preview": [
                 {
@@ -1456,8 +1456,8 @@
             "type": "ClearDlcTriggerData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 4879978,
-            "bytes_end": 4880072,
+            "bytes_start": 4895406,
+            "bytes_end": 4895500,
             "output_file": "masterdata/074_ClearDlcTrigger.json",
             "preview": [
                 {
@@ -1473,8 +1473,8 @@
             "type": "ComebackLoginBonusData[]",
             "kind": "array",
             "count": 9,
-            "bytes_start": 4880072,
-            "bytes_end": 4881606,
+            "bytes_start": 4895500,
+            "bytes_end": 4897034,
             "output_file": "masterdata/075_ComebackLoginBonus.json",
             "preview": [
                 {
@@ -1495,8 +1495,8 @@
             "type": "ComebackLoginBonusRewardData[]",
             "kind": "array",
             "count": 62,
-            "bytes_start": 4881606,
-            "bytes_end": 4883098,
+            "bytes_start": 4897034,
+            "bytes_end": 4898526,
             "output_file": "masterdata/076_ComebackLoginBonusReward.json",
             "preview": [
                 {
@@ -1515,8 +1515,8 @@
             "type": "CommonSettingData[]",
             "kind": "array",
             "count": 28,
-            "bytes_start": 4883098,
-            "bytes_end": 4883438,
+            "bytes_start": 4898526,
+            "bytes_end": 4898866,
             "output_file": "masterdata/077_CommonSetting.json",
             "preview": [
                 {
@@ -1532,8 +1532,8 @@
             "type": "ComposeItemData[]",
             "kind": "array",
             "count": 15,
-            "bytes_start": 4883438,
-            "bytes_end": 4883742,
+            "bytes_start": 4898866,
+            "bytes_end": 4899170,
             "output_file": "masterdata/078_ComposeItem.json",
             "preview": [
                 {
@@ -1550,9 +1550,9 @@
             "manager_field": "ConsumableItem",
             "type": "ConsumableItemData[]",
             "kind": "array",
-            "count": 4514,
-            "bytes_start": 4883742,
-            "bytes_end": 6021090,
+            "count": 4531,
+            "bytes_start": 4899170,
+            "bytes_end": 6040291,
             "output_file": "masterdata/079_ConsumableItem.json",
             "preview": [
                 {
@@ -1576,8 +1576,8 @@
             "type": "ConsumableItemFilterData[]",
             "kind": "array",
             "count": 12,
-            "bytes_start": 6021090,
-            "bytes_end": 6021238,
+            "bytes_start": 6040291,
+            "bytes_end": 6040439,
             "output_file": "masterdata/080_ConsumableItemFilter.json",
             "preview": [
                 {
@@ -1593,8 +1593,8 @@
             "type": "CopyrightData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 6021238,
-            "bytes_end": 6021716,
+            "bytes_start": 6040439,
+            "bytes_end": 6040917,
             "output_file": "masterdata/081_Copyright.json",
             "preview": [
                 {
@@ -1608,9 +1608,9 @@
             "manager_field": "Costume",
             "type": "CostumeData[]",
             "kind": "array",
-            "count": 788,
-            "bytes_start": 6021716,
-            "bytes_end": 6141254,
+            "count": 790,
+            "bytes_start": 6040917,
+            "bytes_end": 6160821,
             "output_file": "masterdata/082_Costume.json",
             "preview": [
                 {
@@ -1629,9 +1629,9 @@
             "manager_field": "CostumePartExchange",
             "type": "CostumePartExchangeData[]",
             "kind": "array",
-            "count": 368,
-            "bytes_start": 6141254,
-            "bytes_end": 6147146,
+            "count": 370,
+            "bytes_start": 6160821,
+            "bytes_end": 6166745,
             "output_file": "masterdata/083_CostumePartExchange.json",
             "preview": [
                 {
@@ -1647,9 +1647,9 @@
             "manager_field": "CostumeResource",
             "type": "CostumeResourceData[]",
             "kind": "array",
-            "count": 788,
-            "bytes_start": 6147146,
-            "bytes_end": 6156606,
+            "count": 790,
+            "bytes_start": 6166745,
+            "bytes_end": 6176229,
             "output_file": "masterdata/084_CostumeResource.json",
             "preview": [
                 {
@@ -1664,9 +1664,9 @@
             "manager_field": "CostumeResourceRelation",
             "type": "CostumeResourceRelationData[]",
             "kind": "array",
-            "count": 788,
-            "bytes_start": 6156606,
-            "bytes_end": 6213514,
+            "count": 790,
+            "bytes_start": 6176229,
+            "bytes_end": 6233285,
             "output_file": "masterdata/085_CostumeResourceRelation.json",
             "preview": [
                 {
@@ -1683,8 +1683,8 @@
             "type": "CostumeThemeData[]",
             "kind": "array",
             "count": 128,
-            "bytes_start": 6213514,
-            "bytes_end": 6224222,
+            "bytes_start": 6233285,
+            "bytes_end": 6243993,
             "output_file": "masterdata/086_CostumeTheme.json",
             "preview": [
                 {
@@ -1704,8 +1704,8 @@
             "manager_field": "CustomCostumeFaceResource",
             "type": "CustomCostumeFaceResourceData[]",
             "kind": "array",
-            "bytes_start": 6224222,
-            "bytes_end": 6224226,
+            "bytes_start": 6243993,
+            "bytes_end": 6243997,
             "output_file": "masterdata/087_CustomCostumeFaceResource.json"
         },
         {
@@ -1714,8 +1714,8 @@
             "type": "DailyMissionData[]",
             "kind": "array",
             "count": 742,
-            "bytes_start": 6224226,
-            "bytes_end": 6271578,
+            "bytes_start": 6243997,
+            "bytes_end": 6291349,
             "output_file": "masterdata/088_DailyMission.json",
             "preview": [
                 {
@@ -1736,8 +1736,8 @@
             "type": "DeckMaxPositionData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 6271578,
-            "bytes_end": 6271594,
+            "bytes_start": 6291349,
+            "bytes_end": 6291365,
             "output_file": "masterdata/089_DeckMaxPosition.json",
             "preview": [
                 {
@@ -1753,8 +1753,8 @@
             "type": "DlcItemToDownloadAssetsData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 6271594,
-            "bytes_end": 6271874,
+            "bytes_start": 6291365,
+            "bytes_end": 6291645,
             "output_file": "masterdata/090_DlcItemToDownloadAssets.json",
             "preview": [
                 {
@@ -1770,8 +1770,8 @@
             "type": "DlcRequiredData[]",
             "kind": "array",
             "count": 126,
-            "bytes_start": 6271874,
-            "bytes_end": 6280442,
+            "bytes_start": 6291645,
+            "bytes_end": 6300213,
             "output_file": "masterdata/091_DlcRequired.json",
             "preview": [
                 {
@@ -1789,8 +1789,8 @@
             "type": "EquipmentData[]",
             "kind": "array",
             "count": 1909,
-            "bytes_start": 6280442,
-            "bytes_end": 6433470,
+            "bytes_start": 6300213,
+            "bytes_end": 6453241,
             "output_file": "masterdata/092_Equipment.json",
             "preview": [
                 {
@@ -1810,8 +1810,8 @@
             "type": "EquipmentAceAuraEffectData[]",
             "kind": "array",
             "count": 41,
-            "bytes_start": 6433470,
-            "bytes_end": 6434950,
+            "bytes_start": 6453241,
+            "bytes_end": 6454721,
             "output_file": "masterdata/093_EquipmentAceAuraEffect.json",
             "preview": [
                 {
@@ -1833,8 +1833,8 @@
             "type": "EquipmentCountData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 6434950,
-            "bytes_end": 6435050,
+            "bytes_start": 6454721,
+            "bytes_end": 6454821,
             "output_file": "masterdata/094_EquipmentCount.json",
             "preview": [
                 {
@@ -1851,8 +1851,8 @@
             "type": "EquipmentEvolutionData[]",
             "kind": "array",
             "count": 7056,
-            "bytes_start": 6435050,
-            "bytes_end": 6519726,
+            "bytes_start": 6454821,
+            "bytes_end": 6539497,
             "output_file": "masterdata/095_EquipmentEvolution.json",
             "preview": [
                 {
@@ -1868,8 +1868,8 @@
             "type": "EquipmentEvolutionResourceData[]",
             "kind": "array",
             "count": 20686,
-            "bytes_start": 6519726,
-            "bytes_end": 6933450,
+            "bytes_start": 6539497,
+            "bytes_end": 6953221,
             "output_file": "masterdata/096_EquipmentEvolutionResource.json",
             "preview": [
                 {
@@ -1886,9 +1886,9 @@
             "manager_field": "EquipmentExclusiveEffect",
             "type": "EquipmentExclusiveEffectData[]",
             "kind": "array",
-            "count": 5175,
-            "bytes_start": 6933450,
-            "bytes_end": 7099054,
+            "count": 5205,
+            "bytes_start": 6953221,
+            "bytes_end": 7119785,
             "output_file": "masterdata/097_EquipmentExclusiveEffect.json",
             "preview": [
                 {
@@ -1909,8 +1909,8 @@
             "type": "EquipmentFragmentData[]",
             "kind": "array",
             "count": 377,
-            "bytes_start": 7099054,
-            "bytes_end": 7160438,
+            "bytes_start": 7119785,
+            "bytes_end": 7181169,
             "output_file": "masterdata/098_EquipmentFragment.json",
             "preview": [
                 {
@@ -1931,8 +1931,8 @@
             "type": "EquipmentFragmentExchangeGroupData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 7160438,
-            "bytes_end": 7160722,
+            "bytes_start": 7181169,
+            "bytes_end": 7181453,
             "output_file": "masterdata/099_EquipmentFragmentExchangeGroup.json",
             "preview": [
                 {
@@ -1950,8 +1950,8 @@
             "type": "EquipmentGradeSettingData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 7160722,
-            "bytes_end": 7161086,
+            "bytes_start": 7181453,
+            "bytes_end": 7181817,
             "output_file": "masterdata/100_EquipmentGradeSetting.json",
             "preview": [
                 {
@@ -1973,8 +1973,8 @@
             "type": "EquipmentGrowData[]",
             "kind": "array",
             "count": 25,
-            "bytes_start": 7161086,
-            "bytes_end": 7161690,
+            "bytes_start": 7181817,
+            "bytes_end": 7182421,
             "output_file": "masterdata/101_EquipmentGrow.json",
             "preview": [
                 {
@@ -1993,8 +1993,8 @@
             "type": "EquipmentGrowResourceData[]",
             "kind": "array",
             "count": 250,
-            "bytes_start": 7161690,
-            "bytes_end": 7166694,
+            "bytes_start": 7182421,
+            "bytes_end": 7187425,
             "output_file": "masterdata/102_EquipmentGrowResource.json",
             "preview": [
                 {
@@ -2012,8 +2012,8 @@
             "type": "EquipmentIdToExchangeRateIdData[]",
             "kind": "array",
             "count": 1428,
-            "bytes_start": 7166694,
-            "bytes_end": 7183834,
+            "bytes_start": 7187425,
+            "bytes_end": 7204565,
             "output_file": "masterdata/103_EquipmentIdToExchangeRateId.json",
             "preview": [
                 {
@@ -2029,8 +2029,8 @@
             "type": "EquipmentLegendAuraEffectData[]",
             "kind": "array",
             "count": 41,
-            "bytes_start": 7183834,
-            "bytes_end": 7185314,
+            "bytes_start": 7204565,
+            "bytes_end": 7206045,
             "output_file": "masterdata/104_EquipmentLegendAuraEffect.json",
             "preview": [
                 {
@@ -2052,8 +2052,8 @@
             "type": "EquipmentLevelData[]",
             "kind": "array",
             "count": 7878,
-            "bytes_start": 7185314,
-            "bytes_end": 7413780,
+            "bytes_start": 7206045,
+            "bytes_end": 7434511,
             "output_file": "masterdata/105_EquipmentLevel.json",
             "preview": [
                 {
@@ -2074,8 +2074,8 @@
             "type": "EquipmentPersonalThumbnailDisplayData[]",
             "kind": "array",
             "count": 7,
-            "bytes_start": 7413780,
-            "bytes_end": 7413896,
+            "bytes_start": 7434511,
+            "bytes_end": 7434627,
             "output_file": "masterdata/106_EquipmentPersonalThumbnailDisplay.json",
             "preview": [
                 {
@@ -2092,8 +2092,8 @@
             "type": "EquipmentSetData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 7413896,
-            "bytes_end": 7415098,
+            "bytes_start": 7434627,
+            "bytes_end": 7435829,
             "output_file": "masterdata/107_EquipmentSet.json",
             "preview": [
                 {
@@ -2110,8 +2110,8 @@
             "type": "EquipmentSetEffectData[]",
             "kind": "array",
             "count": 80,
-            "bytes_start": 7415098,
-            "bytes_end": 7417022,
+            "bytes_start": 7435829,
+            "bytes_end": 7437753,
             "output_file": "masterdata/108_EquipmentSetEffect.json",
             "preview": [
                 {
@@ -2130,8 +2130,8 @@
             "type": "EquipmentSettingData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 7417022,
-            "bytes_end": 7417122,
+            "bytes_start": 7437753,
+            "bytes_end": 7437853,
             "output_file": "masterdata/109_EquipmentSetting.json",
             "preview": [
                 {
@@ -2147,8 +2147,8 @@
             "type": "EquipmentSpecialEvolutionData[]",
             "kind": "array",
             "count": 245,
-            "bytes_start": 7417122,
-            "bytes_end": 7421046,
+            "bytes_start": 7437853,
+            "bytes_end": 7441777,
             "output_file": "masterdata/110_EquipmentSpecialEvolution.json",
             "preview": [
                 {
@@ -2165,8 +2165,8 @@
             "type": "EquipmentSpecialEvolutionResourceData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 7421046,
-            "bytes_end": 7421090,
+            "bytes_start": 7441777,
+            "bytes_end": 7441821,
             "output_file": "masterdata/111_EquipmentSpecialEvolutionResource.json",
             "preview": [
                 {
@@ -2184,8 +2184,8 @@
             "type": "EquipmentThumbnailDisplayData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 7421090,
-            "bytes_end": 7421214,
+            "bytes_start": 7441821,
+            "bytes_end": 7441945,
             "output_file": "masterdata/112_EquipmentThumbnailDisplay.json",
             "preview": [
                 {
@@ -2201,8 +2201,8 @@
             "type": "EquipmentTypeSettingData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 7421214,
-            "bytes_end": 7421290,
+            "bytes_start": 7441945,
+            "bytes_end": 7442021,
             "output_file": "masterdata/113_EquipmentTypeSetting.json",
             "preview": [
                 {
@@ -2218,8 +2218,8 @@
             "type": "ErrorData[]",
             "kind": "array",
             "count": 205,
-            "bytes_start": 7421290,
-            "bytes_end": 7450902,
+            "bytes_start": 7442021,
+            "bytes_end": 7471633,
             "output_file": "masterdata/114_Error.json",
             "preview": [
                 {
@@ -2237,9 +2237,9 @@
             "manager_field": "EventAdv",
             "type": "EventAdvData[]",
             "kind": "array",
-            "count": 899,
-            "bytes_start": 7450902,
-            "bytes_end": 7594192,
+            "count": 901,
+            "bytes_start": 7471633,
+            "bytes_end": 7615219,
             "output_file": "masterdata/115_EventAdv.json",
             "preview": [
                 {
@@ -2264,8 +2264,8 @@
             "type": "EventBonusDescriptionData[]",
             "kind": "array",
             "count": 17,
-            "bytes_start": 7594192,
-            "bytes_end": 7597042,
+            "bytes_start": 7615219,
+            "bytes_end": 7618069,
             "output_file": "masterdata/116_EventBonusDescription.json",
             "preview": [
                 {
@@ -2280,8 +2280,8 @@
             "type": "EventLiveDemoData[]",
             "kind": "array",
             "count": 95,
-            "bytes_start": 7597042,
-            "bytes_end": 7606550,
+            "bytes_start": 7618069,
+            "bytes_end": 7627577,
             "output_file": "masterdata/117_EventLiveDemo.json",
             "preview": [
                 {
@@ -2304,8 +2304,8 @@
             "type": "EventLiveDemoMemberGroupData[]",
             "kind": "array",
             "count": 95,
-            "bytes_start": 7606550,
-            "bytes_end": 7613774,
+            "bytes_start": 7627577,
+            "bytes_end": 7634801,
             "output_file": "masterdata/118_EventLiveDemoMemberGroup.json",
             "preview": [
                 {
@@ -2337,8 +2337,8 @@
             "type": "EventTipsData[]",
             "kind": "array",
             "count": 1101,
-            "bytes_start": 7613774,
-            "bytes_end": 7631394,
+            "bytes_start": 7634801,
+            "bytes_end": 7652421,
             "output_file": "masterdata/119_EventTips.json",
             "preview": [
                 {
@@ -2355,8 +2355,8 @@
             "type": "ExchangeBgmData[]",
             "kind": "array",
             "count": 53,
-            "bytes_start": 7631394,
-            "bytes_end": 7637334,
+            "bytes_start": 7652421,
+            "bytes_end": 7658361,
             "output_file": "masterdata/120_ExchangeBgm.json",
             "preview": [
                 {
@@ -2372,8 +2372,8 @@
             "type": "ExclusionMemoriaData[]",
             "kind": "array",
             "count": 154,
-            "bytes_start": 7637334,
-            "bytes_end": 7638570,
+            "bytes_start": 7658361,
+            "bytes_end": 7659597,
             "output_file": "masterdata/121_ExclusionMemoria.json",
             "preview": [
                 {
@@ -2388,8 +2388,8 @@
             "type": "ExclusionSubUnitData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 7638570,
-            "bytes_end": 7638590,
+            "bytes_start": 7659597,
+            "bytes_end": 7659617,
             "output_file": "masterdata/122_ExclusionSubUnit.json",
             "preview": [
                 {
@@ -2404,8 +2404,8 @@
             "type": "ExclusionSubUnitMemoriaData[]",
             "kind": "array",
             "count": 42,
-            "bytes_start": 7638590,
-            "bytes_end": 7638930,
+            "bytes_start": 7659617,
+            "bytes_end": 7659957,
             "output_file": "masterdata/123_ExclusionSubUnitMemoria.json",
             "preview": [
                 {
@@ -2420,8 +2420,8 @@
             "type": "ExpireBgmData[]",
             "kind": "array",
             "count": 35,
-            "bytes_start": 7638930,
-            "bytes_end": 7641606,
+            "bytes_start": 7659957,
+            "bytes_end": 7662633,
             "output_file": "masterdata/124_ExpireBgm.json",
             "preview": [
                 {
@@ -2437,8 +2437,8 @@
             "type": "EyecatchData[]",
             "kind": "array",
             "count": 12,
-            "bytes_start": 7641606,
-            "bytes_end": 7641866,
+            "bytes_start": 7662633,
+            "bytes_end": 7662893,
             "output_file": "masterdata/125_Eyecatch.json",
             "preview": [
                 {
@@ -2455,8 +2455,8 @@
             "type": "FlowerStandData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 7641866,
-            "bytes_end": 7641958,
+            "bytes_start": 7662893,
+            "bytes_end": 7662985,
             "output_file": "masterdata/126_FlowerStand.json",
             "preview": [
                 {
@@ -2471,8 +2471,8 @@
             "type": "FlowerStandBonusPlayerRewardData[]",
             "kind": "array",
             "count": 45,
-            "bytes_start": 7641958,
-            "bytes_end": 7642862,
+            "bytes_start": 7662985,
+            "bytes_end": 7663889,
             "output_file": "masterdata/127_FlowerStandBonusPlayerReward.json",
             "preview": [
                 {
@@ -2490,8 +2490,8 @@
             "type": "FlowerStandBonusRewardGroupData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 7642862,
-            "bytes_end": 7642906,
+            "bytes_start": 7663889,
+            "bytes_end": 7663933,
             "output_file": "masterdata/128_FlowerStandBonusRewardGroup.json",
             "preview": [
                 {
@@ -2505,8 +2505,8 @@
             "type": "FlowerStandEnhanceItemData[]",
             "kind": "array",
             "count": 36,
-            "bytes_start": 7642906,
-            "bytes_end": 7643918,
+            "bytes_start": 7663933,
+            "bytes_end": 7664945,
             "output_file": "masterdata/129_FlowerStandEnhanceItem.json",
             "preview": [
                 {
@@ -2526,8 +2526,8 @@
             "type": "FlowerStandLevelData[]",
             "kind": "array",
             "count": 80,
-            "bytes_start": 7643918,
-            "bytes_end": 7645522,
+            "bytes_start": 7664945,
+            "bytes_end": 7666549,
             "output_file": "masterdata/130_FlowerStandLevel.json",
             "preview": [
                 {
@@ -2545,8 +2545,8 @@
             "type": "FlowerStandUnlockEffectData[]",
             "kind": "array",
             "count": 127,
-            "bytes_start": 7645522,
-            "bytes_end": 7647558,
+            "bytes_start": 7666549,
+            "bytes_end": 7668585,
             "output_file": "masterdata/131_FlowerStandUnlockEffect.json",
             "preview": [
                 {
@@ -2563,8 +2563,8 @@
             "type": "FlowerStandUnlockEffectTypeNameData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 7647558,
-            "bytes_end": 7647796,
+            "bytes_start": 7668585,
+            "bytes_end": 7668823,
             "output_file": "masterdata/132_FlowerStandUnlockEffectTypeName.json",
             "preview": [
                 {
@@ -2580,8 +2580,8 @@
             "type": "GroupLinksData[]",
             "kind": "array",
             "count": 16,
-            "bytes_start": 7647796,
-            "bytes_end": 7649656,
+            "bytes_start": 7668823,
+            "bytes_end": 7670683,
             "output_file": "masterdata/133_GroupLinks.json",
             "preview": [
                 {
@@ -2599,8 +2599,8 @@
             "type": "GroupLinksCardData[]",
             "kind": "array",
             "count": 120,
-            "bytes_start": 7649656,
-            "bytes_end": 7681388,
+            "bytes_start": 7670683,
+            "bytes_end": 7702415,
             "output_file": "masterdata/134_GroupLinksCard.json",
             "preview": [
                 {
@@ -2623,8 +2623,8 @@
             "type": "GroupLinksCardLevelData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 7681388,
-            "bytes_end": 7682032,
+            "bytes_start": 7702415,
+            "bytes_end": 7703059,
             "output_file": "masterdata/135_GroupLinksCardLevel.json",
             "preview": [
                 {
@@ -2641,8 +2641,8 @@
             "type": "GroupLinksDonationLimitSettingData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 7682032,
-            "bytes_end": 7682160,
+            "bytes_start": 7703059,
+            "bytes_end": 7703187,
             "output_file": "masterdata/136_GroupLinksDonationLimitSetting.json",
             "preview": [
                 {
@@ -2661,8 +2661,8 @@
             "type": "GroupLinksDonationRewardData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 7682160,
-            "bytes_end": 7682422,
+            "bytes_start": 7703187,
+            "bytes_end": 7703449,
             "output_file": "masterdata/137_GroupLinksDonationReward.json",
             "preview": [
                 {
@@ -2683,8 +2683,8 @@
             "type": "GroupLinksFrameData[]",
             "kind": "array",
             "count": 120,
-            "bytes_start": 7682422,
-            "bytes_end": 7683866,
+            "bytes_start": 7703449,
+            "bytes_end": 7704893,
             "output_file": "masterdata/138_GroupLinksFrame.json",
             "preview": [
                 {
@@ -2700,8 +2700,8 @@
             "type": "GroupLinksSkillMappingData[]",
             "kind": "array",
             "count": 33,
-            "bytes_start": 7683866,
-            "bytes_end": 7684398,
+            "bytes_start": 7704893,
+            "bytes_end": 7705425,
             "output_file": "masterdata/139_GroupLinksSkillMapping.json",
             "preview": [
                 {
@@ -2718,8 +2718,8 @@
             "type": "GuildGiftData[]",
             "kind": "array",
             "count": 46,
-            "bytes_start": 7684398,
-            "bytes_end": 7689968,
+            "bytes_start": 7705425,
+            "bytes_end": 7710995,
             "output_file": "masterdata/140_GuildGift.json",
             "preview": [
                 {
@@ -2738,8 +2738,8 @@
             "type": "GuildGiftItemData[]",
             "kind": "array",
             "count": 79,
-            "bytes_start": 7689968,
-            "bytes_end": 7691552,
+            "bytes_start": 7710995,
+            "bytes_end": 7712579,
             "output_file": "masterdata/141_GuildGiftItem.json",
             "preview": [
                 {
@@ -2757,8 +2757,8 @@
             "type": "GuildHuntDamageData[]",
             "kind": "array",
             "count": 100,
-            "bytes_start": 7691552,
-            "bytes_end": 7692356,
+            "bytes_start": 7712579,
+            "bytes_end": 7713383,
             "output_file": "masterdata/142_GuildHuntDamage.json",
             "preview": [
                 {
@@ -2773,8 +2773,8 @@
             "type": "GuildHuntRewardData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 7692356,
-            "bytes_end": 7692720,
+            "bytes_start": 7713383,
+            "bytes_end": 7713747,
             "output_file": "masterdata/143_GuildHuntReward.json",
             "preview": [
                 {
@@ -2792,8 +2792,8 @@
             "type": "GuildHuntTreasureBoxData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 7692720,
-            "bytes_end": 7692796,
+            "bytes_start": 7713747,
+            "bytes_end": 7713823,
             "output_file": "masterdata/144_GuildHuntTreasureBox.json",
             "preview": [
                 {
@@ -2809,8 +2809,8 @@
             "type": "GuildIconData[]",
             "kind": "array",
             "count": 64,
-            "bytes_start": 7692796,
-            "bytes_end": 7700648,
+            "bytes_start": 7713823,
+            "bytes_end": 7721675,
             "output_file": "masterdata/145_GuildIcon.json",
             "preview": [
                 {
@@ -2831,8 +2831,8 @@
             "type": "GuildLevelData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 7700648,
-            "bytes_end": 7701292,
+            "bytes_start": 7721675,
+            "bytes_end": 7722319,
             "output_file": "masterdata/146_GuildLevel.json",
             "preview": [
                 {
@@ -2849,8 +2849,8 @@
             "type": "GuildRaidBossData[]",
             "kind": "array",
             "count": 146,
-            "bytes_start": 7701292,
-            "bytes_end": 7707234,
+            "bytes_start": 7722319,
+            "bytes_end": 7728261,
             "output_file": "masterdata/147_GuildRaidBoss.json",
             "preview": [
                 {
@@ -2871,8 +2871,8 @@
             "type": "GuildRaidBossRewardData[]",
             "kind": "array",
             "count": 438,
-            "bytes_start": 7707234,
-            "bytes_end": 7715998,
+            "bytes_start": 7728261,
+            "bytes_end": 7737025,
             "output_file": "masterdata/148_GuildRaidBossReward.json",
             "preview": [
                 {
@@ -2890,8 +2890,8 @@
             "type": "GuildRaidBossScheduleData[]",
             "kind": "array",
             "count": 1820,
-            "bytes_start": 7715998,
-            "bytes_end": 7745122,
+            "bytes_start": 7737025,
+            "bytes_end": 7766149,
             "output_file": "masterdata/149_GuildRaidBossSchedule.json",
             "preview": [
                 {
@@ -2908,8 +2908,8 @@
             "type": "GuildRaidBossTagSettingData[]",
             "kind": "array",
             "count": 292,
-            "bytes_start": 7745122,
-            "bytes_end": 7749798,
+            "bytes_start": 7766149,
+            "bytes_end": 7770825,
             "output_file": "masterdata/150_GuildRaidBossTagSetting.json",
             "preview": [
                 {
@@ -2926,8 +2926,8 @@
             "type": "GuildRaidChallengeSettingData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 7749798,
-            "bytes_end": 7749850,
+            "bytes_start": 7770825,
+            "bytes_end": 7770877,
             "output_file": "masterdata/151_GuildRaidChallengeSetting.json",
             "preview": [
                 {
@@ -2944,8 +2944,8 @@
             "type": "GuildRaidDamageCorrectionScheduleData[]",
             "kind": "array",
             "count": 3640,
-            "bytes_start": 7749850,
-            "bytes_end": 7837214,
+            "bytes_start": 7770877,
+            "bytes_end": 7858241,
             "output_file": "masterdata/152_GuildRaidDamageCorrectionSchedule.json",
             "preview": [
                 {
@@ -2964,8 +2964,8 @@
             "type": "GuildRaidDamageCorrectionSettingData[]",
             "kind": "array",
             "count": 39515,
-            "bytes_start": 7837214,
-            "bytes_end": 8627518,
+            "bytes_start": 7858241,
+            "bytes_end": 8648545,
             "output_file": "masterdata/153_GuildRaidDamageCorrectionSetting.json",
             "preview": [
                 {
@@ -2983,8 +2983,8 @@
             "type": "GuildRaidGuildDailyRankingData[]",
             "kind": "array",
             "count": 4403,
-            "bytes_start": 8627518,
-            "bytes_end": 8733194,
+            "bytes_start": 8648545,
+            "bytes_end": 8754221,
             "output_file": "masterdata/154_GuildRaidGuildDailyRanking.json",
             "preview": [
                 {
@@ -3003,8 +3003,8 @@
             "type": "GuildRaidGuildWeeklyRankingData[]",
             "kind": "array",
             "count": 4403,
-            "bytes_start": 8733194,
-            "bytes_end": 8838870,
+            "bytes_start": 8754221,
+            "bytes_end": 8859897,
             "output_file": "masterdata/155_GuildRaidGuildWeeklyRanking.json",
             "preview": [
                 {
@@ -3023,8 +3023,8 @@
             "type": "GuildRaidParticipationRewardData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 8838870,
-            "bytes_end": 8838922,
+            "bytes_start": 8859897,
+            "bytes_end": 8859949,
             "output_file": "masterdata/156_GuildRaidParticipationReward.json",
             "preview": [
                 {
@@ -3041,8 +3041,8 @@
             "type": "GuildRaidPlayerDailyRankingData[]",
             "kind": "array",
             "count": 3626,
-            "bytes_start": 8838922,
-            "bytes_end": 8925950,
+            "bytes_start": 8859949,
+            "bytes_end": 8946977,
             "output_file": "masterdata/157_GuildRaidPlayerDailyRanking.json",
             "preview": [
                 {
@@ -3061,8 +3061,8 @@
             "type": "GuildRaidPlayerWeeklyRankingData[]",
             "kind": "array",
             "count": 3626,
-            "bytes_start": 8925950,
-            "bytes_end": 9012978,
+            "bytes_start": 8946977,
+            "bytes_end": 9034005,
             "output_file": "masterdata/158_GuildRaidPlayerWeeklyRanking.json",
             "preview": [
                 {
@@ -3081,8 +3081,8 @@
             "type": "GuildRaidRankingGuildRewardData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 9012978,
-            "bytes_end": 9013022,
+            "bytes_start": 9034005,
+            "bytes_end": 9034049,
             "output_file": "masterdata/159_GuildRaidRankingGuildReward.json",
             "preview": [
                 {
@@ -3100,8 +3100,8 @@
             "type": "GuildRaidRankingPlayerRewardData[]",
             "kind": "array",
             "count": 184,
-            "bytes_start": 9013022,
-            "bytes_end": 9016706,
+            "bytes_start": 9034049,
+            "bytes_end": 9037733,
             "output_file": "masterdata/160_GuildRaidRankingPlayerReward.json",
             "preview": [
                 {
@@ -3119,8 +3119,8 @@
             "type": "GuildRaidRoundScheduleData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 9016706,
-            "bytes_end": 9016822,
+            "bytes_start": 9037733,
+            "bytes_end": 9037849,
             "output_file": "masterdata/161_GuildRaidRoundSchedule.json",
             "preview": [
                 {
@@ -3139,8 +3139,8 @@
             "type": "GuildRaidScheduleData[]",
             "kind": "array",
             "count": 260,
-            "bytes_start": 9016822,
-            "bytes_end": 9045946,
+            "bytes_start": 9037849,
+            "bytes_end": 9066973,
             "output_file": "masterdata/162_GuildRaidSchedule.json",
             "preview": [
                 {
@@ -3156,8 +3156,8 @@
             "type": "GuildTourMessageData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 9045946,
-            "bytes_end": 9046054,
+            "bytes_start": 9066973,
+            "bytes_end": 9067081,
             "output_file": "masterdata/163_GuildTourMessage.json",
             "preview": [
                 {
@@ -3174,8 +3174,8 @@
             "type": "GvgAchievementRewardData[]",
             "kind": "array",
             "count": 60,
-            "bytes_start": 9046054,
-            "bytes_end": 9047018,
+            "bytes_start": 9067081,
+            "bytes_end": 9068045,
             "output_file": "masterdata/164_GvgAchievementReward.json",
             "preview": [
                 {
@@ -3192,8 +3192,8 @@
             "type": "GvgCharacterBonusData[]",
             "kind": "array",
             "count": 637,
-            "bytes_start": 9047018,
-            "bytes_end": 9059762,
+            "bytes_start": 9068045,
+            "bytes_end": 9080789,
             "output_file": "masterdata/165_GvgCharacterBonus.json",
             "preview": [
                 {
@@ -3211,8 +3211,8 @@
             "type": "GvgCharacterBonusEffectData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 9059762,
-            "bytes_end": 9059806,
+            "bytes_start": 9080789,
+            "bytes_end": 9080833,
             "output_file": "masterdata/166_GvgCharacterBonusEffect.json",
             "preview": [
                 {
@@ -3230,8 +3230,8 @@
             "type": "GvgClassDetailData[]",
             "kind": "array",
             "count": 11,
-            "bytes_start": 9059806,
-            "bytes_end": 9060030,
+            "bytes_start": 9080833,
+            "bytes_end": 9081057,
             "output_file": "masterdata/167_GvgClassDetail.json",
             "preview": [
                 {
@@ -3249,8 +3249,8 @@
             "type": "GvgClassNameData[]",
             "kind": "array",
             "count": 11,
-            "bytes_start": 9060030,
-            "bytes_end": 9060340,
+            "bytes_start": 9081057,
+            "bytes_end": 9081367,
             "output_file": "masterdata/168_GvgClassName.json",
             "preview": [
                 {
@@ -3266,8 +3266,8 @@
             "type": "GvgDebuffData[]",
             "kind": "array",
             "count": 48,
-            "bytes_start": 9060340,
-            "bytes_end": 9061352,
+            "bytes_start": 9081367,
+            "bytes_end": 9082379,
             "output_file": "masterdata/169_GvgDebuff.json",
             "preview": [
                 {
@@ -3286,8 +3286,8 @@
             "type": "GvgErrorCodeData[]",
             "kind": "array",
             "count": 19,
-            "bytes_start": 9061352,
-            "bytes_end": 9062026,
+            "bytes_start": 9082379,
+            "bytes_end": 9083053,
             "output_file": "masterdata/170_GvgErrorCode.json",
             "preview": [
                 {
@@ -3304,8 +3304,8 @@
             "type": "GvgFixedRewardDetailData[]",
             "kind": "array",
             "count": 514,
-            "bytes_start": 9062026,
-            "bytes_end": 9072310,
+            "bytes_start": 9083053,
+            "bytes_end": 9093337,
             "output_file": "masterdata/171_GvgFixedRewardDetail.json",
             "preview": [
                 {
@@ -3323,8 +3323,8 @@
             "type": "GvgLotRewardDetailData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 9072310,
-            "bytes_end": 9072914,
+            "bytes_start": 9093337,
+            "bytes_end": 9093941,
             "output_file": "masterdata/172_GvgLotRewardDetail.json",
             "preview": [
                 {
@@ -3342,8 +3342,8 @@
             "type": "GvgLotRewardSettingData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 9072914,
-            "bytes_end": 9073308,
+            "bytes_start": 9093941,
+            "bytes_end": 9094335,
             "output_file": "masterdata/173_GvgLotRewardSetting.json",
             "preview": [
                 {
@@ -3360,8 +3360,8 @@
             "type": "GvgRewardGroupData[]",
             "kind": "array",
             "count": 182,
-            "bytes_start": 9073308,
-            "bytes_end": 9075678,
+            "bytes_start": 9094335,
+            "bytes_end": 9096705,
             "output_file": "masterdata/174_GvgRewardGroup.json",
             "preview": [
                 {
@@ -3378,8 +3378,8 @@
             "type": "GvgSeasonData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 9075678,
-            "bytes_end": 9078340,
+            "bytes_start": 9096705,
+            "bytes_end": 9099367,
             "output_file": "masterdata/175_GvgSeason.json",
             "preview": [
                 {
@@ -3398,8 +3398,8 @@
             "type": "GvgSiteData[]",
             "kind": "array",
             "count": 21,
-            "bytes_start": 9078340,
-            "bytes_end": 9079206,
+            "bytes_start": 9099367,
+            "bytes_end": 9100233,
             "output_file": "masterdata/176_GvgSite.json",
             "preview": [
                 {
@@ -3421,8 +3421,8 @@
             "type": "GvgSiteGroupData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 9079206,
-            "bytes_end": 9079218,
+            "bytes_start": 9100233,
+            "bytes_end": 9100245,
             "output_file": "masterdata/177_GvgSiteGroup.json",
             "preview": [
                 {
@@ -3437,8 +3437,8 @@
             "type": "GvgSiteLinkData[]",
             "kind": "array",
             "count": 35,
-            "bytes_start": 9079218,
-            "bytes_end": 9079642,
+            "bytes_start": 9100245,
+            "bytes_end": 9100669,
             "output_file": "masterdata/178_GvgSiteLink.json",
             "preview": [
                 {
@@ -3454,8 +3454,8 @@
             "type": "GvgSiteRewardData[]",
             "kind": "array",
             "count": 106,
-            "bytes_start": 9079642,
-            "bytes_end": 9081342,
+            "bytes_start": 9100669,
+            "bytes_end": 9102369,
             "output_file": "masterdata/179_GvgSiteReward.json",
             "preview": [
                 {
@@ -3472,8 +3472,8 @@
             "type": "GvgSiteScaleData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 9081342,
-            "bytes_end": 9081460,
+            "bytes_start": 9102369,
+            "bytes_end": 9102487,
             "output_file": "masterdata/180_GvgSiteScale.json",
             "preview": [
                 {
@@ -3491,8 +3491,8 @@
             "manager_field": "GvgSiteTypeGainPointSetting",
             "type": "GvgSiteTypeGainPointSettingData[]",
             "kind": "array",
-            "bytes_start": 9081460,
-            "bytes_end": 9081464,
+            "bytes_start": 9102487,
+            "bytes_end": 9102491,
             "output_file": "masterdata/181_GvgSiteTypeGainPointSetting.json"
         },
         {
@@ -3501,8 +3501,8 @@
             "type": "GvgSiteTypeRequiredUnitSettingData[]",
             "kind": "array",
             "count": 9,
-            "bytes_start": 9081464,
-            "bytes_end": 9081684,
+            "bytes_start": 9102491,
+            "bytes_end": 9102711,
             "output_file": "masterdata/182_GvgSiteTypeRequiredUnitSetting.json",
             "preview": [
                 {
@@ -3521,8 +3521,8 @@
             "type": "GvgWeeklyCharacterBonusRewardData[]",
             "kind": "array",
             "count": 209,
-            "bytes_start": 9081684,
-            "bytes_end": 9085868,
+            "bytes_start": 9102711,
+            "bytes_end": 9106895,
             "output_file": "masterdata/183_GvgWeeklyCharacterBonusReward.json",
             "preview": [
                 {
@@ -3540,8 +3540,8 @@
             "type": "GvgWeeklyRewardData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 9085868,
-            "bytes_end": 9085896,
+            "bytes_start": 9106895,
+            "bytes_end": 9106923,
             "output_file": "masterdata/184_GvgWeeklyReward.json",
             "preview": [
                 {
@@ -3556,8 +3556,8 @@
             "type": "GvgWeeklyRewardDetailData[]",
             "kind": "array",
             "count": 132,
-            "bytes_start": 9085896,
-            "bytes_end": 9089068,
+            "bytes_start": 9106923,
+            "bytes_end": 9110095,
             "output_file": "masterdata/185_GvgWeeklyRewardDetail.json",
             "preview": [
                 {
@@ -3576,8 +3576,8 @@
             "type": "HairData[]",
             "kind": "array",
             "count": 103,
-            "bytes_start": 9089068,
-            "bytes_end": 9101873,
+            "bytes_start": 9110095,
+            "bytes_end": 9122900,
             "output_file": "masterdata/186_Hair.json",
             "preview": [
                 {
@@ -3601,8 +3601,8 @@
             "type": "HairResourceData[]",
             "kind": "array",
             "count": 103,
-            "bytes_start": 9101873,
-            "bytes_end": 9107645,
+            "bytes_start": 9122900,
+            "bytes_end": 9128672,
             "output_file": "masterdata/187_HairResource.json",
             "preview": [
                 {
@@ -3618,8 +3618,8 @@
             "type": "HelpPrimaryMenuData[]",
             "kind": "array",
             "count": 31,
-            "bytes_start": 9107645,
-            "bytes_end": 9109311,
+            "bytes_start": 9128672,
+            "bytes_end": 9130338,
             "output_file": "masterdata/188_HelpPrimaryMenu.json",
             "preview": [
                 {
@@ -3635,8 +3635,8 @@
             "type": "HelpSecondaryMenuData[]",
             "kind": "array",
             "count": 184,
-            "bytes_start": 9109311,
-            "bytes_end": 9275899,
+            "bytes_start": 9130338,
+            "bytes_end": 9296926,
             "output_file": "masterdata/189_HelpSecondaryMenu.json",
             "preview": [
                 {
@@ -3655,8 +3655,8 @@
             "type": "HelpTertiaryMenuData[]",
             "kind": "array",
             "count": 19,
-            "bytes_start": 9275899,
-            "bytes_end": 9278731,
+            "bytes_start": 9296926,
+            "bytes_end": 9299758,
             "output_file": "masterdata/190_HelpTertiaryMenu.json",
             "preview": [
                 {
@@ -3671,9 +3671,9 @@
             "manager_field": "HomeAvatarAppealMovie",
             "type": "HomeAvatarAppealMovieData[]",
             "kind": "array",
-            "count": 413,
-            "bytes_start": 9278731,
-            "bytes_end": 9291125,
+            "count": 415,
+            "bytes_start": 9299758,
+            "bytes_end": 9312212,
             "output_file": "masterdata/191_HomeAvatarAppealMovie.json",
             "preview": [
                 {
@@ -3689,8 +3689,8 @@
             "type": "HomeMovieData[]",
             "kind": "array",
             "count": 117,
-            "bytes_start": 9291125,
-            "bytes_end": 9325539,
+            "bytes_start": 9312212,
+            "bytes_end": 9346626,
             "output_file": "masterdata/192_HomeMovie.json",
             "preview": [
                 {
@@ -3714,8 +3714,8 @@
             "type": "InitialEquipmentsData[]",
             "kind": "array",
             "count": 12,
-            "bytes_start": 9325539,
-            "bytes_end": 9325735,
+            "bytes_start": 9346626,
+            "bytes_end": 9346822,
             "output_file": "masterdata/193_InitialEquipments.json",
             "preview": [
                 {
@@ -3732,8 +3732,8 @@
             "type": "InitialItemsData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 9325735,
-            "bytes_end": 9326339,
+            "bytes_start": 9346822,
+            "bytes_end": 9347426,
             "output_file": "masterdata/194_InitialItems.json",
             "preview": [
                 {
@@ -3751,8 +3751,8 @@
             "type": "LessonData[]",
             "kind": "array",
             "count": 176,
-            "bytes_start": 9326339,
-            "bytes_end": 9336199,
+            "bytes_start": 9347426,
+            "bytes_end": 9357286,
             "output_file": "masterdata/195_Lesson.json",
             "preview": [
                 {
@@ -3779,8 +3779,8 @@
             "type": "LessonItemData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 9336199,
-            "bytes_end": 9336251,
+            "bytes_start": 9357286,
+            "bytes_end": 9357338,
             "output_file": "masterdata/196_LessonItem.json",
             "preview": [
                 {
@@ -3796,8 +3796,8 @@
             "type": "LessonSuccessData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 9336251,
-            "bytes_end": 9336303,
+            "bytes_start": 9357338,
+            "bytes_end": 9357390,
             "output_file": "masterdata/197_LessonSuccess.json",
             "preview": [
                 {
@@ -3814,8 +3814,8 @@
             "type": "LimitedMissionData[]",
             "kind": "array",
             "count": 11890,
-            "bytes_start": 9336303,
-            "bytes_end": 10195149,
+            "bytes_start": 9357390,
+            "bytes_end": 10216236,
             "output_file": "masterdata/198_LimitedMission.json",
             "preview": [
                 {
@@ -3837,8 +3837,8 @@
             "type": "LimitedMissionGroupData[]",
             "kind": "array",
             "count": 3596,
-            "bytes_start": 10195149,
-            "bytes_end": 10238305,
+            "bytes_start": 10216236,
+            "bytes_end": 10259392,
             "output_file": "masterdata/199_LimitedMissionGroup.json",
             "preview": [
                 {
@@ -3854,8 +3854,8 @@
             "type": "LimitedMissionScheduleData[]",
             "kind": "array",
             "count": 258,
-            "bytes_start": 10238305,
-            "bytes_end": 10267205,
+            "bytes_start": 10259392,
+            "bytes_end": 10288292,
             "output_file": "masterdata/200_LimitedMissionSchedule.json",
             "preview": [
                 {
@@ -3871,8 +3871,8 @@
             "type": "LiveDemoUIEffectsData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 10267205,
-            "bytes_end": 10268041,
+            "bytes_start": 10288292,
+            "bytes_end": 10289128,
             "output_file": "masterdata/201_LiveDemoUIEffects.json",
             "preview": [
                 {
@@ -3889,8 +3889,8 @@
             "type": "Dictionary\u003cstring, LocalizationData\u003e",
             "kind": "dictionary",
             "count": 5597,
-            "bytes_start": 10268041,
-            "bytes_end": 10828042,
+            "bytes_start": 10289128,
+            "bytes_end": 10849129,
             "output_file": "masterdata/202_Localization.json",
             "preview": [
                 {
@@ -3911,8 +3911,8 @@
             "type": "LocalNotificationData[]",
             "kind": "array",
             "count": 7,
-            "bytes_start": 10828042,
-            "bytes_end": 10828749,
+            "bytes_start": 10849129,
+            "bytes_end": 10849836,
             "output_file": "masterdata/203_LocalNotification.json",
             "preview": [
                 {
@@ -3932,8 +3932,8 @@
             "type": "LotteryLoginBonusData[]",
             "kind": "array",
             "count": 19,
-            "bytes_start": 10828749,
-            "bytes_end": 10832181,
+            "bytes_start": 10849836,
+            "bytes_end": 10853268,
             "output_file": "masterdata/204_LotteryLoginBonus.json",
             "preview": [
                 {
@@ -3955,8 +3955,8 @@
             "type": "LotteryLoginBonusRewardData[]",
             "kind": "array",
             "count": 121,
-            "bytes_start": 10832181,
-            "bytes_end": 10834605,
+            "bytes_start": 10853268,
+            "bytes_end": 10855692,
             "output_file": "masterdata/205_LotteryLoginBonusReward.json",
             "preview": [
                 {
@@ -3974,8 +3974,8 @@
             "type": "LotteryLoginBonusRewardGroupData[]",
             "kind": "array",
             "count": 81,
-            "bytes_start": 10834605,
-            "bytes_end": 10835905,
+            "bytes_start": 10855692,
+            "bytes_end": 10856992,
             "output_file": "masterdata/206_LotteryLoginBonusRewardGroup.json",
             "preview": [
                 {
@@ -3992,8 +3992,8 @@
             "type": "LotteryPhysicalRewardData[]",
             "kind": "array",
             "count": 393,
-            "bytes_start": 10835905,
-            "bytes_end": 10856455,
+            "bytes_start": 10856992,
+            "bytes_end": 10877542,
             "output_file": "masterdata/207_LotteryPhysicalReward.json",
             "preview": [
                 {
@@ -4010,8 +4010,8 @@
             "type": "LowerLimitLessonStageData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 10856455,
-            "bytes_end": 10856939,
+            "bytes_start": 10877542,
+            "bytes_end": 10878026,
             "output_file": "masterdata/208_LowerLimitLessonStage.json",
             "preview": [
                 {
@@ -4027,8 +4027,8 @@
             "type": "LowerLimitStageData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 10856939,
-            "bytes_end": 10857423,
+            "bytes_start": 10878026,
+            "bytes_end": 10878510,
             "output_file": "masterdata/209_LowerLimitStage.json",
             "preview": [
                 {
@@ -4043,9 +4043,9 @@
             "manager_field": "MainMission",
             "type": "MainMissionData[]",
             "kind": "array",
-            "count": 3424,
-            "bytes_start": 10857423,
-            "bytes_end": 11187221,
+            "count": 3428,
+            "bytes_start": 10878510,
+            "bytes_end": 11208672,
             "output_file": "masterdata/210_MainMission.json",
             "preview": [
                 {
@@ -4066,9 +4066,9 @@
             "manager_field": "MainMissionGroup",
             "type": "MainMissionGroupData[]",
             "kind": "array",
-            "count": 930,
-            "bytes_start": 11187221,
-            "bytes_end": 11194665,
+            "count": 932,
+            "bytes_start": 11208672,
+            "bytes_end": 11216132,
             "output_file": "masterdata/211_MainMissionGroup.json",
             "preview": [
                 {
@@ -4083,8 +4083,8 @@
             "type": "MainUnitData[]",
             "kind": "array",
             "count": 192,
-            "bytes_start": 11194665,
-            "bytes_end": 11196973,
+            "bytes_start": 11216132,
+            "bytes_end": 11218440,
             "output_file": "masterdata/212_MainUnit.json",
             "preview": [
                 {
@@ -4100,8 +4100,8 @@
             "type": "MainUnitAvatarData[]",
             "kind": "array",
             "count": 64,
-            "bytes_start": 11196973,
-            "bytes_end": 11200409,
+            "bytes_start": 11218440,
+            "bytes_end": 11221876,
             "output_file": "masterdata/213_MainUnitAvatar.json",
             "preview": [
                 {
@@ -4123,8 +4123,8 @@
             "type": "MainUnitChangeResourceData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 11200409,
-            "bytes_end": 11200453,
+            "bytes_start": 11221876,
+            "bytes_end": 11221920,
             "output_file": "masterdata/214_MainUnitChangeResource.json",
             "preview": [
                 {
@@ -4142,8 +4142,8 @@
             "type": "MainUnitGroupData[]",
             "kind": "array",
             "count": 192,
-            "bytes_start": 11200453,
-            "bytes_end": 11202761,
+            "bytes_start": 11221920,
+            "bytes_end": 11224228,
             "output_file": "masterdata/215_MainUnitGroup.json",
             "preview": [
                 {
@@ -4159,8 +4159,8 @@
             "type": "MainUnitSkillData[]",
             "kind": "array",
             "count": 24,
-            "bytes_start": 11202761,
-            "bytes_end": 11203341,
+            "bytes_start": 11224228,
+            "bytes_end": 11224808,
             "output_file": "masterdata/216_MainUnitSkill.json",
             "preview": [
                 {
@@ -4178,8 +4178,8 @@
             "type": "MainUnitTypeSkillData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 11203341,
-            "bytes_end": 11203705,
+            "bytes_start": 11224808,
+            "bytes_end": 11225172,
             "output_file": "masterdata/217_MainUnitTypeSkill.json",
             "preview": [
                 {
@@ -4196,8 +4196,8 @@
             "type": "MainUnitTypeSkillSettingData[]",
             "kind": "array",
             "count": 360,
-            "bytes_start": 11203705,
-            "bytes_end": 11206589,
+            "bytes_start": 11225172,
+            "bytes_end": 11228056,
             "output_file": "masterdata/218_MainUnitTypeSkillSetting.json",
             "preview": [
                 {
@@ -4212,8 +4212,8 @@
             "type": "MaxFriendCountData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 11206589,
-            "bytes_end": 11206605,
+            "bytes_start": 11228056,
+            "bytes_end": 11228072,
             "output_file": "masterdata/219_MaxFriendCount.json",
             "preview": [
                 {
@@ -4228,9 +4228,9 @@
             "manager_field": "Medal",
             "type": "MedalData[]",
             "kind": "array",
-            "count": 779,
-            "bytes_start": 11206605,
-            "bytes_end": 11419081,
+            "count": 780,
+            "bytes_start": 11228072,
+            "bytes_end": 11440792,
             "output_file": "masterdata/220_Medal.json",
             "preview": [
                 {
@@ -4251,8 +4251,8 @@
             "type": "MemoriaData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11419081,
-            "bytes_end": 11495356,
+            "bytes_start": 11440792,
+            "bytes_end": 11517067,
             "output_file": "masterdata/221_Memoria.json",
             "preview": [
                 {
@@ -4277,8 +4277,8 @@
             "type": "MemoriaAwakeningBonusSettingData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11495356,
-            "bytes_end": 11500124,
+            "bytes_start": 11517067,
+            "bytes_end": 11521835,
             "output_file": "masterdata/222_MemoriaAwakeningBonusSetting.json",
             "preview": [
                 {
@@ -4294,8 +4294,8 @@
             "type": "MemoriaAwakeningEffectSettingData[]",
             "kind": "array",
             "count": 100,
-            "bytes_start": 11500124,
-            "bytes_end": 11501728,
+            "bytes_start": 11521835,
+            "bytes_end": 11523439,
             "output_file": "masterdata/223_MemoriaAwakeningEffectSetting.json",
             "preview": [
                 {
@@ -4312,8 +4312,8 @@
             "type": "MemoriaAwakeningItemSettingData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 11501728,
-            "bytes_end": 11502692,
+            "bytes_start": 11523439,
+            "bytes_end": 11524403,
             "output_file": "masterdata/224_MemoriaAwakeningItemSetting.json",
             "preview": [
                 {
@@ -4332,8 +4332,8 @@
             "type": "MemoriaAwakeningScoreSettingData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 11502692,
-            "bytes_end": 11502744,
+            "bytes_start": 11524403,
+            "bytes_end": 11524455,
             "output_file": "masterdata/225_MemoriaAwakeningScoreSetting.json",
             "preview": [
                 {
@@ -4349,8 +4349,8 @@
             "type": "MemoriaAwakeningStateEffectSettingData[]",
             "kind": "array",
             "count": 72,
-            "bytes_start": 11502744,
-            "bytes_end": 11503900,
+            "bytes_start": 11524455,
+            "bytes_end": 11525611,
             "output_file": "masterdata/226_MemoriaAwakeningStateEffectSetting.json",
             "preview": [
                 {
@@ -4367,8 +4367,8 @@
             "type": "MemoriaBaseParameterDetailData[]",
             "kind": "array",
             "count": 1588,
-            "bytes_start": 11503900,
-            "bytes_end": 11542016,
+            "bytes_start": 11525611,
+            "bytes_end": 11563727,
             "output_file": "masterdata/227_MemoriaBaseParameterDetail.json",
             "preview": [
                 {
@@ -4387,8 +4387,8 @@
             "type": "MemoriaBattleParameterDetailData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11542016,
-            "bytes_end": 11553136,
+            "bytes_start": 11563727,
+            "bytes_end": 11574847,
             "output_file": "masterdata/228_MemoriaBattleParameterDetail.json",
             "preview": [
                 {
@@ -4408,8 +4408,8 @@
             "type": "MemoriaEventSettingData[]",
             "kind": "array",
             "count": 150,
-            "bytes_start": 11553136,
-            "bytes_end": 11555540,
+            "bytes_start": 11574847,
+            "bytes_end": 11577251,
             "output_file": "masterdata/229_MemoriaEventSetting.json",
             "preview": [
                 {
@@ -4426,8 +4426,8 @@
             "type": "MemoriaFragmentData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11555540,
-            "bytes_end": 11558720,
+            "bytes_start": 11577251,
+            "bytes_end": 11580431,
             "output_file": "masterdata/230_MemoriaFragment.json",
             "preview": [
                 {
@@ -4442,8 +4442,8 @@
             "type": "MemoriaGrowthGroupSettingData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 11558720,
-            "bytes_end": 11558844,
+            "bytes_start": 11580431,
+            "bytes_end": 11580555,
             "output_file": "masterdata/231_MemoriaGrowthGroupSetting.json",
             "preview": [
                 {
@@ -4462,8 +4462,8 @@
             "type": "MemoriaLevelupItemSettingData[]",
             "kind": "array",
             "count": 49,
-            "bytes_start": 11558844,
-            "bytes_end": 11559828,
+            "bytes_start": 11580555,
+            "bytes_end": 11581539,
             "output_file": "masterdata/232_MemoriaLevelupItemSetting.json",
             "preview": [
                 {
@@ -4481,8 +4481,8 @@
             "type": "MemoriaMissionData[]",
             "kind": "array",
             "count": 1901,
-            "bytes_start": 11559828,
-            "bytes_end": 11582644,
+            "bytes_start": 11581539,
+            "bytes_end": 11604355,
             "output_file": "masterdata/233_MemoriaMission.json",
             "preview": [
                 {
@@ -4498,8 +4498,8 @@
             "type": "MemoriaMissionDetailData[]",
             "kind": "array",
             "count": 2297,
-            "bytes_start": 11582644,
-            "bytes_end": 11619400,
+            "bytes_start": 11604355,
+            "bytes_end": 11641111,
             "output_file": "masterdata/234_MemoriaMissionDetail.json",
             "preview": [
                 {
@@ -4516,8 +4516,8 @@
             "type": "MemoriaMissionRewardData[]",
             "kind": "array",
             "count": 1504,
-            "bytes_start": 11619400,
-            "bytes_end": 11649484,
+            "bytes_start": 11641111,
+            "bytes_end": 11671195,
             "output_file": "masterdata/235_MemoriaMissionReward.json",
             "preview": [
                 {
@@ -4535,8 +4535,8 @@
             "type": "MemoriaModeSettingData[]",
             "kind": "array",
             "count": 196,
-            "bytes_start": 11649484,
-            "bytes_end": 11652624,
+            "bytes_start": 11671195,
+            "bytes_end": 11674335,
             "output_file": "masterdata/236_MemoriaModeSetting.json",
             "preview": [
                 {
@@ -4553,8 +4553,8 @@
             "type": "MemoriaPhotoGroupData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11652624,
-            "bytes_end": 11657392,
+            "bytes_start": 11674335,
+            "bytes_end": 11679103,
             "output_file": "masterdata/237_MemoriaPhotoGroup.json",
             "preview": [
                 {
@@ -4570,8 +4570,8 @@
             "type": "MemoriaRarityDetailsData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 11657392,
-            "bytes_end": 11657476,
+            "bytes_start": 11679103,
+            "bytes_end": 11679187,
             "output_file": "masterdata/238_MemoriaRarityDetails.json",
             "preview": [
                 {
@@ -4589,8 +4589,8 @@
             "type": "MemoriaRarityRelationData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 11657476,
-            "bytes_end": 11657516,
+            "bytes_start": 11679187,
+            "bytes_end": 11679227,
             "output_file": "masterdata/239_MemoriaRarityRelation.json",
             "preview": [
                 {
@@ -4605,8 +4605,8 @@
             "manager_field": "MemoriaResistanceParameterDetail",
             "type": "MemoriaResistanceParameterDetailData[]",
             "kind": "array",
-            "bytes_start": 11657516,
-            "bytes_end": 11657520,
+            "bytes_start": 11679227,
+            "bytes_end": 11679231,
             "output_file": "masterdata/240_MemoriaResistanceParameterDetail.json"
         },
         {
@@ -4615,8 +4615,8 @@
             "type": "MemoriaRewardGroupData[]",
             "kind": "array",
             "count": 1901,
-            "bytes_start": 11657520,
-            "bytes_end": 11672732,
+            "bytes_start": 11679231,
+            "bytes_end": 11694443,
             "output_file": "masterdata/241_MemoriaRewardGroup.json",
             "preview": [
                 {
@@ -4631,8 +4631,8 @@
             "type": "MemoriaScoreData[]",
             "kind": "array",
             "count": 397,
-            "bytes_start": 11672732,
-            "bytes_end": 11680676,
+            "bytes_start": 11694443,
+            "bytes_end": 11702387,
             "output_file": "masterdata/242_MemoriaScore.json",
             "preview": [
                 {
@@ -4650,8 +4650,8 @@
             "type": "MemoriaSetData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 11680676,
-            "bytes_end": 11680892,
+            "bytes_start": 11702387,
+            "bytes_end": 11702603,
             "output_file": "masterdata/243_MemoriaSet.json",
             "preview": [
                 {
@@ -4666,8 +4666,8 @@
             "type": "MemoriaSetEffectData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 11680892,
-            "bytes_end": 11681088,
+            "bytes_start": 11702603,
+            "bytes_end": 11702799,
             "output_file": "masterdata/244_MemoriaSetEffect.json",
             "preview": [
                 {
@@ -4686,8 +4686,8 @@
             "type": "MemoriaSkillData[]",
             "kind": "array",
             "count": 13075,
-            "bytes_start": 11681088,
-            "bytes_end": 13265882,
+            "bytes_start": 11702799,
+            "bytes_end": 13287593,
             "output_file": "masterdata/245_MemoriaSkill.json",
             "preview": [
                 {
@@ -4706,8 +4706,8 @@
             "type": "MemoriaSkillEffectData[]",
             "kind": "array",
             "count": 13193,
-            "bytes_start": 13265882,
-            "bytes_end": 14163138,
+            "bytes_start": 13287593,
+            "bytes_end": 14184849,
             "output_file": "masterdata/246_MemoriaSkillEffect.json",
             "preview": [
                 {
@@ -4728,8 +4728,8 @@
             "type": "MemoriaSkillMappingData[]",
             "kind": "array",
             "count": 16790,
-            "bytes_start": 14163138,
-            "bytes_end": 16379422,
+            "bytes_start": 14184849,
+            "bytes_end": 16401133,
             "output_file": "masterdata/247_MemoriaSkillMapping.json",
             "preview": [
                 {
@@ -4750,8 +4750,8 @@
             "type": "MemoriaSkillTagData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 16379422,
-            "bytes_end": 16379606,
+            "bytes_start": 16401133,
+            "bytes_end": 16401317,
             "output_file": "masterdata/248_MemoriaSkillTag.json",
             "preview": [
                 {
@@ -4766,8 +4766,8 @@
             "type": "MemoriaUnitScopeDetailSettingData[]",
             "kind": "array",
             "count": 536,
-            "bytes_start": 16379606,
-            "bytes_end": 16390330,
+            "bytes_start": 16401317,
+            "bytes_end": 16412041,
             "output_file": "masterdata/249_MemoriaUnitScopeDetailSetting.json",
             "preview": [
                 {
@@ -4784,9 +4784,9 @@
             "manager_field": "MissionCondition",
             "type": "MissionConditionData[]",
             "kind": "array",
-            "count": 5913,
-            "bytes_start": 16390330,
-            "bytes_end": 16484942,
+            "count": 5931,
+            "bytes_start": 16412041,
+            "bytes_end": 16506941,
             "output_file": "masterdata/250_MissionCondition.json",
             "preview": [
                 {
@@ -4802,9 +4802,9 @@
             "manager_field": "MissionReward",
             "type": "MissionRewardData[]",
             "kind": "array",
-            "count": 20712,
-            "bytes_start": 16484942,
-            "bytes_end": 16899186,
+            "count": 20716,
+            "bytes_start": 16506941,
+            "bytes_end": 16921265,
             "output_file": "masterdata/251_MissionReward.json",
             "preview": [
                 {
@@ -4822,8 +4822,8 @@
             "type": "MonthlyLoginBonusData[]",
             "kind": "array",
             "count": 59,
-            "bytes_start": 16899186,
-            "bytes_end": 16907480,
+            "bytes_start": 16921265,
+            "bytes_end": 16929559,
             "output_file": "masterdata/252_MonthlyLoginBonus.json",
             "preview": [
                 {
@@ -4841,8 +4841,8 @@
             "type": "MonthlyLoginBonusDailyRewardData[]",
             "kind": "array",
             "count": 1795,
-            "bytes_start": 16907480,
-            "bytes_end": 16950564,
+            "bytes_start": 16929559,
+            "bytes_end": 16972643,
             "output_file": "masterdata/253_MonthlyLoginBonusDailyReward.json",
             "preview": [
                 {
@@ -4861,8 +4861,8 @@
             "type": "MonthlyLoginBonusReceivedCountRewardData[]",
             "kind": "array",
             "count": 715,
-            "bytes_start": 16950564,
-            "bytes_end": 16967728,
+            "bytes_start": 16972643,
+            "bytes_end": 16989807,
             "output_file": "masterdata/254_MonthlyLoginBonusReceivedCountReward.json",
             "preview": [
                 {
@@ -4880,9 +4880,9 @@
             "manager_field": "Movie",
             "type": "MovieData[]",
             "kind": "array",
-            "count": 2086,
-            "bytes_start": 16967728,
-            "bytes_end": 17576190,
+            "count": 2090,
+            "bytes_start": 16989807,
+            "bytes_end": 17599585,
             "output_file": "masterdata/255_Movie.json",
             "preview": [
                 {
@@ -4906,8 +4906,8 @@
             "type": "NpcUnitSkillData[]",
             "kind": "array",
             "count": 1861,
-            "bytes_start": 17576190,
-            "bytes_end": 17613414,
+            "bytes_start": 17599585,
+            "bytes_end": 17636809,
             "output_file": "masterdata/256_NpcUnitSkill.json",
             "preview": [
                 {
@@ -4924,8 +4924,8 @@
             "type": "OverallRankingPhysicalRewardData[]",
             "kind": "array",
             "count": 78,
-            "bytes_start": 17613414,
-            "bytes_end": 17617586,
+            "bytes_start": 17636809,
+            "bytes_end": 17640981,
             "output_file": "masterdata/257_OverallRankingPhysicalReward.json",
             "preview": [
                 {
@@ -4943,9 +4943,9 @@
             "manager_field": "PassiveSkill",
             "type": "PassiveSkillData[]",
             "kind": "array",
-            "count": 6932,
-            "bytes_start": 17617586,
-            "bytes_end": 18573650,
+            "count": 6942,
+            "bytes_start": 17640981,
+            "bytes_end": 18599233,
             "output_file": "masterdata/258_PassiveSkill.json",
             "preview": [
                 {
@@ -4961,9 +4961,9 @@
             "manager_field": "PassiveSkillAvatar",
             "type": "PassiveSkillAvatarData[]",
             "kind": "array",
-            "count": 2387,
-            "bytes_start": 18573650,
-            "bytes_end": 18611846,
+            "count": 2393,
+            "bytes_start": 18599233,
+            "bytes_end": 18637525,
             "output_file": "masterdata/259_PassiveSkillAvatar.json",
             "preview": [
                 {
@@ -4979,9 +4979,9 @@
             "manager_field": "PassiveSkillEffect",
             "type": "PassiveSkillEffectData[]",
             "kind": "array",
-            "count": 16956,
-            "bytes_start": 18611846,
-            "bytes_end": 19637702,
+            "count": 16991,
+            "bytes_start": 18637525,
+            "bytes_end": 19665483,
             "output_file": "masterdata/260_PassiveSkillEffect.json",
             "preview": [
                 {
@@ -5000,8 +5000,8 @@
             "type": "PassportData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 19637702,
-            "bytes_end": 19638038,
+            "bytes_start": 19665483,
+            "bytes_end": 19665819,
             "output_file": "masterdata/261_Passport.json",
             "preview": [
                 {
@@ -5017,8 +5017,8 @@
             "type": "PassportBuffData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 19638038,
-            "bytes_end": 19638258,
+            "bytes_start": 19665819,
+            "bytes_end": 19666039,
             "output_file": "masterdata/262_PassportBuff.json",
             "preview": [
                 {
@@ -5036,8 +5036,8 @@
             "type": "PassportDailyBonusRewardData[]",
             "kind": "array",
             "count": 20,
-            "bytes_start": 19638258,
-            "bytes_end": 19638662,
+            "bytes_start": 19666039,
+            "bytes_end": 19666443,
             "output_file": "masterdata/263_PassportDailyBonusReward.json",
             "preview": [
                 {
@@ -5055,8 +5055,8 @@
             "type": "PassportEffectGroupData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 19638662,
-            "bytes_end": 19639594,
+            "bytes_start": 19666443,
+            "bytes_end": 19667375,
             "output_file": "masterdata/264_PassportEffectGroup.json",
             "preview": [
                 {
@@ -5072,9 +5072,9 @@
             "manager_field": "Photo",
             "type": "PhotoData[]",
             "kind": "array",
-            "count": 5475,
-            "bytes_start": 19639594,
-            "bytes_end": 20745717,
+            "count": 5485,
+            "bytes_start": 19667375,
+            "bytes_end": 20775320,
             "output_file": "masterdata/265_Photo.json",
             "preview": [
                 {
@@ -5096,9 +5096,9 @@
             "manager_field": "PhotoRelatedCharacter",
             "type": "PhotoRelatedCharacterData[]",
             "kind": "array",
-            "count": 5791,
-            "bytes_start": 20745717,
-            "bytes_end": 20815213,
+            "count": 5801,
+            "bytes_start": 20775320,
+            "bytes_end": 20844936,
             "output_file": "masterdata/266_PhotoRelatedCharacter.json",
             "preview": [
                 {
@@ -5114,8 +5114,8 @@
             "type": "PhotoSpecialNameData[]",
             "kind": "array",
             "count": 21,
-            "bytes_start": 20815213,
-            "bytes_end": 20816023,
+            "bytes_start": 20844936,
+            "bytes_end": 20845746,
             "output_file": "masterdata/267_PhotoSpecialName.json",
             "preview": [
                 {
@@ -5130,8 +5130,8 @@
             "type": "PickupMissionData[]",
             "kind": "array",
             "count": 1891,
-            "bytes_start": 20816023,
-            "bytes_end": 20938843,
+            "bytes_start": 20845746,
+            "bytes_end": 20968566,
             "output_file": "masterdata/268_PickupMission.json",
             "preview": [
                 {
@@ -5150,8 +5150,8 @@
             "type": "PickupMissionScheduleData[]",
             "kind": "array",
             "count": 59,
-            "bytes_start": 20938843,
-            "bytes_end": 20946399,
+            "bytes_start": 20968566,
+            "bytes_end": 20976122,
             "output_file": "masterdata/269_PickupMissionSchedule.json",
             "preview": [
                 {
@@ -5171,8 +5171,8 @@
             "type": "PlayerRankData[]",
             "kind": "array",
             "count": 253,
-            "bytes_start": 20946399,
-            "bytes_end": 20951463,
+            "bytes_start": 20976122,
+            "bytes_end": 20981186,
             "output_file": "masterdata/270_PlayerRank.json",
             "preview": [
                 {
@@ -5189,8 +5189,8 @@
             "type": "PlayerRankBonusData[]",
             "kind": "array",
             "count": 30,
-            "bytes_start": 20951463,
-            "bytes_end": 20952609,
+            "bytes_start": 20981186,
+            "bytes_end": 20982332,
             "output_file": "masterdata/271_PlayerRankBonus.json",
             "preview": [
                 {
@@ -5208,8 +5208,8 @@
             "type": "PlayerRankUpConditionData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 20952609,
-            "bytes_end": 20952649,
+            "bytes_start": 20982332,
+            "bytes_end": 20982372,
             "output_file": "masterdata/272_PlayerRankUpCondition.json",
             "preview": [
                 {
@@ -5225,8 +5225,8 @@
             "type": "PlayVoiceSettingData[]",
             "kind": "array",
             "count": 6170,
-            "bytes_start": 20952649,
-            "bytes_end": 21150093,
+            "bytes_start": 20982372,
+            "bytes_end": 21179816,
             "output_file": "masterdata/273_PlayVoiceSetting.json",
             "preview": [
                 {
@@ -5247,8 +5247,8 @@
             "type": "PresentPartyData[]",
             "kind": "array",
             "count": 19,
-            "bytes_start": 21150093,
-            "bytes_end": 21152529,
+            "bytes_start": 21179816,
+            "bytes_end": 21182252,
             "output_file": "masterdata/274_PresentParty.json",
             "preview": [
                 {
@@ -5268,8 +5268,8 @@
             "type": "PresentPartyCharacterData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 21152529,
-            "bytes_end": 21153523,
+            "bytes_start": 21182252,
+            "bytes_end": 21183246,
             "output_file": "masterdata/275_PresentPartyCharacter.json",
             "preview": [
                 {
@@ -5285,8 +5285,8 @@
             "type": "PresentPartyMemberData[]",
             "kind": "array",
             "count": 216,
-            "bytes_start": 21153523,
-            "bytes_end": 21157847,
+            "bytes_start": 21183246,
+            "bytes_end": 21187570,
             "output_file": "masterdata/276_PresentPartyMember.json",
             "preview": [
                 {
@@ -5304,8 +5304,8 @@
             "type": "PresentPartyMemberRewardData[]",
             "kind": "array",
             "count": 1498,
-            "bytes_start": 21157847,
-            "bytes_end": 21195301,
+            "bytes_start": 21187570,
+            "bytes_end": 21225024,
             "output_file": "masterdata/277_PresentPartyMemberReward.json",
             "preview": [
                 {
@@ -5325,8 +5325,8 @@
             "type": "PresentPartyNormalRewardData[]",
             "kind": "array",
             "count": 819,
-            "bytes_start": 21195301,
-            "bytes_end": 21212504,
+            "bytes_start": 21225024,
+            "bytes_end": 21242227,
             "output_file": "masterdata/278_PresentPartyNormalReward.json",
             "preview": [
                 {
@@ -5345,8 +5345,8 @@
             "type": "PresentPartyPresentData[]",
             "kind": "array",
             "count": 57,
-            "bytes_start": 21212504,
-            "bytes_end": 21213648,
+            "bytes_start": 21242227,
+            "bytes_end": 21243371,
             "output_file": "masterdata/279_PresentPartyPresent.json",
             "preview": [
                 {
@@ -5364,8 +5364,8 @@
             "type": "PresentPartyRankData[]",
             "kind": "array",
             "count": 552,
-            "bytes_start": 21213648,
-            "bytes_end": 21223036,
+            "bytes_start": 21243371,
+            "bytes_end": 21252759,
             "output_file": "masterdata/280_PresentPartyRank.json",
             "preview": [
                 {
@@ -5383,8 +5383,8 @@
             "type": "PresentPartyReactionData[]",
             "kind": "array",
             "count": 132,
-            "bytes_start": 21223036,
-            "bytes_end": 21233952,
+            "bytes_start": 21252759,
+            "bytes_end": 21263675,
             "output_file": "masterdata/281_PresentPartyReaction.json",
             "preview": [
                 {
@@ -5403,8 +5403,8 @@
             "type": "PresentPartyRewardData[]",
             "kind": "array",
             "count": 617,
-            "bytes_start": 21233952,
-            "bytes_end": 21241360,
+            "bytes_start": 21263675,
+            "bytes_end": 21271083,
             "output_file": "masterdata/282_PresentPartyReward.json",
             "preview": [
                 {
@@ -5420,8 +5420,8 @@
             "type": "PresentPartyTipsData[]",
             "kind": "array",
             "count": 38,
-            "bytes_start": 21241360,
-            "bytes_end": 21241972,
+            "bytes_start": 21271083,
+            "bytes_end": 21271695,
             "output_file": "masterdata/283_PresentPartyTips.json",
             "preview": [
                 {
@@ -5438,8 +5438,8 @@
             "type": "ProduceBossChallengeRequiredCoinData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 21241972,
-            "bytes_end": 21242144,
+            "bytes_start": 21271695,
+            "bytes_end": 21271867,
             "output_file": "masterdata/284_ProduceBossChallengeRequiredCoin.json",
             "preview": [
                 {
@@ -5455,8 +5455,8 @@
             "type": "ProduceBossSettingData[]",
             "kind": "array",
             "count": 300,
-            "bytes_start": 21242144,
-            "bytes_end": 21246948,
+            "bytes_start": 21271867,
+            "bytes_end": 21276671,
             "output_file": "masterdata/285_ProduceBossSetting.json",
             "preview": [
                 {
@@ -5473,8 +5473,8 @@
             "type": "ProduceBulkBattleRequiredCoinData[]",
             "kind": "array",
             "count": 26,
-            "bytes_start": 21246948,
-            "bytes_end": 21247264,
+            "bytes_start": 21276671,
+            "bytes_end": 21276987,
             "output_file": "masterdata/286_ProduceBulkBattleRequiredCoin.json",
             "preview": [
                 {
@@ -5490,8 +5490,8 @@
             "type": "ProduceCampaignWeekdayData[]",
             "kind": "array",
             "count": 11,
-            "bytes_start": 21247264,
-            "bytes_end": 21247488,
+            "bytes_start": 21276987,
+            "bytes_end": 21277211,
             "output_file": "masterdata/287_ProduceCampaignWeekday.json",
             "preview": [
                 {
@@ -5509,8 +5509,8 @@
             "type": "ProduceCampaignWeekdayPeriodData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 21247488,
-            "bytes_end": 21248036,
+            "bytes_start": 21277211,
+            "bytes_end": 21277759,
             "output_file": "masterdata/288_ProduceCampaignWeekdayPeriod.json",
             "preview": [
                 {
@@ -5528,8 +5528,8 @@
             "type": "ProduceCampaignWeekdaySetData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 21248036,
-            "bytes_end": 21248055,
+            "bytes_start": 21277759,
+            "bytes_end": 21277778,
             "output_file": "masterdata/289_ProduceCampaignWeekdaySet.json",
             "preview": [
                 {
@@ -5544,8 +5544,8 @@
             "type": "ProduceDropData[]",
             "kind": "array",
             "count": 950,
-            "bytes_start": 21248055,
-            "bytes_end": 21251859,
+            "bytes_start": 21277778,
+            "bytes_end": 21281582,
             "output_file": "masterdata/290_ProduceDrop.json",
             "preview": [
                 {
@@ -5559,8 +5559,8 @@
             "type": "ProduceDropEquipmentData[]",
             "kind": "array",
             "count": 4374,
-            "bytes_start": 21251859,
-            "bytes_end": 21321847,
+            "bytes_start": 21281582,
+            "bytes_end": 21351570,
             "output_file": "masterdata/291_ProduceDropEquipment.json",
             "preview": [
                 {
@@ -5577,8 +5577,8 @@
             "type": "ProduceDropEquipmentGroupDetailData[]",
             "kind": "array",
             "count": 1200,
-            "bytes_start": 21321847,
-            "bytes_end": 21341051,
+            "bytes_start": 21351570,
+            "bytes_end": 21370774,
             "output_file": "masterdata/292_ProduceDropEquipmentGroupDetail.json",
             "preview": [
                 {
@@ -5595,8 +5595,8 @@
             "type": "ProduceDropItemData[]",
             "kind": "array",
             "count": 6085,
-            "bytes_start": 21341051,
-            "bytes_end": 21493180,
+            "bytes_start": 21370774,
+            "bytes_end": 21522903,
             "output_file": "masterdata/293_ProduceDropItem.json",
             "preview": [
                 {
@@ -5616,8 +5616,8 @@
             "type": "ProduceDropSettingData[]",
             "kind": "array",
             "count": 12673,
-            "bytes_start": 21493180,
-            "bytes_end": 21695952,
+            "bytes_start": 21522903,
+            "bytes_end": 21725675,
             "output_file": "masterdata/294_ProduceDropSetting.json",
             "preview": [
                 {
@@ -5634,8 +5634,8 @@
             "type": "ProduceDropSettingGroupData[]",
             "kind": "array",
             "count": 7067,
-            "bytes_start": 21695952,
-            "bytes_end": 21780760,
+            "bytes_start": 21725675,
+            "bytes_end": 21810483,
             "output_file": "masterdata/295_ProduceDropSettingGroup.json",
             "preview": [
                 {
@@ -5651,8 +5651,8 @@
             "type": "ProduceEquipmentThumbnailSettingData[]",
             "kind": "array",
             "count": 39,
-            "bytes_start": 21780760,
-            "bytes_end": 21783800,
+            "bytes_start": 21810483,
+            "bytes_end": 21813523,
             "output_file": "masterdata/296_ProduceEquipmentThumbnailSetting.json",
             "preview": [
                 {
@@ -5667,8 +5667,8 @@
             "manager_field": "ProduceFirstClearRewardItem",
             "type": "ProduceFirstClearRewardItemData[]",
             "kind": "array",
-            "bytes_start": 21783800,
-            "bytes_end": 21783804,
+            "bytes_start": 21813523,
+            "bytes_end": 21813527,
             "output_file": "masterdata/297_ProduceFirstClearRewardItem.json"
         },
         {
@@ -5676,8 +5676,8 @@
             "manager_field": "ProduceFirstClearRewardSetting",
             "type": "ProduceFirstClearRewardSettingData[]",
             "kind": "array",
-            "bytes_start": 21783804,
-            "bytes_end": 21783808,
+            "bytes_start": 21813527,
+            "bytes_end": 21813531,
             "output_file": "masterdata/298_ProduceFirstClearRewardSetting.json"
         },
         {
@@ -5685,8 +5685,8 @@
             "manager_field": "ProduceFirstClearRewardSettingGroup",
             "type": "ProduceFirstClearRewardSettingGroupData[]",
             "kind": "array",
-            "bytes_start": 21783808,
-            "bytes_end": 21783812,
+            "bytes_start": 21813531,
+            "bytes_end": 21813535,
             "output_file": "masterdata/299_ProduceFirstClearRewardSettingGroup.json"
         },
         {
@@ -5695,8 +5695,8 @@
             "type": "ProduceLessonAreaData[]",
             "kind": "array",
             "count": 35,
-            "bytes_start": 21783812,
-            "bytes_end": 21786266,
+            "bytes_start": 21813535,
+            "bytes_end": 21815989,
             "output_file": "masterdata/300_ProduceLessonArea.json",
             "preview": [
                 {
@@ -5714,8 +5714,8 @@
             "type": "ProduceLessonStageData[]",
             "kind": "array",
             "count": 350,
-            "bytes_start": 21786266,
-            "bytes_end": 21805940,
+            "bytes_start": 21815989,
+            "bytes_end": 21835663,
             "output_file": "masterdata/301_ProduceLessonStage.json",
             "preview": [
                 {
@@ -5739,8 +5739,8 @@
             "type": "ProduceLessonStageChallengeRequiredCoinData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 21805940,
-            "bytes_end": 21806112,
+            "bytes_start": 21835663,
+            "bytes_end": 21835835,
             "output_file": "masterdata/302_ProduceLessonStageChallengeRequiredCoin.json",
             "preview": [
                 {
@@ -5756,8 +5756,8 @@
             "type": "ProduceLessonStageCostumeData[]",
             "kind": "array",
             "count": 68,
-            "bytes_start": 21806112,
-            "bytes_end": 21806932,
+            "bytes_start": 21835835,
+            "bytes_end": 21836655,
             "output_file": "masterdata/303_ProduceLessonStageCostume.json",
             "preview": [
                 {
@@ -5773,8 +5773,8 @@
             "type": "ProduceNpcData[]",
             "kind": "array",
             "count": 3873,
-            "bytes_start": 21806932,
-            "bytes_end": 21987714,
+            "bytes_start": 21836655,
+            "bytes_end": 22017437,
             "output_file": "masterdata/304_ProduceNpc.json",
             "preview": [
                 {
@@ -5794,8 +5794,8 @@
             "type": "ProduceNpcDeckData[]",
             "kind": "array",
             "count": 950,
-            "bytes_start": 21987714,
-            "bytes_end": 22017876,
+            "bytes_start": 22017437,
+            "bytes_end": 22047599,
             "output_file": "masterdata/305_ProduceNpcDeck.json",
             "preview": [
                 {
@@ -5810,8 +5810,8 @@
             "type": "ProduceNpcUnitData[]",
             "kind": "array",
             "count": 3873,
-            "bytes_start": 22017876,
-            "bytes_end": 22064356,
+            "bytes_start": 22047599,
+            "bytes_end": 22094079,
             "output_file": "masterdata/306_ProduceNpcUnit.json",
             "preview": [
                 {
@@ -5827,8 +5827,8 @@
             "type": "ProducePerformanceData[]",
             "kind": "array",
             "count": 42,
-            "bytes_start": 22064356,
-            "bytes_end": 22065032,
+            "bytes_start": 22094079,
+            "bytes_end": 22094755,
             "output_file": "masterdata/307_ProducePerformance.json",
             "preview": [
                 {
@@ -5845,8 +5845,8 @@
             "type": "ProduceStageData[]",
             "kind": "array",
             "count": 300,
-            "bytes_start": 22065032,
-            "bytes_end": 22102512,
+            "bytes_start": 22094755,
+            "bytes_end": 22132235,
             "output_file": "masterdata/308_ProduceStage.json",
             "preview": [
                 {
@@ -5876,9 +5876,9 @@
             "manager_field": "ProfileEmblem",
             "type": "ProfileEmblemData[]",
             "kind": "array",
-            "count": 5291,
-            "bytes_start": 22102512,
-            "bytes_end": 23124814,
+            "count": 5295,
+            "bytes_start": 22132235,
+            "bytes_end": 23155225,
             "output_file": "masterdata/309_ProfileEmblem.json",
             "preview": [
                 {
@@ -5899,8 +5899,8 @@
             "type": "ProfileEmblemEffectResourceData[]",
             "kind": "array",
             "count": 38,
-            "bytes_start": 23124814,
-            "bytes_end": 23125274,
+            "bytes_start": 23155225,
+            "bytes_end": 23155685,
             "output_file": "masterdata/310_ProfileEmblemEffectResource.json",
             "preview": [
                 {
@@ -5916,8 +5916,8 @@
             "type": "ProfileEmblemPassiveSkillData[]",
             "kind": "array",
             "count": 38,
-            "bytes_start": 23125274,
-            "bytes_end": 23125734,
+            "bytes_start": 23155685,
+            "bytes_end": 23156145,
             "output_file": "masterdata/311_ProfileEmblemPassiveSkill.json",
             "preview": [
                 {
@@ -5933,8 +5933,8 @@
             "type": "ProfileFrameData[]",
             "kind": "array",
             "count": 305,
-            "bytes_start": 23125734,
-            "bytes_end": 23178705,
+            "bytes_start": 23156145,
+            "bytes_end": 23209116,
             "output_file": "masterdata/312_ProfileFrame.json",
             "preview": [
                 {
@@ -5955,8 +5955,8 @@
             "type": "ProfileFrameResourceRelationCharacterData[]",
             "kind": "array",
             "count": 256,
-            "bytes_start": 23178705,
-            "bytes_end": 23186389,
+            "bytes_start": 23209116,
+            "bytes_end": 23216800,
             "output_file": "masterdata/313_ProfileFrameResourceRelationCharacter.json",
             "preview": [
                 {
@@ -5972,9 +5972,9 @@
             "manager_field": "ProfileIcon",
             "type": "ProfileIconData[]",
             "kind": "array",
-            "count": 1038,
-            "bytes_start": 23186389,
-            "bytes_end": 23284447,
+            "count": 1040,
+            "bytes_start": 23216800,
+            "bytes_end": 23315050,
             "output_file": "masterdata/314_ProfileIcon.json",
             "preview": [
                 {
@@ -5995,8 +5995,8 @@
             "type": "ProfileIconFrameData[]",
             "kind": "array",
             "count": 332,
-            "bytes_start": 23284447,
-            "bytes_end": 23316357,
+            "bytes_start": 23315050,
+            "bytes_end": 23346960,
             "output_file": "masterdata/315_ProfileIconFrame.json",
             "preview": [
                 {
@@ -6013,8 +6013,8 @@
             "type": "PvpExBattleResultPointData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 23316357,
-            "bytes_end": 23316409,
+            "bytes_start": 23346960,
+            "bytes_end": 23347012,
             "output_file": "masterdata/316_PvpExBattleResultPoint.json",
             "preview": [
                 {
@@ -6030,8 +6030,8 @@
             "type": "PvpExComboBonusData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 23316409,
-            "bytes_end": 23316485,
+            "bytes_start": 23347012,
+            "bytes_end": 23347088,
             "output_file": "masterdata/317_PvpExComboBonus.json",
             "preview": [
                 {
@@ -6047,8 +6047,8 @@
             "type": "PvpExDailyRewardData[]",
             "kind": "array",
             "count": 34,
-            "bytes_start": 23316485,
-            "bytes_end": 23317033,
+            "bytes_start": 23347088,
+            "bytes_end": 23347636,
             "output_file": "masterdata/318_PvpExDailyReward.json",
             "preview": [
                 {
@@ -6065,8 +6065,8 @@
             "type": "PvpExDailyRewardDetailData[]",
             "kind": "array",
             "count": 94,
-            "bytes_start": 23317033,
-            "bytes_end": 23318917,
+            "bytes_start": 23347636,
+            "bytes_end": 23349520,
             "output_file": "masterdata/319_PvpExDailyRewardDetail.json",
             "preview": [
                 {
@@ -6084,8 +6084,8 @@
             "type": "PvpExRecoverChallengeCountData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 23318917,
-            "bytes_end": 23318969,
+            "bytes_start": 23349520,
+            "bytes_end": 23349572,
             "output_file": "masterdata/320_PvpExRecoverChallengeCount.json",
             "preview": [
                 {
@@ -6102,8 +6102,8 @@
             "type": "PvpExScheduleData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 23318969,
-            "bytes_end": 23319089,
+            "bytes_start": 23349572,
+            "bytes_end": 23349692,
             "output_file": "masterdata/321_PvpExSchedule.json",
             "preview": [
                 {
@@ -6118,8 +6118,8 @@
             "type": "PvpExWeeklyRewardData[]",
             "kind": "array",
             "count": 34,
-            "bytes_start": 23319089,
-            "bytes_end": 23319637,
+            "bytes_start": 23349692,
+            "bytes_end": 23350240,
             "output_file": "masterdata/322_PvpExWeeklyReward.json",
             "preview": [
                 {
@@ -6136,8 +6136,8 @@
             "type": "PvpExWeeklyRewardDetailData[]",
             "kind": "array",
             "count": 92,
-            "bytes_start": 23319637,
-            "bytes_end": 23321481,
+            "bytes_start": 23350240,
+            "bytes_end": 23352084,
             "output_file": "masterdata/323_PvpExWeeklyRewardDetail.json",
             "preview": [
                 {
@@ -6155,8 +6155,8 @@
             "type": "PvpRankingRewardData[]",
             "kind": "array",
             "count": 156,
-            "bytes_start": 23321481,
-            "bytes_end": 23324605,
+            "bytes_start": 23352084,
+            "bytes_end": 23355208,
             "output_file": "masterdata/324_PvpRankingReward.json",
             "preview": [
                 {
@@ -6174,8 +6174,8 @@
             "type": "PvpRankingRewardGroupData[]",
             "kind": "array",
             "count": 52,
-            "bytes_start": 23324605,
-            "bytes_end": 23325441,
+            "bytes_start": 23355208,
+            "bytes_end": 23356044,
             "output_file": "masterdata/325_PvpRankingRewardGroup.json",
             "preview": [
                 {
@@ -6192,8 +6192,8 @@
             "type": "PvpRankingRewardScheduleData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 23325441,
-            "bytes_end": 23325561,
+            "bytes_start": 23356044,
+            "bytes_end": 23356164,
             "output_file": "masterdata/326_PvpRankingRewardSchedule.json",
             "preview": [
                 {
@@ -6210,8 +6210,8 @@
             "type": "PvpRecoverChallengeCountData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 23325561,
-            "bytes_end": 23325725,
+            "bytes_start": 23356164,
+            "bytes_end": 23356328,
             "output_file": "masterdata/327_PvpRecoverChallengeCount.json",
             "preview": [
                 {
@@ -6228,8 +6228,8 @@
             "type": "RaidClearRewardData[]",
             "kind": "array",
             "count": 4245,
-            "bytes_start": 23325725,
-            "bytes_end": 23419119,
+            "bytes_start": 23356328,
+            "bytes_end": 23449722,
             "output_file": "masterdata/328_RaidClearReward.json",
             "preview": [
                 {
@@ -6249,8 +6249,8 @@
             "type": "RaidCostumeBonusDetailData[]",
             "kind": "array",
             "count": 418,
-            "bytes_start": 23419119,
-            "bytes_end": 23424139,
+            "bytes_start": 23449722,
+            "bytes_end": 23454742,
             "output_file": "masterdata/329_RaidCostumeBonusDetail.json",
             "preview": [
                 {
@@ -6266,8 +6266,8 @@
             "type": "RaidCostumeBonusGroupData[]",
             "kind": "array",
             "count": 405,
-            "bytes_start": 23424139,
-            "bytes_end": 23483451,
+            "bytes_start": 23454742,
+            "bytes_end": 23514054,
             "output_file": "masterdata/330_RaidCostumeBonusGroup.json",
             "preview": [
                 {
@@ -6287,8 +6287,8 @@
             "type": "RaidEncoreEventData[]",
             "kind": "array",
             "count": 24,
-            "bytes_start": 23483451,
-            "bytes_end": 23487977,
+            "bytes_start": 23514054,
+            "bytes_end": 23518580,
             "output_file": "masterdata/331_RaidEncoreEvent.json",
             "preview": [
                 {
@@ -6313,8 +6313,8 @@
             "type": "RaidEncoreEventClearRewardData[]",
             "kind": "array",
             "count": 1848,
-            "bytes_start": 23487977,
-            "bytes_end": 23524941,
+            "bytes_start": 23518580,
+            "bytes_end": 23555544,
             "output_file": "masterdata/332_RaidEncoreEventClearReward.json",
             "preview": [
                 {
@@ -6332,8 +6332,8 @@
             "type": "RaidEncoreEventDifficultyConditionData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 23524941,
-            "bytes_end": 23524961,
+            "bytes_start": 23555544,
+            "bytes_end": 23555564,
             "output_file": "masterdata/333_RaidEncoreEventDifficultyCondition.json",
             "preview": [
                 {
@@ -6350,8 +6350,8 @@
             "type": "RaidEncoreEventQuestData[]",
             "kind": "array",
             "count": 480,
-            "bytes_start": 23524961,
-            "bytes_end": 23540901,
+            "bytes_start": 23555564,
+            "bytes_end": 23571504,
             "output_file": "masterdata/334_RaidEncoreEventQuest.json",
             "preview": [
                 {
@@ -6370,8 +6370,8 @@
             "type": "RaidEncoreEventQuestGroupDifficultyData[]",
             "kind": "array",
             "count": 48,
-            "bytes_start": 23540901,
-            "bytes_end": 23541673,
+            "bytes_start": 23571504,
+            "bytes_end": 23572276,
             "output_file": "masterdata/335_RaidEncoreEventQuestGroupDifficulty.json",
             "preview": [
                 {
@@ -6388,8 +6388,8 @@
             "type": "RaidEncoreEventTipsData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 23541673,
-            "bytes_end": 23541807,
+            "bytes_start": 23572276,
+            "bytes_end": 23572410,
             "output_file": "masterdata/336_RaidEncoreEventTips.json",
             "preview": [
                 {
@@ -6405,8 +6405,8 @@
             "type": "RaidEncoreEventTipsPageData[]",
             "kind": "array",
             "count": 7,
-            "bytes_start": 23541807,
-            "bytes_end": 23541923,
+            "bytes_start": 23572410,
+            "bytes_end": 23572526,
             "output_file": "masterdata/337_RaidEncoreEventTipsPage.json",
             "preview": [
                 {
@@ -6423,8 +6423,8 @@
             "type": "RaidEncoreEventTotalPointData[]",
             "kind": "array",
             "count": 732,
-            "bytes_start": 23541923,
-            "bytes_end": 23550711,
+            "bytes_start": 23572526,
+            "bytes_end": 23581314,
             "output_file": "masterdata/338_RaidEncoreEventTotalPoint.json",
             "preview": [
                 {
@@ -6440,8 +6440,8 @@
             "type": "RaidEncoreEventTotalPointRewardData[]",
             "kind": "array",
             "count": 1611,
-            "bytes_start": 23550711,
-            "bytes_end": 23584546,
+            "bytes_start": 23581314,
+            "bytes_end": 23615149,
             "output_file": "masterdata/339_RaidEncoreEventTotalPointReward.json",
             "preview": [
                 {
@@ -6460,8 +6460,8 @@
             "type": "RaidEventData[]",
             "kind": "array",
             "count": 28,
-            "bytes_start": 23584546,
-            "bytes_end": 23593966,
+            "bytes_start": 23615149,
+            "bytes_end": 23624569,
             "output_file": "masterdata/340_RaidEvent.json",
             "preview": [
                 {
@@ -6490,8 +6490,8 @@
             "type": "RaidEventAddCountData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 23593966,
-            "bytes_end": 23594098,
+            "bytes_start": 23624569,
+            "bytes_end": 23624701,
             "output_file": "masterdata/341_RaidEventAddCount.json",
             "preview": [
                 {
@@ -6508,8 +6508,8 @@
             "type": "RaidEventChallengeCountBuySettingData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 23594098,
-            "bytes_end": 23594230,
+            "bytes_start": 23624701,
+            "bytes_end": 23624833,
             "output_file": "masterdata/342_RaidEventChallengeCountBuySetting.json",
             "preview": [
                 {
@@ -6526,8 +6526,8 @@
             "type": "RaidEventOpenTimeData[]",
             "kind": "array",
             "count": 71,
-            "bytes_start": 23594230,
-            "bytes_end": 23597642,
+            "bytes_start": 23624833,
+            "bytes_end": 23628245,
             "output_file": "masterdata/343_RaidEventOpenTime.json",
             "preview": [
                 {
@@ -6552,8 +6552,8 @@
             "type": "RaidEventQuestData[]",
             "kind": "array",
             "count": 56,
-            "bytes_start": 23597642,
-            "bytes_end": 23598766,
+            "bytes_start": 23628245,
+            "bytes_end": 23629369,
             "output_file": "masterdata/344_RaidEventQuest.json",
             "preview": [
                 {
@@ -6571,8 +6571,8 @@
             "type": "RaidGuildEventData[]",
             "kind": "array",
             "count": 12,
-            "bytes_start": 23598766,
-            "bytes_end": 23601530,
+            "bytes_start": 23629369,
+            "bytes_end": 23632133,
             "output_file": "masterdata/345_RaidGuildEvent.json",
             "preview": [
                 {
@@ -6596,8 +6596,8 @@
             "type": "RaidGuildEventOpenTimeData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 23601530,
-            "bytes_end": 23602398,
+            "bytes_start": 23632133,
+            "bytes_end": 23633001,
             "output_file": "masterdata/346_RaidGuildEventOpenTime.json",
             "preview": [
                 {
@@ -6622,8 +6622,8 @@
             "type": "RaidGuildEventRankingRewardDetailData[]",
             "kind": "array",
             "count": 404,
-            "bytes_start": 23602398,
-            "bytes_end": 23610482,
+            "bytes_start": 23633001,
+            "bytes_end": 23641085,
             "output_file": "masterdata/347_RaidGuildEventRankingRewardDetail.json",
             "preview": [
                 {
@@ -6641,8 +6641,8 @@
             "type": "RaidGuildEventRankingRewardRangeData[]",
             "kind": "array",
             "count": 135,
-            "bytes_start": 23610482,
-            "bytes_end": 23612781,
+            "bytes_start": 23641085,
+            "bytes_end": 23643384,
             "output_file": "masterdata/348_RaidGuildEventRankingRewardRange.json",
             "preview": [
                 {
@@ -6660,8 +6660,8 @@
             "type": "RaidGuildEventRewardDetailData[]",
             "kind": "array",
             "count": 1107,
-            "bytes_start": 23612781,
-            "bytes_end": 23634925,
+            "bytes_start": 23643384,
+            "bytes_end": 23665528,
             "output_file": "masterdata/349_RaidGuildEventRewardDetail.json",
             "preview": [
                 {
@@ -6679,8 +6679,8 @@
             "type": "RaidGuildEventRewardGroupData[]",
             "kind": "array",
             "count": 521,
-            "bytes_start": 23634925,
-            "bytes_end": 23641181,
+            "bytes_start": 23665528,
+            "bytes_end": 23671784,
             "output_file": "masterdata/350_RaidGuildEventRewardGroup.json",
             "preview": [
                 {
@@ -6696,8 +6696,8 @@
             "type": "RaidNpcData[]",
             "kind": "array",
             "count": 22930,
-            "bytes_start": 23641181,
-            "bytes_end": 24573993,
+            "bytes_start": 23671784,
+            "bytes_end": 24604596,
             "output_file": "masterdata/351_RaidNpc.json",
             "preview": [
                 {
@@ -6718,8 +6718,8 @@
             "type": "RaidNpcDeckData[]",
             "kind": "array",
             "count": 5924,
-            "bytes_start": 24573993,
-            "bytes_end": 24597693,
+            "bytes_start": 24604596,
+            "bytes_end": 24628296,
             "output_file": "masterdata/352_RaidNpcDeck.json",
             "preview": [
                 {
@@ -6733,8 +6733,8 @@
             "type": "RaidNpcLevelCorrectionData[]",
             "kind": "array",
             "count": 1000,
-            "bytes_start": 24597693,
-            "bytes_end": 24613697,
+            "bytes_start": 24628296,
+            "bytes_end": 24644300,
             "output_file": "masterdata/353_RaidNpcLevelCorrection.json",
             "preview": [
                 {
@@ -6751,8 +6751,8 @@
             "type": "RaidNpcLevelCorrectionGroupData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 24613697,
-            "bytes_end": 24613741,
+            "bytes_start": 24644300,
+            "bytes_end": 24644344,
             "output_file": "masterdata/354_RaidNpcLevelCorrectionGroup.json",
             "preview": [
                 {
@@ -6766,8 +6766,8 @@
             "type": "RaidNpcSkillData[]",
             "kind": "array",
             "count": 39111,
-            "bytes_start": 24613741,
-            "bytes_end": 25239521,
+            "bytes_start": 24644344,
+            "bytes_end": 25270124,
             "output_file": "masterdata/355_RaidNpcSkill.json",
             "preview": [
                 {
@@ -6784,8 +6784,8 @@
             "type": "RaidNpcSkillGroupData[]",
             "kind": "array",
             "count": 19682,
-            "bytes_start": 25239521,
-            "bytes_end": 25318253,
+            "bytes_start": 25270124,
+            "bytes_end": 25348856,
             "output_file": "masterdata/356_RaidNpcSkillGroup.json",
             "preview": [
                 {
@@ -6799,8 +6799,8 @@
             "type": "RaidNpcUnitData[]",
             "kind": "array",
             "count": 22961,
-            "bytes_start": 25318253,
-            "bytes_end": 25685633,
+            "bytes_start": 25348856,
+            "bytes_end": 25716236,
             "output_file": "masterdata/357_RaidNpcUnit.json",
             "preview": [
                 {
@@ -6817,8 +6817,8 @@
             "type": "RaidQuestData[]",
             "kind": "array",
             "count": 1839,
-            "bytes_start": 25685633,
-            "bytes_end": 25766883,
+            "bytes_start": 25716236,
+            "bytes_end": 25797486,
             "output_file": "masterdata/358_RaidQuest.json",
             "preview": [
                 {
@@ -6835,8 +6835,8 @@
             "type": "RaidQuestLevelCorrectionData[]",
             "kind": "array",
             "count": 400,
-            "bytes_start": 25766883,
-            "bytes_end": 25776487,
+            "bytes_start": 25797486,
+            "bytes_end": 25807090,
             "output_file": "masterdata/359_RaidQuestLevelCorrection.json",
             "preview": [
                 {
@@ -6855,8 +6855,8 @@
             "type": "RaidQuestLevelCorrectionGroupData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 25776487,
-            "bytes_end": 25776507,
+            "bytes_start": 25807090,
+            "bytes_end": 25807110,
             "output_file": "masterdata/360_RaidQuestLevelCorrectionGroup.json",
             "preview": [
                 {
@@ -6870,8 +6870,8 @@
             "type": "RaidQuestSettingData[]",
             "kind": "array",
             "count": 619,
-            "bytes_start": 25776507,
-            "bytes_end": 25808699,
+            "bytes_start": 25807110,
+            "bytes_end": 25839302,
             "output_file": "masterdata/361_RaidQuestSetting.json",
             "preview": [
                 {
@@ -6897,8 +6897,8 @@
             "type": "RaidRandomRewardData[]",
             "kind": "array",
             "count": 4263,
-            "bytes_start": 25808699,
-            "bytes_end": 25893963,
+            "bytes_start": 25839302,
+            "bytes_end": 25924566,
             "output_file": "masterdata/362_RaidRandomReward.json",
             "preview": [
                 {
@@ -6916,8 +6916,8 @@
             "type": "RaidRandomRewardGroupData[]",
             "kind": "array",
             "count": 974,
-            "bytes_start": 25893963,
-            "bytes_end": 25901759,
+            "bytes_start": 25924566,
+            "bytes_end": 25932362,
             "output_file": "masterdata/363_RaidRandomRewardGroup.json",
             "preview": [
                 {
@@ -6932,8 +6932,8 @@
             "type": "RaidRankingEventData[]",
             "kind": "array",
             "count": 31,
-            "bytes_start": 25901759,
-            "bytes_end": 25911073,
+            "bytes_start": 25932362,
+            "bytes_end": 25941676,
             "output_file": "masterdata/364_RaidRankingEvent.json",
             "preview": [
                 {
@@ -6959,8 +6959,8 @@
             "type": "RaidRankingEventAddCountData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 25911073,
-            "bytes_end": 25911237,
+            "bytes_start": 25941676,
+            "bytes_end": 25941840,
             "output_file": "masterdata/365_RaidRankingEventAddCount.json",
             "preview": [
                 {
@@ -6977,8 +6977,8 @@
             "type": "RaidRankingEventBestCharacterData[]",
             "kind": "array",
             "count": 426,
-            "bytes_start": 25911237,
-            "bytes_end": 25916779,
+            "bytes_start": 25941840,
+            "bytes_end": 25947382,
             "output_file": "masterdata/366_RaidRankingEventBestCharacter.json",
             "preview": [
                 {
@@ -6995,8 +6995,8 @@
             "type": "RaidRankingEventBestCharacterRankingRewardData[]",
             "kind": "array",
             "count": 46474,
-            "bytes_start": 25916779,
-            "bytes_end": 27450425,
+            "bytes_start": 25947382,
+            "bytes_end": 27481028,
             "output_file": "masterdata/367_RaidRankingEventBestCharacterRankingReward.json",
             "preview": [
                 {
@@ -7018,8 +7018,8 @@
             "type": "RaidRankingEventChallengeCountBuySettingData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 27450425,
-            "bytes_end": 27450589,
+            "bytes_start": 27481028,
+            "bytes_end": 27481192,
             "output_file": "masterdata/368_RaidRankingEventChallengeCountBuySetting.json",
             "preview": [
                 {
@@ -7035,8 +7035,8 @@
             "manager_field": "RaidRankingEventOpenTime",
             "type": "RaidRankingEventOpenTimeData[]",
             "kind": "array",
-            "bytes_start": 27450589,
-            "bytes_end": 27450593,
+            "bytes_start": 27481192,
+            "bytes_end": 27481196,
             "output_file": "masterdata/369_RaidRankingEventOpenTime.json"
         },
         {
@@ -7045,8 +7045,8 @@
             "type": "RaidRankingEventOverallPointData[]",
             "kind": "array",
             "count": 1645,
-            "bytes_start": 27450593,
-            "bytes_end": 27470337,
+            "bytes_start": 27481196,
+            "bytes_end": 27500940,
             "output_file": "masterdata/370_RaidRankingEventOverallPoint.json",
             "preview": [
                 {
@@ -7062,8 +7062,8 @@
             "type": "RaidRankingEventOverallPointRewardData[]",
             "kind": "array",
             "count": 5622,
-            "bytes_start": 27470337,
-            "bytes_end": 27588403,
+            "bytes_start": 27500940,
+            "bytes_end": 27619006,
             "output_file": "masterdata/371_RaidRankingEventOverallPointReward.json",
             "preview": [
                 {
@@ -7082,8 +7082,8 @@
             "type": "RaidRankingEventOverallRankingRewardData[]",
             "kind": "array",
             "count": 4134,
-            "bytes_start": 27588403,
-            "bytes_end": 27724829,
+            "bytes_start": 27619006,
+            "bytes_end": 27755432,
             "output_file": "masterdata/372_RaidRankingEventOverallRankingReward.json",
             "preview": [
                 {
@@ -7105,8 +7105,8 @@
             "type": "RaidRankingEventPresentBonusData[]",
             "kind": "array",
             "count": 12,
-            "bytes_start": 27724829,
-            "bytes_end": 27725169,
+            "bytes_start": 27755432,
+            "bytes_end": 27755772,
             "output_file": "masterdata/373_RaidRankingEventPresentBonus.json",
             "preview": [
                 {
@@ -7126,8 +7126,8 @@
             "type": "RaidRankingEventTermData[]",
             "kind": "array",
             "count": 62,
-            "bytes_start": 27725169,
-            "bytes_end": 27737635,
+            "bytes_start": 27755772,
+            "bytes_end": 27768238,
             "output_file": "masterdata/374_RaidRankingEventTerm.json",
             "preview": [
                 {
@@ -7157,8 +7157,8 @@
             "type": "RaidRankingEventTermQuestData[]",
             "kind": "array",
             "count": 62,
-            "bytes_start": 27737635,
-            "bytes_end": 27738631,
+            "bytes_start": 27768238,
+            "bytes_end": 27769234,
             "output_file": "masterdata/375_RaidRankingEventTermQuest.json",
             "preview": [
                 {
@@ -7175,8 +7175,8 @@
             "type": "RaidRankingReccomendData[]",
             "kind": "array",
             "count": 426,
-            "bytes_start": 27738631,
-            "bytes_end": 27744173,
+            "bytes_start": 27769234,
+            "bytes_end": 27774776,
             "output_file": "masterdata/376_RaidRankingReccomend.json",
             "preview": [
                 {
@@ -7193,8 +7193,8 @@
             "type": "RaidRankingRewardReccomendData[]",
             "kind": "array",
             "count": 46474,
-            "bytes_start": 27744173,
-            "bytes_end": 29231345,
+            "bytes_start": 27774776,
+            "bytes_end": 29261948,
             "output_file": "masterdata/377_RaidRankingRewardReccomend.json",
             "preview": [
                 {
@@ -7215,8 +7215,8 @@
             "type": "RaidRankingRewardTotalData[]",
             "kind": "array",
             "count": 4134,
-            "bytes_start": 29231345,
-            "bytes_end": 29363637,
+            "bytes_start": 29261948,
+            "bytes_end": 29394240,
             "output_file": "masterdata/378_RaidRankingRewardTotal.json",
             "preview": [
                 {
@@ -7237,8 +7237,8 @@
             "type": "RaidRegularData[]",
             "kind": "array",
             "count": 1,
-            "bytes_start": 29363637,
-            "bytes_end": 29363663,
+            "bytes_start": 29394240,
+            "bytes_end": 29394266,
             "output_file": "masterdata/379_RaidRegular.json",
             "preview": [
                 {
@@ -7254,8 +7254,8 @@
             "type": "RaidRegularOpenTimeData[]",
             "kind": "array",
             "count": 2,
-            "bytes_start": 29363663,
-            "bytes_end": 29363707,
+            "bytes_start": 29394266,
+            "bytes_end": 29394310,
             "output_file": "masterdata/380_RaidRegularOpenTime.json",
             "preview": [
                 {
@@ -7273,8 +7273,8 @@
             "type": "RaidScoreRewardItemData[]",
             "kind": "array",
             "count": 540,
-            "bytes_start": 29363707,
-            "bytes_end": 29374511,
+            "bytes_start": 29394310,
+            "bytes_end": 29405114,
             "output_file": "masterdata/381_RaidScoreRewardItem.json",
             "preview": [
                 {
@@ -7292,8 +7292,8 @@
             "type": "RaidScoreRewardSettingData[]",
             "kind": "array",
             "count": 760,
-            "bytes_start": 29374511,
-            "bytes_end": 29389715,
+            "bytes_start": 29405114,
+            "bytes_end": 29420318,
             "output_file": "masterdata/382_RaidScoreRewardSetting.json",
             "preview": [
                 {
@@ -7311,8 +7311,8 @@
             "type": "RainbowFragmentData[]",
             "kind": "array",
             "count": 15,
-            "bytes_start": 29389715,
-            "bytes_end": 29389899,
+            "bytes_start": 29420318,
+            "bytes_end": 29420502,
             "output_file": "masterdata/383_RainbowFragment.json",
             "preview": [
                 {
@@ -7328,8 +7328,8 @@
             "type": "RedeemItemData[]",
             "kind": "array",
             "count": 138,
-            "bytes_start": 29389899,
-            "bytes_end": 29392663,
+            "bytes_start": 29420502,
+            "bytes_end": 29423266,
             "output_file": "masterdata/384_RedeemItem.json",
             "preview": [
                 {
@@ -7347,8 +7347,8 @@
             "type": "RemakeEquipmentSettingData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 29392663,
-            "bytes_end": 29392763,
+            "bytes_start": 29423266,
+            "bytes_end": 29423366,
             "output_file": "masterdata/385_RemakeEquipmentSetting.json",
             "preview": [
                 {
@@ -7367,8 +7367,8 @@
             "type": "ResolveBattleMusicAccessoryData[]",
             "kind": "array",
             "count": 432,
-            "bytes_start": 29392763,
-            "bytes_end": 29397951,
+            "bytes_start": 29423366,
+            "bytes_end": 29428554,
             "output_file": "masterdata/386_ResolveBattleMusicAccessory.json",
             "preview": [
                 {
@@ -7384,8 +7384,8 @@
             "type": "Dictionary\u003cPathType, ResourcePathsData\u003e",
             "kind": "dictionary",
             "count": 208,
-            "bytes_start": 29397951,
-            "bytes_end": 29421143,
+            "bytes_start": 29428554,
+            "bytes_end": 29451746,
             "output_file": "masterdata/387_ResourcePaths.json",
             "preview": [
                 {
@@ -7404,8 +7404,8 @@
             "type": "ShopEquipmentFragmentExchangeRateData[]",
             "kind": "array",
             "count": 238,
-            "bytes_start": 29421143,
-            "bytes_end": 29438417,
+            "bytes_start": 29451746,
+            "bytes_end": 29469020,
             "output_file": "masterdata/388_ShopEquipmentFragmentExchangeRate.json",
             "preview": [
                 {
@@ -7426,8 +7426,8 @@
             "type": "ShopVipArticleData[]",
             "kind": "array",
             "count": 262,
-            "bytes_start": 29438417,
-            "bytes_end": 29455723,
+            "bytes_start": 29469020,
+            "bytes_end": 29486326,
             "output_file": "masterdata/389_ShopVipArticle.json",
             "preview": [
                 {
@@ -7449,8 +7449,8 @@
             "type": "Dictionary\u003cBgmType, SoundBgmData\u003e",
             "kind": "dictionary",
             "count": 7,
-            "bytes_start": 29455723,
-            "bytes_end": 29455895,
+            "bytes_start": 29486326,
+            "bytes_end": 29486498,
             "output_file": "masterdata/390_SoundBgm.json",
             "preview": [
                 {
@@ -7469,8 +7469,8 @@
             "type": "Dictionary\u003cSeType, SoundSeData\u003e",
             "kind": "dictionary",
             "count": 124,
-            "bytes_start": 29455895,
-            "bytes_end": 29458627,
+            "bytes_start": 29486498,
+            "bytes_end": 29489230,
             "output_file": "masterdata/391_SoundSe.json",
             "preview": [
                 {
@@ -7489,8 +7489,8 @@
             "type": "SoundVoiceData[]",
             "kind": "array",
             "count": 71,
-            "bytes_start": 29458627,
-            "bytes_end": 29460071,
+            "bytes_start": 29489230,
+            "bytes_end": 29490674,
             "output_file": "masterdata/392_SoundVoice.json",
             "preview": [
                 {
@@ -7505,8 +7505,8 @@
             "type": "StageResourceData[]",
             "kind": "array",
             "count": 6,
-            "bytes_start": 29460071,
-            "bytes_end": 29460345,
+            "bytes_start": 29490674,
+            "bytes_end": 29490948,
             "output_file": "masterdata/393_StageResource.json",
             "preview": [
                 {
@@ -7522,8 +7522,8 @@
             "type": "StageUpPassData[]",
             "kind": "array",
             "count": 476,
-            "bytes_start": 29460345,
-            "bytes_end": 29555263,
+            "bytes_start": 29490948,
+            "bytes_end": 29585866,
             "output_file": "masterdata/394_StageUpPass.json",
             "preview": [
                 {
@@ -7538,9 +7538,9 @@
             "manager_field": "SubUnit",
             "type": "SubUnitData[]",
             "kind": "array",
-            "count": 344,
-            "bytes_start": 29555263,
-            "bytes_end": 29564899,
+            "count": 346,
+            "bytes_start": 29585866,
+            "bytes_end": 29595558,
             "output_file": "masterdata/395_SubUnit.json",
             "preview": [
                 {
@@ -7559,9 +7559,9 @@
             "manager_field": "SubUnitAvatar",
             "type": "SubUnitAvatarData[]",
             "kind": "array",
-            "count": 974,
-            "bytes_start": 29564899,
-            "bytes_end": 29700813,
+            "count": 976,
+            "bytes_start": 29595558,
+            "bytes_end": 29731736,
             "output_file": "masterdata/396_SubUnitAvatar.json",
             "preview": [
                 {
@@ -7589,8 +7589,8 @@
             "type": "SubUnitMemoriaData[]",
             "kind": "array",
             "count": 255,
-            "bytes_start": 29700813,
-            "bytes_end": 29734687,
+            "bytes_start": 29731736,
+            "bytes_end": 29765610,
             "output_file": "masterdata/397_SubUnitMemoria.json",
             "preview": [
                 {
@@ -7613,8 +7613,8 @@
             "type": "SubUnitMemoriaAwakeningEffectSettingData[]",
             "kind": "array",
             "count": 100,
-            "bytes_start": 29734687,
-            "bytes_end": 29736291,
+            "bytes_start": 29765610,
+            "bytes_end": 29767214,
             "output_file": "masterdata/398_SubUnitMemoriaAwakeningEffectSetting.json",
             "preview": [
                 {
@@ -7631,8 +7631,8 @@
             "type": "SubUnitMemoriaAwakeningSettingData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 29736291,
-            "bytes_end": 29736631,
+            "bytes_start": 29767214,
+            "bytes_end": 29767554,
             "output_file": "masterdata/399_SubUnitMemoriaAwakeningSetting.json",
             "preview": [
                 {
@@ -7651,8 +7651,8 @@
             "type": "SubUnitMemoriaBaseParameterData[]",
             "kind": "array",
             "count": 1020,
-            "bytes_start": 29736631,
-            "bytes_end": 29761115,
+            "bytes_start": 29767554,
+            "bytes_end": 29792038,
             "output_file": "masterdata/400_SubUnitMemoriaBaseParameter.json",
             "preview": [
                 {
@@ -7671,8 +7671,8 @@
             "type": "SubUnitMemoriaBattleParameterData[]",
             "kind": "array",
             "count": 255,
-            "bytes_start": 29761115,
-            "bytes_end": 29767239,
+            "bytes_start": 29792038,
+            "bytes_end": 29798162,
             "output_file": "masterdata/401_SubUnitMemoriaBattleParameter.json",
             "preview": [
                 {
@@ -7691,8 +7691,8 @@
             "type": "SubUnitMemoriaGrowthGroupSettingData[]",
             "kind": "array",
             "count": 43,
-            "bytes_start": 29767239,
-            "bytes_end": 29768275,
+            "bytes_start": 29798162,
+            "bytes_end": 29799198,
             "output_file": "masterdata/402_SubUnitMemoriaGrowthGroupSetting.json",
             "preview": [
                 {
@@ -7711,8 +7711,8 @@
             "type": "SubUnitMemoriaLevelUpBonusData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 29768275,
-            "bytes_end": 29768567,
+            "bytes_start": 29799198,
+            "bytes_end": 29799490,
             "output_file": "masterdata/403_SubUnitMemoriaLevelUpBonus.json",
             "preview": [
                 {
@@ -7729,8 +7729,8 @@
             "type": "SubUnitMemoriaLevelUpBonusEffectData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 29768567,
-            "bytes_end": 29768787,
+            "bytes_start": 29799490,
+            "bytes_end": 29799710,
             "output_file": "masterdata/404_SubUnitMemoriaLevelUpBonusEffect.json",
             "preview": [
                 {
@@ -7746,8 +7746,8 @@
             "type": "SubUnitMemoriaLevelUpBonusLimitData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 29768787,
-            "bytes_end": 29768827,
+            "bytes_start": 29799710,
+            "bytes_end": 29799750,
             "output_file": "masterdata/405_SubUnitMemoriaLevelUpBonusLimit.json",
             "preview": [
                 {
@@ -7763,8 +7763,8 @@
             "type": "SubUnitMemoriaLevelUpItemSettingData[]",
             "kind": "array",
             "count": 59,
-            "bytes_start": 29768827,
-            "bytes_end": 29770011,
+            "bytes_start": 29799750,
+            "bytes_end": 29800934,
             "output_file": "masterdata/406_SubUnitMemoriaLevelUpItemSetting.json",
             "preview": [
                 {
@@ -7782,8 +7782,8 @@
             "type": "SubUnitMemoriaPhotoGroupData[]",
             "kind": "array",
             "count": 255,
-            "bytes_start": 29770011,
-            "bytes_end": 29773075,
+            "bytes_start": 29800934,
+            "bytes_end": 29803998,
             "output_file": "masterdata/407_SubUnitMemoriaPhotoGroup.json",
             "preview": [
                 {
@@ -7799,8 +7799,8 @@
             "type": "SubUnitMemoriaRarityRelationData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 29773075,
-            "bytes_end": 29773115,
+            "bytes_start": 29803998,
+            "bytes_end": 29804038,
             "output_file": "masterdata/408_SubUnitMemoriaRarityRelation.json",
             "preview": [
                 {
@@ -7816,8 +7816,8 @@
             "type": "SubUnitMemoriaSkillData[]",
             "kind": "array",
             "count": 1592,
-            "bytes_start": 29773115,
-            "bytes_end": 29811327,
+            "bytes_start": 29804038,
+            "bytes_end": 29842250,
             "output_file": "masterdata/409_SubUnitMemoriaSkill.json",
             "preview": [
                 {
@@ -7835,8 +7835,8 @@
             "type": "SubUnitMemoriaSkillGroupData[]",
             "kind": "array",
             "count": 682,
-            "bytes_start": 29811327,
-            "bytes_end": 29822243,
+            "bytes_start": 29842250,
+            "bytes_end": 29853166,
             "output_file": "masterdata/410_SubUnitMemoriaSkillGroup.json",
             "preview": [
                 {
@@ -7852,9 +7852,9 @@
             "manager_field": "SubUnitMission",
             "type": "SubUnitMissionData[]",
             "kind": "array",
-            "count": 11179,
-            "bytes_start": 29822243,
-            "bytes_end": 30891921,
+            "count": 11245,
+            "bytes_start": 29853166,
+            "bytes_end": 30929160,
             "output_file": "masterdata/411_SubUnitMission.json",
             "preview": [
                 {
@@ -7872,9 +7872,9 @@
             "manager_field": "SubUnitMissionCondition",
             "type": "SubUnitMissionConditionData[]",
             "kind": "array",
-            "count": 11179,
-            "bytes_start": 30891921,
-            "bytes_end": 31070789,
+            "count": 11245,
+            "bytes_start": 30929160,
+            "bytes_end": 31109084,
             "output_file": "masterdata/412_SubUnitMissionCondition.json",
             "preview": [
                 {
@@ -7890,9 +7890,9 @@
             "manager_field": "SubUnitMissionItemReward",
             "type": "SubUnitMissionItemRewardData[]",
             "kind": "array",
-            "count": 29394,
-            "bytes_start": 31070789,
-            "bytes_end": 31776249,
+            "count": 29564,
+            "bytes_start": 31109084,
+            "bytes_end": 31818624,
             "output_file": "masterdata/413_SubUnitMissionItemReward.json",
             "preview": [
                 {
@@ -7910,8 +7910,8 @@
             "manager_field": "SubUnitMissionUnitParameterReward",
             "type": "SubUnitMissionUnitParameterRewardData[]",
             "kind": "array",
-            "bytes_start": 31776249,
-            "bytes_end": 31776253,
+            "bytes_start": 31818624,
+            "bytes_end": 31818628,
             "output_file": "masterdata/414_SubUnitMissionUnitParameterReward.json"
         },
         {
@@ -7919,9 +7919,9 @@
             "manager_field": "SubUnitOpenRewardGroup",
             "type": "SubUnitOpenRewardGroupData[]",
             "kind": "array",
-            "count": 3470,
-            "bytes_start": 31776253,
-            "bytes_end": 31831777,
+            "count": 3480,
+            "bytes_start": 31818628,
+            "bytes_end": 31874312,
             "output_file": "masterdata/415_SubUnitOpenRewardGroup.json",
             "preview": [
                 {
@@ -7937,9 +7937,9 @@
             "manager_field": "SubUnitSkill",
             "type": "SubUnitSkillData[]",
             "kind": "array",
-            "count": 1948,
-            "bytes_start": 31831777,
-            "bytes_end": 31870741,
+            "count": 1952,
+            "bytes_start": 31874312,
+            "bytes_end": 31913356,
             "output_file": "masterdata/416_SubUnitSkill.json",
             "preview": [
                 {
@@ -7956,8 +7956,8 @@
             "type": "SwitchBgmData[]",
             "kind": "array",
             "count": 86,
-            "bytes_start": 31870741,
-            "bytes_end": 31891277,
+            "bytes_start": 31913356,
+            "bytes_end": 31933892,
             "output_file": "masterdata/417_SwitchBgm.json",
             "preview": [
                 {
@@ -7980,8 +7980,8 @@
             "type": "TitleSwitchScheduleData[]",
             "kind": "array",
             "count": 10,
-            "bytes_start": 31891277,
-            "bytes_end": 31892885,
+            "bytes_start": 31933892,
+            "bytes_end": 31935500,
             "output_file": "masterdata/418_TitleSwitchSchedule.json",
             "preview": [
                 {
@@ -7998,8 +7998,8 @@
             "type": "TitleTopCharacterData[]",
             "kind": "array",
             "count": 220,
-            "bytes_start": 31892885,
-            "bytes_end": 31927429,
+            "bytes_start": 31935500,
+            "bytes_end": 31970044,
             "output_file": "masterdata/419_TitleTopCharacter.json",
             "preview": [
                 {
@@ -8020,8 +8020,8 @@
             "type": "TowerData[]",
             "kind": "array",
             "count": 272,
-            "bytes_start": 31927429,
-            "bytes_end": 31983333,
+            "bytes_start": 31970044,
+            "bytes_end": 32025948,
             "output_file": "masterdata/420_Tower.json",
             "preview": [
                 {
@@ -8048,8 +8048,8 @@
             "type": "TowerChallengeCountBuySettingData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 31983333,
-            "bytes_end": 31983465,
+            "bytes_start": 32025948,
+            "bytes_end": 32026080,
             "output_file": "masterdata/421_TowerChallengeCountBuySetting.json",
             "preview": [
                 {
@@ -8066,8 +8066,8 @@
             "type": "TowerLevelCorrectionData[]",
             "kind": "array",
             "count": 800,
-            "bytes_start": 31983465,
-            "bytes_end": 32002669,
+            "bytes_start": 32026080,
+            "bytes_end": 32045284,
             "output_file": "masterdata/422_TowerLevelCorrection.json",
             "preview": [
                 {
@@ -8086,8 +8086,8 @@
             "type": "TowerLevelCorrectionGroupData[]",
             "kind": "array",
             "count": 8,
-            "bytes_start": 32002669,
-            "bytes_end": 32002705,
+            "bytes_start": 32045284,
+            "bytes_end": 32045320,
             "output_file": "masterdata/423_TowerLevelCorrectionGroup.json",
             "preview": [
                 {
@@ -8101,8 +8101,8 @@
             "type": "TowerStageData[]",
             "kind": "array",
             "count": 4627,
-            "bytes_start": 32002705,
-            "bytes_end": 32457207,
+            "bytes_start": 32045320,
+            "bytes_end": 32499822,
             "output_file": "masterdata/424_TowerStage.json",
             "preview": [
                 {
@@ -8132,8 +8132,8 @@
             "type": "TowerStageRewardDetailData[]",
             "kind": "array",
             "count": 12517,
-            "bytes_start": 32457207,
-            "bytes_end": 32732585,
+            "bytes_start": 32499822,
+            "bytes_end": 32775200,
             "output_file": "masterdata/425_TowerStageRewardDetail.json",
             "preview": [
                 {
@@ -8153,8 +8153,8 @@
             "type": "TowerStageRewardGroupData[]",
             "kind": "array",
             "count": 4533,
-            "bytes_start": 32732585,
-            "bytes_end": 32750721,
+            "bytes_start": 32775200,
+            "bytes_end": 32793336,
             "output_file": "masterdata/426_TowerStageRewardGroup.json",
             "preview": [
                 {
@@ -8168,8 +8168,8 @@
             "type": "TreasureBoxConditionsData[]",
             "kind": "array",
             "count": 5,
-            "bytes_start": 32750721,
-            "bytes_end": 32750825,
+            "bytes_start": 32793336,
+            "bytes_end": 32793440,
             "output_file": "masterdata/427_TreasureBoxConditions.json",
             "preview": [
                 {
@@ -8187,8 +8187,8 @@
             "type": "TreasureBoxLotteryData[]",
             "kind": "array",
             "count": 3198,
-            "bytes_start": 32750825,
-            "bytes_end": 32840373,
+            "bytes_start": 32793440,
+            "bytes_end": 32882988,
             "output_file": "masterdata/428_TreasureBoxLottery.json",
             "preview": [
                 {
@@ -8208,8 +8208,8 @@
             "type": "TreasureBoxLotteryExData[]",
             "kind": "array",
             "count": 101,
-            "bytes_start": 32840373,
-            "bytes_end": 32843205,
+            "bytes_start": 32882988,
+            "bytes_end": 32885820,
             "output_file": "masterdata/429_TreasureBoxLotteryEx.json",
             "preview": [
                 {
@@ -8228,9 +8228,9 @@
             "manager_field": "TreasureBoxSelect",
             "type": "TreasureBoxSelectData[]",
             "kind": "array",
-            "count": 27102,
-            "bytes_start": 32843205,
-            "bytes_end": 33385249,
+            "count": 27644,
+            "bytes_start": 32885820,
+            "bytes_end": 33438704,
             "output_file": "masterdata/430_TreasureBoxSelect.json",
             "preview": [
                 {
@@ -8248,8 +8248,8 @@
             "type": "TutorialAdvData[]",
             "kind": "array",
             "count": 41,
-            "bytes_start": 33385249,
-            "bytes_end": 33386647,
+            "bytes_start": 33438704,
+            "bytes_end": 33440102,
             "output_file": "masterdata/431_TutorialAdv.json",
             "preview": [
                 {
@@ -8265,8 +8265,8 @@
             "type": "TutorialAfterSignupData[]",
             "kind": "array",
             "count": 51,
-            "bytes_start": 33386647,
-            "bytes_end": 33392567,
+            "bytes_start": 33440102,
+            "bytes_end": 33446022,
             "output_file": "masterdata/432_TutorialAfterSignup.json",
             "preview": [
                 {
@@ -8283,8 +8283,8 @@
             "type": "TutorialDialogData[]",
             "kind": "array",
             "count": 42,
-            "bytes_start": 33392567,
-            "bytes_end": 33400655,
+            "bytes_start": 33446022,
+            "bytes_end": 33454110,
             "output_file": "masterdata/433_TutorialDialog.json",
             "preview": [
                 {
@@ -8301,8 +8301,8 @@
             "type": "TutorialLogPassingPointData[]",
             "kind": "array",
             "count": 18,
-            "bytes_start": 33400655,
-            "bytes_end": 33400803,
+            "bytes_start": 33454110,
+            "bytes_end": 33454258,
             "output_file": "masterdata/434_TutorialLogPassingPoint.json",
             "preview": [
                 {
@@ -8317,8 +8317,8 @@
             "type": "TutorialMessageData[]",
             "kind": "array",
             "count": 26,
-            "bytes_start": 33400803,
-            "bytes_end": 33403375,
+            "bytes_start": 33454258,
+            "bytes_end": 33456830,
             "output_file": "masterdata/435_TutorialMessage.json",
             "preview": [
                 {
@@ -8335,8 +8335,8 @@
             "type": "TutorialMovieData[]",
             "kind": "array",
             "count": 21,
-            "bytes_start": 33403375,
-            "bytes_end": 33406247,
+            "bytes_start": 33456830,
+            "bytes_end": 33459702,
             "output_file": "masterdata/436_TutorialMovie.json",
             "preview": [
                 {
@@ -8358,8 +8358,8 @@
             "type": "TutorialStepData[]",
             "kind": "array",
             "count": 41,
-            "bytes_start": 33406247,
-            "bytes_end": 33407433,
+            "bytes_start": 33459702,
+            "bytes_end": 33460888,
             "output_file": "masterdata/437_TutorialStep.json",
             "preview": [
                 {
@@ -8378,8 +8378,8 @@
             "type": "TutorialTipsData[]",
             "kind": "array",
             "count": 43,
-            "bytes_start": 33407433,
-            "bytes_end": 33409246,
+            "bytes_start": 33460888,
+            "bytes_end": 33462701,
             "output_file": "masterdata/438_TutorialTips.json",
             "preview": [
                 {
@@ -8398,8 +8398,8 @@
             "type": "TutorialTipsPageData[]",
             "kind": "array",
             "count": 108,
-            "bytes_start": 33409246,
-            "bytes_end": 33410978,
+            "bytes_start": 33462701,
+            "bytes_end": 33464433,
             "output_file": "masterdata/439_TutorialTipsPage.json",
             "preview": [
                 {
@@ -8415,9 +8415,9 @@
             "manager_field": "UnitCampaignMission",
             "type": "UnitCampaignMissionData[]",
             "kind": "array",
-            "count": 6170,
-            "bytes_start": 33410978,
-            "bytes_end": 33509702,
+            "count": 6190,
+            "bytes_start": 33464433,
+            "bytes_end": 33563477,
             "output_file": "masterdata/440_UnitCampaignMission.json",
             "preview": [
                 {
@@ -8433,9 +8433,9 @@
             "manager_field": "UnitCampaignMissionGroup",
             "type": "UnitCampaignMissionGroupData[]",
             "kind": "array",
-            "count": 5270,
-            "bytes_start": 33509702,
-            "bytes_end": 33812204,
+            "count": 5290,
+            "bytes_start": 33563477,
+            "bytes_end": 33867127,
             "output_file": "masterdata/441_UnitCampaignMissionGroup.json",
             "preview": [
                 {
@@ -8454,9 +8454,9 @@
             "manager_field": "UnitCampaignMissionMember",
             "type": "UnitCampaignMissionMemberData[]",
             "kind": "array",
-            "count": 617,
-            "bytes_start": 33812204,
-            "bytes_end": 33819612,
+            "count": 619,
+            "bytes_start": 33867127,
+            "bytes_end": 33874559,
             "output_file": "masterdata/442_UnitCampaignMissionMember.json",
             "preview": [
                 {
@@ -8471,9 +8471,9 @@
             "manager_field": "UnitCampaignMissionSchedule",
             "type": "UnitCampaignMissionScheduleData[]",
             "kind": "array",
-            "count": 527,
-            "bytes_start": 33819612,
-            "bytes_end": 33825940,
+            "count": 529,
+            "bytes_start": 33874559,
+            "bytes_end": 33880911,
             "output_file": "masterdata/443_UnitCampaignMissionSchedule.json",
             "preview": [
                 {
@@ -8489,8 +8489,8 @@
             "type": "UnitTrainingData[]",
             "kind": "array",
             "count": 4,
-            "bytes_start": 33825940,
-            "bytes_end": 33826158,
+            "bytes_start": 33880911,
+            "bytes_end": 33881129,
             "output_file": "masterdata/444_UnitTraining.json",
             "preview": [
                 {
@@ -8512,8 +8512,8 @@
             "type": "UnitTrainingEffectData[]",
             "kind": "array",
             "count": 750,
-            "bytes_start": 33826158,
-            "bytes_end": 33841162,
+            "bytes_start": 33881129,
+            "bytes_end": 33896133,
             "output_file": "masterdata/445_UnitTrainingEffect.json",
             "preview": [
                 {
@@ -8531,8 +8531,8 @@
             "type": "UnitTrainingEffectGroupData[]",
             "kind": "array",
             "count": 235,
-            "bytes_start": 33841162,
-            "bytes_end": 33844926,
+            "bytes_start": 33896133,
+            "bytes_end": 33899897,
             "output_file": "masterdata/446_UnitTrainingEffectGroup.json",
             "preview": [
                 {
@@ -8549,8 +8549,8 @@
             "type": "UnitTrainingItemData[]",
             "kind": "array",
             "count": 69,
-            "bytes_start": 33844926,
-            "bytes_end": 33846034,
+            "bytes_start": 33899897,
+            "bytes_end": 33901005,
             "output_file": "masterdata/447_UnitTrainingItem.json",
             "preview": [
                 {
@@ -8567,8 +8567,8 @@
             "type": "UniversalData[]",
             "kind": "array",
             "count": 87,
-            "bytes_start": 33846034,
-            "bytes_end": 33847517,
+            "bytes_start": 33901005,
+            "bytes_end": 33902488,
             "output_file": "masterdata/448_Universal.json",
             "preview": [
                 {
@@ -8585,8 +8585,8 @@
             "type": "UrlSchemeCampaignData[]",
             "kind": "array",
             "count": 54,
-            "bytes_start": 33847517,
-            "bytes_end": 33856177,
+            "bytes_start": 33902488,
+            "bytes_end": 33911148,
             "output_file": "masterdata/449_UrlSchemeCampaign.json",
             "preview": [
                 {
@@ -8603,8 +8603,8 @@
             "type": "UrlSchemeCampaignRewardData[]",
             "kind": "array",
             "count": 54,
-            "bytes_start": 33856177,
-            "bytes_end": 33857261,
+            "bytes_start": 33911148,
+            "bytes_end": 33912232,
             "output_file": "masterdata/450_UrlSchemeCampaignReward.json",
             "preview": [
                 {
@@ -8622,8 +8622,8 @@
             "type": "UsefulMovieData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 33857261,
-            "bytes_end": 33857811,
+            "bytes_start": 33912232,
+            "bytes_end": 33912782,
             "output_file": "masterdata/451_UsefulMovie.json",
             "preview": [
                 {
@@ -8642,8 +8642,8 @@
             "type": "ViewCoinData[]",
             "kind": "array",
             "count": 14,
-            "bytes_start": 33857811,
-            "bytes_end": 33858691,
+            "bytes_start": 33912782,
+            "bytes_end": 33913662,
             "output_file": "masterdata/452_ViewCoin.json",
             "preview": [
                 {
@@ -8661,8 +8661,8 @@
             "type": "ViewOtherData[]",
             "kind": "array",
             "count": 11,
-            "bytes_start": 33858691,
-            "bytes_end": 33859403,
+            "bytes_start": 33913662,
+            "bytes_end": 33914374,
             "output_file": "masterdata/453_ViewOther.json",
             "preview": [
                 {
@@ -8680,8 +8680,8 @@
             "type": "VipBonusData[]",
             "kind": "array",
             "count": 77,
-            "bytes_start": 33859403,
-            "bytes_end": 33860639,
+            "bytes_start": 33914374,
+            "bytes_end": 33915610,
             "output_file": "masterdata/454_VipBonus.json",
             "preview": [
                 {
@@ -8698,8 +8698,8 @@
             "type": "VipLevelData[]",
             "kind": "array",
             "count": 13,
-            "bytes_start": 33860639,
-            "bytes_end": 33861553,
+            "bytes_start": 33915610,
+            "bytes_end": 33916524,
             "output_file": "masterdata/455_VipLevel.json",
             "preview": [
                 {
@@ -8716,8 +8716,8 @@
             "type": "VipLevelRewardData[]",
             "kind": "array",
             "count": 37,
-            "bytes_start": 33861553,
-            "bytes_end": 33862297,
+            "bytes_start": 33916524,
+            "bytes_end": 33917268,
             "output_file": "masterdata/456_VipLevelReward.json",
             "preview": [
                 {
@@ -8735,8 +8735,8 @@
             "type": "VipLoginBonusData[]",
             "kind": "array",
             "count": 52,
-            "bytes_start": 33862297,
-            "bytes_end": 33863341,
+            "bytes_start": 33917268,
+            "bytes_end": 33918312,
             "output_file": "masterdata/457_VipLoginBonus.json",
             "preview": [
                 {
@@ -8754,8 +8754,8 @@
             "type": "VoiceData[]",
             "kind": "array",
             "count": 6602,
-            "bytes_start": 33863341,
-            "bytes_end": 34953371,
+            "bytes_start": 33918312,
+            "bytes_end": 35008342,
             "output_file": "masterdata/458_Voice.json",
             "preview": [
                 {
@@ -8776,8 +8776,8 @@
             "type": "VoiceConditionData[]",
             "kind": "array",
             "count": 35,
-            "bytes_start": 34953371,
-            "bytes_end": 34954553,
+            "bytes_start": 35008342,
+            "bytes_end": 35009524,
             "output_file": "masterdata/459_VoiceCondition.json",
             "preview": [
                 {
@@ -8797,8 +8797,8 @@
             "type": "VoiceEvolutionData[]",
             "kind": "array",
             "count": 64,
-            "bytes_start": 34954553,
-            "bytes_end": 34960057,
+            "bytes_start": 35009524,
+            "bytes_end": 35015028,
             "output_file": "masterdata/460_VoiceEvolution.json",
             "preview": [
                 {
@@ -8815,8 +8815,8 @@
             "type": "VoiceHomeData[]",
             "kind": "array",
             "count": 25,
-            "bytes_start": 34960057,
-            "bytes_end": 34964129,
+            "bytes_start": 35015028,
+            "bytes_end": 35019100,
             "output_file": "masterdata/461_VoiceHome.json",
             "preview": [
                 {
@@ -8836,8 +8836,8 @@
             "type": "VoiceLoginData[]",
             "kind": "array",
             "count": 3,
-            "bytes_start": 34964129,
-            "bytes_end": 34964265,
+            "bytes_start": 35019100,
+            "bytes_end": 35019236,
             "output_file": "masterdata/462_VoiceLogin.json",
             "preview": [
                 {
@@ -8854,8 +8854,8 @@
             "type": "VoiceSettingData[]",
             "kind": "array",
             "count": 329,
-            "bytes_start": 34964265,
-            "bytes_end": 34966901,
+            "bytes_start": 35019236,
+            "bytes_end": 35021872,
             "output_file": "masterdata/463_VoiceSetting.json",
             "preview": [
                 {
@@ -8870,8 +8870,8 @@
             "type": "WorldData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 34966901,
-            "bytes_end": 34968229,
+            "bytes_start": 35021872,
+            "bytes_end": 35023200,
             "output_file": "masterdata/464_World.json",
             "preview": [
                 {
@@ -8888,8 +8888,8 @@
             "type": "WorldGroupData[]",
             "kind": "array",
             "count": 40,
-            "bytes_start": 34968229,
-            "bytes_end": 34969415,
+            "bytes_start": 35023200,
+            "bytes_end": 35024386,
             "output_file": "masterdata/465_WorldGroup.json",
             "preview": [
                 {
@@ -8904,8 +8904,8 @@
             "type": "WorldGroupAssignmentData[]",
             "kind": "array",
             "count": 584,
-            "bytes_start": 34969415,
-            "bytes_end": 34978763,
+            "bytes_start": 35024386,
+            "bytes_end": 35033734,
             "output_file": "masterdata/466_WorldGroupAssignment.json",
             "preview": [
                 {

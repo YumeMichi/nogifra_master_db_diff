@@ -10780,6 +10780,20 @@
         "TransitionType": 4
     },
     {
+        "EndAt": "2026-06-25T16:59:59+09:00",
+        "EventLiveDemoId": 0,
+        "FileName": "",
+        "HomeAvatarAppealMovieId": 155103061,
+        "HomeMovieId": 0,
+        "Id": 155103061,
+        "Param1": "",
+        "Param2": "",
+        "Priority": 100,
+        "StartAt": "2026-06-22T17:00:00+09:00",
+        "TipsId": 0,
+        "TransitionType": 4
+    },
+    {
         "EndAt": "2023-09-07T16:59:59+09:00",
         "EventLiveDemoId": 0,
         "FileName": "",
@@ -11728,6 +11742,20 @@
         "Param2": "",
         "Priority": 100,
         "StartAt": "2025-07-31T17:00:00+09:00",
+        "TipsId": 0,
+        "TransitionType": 4
+    },
+    {
+        "EndAt": "2026-06-22T16:59:59+09:00",
+        "EventLiveDemoId": 0,
+        "FileName": "",
+        "HomeAvatarAppealMovieId": 161303061,
+        "HomeMovieId": 0,
+        "Id": 161303061,
+        "Param1": "",
+        "Param2": "",
+        "Priority": 100,
+        "StartAt": "2026-06-18T17:00:00+09:00",
         "TipsId": 0,
         "TransitionType": 4
     },

@@ -30766,5 +30766,125 @@
         "MemoriaSkillId": 10901,
         "ScheduleId": 510,
         "SubUnitAvatarId": 175101051
+    },
+    {
+        "Id": 51101,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 161303061
+    },
+    {
+        "Id": 51102,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 161303061
+    },
+    {
+        "Id": 51103,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 126301061
+    },
+    {
+        "Id": 51104,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 126301061
+    },
+    {
+        "Id": 51105,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 143201061
+    },
+    {
+        "Id": 51106,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 143201061
+    },
+    {
+        "Id": 51107,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 168301051
+    },
+    {
+        "Id": 51108,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 168301051
+    },
+    {
+        "Id": 51109,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 170201051
+    },
+    {
+        "Id": 51110,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 511,
+        "SubUnitAvatarId": 170201051
+    },
+    {
+        "Id": 51201,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 155103061
+    },
+    {
+        "Id": 51202,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 155103061
+    },
+    {
+        "Id": 51203,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 127102061
+    },
+    {
+        "Id": 51204,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 127102061
+    },
+    {
+        "Id": 51205,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 153201061
+    },
+    {
+        "Id": 51206,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 153201061
+    },
+    {
+        "Id": 51207,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 149101051
+    },
+    {
+        "Id": 51208,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 149101051
+    },
+    {
+        "Id": 51209,
+        "MemoriaSkillId": 10801,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 172101051
+    },
+    {
+        "Id": 51210,
+        "MemoriaSkillId": 10901,
+        "ScheduleId": 512,
+        "SubUnitAvatarId": 172101051
     }
 ]

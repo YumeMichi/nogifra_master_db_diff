@@ -8892,6 +8892,18 @@
         "SubUnitAvatarId": 155102061
     },
     {
+        "BattleSkillId": 1551030611,
+        "BreakthroughCount": 0,
+        "Id": 1551030611,
+        "SubUnitAvatarId": 155103061
+    },
+    {
+        "BattleSkillId": 1551030612,
+        "BreakthroughCount": 2,
+        "Id": 1551030612,
+        "SubUnitAvatarId": 155103061
+    },
+    {
         "BattleSkillId": 1552010411,
         "BreakthroughCount": 0,
         "Id": 1552010411,
@@ -10402,6 +10414,18 @@
         "BreakthroughCount": 2,
         "Id": 1613020612,
         "SubUnitAvatarId": 161302061
+    },
+    {
+        "BattleSkillId": 1613030611,
+        "BreakthroughCount": 0,
+        "Id": 1613030611,
+        "SubUnitAvatarId": 161303061
+    },
+    {
+        "BattleSkillId": 1613030612,
+        "BreakthroughCount": 2,
+        "Id": 1613030612,
+        "SubUnitAvatarId": 161303061
     },
     {
         "BattleSkillId": 1621010411,

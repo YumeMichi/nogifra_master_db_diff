@@ -14728,6 +14728,20 @@
         "VoiceConditionValue": 2
     },
     {
+        "CategoryType": 1,
+        "Id": 1551030611,
+        "Name": "アイドルってやっぱり素敵な職業だ！",
+        "ThumbnailId": 1551031,
+        "VoiceConditionValue": 1
+    },
+    {
+        "CategoryType": 1,
+        "Id": 1551030612,
+        "Name": "愛される勇気と覚悟をもったアイドルに",
+        "ThumbnailId": 1551032,
+        "VoiceConditionValue": 2
+    },
+    {
         "CategoryType": 2,
         "Id": 1552010411,
         "Name": "てれさパワー注入☆",
@@ -16293,6 +16307,20 @@
         "Id": 1613020612,
         "Name": "一歩一歩。",
         "ThumbnailId": 1613022,
+        "VoiceConditionValue": 2
+    },
+    {
+        "CategoryType": 3,
+        "Id": 1613030611,
+        "Name": "エチュード",
+        "ThumbnailId": 1613031,
+        "VoiceConditionValue": 1
+    },
+    {
+        "CategoryType": 3,
+        "Id": 1613030612,
+        "Name": "透明少女",
+        "ThumbnailId": 1613032,
         "VoiceConditionValue": 2
     },
     {

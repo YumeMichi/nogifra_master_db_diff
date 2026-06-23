@@ -7812,6 +7812,16 @@
     {
         "Description": "プロフィールにて設定出来るプロフィールアイコンです。",
         "IconType": 2,
+        "Id": 155103061,
+        "IsAvatarIcon": true,
+        "Phonetic": "いけだ てれさ",
+        "Price": 2000,
+        "ReferenceId": 155103061,
+        "ResourceId": 155103061
+    },
+    {
+        "Description": "プロフィールにて設定出来るプロフィールアイコンです。",
+        "IconType": 2,
         "Id": 155201041,
         "IsAvatarIcon": true,
         "Phonetic": "いけだ てれさ",
@@ -9138,6 +9148,16 @@
         "Price": 2000,
         "ReferenceId": 161302061,
         "ResourceId": 161302061
+    },
+    {
+        "Description": "プロフィールにて設定出来るプロフィールアイコンです。",
+        "IconType": 2,
+        "Id": 161303061,
+        "IsAvatarIcon": true,
+        "Phonetic": "かわさき さくら",
+        "Price": 2000,
+        "ReferenceId": 161303061,
+        "ResourceId": 161303061
     },
     {
         "Description": "プロフィールにて設定出来るプロフィールアイコンです。",

@@ -23881,6 +23881,32 @@
         "ThumbnailId": "155102061_AvatarMovie_LrMovie_4"
     },
     {
+        "Description": "[Monopoly]池田瑛紗のダンスムービー",
+        "EyecatchId": 0,
+        "Id": 155103061,
+        "IsSettableHome": true,
+        "MovieType": 1,
+        "Name": "[Monopoly]池田瑛紗",
+        "Number": "",
+        "Path": "Movies/AvatarMovie/155103061/155103061_AvatarMovie_Long.usm",
+        "StartAt": "2026-06-22T17:00:00+09:00",
+        "TargetId": 155,
+        "ThumbnailId": "155103061_AvatarMovie"
+    },
+    {
+        "Description": "池田瑛紗のアイキャッチムービー",
+        "EyecatchId": 11,
+        "Id": 155103062,
+        "IsSettableHome": true,
+        "MovieType": 1,
+        "Name": "[アイキャッチ]池田瑛紗・知ってるよ",
+        "Number": "",
+        "Path": "Movies/AvatarMovie/155103061/155103061_AvatarMovie_LrMovie_11.usm",
+        "StartAt": "2026-06-22T17:00:00+09:00",
+        "TargetId": 155,
+        "ThumbnailId": "155103061_AvatarMovie_LrMovie_11"
+    },
+    {
         "Description": "[バンドエイド剥がすような別れ方]池田瑛紗のダンスムービー",
         "EyecatchId": 0,
         "Id": 155201051,
@@ -25686,6 +25712,32 @@
         "StartAt": "2025-07-31T17:00:00+09:00",
         "TargetId": 161,
         "ThumbnailId": "161302061_AvatarMovie_LrMovie_6"
+    },
+    {
+        "Description": "[歩道橋]川﨑桜のダンスムービー",
+        "EyecatchId": 0,
+        "Id": 161303061,
+        "IsSettableHome": true,
+        "MovieType": 1,
+        "Name": "[歩道橋]川﨑桜",
+        "Number": "",
+        "Path": "Movies/AvatarMovie/161303061/161303061_AvatarMovie_Long.usm",
+        "StartAt": "2026-06-18T17:00:00+09:00",
+        "TargetId": 161,
+        "ThumbnailId": "161303061_AvatarMovie"
+    },
+    {
+        "Description": "川﨑桜のアイキャッチムービー",
+        "EyecatchId": 8,
+        "Id": 161303062,
+        "IsSettableHome": true,
+        "MovieType": 1,
+        "Name": "[アイキャッチ]川﨑桜・絶対できる",
+        "Number": "",
+        "Path": "Movies/AvatarMovie/161303061/161303061_AvatarMovie_LrMovie_8.usm",
+        "StartAt": "2026-06-18T17:00:00+09:00",
+        "TargetId": 161,
+        "ThumbnailId": "161303061_AvatarMovie_LrMovie_8"
     },
     {
         "Description": "[インフルエンサー]菅原咲月のダンスムービー",

@@ -36151,6 +36151,156 @@
     },
     {
         "AddType": 1,
+        "EquipmentId": 155110340,
+        "Id": 15510301,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.08
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 155110640,
+        "Id": 15510302,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.09
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155110640,
+        "Id": 15510303,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 19,
+        "TargetSubUnitId": 155103,
+        "Value": 95
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 155110940,
+        "Id": 15510304,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.1
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155110940,
+        "Id": 15510305,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 19,
+        "TargetSubUnitId": 155103,
+        "Value": 125
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155110940,
+        "Id": 15510306,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 155103,
+        "Value": 95
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 155111240,
+        "Id": 15510307,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.12
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111240,
+        "Id": 15510308,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 19,
+        "TargetSubUnitId": 155103,
+        "Value": 160
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111240,
+        "Id": 15510309,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 155103,
+        "Value": 125
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 155111350,
+        "Id": 15510310,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.14
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111350,
+        "Id": 15510311,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 19,
+        "TargetSubUnitId": 155103,
+        "Value": 210
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111350,
+        "Id": 15510312,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 155103,
+        "Value": 160
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 155111460,
+        "Id": 15510313,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 155103,
+        "Value": 0.18
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111460,
+        "Id": 15510314,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 19,
+        "TargetSubUnitId": 155103,
+        "Value": 280
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 155111460,
+        "Id": 15510315,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 155103,
+        "Value": 240
+    },
+    {
+        "AddType": 1,
         "EquipmentId": 155210340,
         "Id": 15520101,
         "TargetMainUnitId": 0,
@@ -44547,6 +44697,156 @@
         "TargetMainUnitType": 0,
         "TargetParameter": 4,
         "TargetSubUnitId": 161302,
+        "Value": 180
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161310340,
+        "Id": 16130301,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.1
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161310640,
+        "Id": 16130302,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.11
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161310640,
+        "Id": 16130303,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 10,
+        "TargetSubUnitId": 161303,
+        "Value": 55
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161310940,
+        "Id": 16130304,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.12
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161310940,
+        "Id": 16130305,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 10,
+        "TargetSubUnitId": 161303,
+        "Value": 75
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161310940,
+        "Id": 16130306,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 161303,
+        "Value": 70
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161311240,
+        "Id": 16130307,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.14
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311240,
+        "Id": 16130308,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 10,
+        "TargetSubUnitId": 161303,
+        "Value": 95
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311240,
+        "Id": 16130309,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 161303,
+        "Value": 90
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161311350,
+        "Id": 16130310,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.16
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311350,
+        "Id": 16130311,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 10,
+        "TargetSubUnitId": 161303,
+        "Value": 125
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311350,
+        "Id": 16130312,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 161303,
+        "Value": 120
+    },
+    {
+        "AddType": 1,
+        "EquipmentId": 161311460,
+        "Id": 16130313,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 7,
+        "TargetSubUnitId": 161303,
+        "Value": 0.18
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311460,
+        "Id": 16130314,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 10,
+        "TargetSubUnitId": 161303,
+        "Value": 180
+    },
+    {
+        "AddType": 2,
+        "EquipmentId": 161311460,
+        "Id": 16130315,
+        "TargetMainUnitId": 0,
+        "TargetMainUnitType": 0,
+        "TargetParameter": 4,
+        "TargetSubUnitId": 161303,
         "Value": 180
     },
     {

@@ -12529,6 +12529,23 @@
         "WearableSubUnitId": 155102
     },
     {
+        "DefaultCostumeId": 311302,
+        "DefaultHairId": 155001,
+        "GrowthRate": 2.2,
+        "Id": 155103061,
+        "InGamePhotoId": 15510301,
+        "Index": 1,
+        "Name": "池田瑛紗",
+        "OpenRewardGroupId": 155103061,
+        "ProfileUsePrice": 0,
+        "Rarity": 6,
+        "RequiredFragment": 280,
+        "StartAt": "2026-06-22T17:00:00+09:00",
+        "Title": "[Monopoly]",
+        "VoiceSettingId": 155101,
+        "WearableSubUnitId": 155103
+    },
+    {
         "DefaultCostumeId": 300105,
         "DefaultHairId": 155001,
         "GrowthRate": 1.45,
@@ -14669,6 +14686,23 @@
         "Title": "[チャンスは平等]",
         "VoiceSettingId": 161301,
         "WearableSubUnitId": 161302
+    },
+    {
+        "DefaultCostumeId": 312101,
+        "DefaultHairId": 161001,
+        "GrowthRate": 2.2,
+        "Id": 161303061,
+        "InGamePhotoId": 16130301,
+        "Index": 1,
+        "Name": "川﨑桜",
+        "OpenRewardGroupId": 161303061,
+        "ProfileUsePrice": 0,
+        "Rarity": 6,
+        "RequiredFragment": 280,
+        "StartAt": "2026-06-18T17:00:00+09:00",
+        "Title": "[歩道橋]",
+        "VoiceSettingId": 161301,
+        "WearableSubUnitId": 161303
     },
     {
         "DefaultCostumeId": 300604,

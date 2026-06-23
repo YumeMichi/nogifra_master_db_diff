@@ -4500,6 +4500,24 @@
         "ThemeId": 4000101
     },
     {
+        "Description": "真夏の全国ツアー2026記念のTシャツ【神奈川】（IN）",
+        "ExchangeItemQuantity": 50,
+        "Id": 400081,
+        "Name": "真夏の全国ツアー2026記念Tシャツ【神奈川】1",
+        "Priority": 173000014,
+        "StartAt": "2026-06-18T17:00:00+09:00",
+        "ThemeId": 4000101
+    },
+    {
+        "Description": "真夏の全国ツアー2026記念のTシャツ【神奈川】（OUT）",
+        "ExchangeItemQuantity": 50,
+        "Id": 400082,
+        "Name": "真夏の全国ツアー2026記念Tシャツ【神奈川】2",
+        "Priority": 173000013,
+        "StartAt": "2026-06-18T17:00:00+09:00",
+        "ThemeId": 4000101
+    },
+    {
         "Description": "秋元真夏2022年生誕記念のTシャツ（IN）",
         "ExchangeItemQuantity": 50,
         "Id": 410101,

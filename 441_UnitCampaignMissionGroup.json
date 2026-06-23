@@ -34201,6 +34201,96 @@
     },
     {
         "AchievedCount": 1,
+        "Id": 1551031101,
+        "ScheduleId": 15510311,
+        "SortOrder": 100,
+        "Title": "オリジナルコーデRank.40を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1551031102,
+        "ScheduleId": 15510311,
+        "SortOrder": 101,
+        "Title": "オリジナルコーデRank.60を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1551031103,
+        "ScheduleId": 15510311,
+        "SortOrder": 102,
+        "Title": "オリジナルコーデRank.80を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1551031104,
+        "ScheduleId": 15510311,
+        "SortOrder": 103,
+        "Title": "覚醒数を1にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 2,
+        "Id": 1551031105,
+        "ScheduleId": 15510311,
+        "SortOrder": 104,
+        "Title": "覚醒数を2にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 3,
+        "Id": 1551031106,
+        "ScheduleId": 15510311,
+        "SortOrder": 105,
+        "Title": "覚醒数を3にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 4,
+        "Id": 1551031107,
+        "ScheduleId": 15510311,
+        "SortOrder": 106,
+        "Title": "覚醒数を4にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 100,
+        "Id": 1551031108,
+        "ScheduleId": 15510311,
+        "SortOrder": 107,
+        "Title": "トレーニングを100回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 300,
+        "Id": 1551031109,
+        "ScheduleId": 15510311,
+        "SortOrder": 108,
+        "Title": "トレーニングを300回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 500,
+        "Id": 1551031110,
+        "ScheduleId": 15510311,
+        "SortOrder": 109,
+        "Title": "トレーニングを500回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
         "Id": 1552011101,
         "ScheduleId": 15520111,
         "SortOrder": 100,
@@ -42114,6 +42204,96 @@
         "AchievedCount": 500,
         "Id": 1613022110,
         "ScheduleId": 16130221,
+        "SortOrder": 109,
+        "Title": "トレーニングを500回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1613031101,
+        "ScheduleId": 16130311,
+        "SortOrder": 100,
+        "Title": "オリジナルコーデRank.40を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1613031102,
+        "ScheduleId": 16130311,
+        "SortOrder": 101,
+        "Title": "オリジナルコーデRank.60を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1613031103,
+        "ScheduleId": 16130311,
+        "SortOrder": 102,
+        "Title": "オリジナルコーデRank.80を入手しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 1,
+        "Id": 1613031104,
+        "ScheduleId": 16130311,
+        "SortOrder": 103,
+        "Title": "覚醒数を1にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 2,
+        "Id": 1613031105,
+        "ScheduleId": 16130311,
+        "SortOrder": 104,
+        "Title": "覚醒数を2にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 3,
+        "Id": 1613031106,
+        "ScheduleId": 16130311,
+        "SortOrder": 105,
+        "Title": "覚醒数を3にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 4,
+        "Id": 1613031107,
+        "ScheduleId": 16130311,
+        "SortOrder": 106,
+        "Title": "覚醒数を4にしよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 100,
+        "Id": 1613031108,
+        "ScheduleId": 16130311,
+        "SortOrder": 107,
+        "Title": "トレーニングを100回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 300,
+        "Id": 1613031109,
+        "ScheduleId": 16130311,
+        "SortOrder": 108,
+        "Title": "トレーニングを300回実行しよう",
+        "TransitionOptionId": 0,
+        "TransitionType": 13
+    },
+    {
+        "AchievedCount": 500,
+        "Id": 1613031110,
+        "ScheduleId": 16130311,
         "SortOrder": 109,
         "Title": "トレーニングを500回実行しよう",
         "TransitionOptionId": 0,

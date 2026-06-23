@@ -10730,6 +10730,16 @@
         "StartAt": "2025-06-30T17:00:00+09:00"
     },
     {
+        "Description": "[Monopoly]池田瑛紗入手でもらえる称号です",
+        "EmblemType": 2,
+        "Id": 15531603,
+        "LinkedCharacterId": 155,
+        "Name": "【称号】[Monopoly]池田瑛紗",
+        "Phonetic": "しょうごう ものぽりー いけだてれさ",
+        "ResourceId": 15531603,
+        "StartAt": "2026-06-22T17:00:00+09:00"
+    },
+    {
         "Description": "[Sing Out！]池田瑛紗入手でもらえる称号です",
         "EmblemType": 2,
         "Id": 15532401,
@@ -10908,6 +10918,16 @@
         "Phonetic": "しょうごう いけだてれさ10",
         "ResourceId": 15540008,
         "StartAt": "2025-07-09T17:00:00+09:00"
+    },
+    {
+        "Description": "育成ミッションで入手",
+        "EmblemType": 2,
+        "Id": 15540009,
+        "LinkedCharacterId": 155,
+        "Name": "【称号】池田瑛紗11",
+        "Phonetic": "しょうごう いけだてれさ11",
+        "ResourceId": 15540009,
+        "StartAt": "2026-06-22T17:00:00+09:00"
     },
     {
         "Description": "期間限定イベントで入手",
@@ -12490,6 +12510,16 @@
         "StartAt": "2025-07-31T17:00:00+09:00"
     },
     {
+        "Description": "[歩道橋]川﨑桜入手でもらえる称号です",
+        "EmblemType": 2,
+        "Id": 16133603,
+        "LinkedCharacterId": 161,
+        "Name": "【称号】[歩道橋]川﨑桜",
+        "Phonetic": "しょうごう ほどうきょう かわさきさくら",
+        "ResourceId": 16133603,
+        "StartAt": "2026-06-18T17:00:00+09:00"
+    },
+    {
         "Description": "期間限定イベントで入手",
         "EmblemType": 1,
         "Id": 16140001,
@@ -12568,6 +12598,16 @@
         "Phonetic": "しょうごう かわさきさくら10",
         "ResourceId": 16140008,
         "StartAt": "2025-07-09T17:00:00+09:00"
+    },
+    {
+        "Description": "育成ミッションで入手",
+        "EmblemType": 2,
+        "Id": 16140009,
+        "LinkedCharacterId": 161,
+        "Name": "【称号】川﨑桜11",
+        "Phonetic": "しょうごう かわさきさくら11",
+        "ResourceId": 16140009,
+        "StartAt": "2026-06-18T17:00:00+09:00"
     },
     {
         "Description": "期間限定イベントで入手",

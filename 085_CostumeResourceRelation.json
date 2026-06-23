@@ -1104,6 +1104,12 @@
         "ValidateCostumeBoneType": 1
     },
     {
+        "CostumeResourceName": "Cos_80001_01",
+        "Id": 18011186,
+        "MaterialSettingName": "Cos_80001_01_m186",
+        "ValidateCostumeBoneType": 1
+    },
+    {
         "CostumeResourceName": "Cos_80001_02",
         "Id": 18012001,
         "MaterialSettingName": "Cos_80001_02_m001",
@@ -2205,6 +2211,12 @@
         "CostumeResourceName": "Cos_80001_02",
         "Id": 18012185,
         "MaterialSettingName": "Cos_80001_02_m185",
+        "ValidateCostumeBoneType": 1
+    },
+    {
+        "CostumeResourceName": "Cos_80001_02",
+        "Id": 18012186,
+        "MaterialSettingName": "Cos_80001_02_m186",
         "ValidateCostumeBoneType": 1
     },
     {

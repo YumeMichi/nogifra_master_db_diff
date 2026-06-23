@@ -7763,5 +7763,25 @@
         "ArcanumId": 26061004,
         "Id": 26061004,
         "PassiveSkillId": 26061004
+    },
+    {
+        "ArcanumId": 26061701,
+        "Id": 26061701,
+        "PassiveSkillId": 26061701
+    },
+    {
+        "ArcanumId": 26061702,
+        "Id": 26061702,
+        "PassiveSkillId": 26061702
+    },
+    {
+        "ArcanumId": 26061703,
+        "Id": 26061703,
+        "PassiveSkillId": 26061703
+    },
+    {
+        "ArcanumId": 26061704,
+        "Id": 26061704,
+        "PassiveSkillId": 26061704
     }
 ]

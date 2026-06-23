@@ -6781,6 +6781,12 @@
     },
     {
         "ConditionType": 6,
+        "ConditionValue": 155103061,
+        "CountGroupId": 1835517,
+        "Id": 1835517
+    },
+    {
+        "ConditionType": 6,
         "ConditionValue": 155211061,
         "CountGroupId": 1835591,
         "Id": 1835591
@@ -7402,6 +7408,12 @@
         "ConditionValue": 161102061,
         "CountGroupId": 1836119,
         "Id": 1836119
+    },
+    {
+        "ConditionType": 6,
+        "ConditionValue": 161303061,
+        "CountGroupId": 1836120,
+        "Id": 1836120
     },
     {
         "ConditionType": 6,
@@ -28231,6 +28243,54 @@
     },
     {
         "ConditionType": 18,
+        "ConditionValue": 155103,
+        "CountGroupId": 515510311,
+        "Id": 515510311
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 40,
+        "CountGroupId": 515510311,
+        "Id": 515510312
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 155103,
+        "CountGroupId": 515510312,
+        "Id": 515510313
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 60,
+        "CountGroupId": 515510312,
+        "Id": 515510314
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 155103,
+        "CountGroupId": 515510313,
+        "Id": 515510315
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 80,
+        "CountGroupId": 515510313,
+        "Id": 515510316
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 155103,
+        "CountGroupId": 515510314,
+        "Id": 515510317
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 155103,
+        "CountGroupId": 515510315,
+        "Id": 515510318
+    },
+    {
+        "ConditionType": 18,
         "ConditionValue": 155201,
         "CountGroupId": 515520111,
         "Id": 515520111
@@ -32452,6 +32512,54 @@
         "ConditionValue": 161302,
         "CountGroupId": 516130225,
         "Id": 516130228
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 161303,
+        "CountGroupId": 516130311,
+        "Id": 516130311
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 40,
+        "CountGroupId": 516130311,
+        "Id": 516130312
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 161303,
+        "CountGroupId": 516130312,
+        "Id": 516130313
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 60,
+        "CountGroupId": 516130312,
+        "Id": 516130314
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 161303,
+        "CountGroupId": 516130313,
+        "Id": 516130315
+    },
+    {
+        "ConditionType": 3,
+        "ConditionValue": 80,
+        "CountGroupId": 516130313,
+        "Id": 516130316
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 161303,
+        "CountGroupId": 516130314,
+        "Id": 516130317
+    },
+    {
+        "ConditionType": 18,
+        "ConditionValue": 161303,
+        "CountGroupId": 516130315,
+        "Id": 516130318
     },
     {
         "ConditionType": 18,

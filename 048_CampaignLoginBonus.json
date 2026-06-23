@@ -3938,6 +3938,28 @@
         "VoiceLoginId": 0
     },
     {
+        "EndAt": "2026-06-26T04:59:59+09:00",
+        "Id": 2200378,
+        "LoginBonusType": 1,
+        "Name": "真夏の全国ツアー2026～神奈川公演～開催記念ログインボーナス",
+        "Priority": 1120,
+        "ResourceId": 2200378,
+        "StartAt": "2026-06-24T05:00:00+09:00",
+        "ThumbnailId": 2200378,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-06-20T04:59:59+09:00",
+        "Id": 2200385,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-06-19T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
         "EndAt": "2026-06-22T04:59:59+09:00",
         "Id": 2200386,
         "LoginBonusType": 1,
@@ -3946,6 +3968,72 @@
         "ResourceId": 2200285,
         "StartAt": "2026-06-08T17:00:00+09:00",
         "ThumbnailId": 2200285,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-06-27T04:59:59+09:00",
+        "Id": 2200389,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-06-26T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-07-04T04:59:59+09:00",
+        "Id": 2200390,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-07-03T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-07-11T04:59:59+09:00",
+        "Id": 2200391,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-07-10T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-07-18T04:59:59+09:00",
+        "Id": 2200392,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-07-17T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-07-25T04:59:59+09:00",
+        "Id": 2200393,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-07-24T05:00:00+09:00",
+        "ThumbnailId": 2200385,
+        "VoiceLoginId": 0
+    },
+    {
+        "EndAt": "2026-08-01T04:59:59+09:00",
+        "Id": 2200394,
+        "LoginBonusType": 1,
+        "Name": "乃木フラFridayログインボーナス",
+        "Priority": 8000,
+        "ResourceId": 2200385,
+        "StartAt": "2026-07-31T05:00:00+09:00",
+        "ThumbnailId": 2200385,
         "VoiceLoginId": 0
     },
     {

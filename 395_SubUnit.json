@@ -2161,6 +2161,15 @@
     },
     {
         "CharacterId": 155,
+        "Id": 155103,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111155,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 1
+    },
+    {
+        "CharacterId": 155,
         "Id": 155201,
         "LessonGroupId": 1,
         "PriorBreakthroughItemId": 111111155,
@@ -2657,6 +2666,15 @@
     {
         "CharacterId": 161,
         "Id": 161302,
+        "LessonGroupId": 1,
+        "PriorBreakthroughItemId": 111111161,
+        "PriorTargetBreakthroughItemId": 111100009,
+        "ResourceGroupId": 1,
+        "UnitType": 3
+    },
+    {
+        "CharacterId": 161,
+        "Id": 161303,
         "LessonGroupId": 1,
         "PriorBreakthroughItemId": 111111161,
         "PriorTargetBreakthroughItemId": 111100009,

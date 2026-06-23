@@ -130200,6 +130200,134 @@
         "PassiveSkillId": 26061004
     },
     {
+        "Id": 260617011,
+        "LogicType": 1,
+        "Param1": "accuracy",
+        "Param2": "by_level",
+        "Param3": "20",
+        "PassiveSkillId": 26061701
+    },
+    {
+        "Id": 260617012,
+        "LogicType": 1,
+        "Param1": "accuracy",
+        "Param2": "by_level",
+        "Param3": "20",
+        "PassiveSkillId": 26061701
+    },
+    {
+        "Id": 260617013,
+        "LogicType": 1,
+        "Param1": "penetration_spiritual_defense",
+        "Param2": "add",
+        "Param3": "100",
+        "PassiveSkillId": 26061701
+    },
+    {
+        "Id": 260617014,
+        "LogicType": 1,
+        "Param1": "penetration_spiritual_defense",
+        "Param2": "add",
+        "Param3": "100",
+        "PassiveSkillId": 26061701
+    },
+    {
+        "Id": 260617021,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.03",
+        "PassiveSkillId": 26061702
+    },
+    {
+        "Id": 260617022,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.03",
+        "PassiveSkillId": 26061702
+    },
+    {
+        "Id": 260617023,
+        "LogicType": 1,
+        "Param1": "patience",
+        "Param2": "by_level",
+        "Param3": "20",
+        "PassiveSkillId": 26061702
+    },
+    {
+        "Id": 260617024,
+        "LogicType": 1,
+        "Param1": "patience",
+        "Param2": "by_level",
+        "Param3": "20",
+        "PassiveSkillId": 26061702
+    },
+    {
+        "Id": 260617031,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.03",
+        "PassiveSkillId": 26061703
+    },
+    {
+        "Id": 260617032,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.03",
+        "PassiveSkillId": 26061703
+    },
+    {
+        "Id": 260617033,
+        "LogicType": 1,
+        "Param1": "penetration_defense",
+        "Param2": "by_level",
+        "Param3": "1",
+        "PassiveSkillId": 26061703
+    },
+    {
+        "Id": 260617034,
+        "LogicType": 1,
+        "Param1": "penetration_defense",
+        "Param2": "by_level",
+        "Param3": "1",
+        "PassiveSkillId": 26061703
+    },
+    {
+        "Id": 260617041,
+        "LogicType": 1,
+        "Param1": "strength",
+        "Param2": "by_level",
+        "Param3": "30",
+        "PassiveSkillId": 26061704
+    },
+    {
+        "Id": 260617042,
+        "LogicType": 1,
+        "Param1": "strength",
+        "Param2": "by_level",
+        "Param3": "30",
+        "PassiveSkillId": 26061704
+    },
+    {
+        "Id": 260617043,
+        "LogicType": 1,
+        "Param1": "defense",
+        "Param2": "by_level",
+        "Param3": "40",
+        "PassiveSkillId": 26061704
+    },
+    {
+        "Id": 260617044,
+        "LogicType": 1,
+        "Param1": "defense",
+        "Param2": "by_level",
+        "Param3": "40",
+        "PassiveSkillId": 26061704
+    },
+    {
         "Id": 300001011,
         "LogicType": 1,
         "Param1": "max_hp",
@@ -132816,6 +132944,78 @@
         "PassiveSkillId": 154302063
     },
     {
+        "Id": 1551030611,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.44",
+        "PassiveSkillId": 155103061
+    },
+    {
+        "Id": 1551030612,
+        "LogicType": 1,
+        "Param1": "accuracy",
+        "Param2": "by_level",
+        "Param3": "250",
+        "PassiveSkillId": 155103061
+    },
+    {
+        "Id": 1551030613,
+        "LogicType": 1,
+        "Param1": "hp_recovery_rate",
+        "Param2": "add",
+        "Param3": "0.06",
+        "PassiveSkillId": 155103061
+    },
+    {
+        "Id": 1551030621,
+        "LogicType": 1,
+        "Param1": "max_hp",
+        "Param2": "ratio",
+        "Param3": "0.48",
+        "PassiveSkillId": 155103062
+    },
+    {
+        "Id": 1551030622,
+        "LogicType": 1,
+        "Param1": "vitality",
+        "Param2": "by_level",
+        "Param3": "200",
+        "PassiveSkillId": 155103062
+    },
+    {
+        "Id": 1551030623,
+        "LogicType": 5,
+        "Param1": "401105",
+        "Param2": "5",
+        "Param3": "",
+        "PassiveSkillId": 155103062
+    },
+    {
+        "Id": 1551030631,
+        "LogicType": 1,
+        "Param1": "strength",
+        "Param2": "by_level",
+        "Param3": "320",
+        "PassiveSkillId": 155103063
+    },
+    {
+        "Id": 1551030632,
+        "LogicType": 1,
+        "Param1": "reflection_resistance_rate",
+        "Param2": "add",
+        "Param3": "0.3",
+        "PassiveSkillId": 155103063
+    },
+    {
+        "Id": 1551030633,
+        "LogicType": 7,
+        "Param1": "4011",
+        "Param2": "1",
+        "Param3": "10",
+        "PassiveSkillId": 155103063
+    },
+    {
         "Id": 1552020611,
         "LogicType": 1,
         "Param1": "attack",
@@ -133606,6 +133806,86 @@
         "Param2": "3",
         "Param3": "40",
         "PassiveSkillId": 161202063
+    },
+    {
+        "Id": 1613030611,
+        "LogicType": 1,
+        "Param1": "attack",
+        "Param2": "ratio",
+        "Param3": "0.43",
+        "PassiveSkillId": 161303061
+    },
+    {
+        "Id": 1613030612,
+        "LogicType": 1,
+        "Param1": "vitality",
+        "Param2": "by_level",
+        "Param3": "250",
+        "PassiveSkillId": 161303061
+    },
+    {
+        "Id": 1613030613,
+        "LogicType": 6,
+        "Param1": "13001",
+        "Param2": "0.2",
+        "Param3": "",
+        "PassiveSkillId": 161303061
+    },
+    {
+        "Id": 1613030614,
+        "LogicType": 6,
+        "Param1": "12001",
+        "Param2": "0.2",
+        "Param3": "",
+        "PassiveSkillId": 161303061
+    },
+    {
+        "Id": 1613030621,
+        "LogicType": 1,
+        "Param1": "max_hp",
+        "Param2": "ratio",
+        "Param3": "0.42",
+        "PassiveSkillId": 161303062
+    },
+    {
+        "Id": 1613030622,
+        "LogicType": 1,
+        "Param1": "penetration_defense",
+        "Param2": "add",
+        "Param3": "1000",
+        "PassiveSkillId": 161303062
+    },
+    {
+        "Id": 1613030623,
+        "LogicType": 5,
+        "Param1": "101908",
+        "Param2": "5",
+        "Param3": "",
+        "PassiveSkillId": 161303062
+    },
+    {
+        "Id": 1613030631,
+        "LogicType": 1,
+        "Param1": "intelligence",
+        "Param2": "by_level",
+        "Param3": "350",
+        "PassiveSkillId": 161303063
+    },
+    {
+        "Id": 1613030632,
+        "LogicType": 1,
+        "Param1": "accuracy",
+        "Param2": "by_level",
+        "Param3": "180",
+        "PassiveSkillId": 161303063
+    },
+    {
+        "Id": 1613030633,
+        "LogicType": 5,
+        "Param1": "402005",
+        "Param2": "5",
+        "Param3": "",
+        "PassiveSkillId": 161303063
     },
     {
         "Id": 1621020611,
